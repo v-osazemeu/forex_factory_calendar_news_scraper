@@ -33,7 +33,7 @@ The script uses the Chrome WebDriver to interact with the website. Make sure you
 If you don't have the Chrome WebDriver installed, the script will attempt to install it using webdriver_manager. However, it's recommended to install it manually for better control.
 
 ## Running the Scraper:
-The scraper supports multiple usage modes for flexible data collection:
+The scraper supports multiple usage modes for flexible data collection and includes robust retry mechanisms for improved reliability:
 
 ### Default Behavior (Current Month)
 Execute the scraper without any arguments to scrape the current month:
@@ -67,12 +67,38 @@ python3 scraper.py --start "january 2007" --end "december 2007"
 python3 scraper.py --start "Jan 2007" --end "Dec 2007"
 ```
 
+### Retry Configuration
+The scraper includes exponential backoff retry mechanisms. You can customize retry behavior:
+```bash
+# Use custom retry settings
+python3 scraper.py --months this --retries 5 --base-delay 2 --max-delay 120
+
+# High-reliability scraping for important data
+python3 scraper.py --start "jan 2007" --end "jun 2007" --retries 10 --base-delay 3
+```
+
+#### Retry Parameters:
+- `--retries`: Maximum number of retry attempts (default: 3)
+- `--base-delay`: Base delay in seconds for exponential backoff (default: 1)
+- `--max-delay`: Maximum delay in seconds (default: 60)
+
 ### Supported Date Formats
 The scraper accepts flexible month/year formats:
 - Abbreviated months: `jan`, `feb`, `mar`, etc.
 - Full month names: `january`, `february`, `march`, etc.
 - Case insensitive: `Jan`, `JAN`, `january`, `JANUARY` all work
 - Format: `"month year"` (e.g., `"jan 2007"`, `"January 2025"`)
+
+## Features
+
+### Exponential Retry Mechanism
+- **Automatic Recovery**: Handles temporary network issues, rate limiting, and website unavailability
+- **Exponential Backoff**: Progressive delay increases (1s, 2s, 4s, 8s, etc.) with random jitter
+- **Comprehensive Coverage**: Retries page loading, element finding, and data extraction
+- **Statistics Tracking**: Provides detailed success/failure statistics after completion
+- **Configurable**: Customize retry behavior via command line or configuration file
+
+For detailed retry mechanism documentation, see `RETRY_DOCUMENTATION.md`.
 
 The scraped data will be reformatted and saved as CSV files in the "news" directory with filenames in the format "MONTH_YEAR_news.csv" for each month processed.
 

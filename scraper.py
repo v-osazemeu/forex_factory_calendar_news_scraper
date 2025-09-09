@@ -2,14 +2,67 @@ import time
 import argparse
 import json
 import pandas as pd
+import random
 from datetime import datetime, timedelta
-from config import ALLOWED_ELEMENT_TYPES, ICON_COLOR_MAP
+from config import ALLOWED_ELEMENT_TYPES, ICON_COLOR_MAP, RETRY_CONFIG
 from utils import save_csv
 import config
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException, WebDriverException
 from webdriver_manager.chrome import ChromeDriverManager
+
+# Global retry statistics
+retry_stats = {
+    'total_attempts': 0,
+    'successful_first_attempts': 0,
+    'failed_final_attempts': 0
+}
+
+
+def exponential_backoff_retry(func, max_retries=3, base_delay=1, max_delay=60, *args, **kwargs):
+    """
+    Retry a function with exponential backoff.
+    
+    Args:
+        func: Function to retry
+        max_retries: Maximum number of retry attempts
+        base_delay: Base delay in seconds
+        max_delay: Maximum delay in seconds
+        *args, **kwargs: Arguments to pass to the function
+    
+    Returns:
+        Function result on success
+    
+    Raises:
+        Exception: Last exception if all retries fail
+    """
+    retry_stats['total_attempts'] += 1
+    
+    for attempt in range(max_retries + 1):
+        try:
+            result = func(*args, **kwargs)
+            if attempt == 0:
+                retry_stats['successful_first_attempts'] += 1
+            return result
+        except Exception as e:
+            
+            if attempt == max_retries:
+                retry_stats['failed_final_attempts'] += 1
+                print(f"[ERROR] All {max_retries + 1} attempts failed. Last error: {e}")
+                raise e
+            
+            # Calculate delay with exponential backoff and jitter
+            delay = min(base_delay * (2 ** attempt), max_delay)
+            jitter = random.uniform(0, delay * 0.1)  # Add up to 10% jitter
+            total_delay = delay + jitter
+            
+            print(f"[WARN] Attempt {attempt + 1} failed: {e}")
+            print(f"[INFO] Retrying in {total_delay:.2f} seconds...")
+            time.sleep(total_delay)
 
 
 def init_driver(headless=True) -> webdriver.Chrome:
@@ -31,6 +84,42 @@ def init_driver(headless=True) -> webdriver.Chrome:
     return driver
 
 
+def load_page_with_retry(driver, url, max_retries=None):
+    """Load a page with retry logic"""
+    if max_retries is None:
+        max_retries = RETRY_CONFIG['max_retries']
+    
+    def _load_page():
+        driver.get(url)
+        # Wait for the calendar table to load
+        wait = WebDriverWait(driver, 10)
+        wait.until(EC.presence_of_element_located((By.CLASS_NAME, "calendar__table")))
+        return True
+    
+    return exponential_backoff_retry(
+        _load_page, 
+        max_retries=max_retries,
+        base_delay=RETRY_CONFIG['base_delay'],
+        max_delay=RETRY_CONFIG['max_delay']
+    )
+
+
+def find_element_with_retry(driver, by, value, max_retries=None):
+    """Find an element with retry logic"""
+    if max_retries is None:
+        max_retries = RETRY_CONFIG['max_retries']
+    
+    def _find_element():
+        return driver.find_element(by, value)
+    
+    return exponential_backoff_retry(
+        _find_element, 
+        max_retries=max_retries,
+        base_delay=RETRY_CONFIG['base_delay'],
+        max_delay=RETRY_CONFIG['max_delay']
+    )
+
+
 def scroll_to_end(driver):
     previous_position = None
     while True:
@@ -42,48 +131,59 @@ def scroll_to_end(driver):
         previous_position = current_position
 
 
-def parse_table(driver, month, year):
-    data = []
-    table = driver.find_element(By.CLASS_NAME, "calendar__table")
+def parse_table(driver, month, year, max_retries=None):
+    """Parse table with retry logic"""
+    if max_retries is None:
+        max_retries = RETRY_CONFIG['max_retries']
+    
+    def _parse_table():
+        data = []
+        table = find_element_with_retry(driver, By.CLASS_NAME, "calendar__table", max_retries=2)
 
-    for row in table.find_elements(By.TAG_NAME, "tr"):
-        row_data = {}
-        event_id = row.get_attribute("data-event-id")
+        for row in table.find_elements(By.TAG_NAME, "tr"):
+            row_data = {}
+            event_id = row.get_attribute("data-event-id")
 
-        for element in row.find_elements(By.TAG_NAME, "td"):
-            class_name = element.get_attribute('class')
+            for element in row.find_elements(By.TAG_NAME, "td"):
+                class_name = element.get_attribute('class')
 
-            if class_name in ALLOWED_ELEMENT_TYPES:
-                class_name_key = ALLOWED_ELEMENT_TYPES.get(
-                    f"{class_name}", "cell")
+                if class_name in ALLOWED_ELEMENT_TYPES:
+                    class_name_key = ALLOWED_ELEMENT_TYPES.get(
+                        f"{class_name}", "cell")
 
-                if "calendar__impact" in class_name:
-                    impact_elements = element.find_elements(
-                        By.TAG_NAME, "span")
-                    color = None
-                    for impact in impact_elements:
-                        impact_class = impact.get_attribute("class")
-                        color = ICON_COLOR_MAP.get(impact_class)
-                    row_data[f"{class_name_key}"] = color if color else "impact"
+                    if "calendar__impact" in class_name:
+                        impact_elements = element.find_elements(
+                            By.TAG_NAME, "span")
+                        color = None
+                        for impact in impact_elements:
+                            impact_class = impact.get_attribute("class")
+                            color = ICON_COLOR_MAP.get(impact_class)
+                        row_data[f"{class_name_key}"] = color if color else "impact"
 
-                elif "calendar__detail" in class_name and event_id:
-                    detail_url = f"https://www.forexfactory.com/calendar?month={month.lower()}.{year}#detail={event_id}"
-                    row_data[f"{class_name_key}"] = detail_url
-                elif class_name_key in ["forecast", "previous"]:
-                    value = element.get_attribute('innerText')
-                    value = value.strip() if value else ""
-                    row_data[f"{class_name_key}"] = value if value else "empty"
-                elif element.text:
-                    row_data[f"{class_name_key}"] = element.text
-                else:
-                    row_data[f"{class_name_key}"] = "empty"
+                    elif "calendar__detail" in class_name and event_id:
+                        detail_url = f"https://www.forexfactory.com/calendar?month={month.lower()}.{year}#detail={event_id}"
+                        row_data[f"{class_name_key}"] = detail_url
+                    elif class_name_key in ["forecast", "previous"]:
+                        value = element.get_attribute('innerText')
+                        value = value.strip() if value else ""
+                        row_data[f"{class_name_key}"] = value if value else "empty"
+                    elif element.text:
+                        row_data[f"{class_name_key}"] = element.text
+                    else:
+                        row_data[f"{class_name_key}"] = "empty"
 
-        if row_data:
-            data.append(row_data)
+            if row_data:
+                data.append(row_data)
 
-    save_csv(data, month, year)
-
-    return data, month
+        save_csv(data, month, year)
+        return data, month
+    
+    return exponential_backoff_retry(
+        _parse_table, 
+        max_retries=max_retries,
+        base_delay=RETRY_CONFIG['base_delay'],
+        max_delay=RETRY_CONFIG['max_delay']
+    )
 
 
 def get_target_month(arg_month=None):
@@ -135,32 +235,50 @@ def parse_month_year_string(date_str):
         raise ValueError(f"Invalid date format: {date_str}. Use format like 'jan 2007' or 'january 2007'")
 
 
-def scrape_month(month, year, url_param=None):
-    """Scrape a single month"""
-    if url_param:
-        url = f"https://www.forexfactory.com/calendar?month={url_param}"
-    else:
-        month_abbr = month[:3].lower()
-        url = f"https://www.forexfactory.com/calendar?month={month_abbr}.{year}"
+def scrape_month(month, year, url_param=None, max_retries=None):
+    """Scrape a single month with retry logic"""
+    if max_retries is None:
+        max_retries = RETRY_CONFIG['max_retries']
     
-    print(f"\n[INFO] Navigating to {url}")
-
-    driver = init_driver()
-    try:
-        driver.get(url)
-        detected_tz = driver.execute_script("return Intl.DateTimeFormat().resolvedOptions().timeZone")
-        print(f"[INFO] Browser timezone: {detected_tz}")
-        config.SCRAPER_TIMEZONE = detected_tz
-        scroll_to_end(driver)
-
-        print(f"[INFO] Scraping data for {month} {year}")
-        parse_table(driver, month, str(year))
+    def _scrape_month_attempt():
+        if url_param:
+            url = f"https://www.forexfactory.com/calendar?month={url_param}"
+        else:
+            month_abbr = month[:3].lower()
+            url = f"https://www.forexfactory.com/calendar?month={month_abbr}.{year}"
         
+        print(f"\n[INFO] Navigating to {url}")
+
+        driver = init_driver()
+        try:
+            # Load page with retry
+            load_page_with_retry(driver, url, max_retries=2)
+            
+            detected_tz = driver.execute_script("return Intl.DateTimeFormat().resolvedOptions().timeZone")
+            print(f"[INFO] Browser timezone: {detected_tz}")
+            config.SCRAPER_TIMEZONE = detected_tz
+            
+            scroll_to_end(driver)
+
+            print(f"[INFO] Scraping data for {month} {year}")
+            result = parse_table(driver, month, str(year), max_retries=2)
+            
+            return result
+            
+        finally:
+            driver.quit()
+            time.sleep(3)
+    
+    try:
+        return exponential_backoff_retry(
+            _scrape_month_attempt, 
+            max_retries=max_retries,
+            base_delay=RETRY_CONFIG['base_delay'],
+            max_delay=RETRY_CONFIG['max_delay']
+        )
     except Exception as e:
-        print(f"[ERROR] Failed to scrape {month} {year}: {e}")
-    finally:
-        driver.quit()
-        time.sleep(3)
+        print(f"[ERROR] Failed to scrape {month} {year} after {max_retries + 1} attempts: {e}")
+        return None
 
 
 def main():
@@ -172,8 +290,24 @@ def main():
                         help='Start month for range scraping (e.g., "jan 2007", "january 2007")')
     parser.add_argument("--end", 
                         help='End month for range scraping (e.g., "jun 2007", "june 2007")')
+    parser.add_argument("--retries", type=int, default=None,
+                        help='Maximum number of retry attempts (default: 3)')
+    parser.add_argument("--base-delay", type=float, default=None,
+                        help='Base delay in seconds for exponential backoff (default: 1)')
+    parser.add_argument("--max-delay", type=float, default=None,
+                        help='Maximum delay in seconds for exponential backoff (default: 60)')
 
     args = parser.parse_args()
+    
+    # Override retry configuration if provided
+    if args.retries is not None:
+        RETRY_CONFIG['max_retries'] = args.retries
+    if args.base_delay is not None:
+        RETRY_CONFIG['base_delay'] = args.base_delay
+    if args.max_delay is not None:
+        RETRY_CONFIG['max_delay'] = args.max_delay
+    
+    print(f"[INFO] Using retry configuration: {RETRY_CONFIG}")
 
     # Handle date range scraping
     if args.start and args.end:
@@ -220,7 +354,28 @@ def main():
                 year = datetime.now().year
                 scrape_month(month, year, param)
     
+    else:
         print("[ERROR] Please provide both --start and --end together for date range scraping. Only one was provided.")
+    
+    # Print retry statistics
+    print_retry_stats()
+
+
+def print_retry_stats():
+    """Print retry statistics summary"""
+    print("\n" + "="*50)
+    print("RETRY STATISTICS SUMMARY")
+    print("="*50)
+    print(f"Total operations attempted: {retry_stats['total_attempts']}")
+    print(f"Successful on first attempt: {retry_stats['successful_first_attempts']}")
+    print(f"Required retries: {retry_stats['total_attempts'] - retry_stats['successful_first_attempts'] - retry_stats['failed_final_attempts']}")
+    print(f"Final failures: {retry_stats['failed_final_attempts']}")
+    
+    if retry_stats['total_attempts'] > 0:
+        success_rate = ((retry_stats['total_attempts'] - retry_stats['failed_final_attempts']) / retry_stats['total_attempts']) * 100
+        print(f"Overall success rate: {success_rate:.1f}%")
+    
+    print("="*50)
 
 
 if __name__ == "__main__":

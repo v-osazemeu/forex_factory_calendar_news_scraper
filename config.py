@@ -34,6 +34,13 @@ ALLOWED_IMPACT_COLORS = ['red', 'orange', 'gray']
 # Timezone configuration
 SCRAPER_TIMEZONE = None         # This will be detected from Selenium
 
+# Retry configuration
+RETRY_CONFIG = {
+    'max_retries': 3,           # Maximum number of retry attempts
+    'base_delay': 1,            # Base delay in seconds
+    'max_delay': 60,            # Maximum delay in seconds
+}
+
 # Set this to the target timezone you'd like your output to be in.
 # If left as None, no conversion will happen.
 # Examples:
