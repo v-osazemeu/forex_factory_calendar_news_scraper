@@ -1,0 +1,388 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/11/2008,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=18365,44.6,,51.2,Sat
+02/11/2008,07:00,CAD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2008#detail=11594,,,,Sun
+02/11/2008,,USD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2008#detail=11595,,,,Sun
+02/11/2008,21:45,NZD,red,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=9460,1.1%,0.8%,0.8%,Sun
+02/11/2008,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2008#detail=10213,40.4,,47.2,Sun
+02/11/2008,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10273,-0.2%,,0.4%,Sun
+03/11/2008,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2008#detail=12062,,,,Mon
+03/11/2008,00:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8931,-1.1%,-0.5%,0.5%,Mon
+03/11/2008,,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=19260,-5.9%,,-1.4%,Mon
+03/11/2008,,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=10120,-1.8%,-0.5%,-0.2%,Mon
+03/11/2008,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=42293,56.7,,58.1,Mon
+03/11/2008,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=18362,45.2,,47.7,Mon
+03/11/2008,05:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=10277,32.4%,,42.3%,Mon
+03/11/2008,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=43811,34.6,,38.3,Mon
+03/11/2008,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10221,47.0,45.5,47.8,Mon
+03/11/2008,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=43465,39.7,41.6,44.4,Mon
+03/11/2008,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=58919,40.6,40.8,40.8,Mon
+03/11/2008,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=58962,42.9,43.3,43.3,Mon
+03/11/2008,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10245,41.1,41.3,41.3,Mon
+03/11/2008,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=november.2008#detail=44058,,,,Mon
+03/11/2008,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10085,41.5,40.0,41.2,Mon
+03/11/2008,10:00,EUR,yellow,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=november.2008#detail=48845,,,,Mon
+03/11/2008,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10100,38.9,41.6,43.5,Mon
+03/11/2008,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9852,-0.3%,-0.8%,0.3%,Mon
+03/11/2008,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=november.2008#detail=10101,37.0,49.0,53.5,Mon
+03/11/2008,16:00,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12629,,,,Mon
+03/11/2008,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=november.2008#detail=9748,10.6M,12.0M,12.5M,Mon
+03/11/2008,19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=november.2008#detail=24061,,,,Mon
+04/11/2008,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9548,0.1%,0.2%,0.1%,Tue
+04/11/2008,02:08,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9724,-7.4%,,-5.1%,Tue
+04/11/2008,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8081,5.25%,5.50%,6.00%,Tue
+04/11/2008,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=november.2008#detail=8080,,,,Tue
+04/11/2008,06:45,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8754,0.5%,0.4%,0.1%,Tue
+04/11/2008,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=november.2008#detail=43990,192.7K,,95.4K,Tue
+04/11/2008,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=november.2008#detail=36347,,,,Tue
+04/11/2008,09:32,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10086,35.1,37.7,38.8,Tue
+04/11/2008,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8726,-0.2%,-0.1%,-0.5%,Tue
+04/11/2008,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=november.2008#detail=56211,-11.3%,,-11.8%,Tue
+04/11/2008,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11194,-2.5%,-1.0%,-4.3%,Tue
+04/11/2008,All Day,USD,orange,Presidential Election,https://www.forexfactory.com/calendar?month=november.2008#detail=12617,,,,Tue
+04/11/2008,All Day,USD,orange,Congressional Elections,https://www.forexfactory.com/calendar?month=november.2008#detail=35079,,,,Tue
+04/11/2008,15:45,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12642,,,,Tue
+04/11/2008,22:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=november.2008#detail=10214,42.1,,44.9,Tue
+04/11/2008,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=11783,1.4%,1.0%,0.9%,Tue
+05/11/2008,00:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2008#detail=9803,55,47,51,Wed
+05/11/2008,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9692,-7.2%,-1.1%,-3.4%,Wed
+05/11/2008,,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9013,1.46B,0.50B,1.24B,Wed
+05/11/2008,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2008#detail=48996,1.50|2.3,,1.53|2.6,Wed
+05/11/2008,04:30,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12002,,,,Wed
+05/11/2008,05:50,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12850,,,,Wed
+05/11/2008,08:10,CHF,orange,Gov Board Member Hildebrand Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=10470,,,,Wed
+05/11/2008,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=43907,32.2,,36.1,Wed
+05/11/2008,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=43525,45.7,47.5,49.4,Wed
+05/11/2008,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=59093,47.5,48.8,48.8,Wed
+05/11/2008,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=59102,48.3,49.7,49.7,Wed
+05/11/2008,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10244,45.8,46.9,46.9,Wed
+05/11/2008,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10087,42.4,44.5,46.0,Wed
+05/11/2008,,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9666,-0.8%,-0.4%,-0.6%,Wed
+05/11/2008,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9671,-0.2%,-0.3%,-0.6%,Wed
+05/11/2008,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8937,-0.2%,-0.4%,0.3%,Wed
+05/11/2008,10:30,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9143,3.0%,,3.6%,Wed
+05/11/2008,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=8615,78.9%,,32.6%,Wed
+05/11/2008,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=november.2008#detail=8590,-157K,-100K,-26K,Wed
+05/11/2008,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10102,44.4,47.3,50.2,Wed
+05/11/2008,15:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10335,-1.1%,,-0.6%,Wed
+05/11/2008,15:35,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2008#detail=7905,0.0M,1.1M,0.5M,Wed
+05/11/2008,21:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8595,0.1%,-0.7%,1.2%,Wed
+05/11/2008,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8593,4.2%,4.3%,3.9%,Wed
+05/11/2008,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2008#detail=10393,,,,Wed
+06/11/2008,00:01,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=november.2008#detail=9916,-0.5%,,-0.5%,Thu
+06/11/2008,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=november.2008#detail=8579,34.3K,-10.0K,-3.3K,Thu
+06/11/2008,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8572,4.3%,4.4%,4.3%,Thu
+06/11/2008,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=november.2008#detail=9131,89.2%,89.2%,89.0%,Thu
+06/11/2008,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=november.2008#detail=42185,48B,,49B,Thu
+06/11/2008,09:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9345,-2.2%,-1.5%,-1.3%,Thu
+06/11/2008,10:07,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2008#detail=43344,4.18|1.6,,4.43|1.7,Thu
+06/11/2008,10:14,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2008#detail=43345,4.28|3.1,,4.18|1.6,Thu
+06/11/2008,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11189,-8.0%,-2.2%,3.5%,Thu
+06/11/2008,12:00,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=13000,2.00%,,2.50%,Thu
+06/11/2008,,GBP,red,MPC Rate Statement,https://www.forexfactory.com/calendar?month=november.2008#detail=8143,,,,Thu
+06/11/2008,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8113,3.00%,4.00%,4.50%,Thu
+06/11/2008,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=7962,3.25%,3.25%,3.75%,Thu
+06/11/2008,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9688,13.4%,-1.3%,-11.7%,Thu
+06/11/2008,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=november.2008#detail=7963,,,,Thu
+06/11/2008,,USD,orange,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=9226,1.1%,1.0%,4.3%,Thu
+06/11/2008,,USD,orange,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=9443,3.6%,2.9%,-0.5%,Thu
+06/11/2008,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2008#detail=7942,481K,480K,485K,Thu
+06/11/2008,15:04,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10109,52.2,56.0,61.0,Thu
+06/11/2008,15:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2008#detail=8267,12B,25B,46B,Thu
+06/11/2008,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=november.2008#detail=10215,36.4,,31.8,Thu
+07/11/2008,00:00,USD,orange,FOMC Member Warsh Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=10465,,,,Fri
+07/11/2008,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8556,2.6%,2.6%,2.6%,Fri
+07/11/2008,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9088,13.7B,13.7B,13.7B,Fri
+07/11/2008,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=11872,-56.6B,,-67.6B,Fri
+07/11/2008,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9156,-6.3B,-5.0B,-5.4B,Fri
+07/11/2008,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9831,-3.6%,-1.9%,3.2%,Fri
+07/11/2008,12:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=november.2008#detail=8497,9.5K,-10.0K,106.9K,Fri
+07/11/2008,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8450,6.2%,6.2%,6.1%,Fri
+07/11/2008,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=november.2008#detail=8490,-240K,-200K,-284K,Fri
+07/11/2008,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8439,6.5%,6.3%,6.1%,Fri
+07/11/2008,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9471,0.2%,0.2%,0.2%,Fri
+07/11/2008,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9233,-0.1%,0.4%,0.6%,Fri
+07/11/2008,16:30,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9862,-4.6%,-3.4%,7.5%,Fri
+07/11/2008,19:55,USD,orange,President Obama Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13002,,,,Fri
+07/11/2008,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11086,6.9B,-0.3B,-6.3B,Fri
+07/11/2008,All Day,NZD,yellow,Parliamentary Elections,https://www.forexfactory.com/calendar?month=november.2008#detail=12653,,,,Fri
+08/11/2008,Day 1,All,yellow,G20 Meetings,https://www.forexfactory.com/calendar?month=november.2008#detail=12692,,,,Sat
+09/11/2008,Day 2,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=november.2008#detail=12691,,,,Sun
+09/11/2008,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11204,5.5%,4.9%,-14.5%,Sun
+10/11/2008,00:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10263,-2.7%,-2.7%,-2.1%,Mon
+10/11/2008,,AUD,red,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=november.2008#detail=12688,,,,Mon
+10/11/2008,02:00,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=18579,6.6%,8.0%,9.1%,Mon
+10/11/2008,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=11309,-40.4%,,-20.1%,Mon
+10/11/2008,06:45,CHF,orange,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=november.2008#detail=11051,-27,-28,-17,Mon
+10/11/2008,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9840,-0.5%,-0.6%,-0.4%,Mon
+10/11/2008,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9821,-2.1%,-1.6%,0.4%,Mon
+10/11/2008,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=november.2008#detail=10533,-36.4,-34.0,-27.8,Mon
+10/11/2008,,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8802,-5.6%,-2.6%,-1.7%,Mon
+10/11/2008,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8803,-1.0%,-0.4%,-0.2%,Mon
+10/11/2008,13:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=november.2008#detail=9699,212K,202K,219K,Mon
+10/11/2008,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10114,0.1%,-0.1%,0.0%,Mon
+10/11/2008,14:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=11278,,,,Mon
+10/11/2008,15:00,USD,orange,Assist Treasury Sec Kashkari Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12651,,,,Mon
+10/11/2008,16:35,CAD,orange,Gov Council Member Duguay Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12655,,,,Mon
+10/11/2008,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=11980,2.2%,,1.6%,Mon
+10/11/2008,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=november.2008#detail=9792,0.97T,1.02T,0.90T,Mon
+10/11/2008,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=11879,1.8%,2.2%,2.2%,Mon
+11/11/2008,00:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9137,-2.2%,,-1.5%,Tue
+11/11/2008,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=10118,-82%,-86%,-85%,Tue
+11/11/2008,00:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=november.2008#detail=10970,-29,,-8,Tue
+11/11/2008,02:00,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=18531,4.0%,4.2%,4.6%,Tue
+11/11/2008,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=november.2008#detail=10947,22.6,27.4,28.0,Tue
+11/11/2008,07:00,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=18391,35.2B,29.9B,29.4B,Tue
+11/11/2008,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10291,-1.5%,-1.0%,-0.6%,Tue
+11/11/2008,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=november.2008#detail=12208,,,,Tue
+11/11/2008,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9019,-7.5B,-8.0B,-8.0B,Tue
+11/11/2008,09:35,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9324,-5.1%,-5.5%,-4.6%,Tue
+11/11/2008,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2008#detail=10504,-53.5,-62.5,-63.0,Tue
+11/11/2008,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2008#detail=10503,-54.0,-60.0,-62.7,Tue
+11/11/2008,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=november.2008#detail=48360,87.5,,92.9,Tue
+11/11/2008,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2008#detail=12240,,,,Tue
+11/11/2008,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2008#detail=12008,,,,Tue
+11/11/2008,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=november.2008#detail=9928,50.8,40.0,41.1,Tue
+11/11/2008,20:00,NZD,red,RBNZ Financial Stability Report,https://www.forexfactory.com/calendar?month=november.2008#detail=8214,,,,Tue
+11/11/2008,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2008#detail=11056,4.3%,,-11.0%,Tue
+12/11/2008,00:30,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=9438,0.9%,1.0%,1.1%,Wed
+12/11/2008,01:48,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2008#detail=19304,35.1%,,39.9%,Wed
+12/11/2008,02:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=november.2008#detail=24353,182B,,375B,Wed
+12/11/2008,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=24258,15.0%,15.3%,15.3%,Wed
+12/11/2008,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=23257,22.0%,21.6%,23.2%,Wed
+12/11/2008,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2008#detail=9948,29.4,30.1,31.4,Wed
+12/11/2008,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=november.2008#detail=8789,36.5K,40.0K,36.3K,Wed
+12/11/2008,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9535,3.3%,3.3%,3.4%,Wed
+12/11/2008,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8788,5.8%,5.8%,5.7%,Wed
+12/11/2008,10:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9826,-1.6%,-1.5%,0.8%,Wed
+12/11/2008,10:09,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2008#detail=43202,3.74|1.3,,4.24|1.8,Wed
+12/11/2008,10:30,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13114,,,,Wed
+12/11/2008,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=november.2008#detail=12687,,,,Wed
+12/11/2008,15:30,USD,orange,Treasury Sec Paulson Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13324,,,,Wed
+12/11/2008,16:00,USD,orange,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13004,,,,Wed
+12/11/2008,18:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13003,,,,Wed
+12/11/2008,,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2008#detail=43076,3.78|2.2,,3.79|2.3,Wed
+12/11/2008,,USD,orange,FOMC Member Stern Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13005,,,,Wed
+12/11/2008,20:25,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2008#detail=9211,43.5,,46.7,Wed
+12/11/2008,21:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8969,-0.5%,0.4%,0.7%,Wed
+12/11/2008,,NZD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8968,0.1%,0.4%,0.4%,Wed
+12/11/2008,,NZD,yellow,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=37734,-0.2%,,-0.6%,Wed
+12/11/2008,,NZD,yellow,Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=37717,-0.9%,-1.1%,-1.5%,Wed
+12/11/2008,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9218,4.8%,5.5%,6.8%,Wed
+13/11/2008,00:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2008#detail=10411,3.3%,,4.4%,Thu
+13/11/2008,02:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=18459,8.2%,11.0%,11.4%,Thu
+13/11/2008,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9815,1.1%,1.2%,1.2%,Thu
+13/11/2008,07:00,EUR,red,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8356,-0.5%,-0.2%,-0.4%,Thu
+13/11/2008,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9455,-0.1%,-0.1%,-0.1%,Thu
+13/11/2008,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8761,-0.6%,-0.5%,-0.5%,Thu
+13/11/2008,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=november.2008#detail=8457,,,,Thu
+13/11/2008,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=november.2008#detail=10534,-88.5,,-91.1,Thu
+13/11/2008,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9093,4.5B,5.1B,5.6B,Thu
+13/11/2008,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9006,-56.5B,-56.5B,-59.1B,Thu
+13/11/2008,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2008#detail=7943,516K,483K,484K,Thu
+13/11/2008,14:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=19991,,,,Thu
+13/11/2008,15:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=november.2008#detail=49291,3.25M,,3.38M,Thu
+13/11/2008,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2008#detail=7906,0.0M,1.0M,0.0M,Thu
+13/11/2008,17:30,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12643,,,,Thu
+13/11/2008,18:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2008#detail=43097,4.31|2.1,,4.61|2.4,Thu
+13/11/2008,18:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13008,,,,Thu
+13/11/2008,18:55,USD,yellow,President Bush Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13326,,,,Thu
+13/11/2008,19:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=10915,-237.2B,-99.0B,45.7B,Thu
+13/11/2008,,USD,orange,FOMC Member Stern Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13006,,,,Thu
+14/11/2008,02:00,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2008#detail=19747,27.2%,27.4%,27.6%,Fri
+14/11/2008,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9500,-0.2%,-0.2%,-0.2%,Fri
+14/11/2008,07:45,EUR,orange,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8608,-0.1%,-0.2%,-0.2%,Fri
+14/11/2008,07:50,EUR,orange,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8395,0.1%,-0.1%,-0.3%,Fri
+14/11/2008,08:00,EUR,yellow,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=43750,-0.2%,-0.2%,0.1%,Fri
+14/11/2008,09:00,EUR,yellow,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8397,-0.5%,-0.2%,-0.4%,Fri
+14/11/2008,10:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9511,1.9%,1.9%,1.9%,Fri
+14/11/2008,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9480,3.2%,3.2%,3.2%,Fri
+14/11/2008,,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8396,-0.2%,-0.2%,-0.2%,Fri
+14/11/2008,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11230,0.1%,-1.7%,-3.7%,Fri
+14/11/2008,,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11079,2.5%,0.9%,-2.3%,Fri
+14/11/2008,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8985,-2.2%,-1.1%,-0.5%,Fri
+14/11/2008,,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12641,,,,Fri
+14/11/2008,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8984,-2.8%,-2.0%,-1.3%,Fri
+14/11/2008,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10130,-4.7%,-4.3%,-3.3%,Fri
+14/11/2008,14:25,EUR,red,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13007,,,,Fri
+14/11/2008,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2008#detail=8432,57.9,56.0,57.6,Fri
+14/11/2008,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2008#detail=9995,2.9%,,3.9%,Fri
+14/11/2008,15:00,USD,orange,Assist Treasury Sec Kashkari Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13353,,,,Fri
+14/11/2008,,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9239,-0.2%,0.1%,0.2%,Fri
+14/11/2008,15:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2008#detail=8268,62B,45B,12B,Fri
+14/11/2008,17:30,USD,orange,FOMC Member Pianalto Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13351,,,,Fri
+15/11/2008,All Day,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=november.2008#detail=13001,,,,Sat
+16/11/2008,21:49,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8780,-0.3%,,0.6%,Sun
+16/11/2008,23:50,JPY,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8379,-0.1%,0.1%,-0.9%,Sun
+16/11/2008,,JPY,orange,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=8378,-1.6%,-1.6%,-1.6%,Sun
+16/11/2008,,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11978,-0.6%,-0.6%,-1.3%,Sun
+17/11/2008,00:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10026,-2.9%,,1.0%,Mon
+17/11/2008,00:30,AUD,orange,Quarterly Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=13325,0.1%,0.4%,-0.2%,Mon
+17/11/2008,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9026,-5.7B,-5.7B,-5.7B,Mon
+17/11/2008,13:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2008#detail=9740,-25.4,-26.0,-24.6,Mon
+17/11/2008,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=9655,76.4%,76.4%,75.5%,Mon
+17/11/2008,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9650,1.3%,0.1%,-3.7%,Mon
+17/11/2008,23:30,USD,orange,Treasury Sec Paulson Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13360,,,,Mon
+18/11/2008,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2008#detail=10364,,,,Tue
+18/11/2008,08:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9060,6.4%,0.0%,0.0%,Tue
+18/11/2008,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9053,-2.59B,-2.50B,-2.15B,Tue
+18/11/2008,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=8733,4.5%,4.8%,5.2%,Tue
+18/11/2008,,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=8732,1.9%,2.2%,2.2%,Tue
+18/11/2008,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=8731,4.2%,4.6%,5.0%,Tue
+18/11/2008,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8701,-2.8%,-1.9%,-0.4%,Tue
+18/11/2008,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8700,0.4%,0.1%,0.4%,Tue
+18/11/2008,14:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=november.2008#detail=11785,66.2B,18.0B,21.0B,Tue
+18/11/2008,14:30,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=november.2008#detail=13359,,,,Tue
+18/11/2008,,USD,orange,Treasury Sec Paulson Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13361,,,,Tue
+18/11/2008,15:45,GBP,orange,MPC Member Besley Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12968,,,,Tue
+18/11/2008,18:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=november.2008#detail=9317,9,14,14,Tue
+18/11/2008,18:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13357,,,,Tue
+18/11/2008,21:45,NZD,red,PPI Input q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8747,3.7%,3.0%,5.6%,Tue
+18/11/2008,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8748,2.8%,2.0%,3.5%,Tue
+18/11/2008,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10369,-1.0%,,-0.1%,Tue
+18/11/2008,23:50,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11979,-0.1%,-0.1%,-1.7%,Tue
+19/11/2008,00:30,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11083,-0.5%,,-0.4%,Wed
+19/11/2008,03:50,AUD,orange,RBA Assist Gov Edey Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12985,,,,Wed
+19/11/2008,09:30,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12686,,,,Wed
+19/11/2008,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=november.2008#detail=10331,0-9-0,0-9-0,0-9-0,Wed
+19/11/2008,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=november.2008#detail=11031,-38,-41,-39,Wed
+19/11/2008,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=november.2008#detail=11786,-0.27B,-1.25B,-0.83B,Wed
+19/11/2008,,CAD,yellow,Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10360,-0.4%,-0.3%,-0.3%,Wed
+19/11/2008,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=november.2008#detail=9645,0.71M,0.77M,0.81M,Wed
+19/11/2008,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8683,-0.1%,0.1%,0.1%,Wed
+19/11/2008,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=128369,3.7%,4.0%,4.9%,Wed
+19/11/2008,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8684,-1.0%,-0.8%,0.0%,Wed
+19/11/2008,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=november.2008#detail=9640,0.79M,0.78M,0.83M,Wed
+19/11/2008,13:35,CAD,orange,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12654,,,,Wed
+19/11/2008,14:00,USD,orange,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=10466,,,,Wed
+19/11/2008,15:35,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2008#detail=7907,1.6M,0.9M,0.0M,Wed
+19/11/2008,17:30,USD,yellow,Assist Treasury Sec Kashkari Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13365,,,,Wed
+19/11/2008,18:40,GBP,orange,MPC Member Gieve Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13355,,,,Wed
+19/11/2008,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2008#detail=10324,,,,Wed
+19/11/2008,23:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9081,-0.18T,0.08T,-0.07T,Wed
+20/11/2008,00:30,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=november.2008#detail=11004,,,,Thu
+20/11/2008,07:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8715,0.0%,-0.6%,0.3%,Thu
+20/11/2008,07:15,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9080,1.84B,1.30B,1.46B,Thu
+20/11/2008,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=november.2008#detail=44059,,,,Thu
+20/11/2008,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8993,-0.1%,-0.9%,-0.5%,Thu
+20/11/2008,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11781,2.3%,0.8%,1.7%,Thu
+20/11/2008,,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=november.2008#detail=11092,1.4B,0.5B,7.9B,Thu
+20/11/2008,10:50,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2008#detail=43319,3.95|1.7,,4.58|1.3,Thu
+20/11/2008,11:00,EUR,orange,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=november.2008#detail=50145,,,,Thu
+20/11/2008,11:10,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2008#detail=43417,4.14|1.6,,4.47|2.0,Thu
+20/11/2008,12:00,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=13366,1.00%,,2.00%,Thu
+20/11/2008,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11227,1.5%,-0.5%,-1.5%,Thu
+20/11/2008,,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=12280,7.6%,,2.5%,Thu
+20/11/2008,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2008#detail=7944,542K,508K,515K,Thu
+20/11/2008,15:00,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2008#detail=10950,-39.3,-35.0,-37.5,Thu
+20/11/2008,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10327,-0.8%,-0.6%,0.1%,Thu
+20/11/2008,15:30,CAD,yellow,BOC Review,https://www.forexfactory.com/calendar?month=november.2008#detail=13293,,,,Thu
+20/11/2008,15:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2008#detail=8269,16B,-1B,62B,Thu
+20/11/2008,19:00,USD,yellow,Treasury Sec Paulson Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13109,,,,Thu
+20/11/2008,21:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11234,0.7%,,-6.0%,Thu
+21/11/2008,02:05,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9544,1.1%,,2.4%,Fri
+21/11/2008,03:34,JPY,red,Overnight Call Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8133,0.30%,0.30%,0.30%,Fri
+21/11/2008,,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=november.2008#detail=11670,,,,Fri
+21/11/2008,07:22,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=november.2008#detail=8134,,,,Fri
+21/11/2008,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11242,-0.4%,-0.5%,0.5%,Fri
+21/11/2008,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10248,37.9,40.0,40.6,Fri
+21/11/2008,,EUR,yellow,French Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10249,46.6,46.8,47.5,Fri
+21/11/2008,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10250,36.7,42.0,42.9,Fri
+21/11/2008,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10251,46.2,47.6,48.3,Fri
+21/11/2008,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10247,36.2,40.5,41.1,Fri
+21/11/2008,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10246,43.3,45.0,45.8,Fri
+21/11/2008,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8958,0.0%,-0.2%,-0.5%,Fri
+21/11/2008,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=november.2008#detail=36348,,,,Fri
+21/11/2008,09:30,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=19990,,,,Fri
+21/11/2008,12:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8670,-0.2%,0.0%,0.4%,Fri
+21/11/2008,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8671,-1.0%,-0.5%,0.1%,Fri
+21/11/2008,13:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13358,,,,Fri
+21/11/2008,17:15,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13362,,,,Fri
+22/11/2008,09:45,GBP,yellow,MPC Member Bean Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13356,,,,Sat
+24/11/2008,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2008#detail=12064,,,,Mon
+24/11/2008,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=november.2008#detail=10490,85.8,88.8,90.2,Mon
+24/11/2008,,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=november.2008#detail=9797,-10.6B,-7.4B,-5.3B,Mon
+24/11/2008,10:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11201,-3.9%,-2.9%,-1.5%,Mon
+24/11/2008,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=november.2008#detail=10529,-23.7,-17.5,-14.8,Mon
+24/11/2008,15:00,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=november.2008#detail=9867,4.98M,5.02M,5.14M,Mon
+24/11/2008,15:30,GBP,red,Annual Pre-Budget Report,https://www.forexfactory.com/calendar?month=november.2008#detail=13379,,,,Mon
+24/11/2008,15:35,USD,yellow,President Bush Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13388,,,,Mon
+24/11/2008,17:00,USD,orange,President Obama Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13377,,,,Mon
+24/11/2008,23:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10344,-0.3%,,0.5%,Mon
+24/11/2008,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9449,-1.4%,-0.5%,0.1%,Mon
+25/11/2008,02:00,NZD,red,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=10426,2.70%,,3.00%,Tue
+25/11/2008,05:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=november.2008#detail=13234,,,,Tue
+25/11/2008,07:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=november.2008#detail=11049,2.2,1.5,1.9,Tue
+25/11/2008,,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8645,-0.5%,-0.5%,-0.4%,Tue
+25/11/2008,09:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=november.2008#detail=11238,1.32,,1.64,Tue
+25/11/2008,09:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=november.2008#detail=10415,21.6K,22.2K,23.4K,Tue
+25/11/2008,,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=9702,-0.2%,-1.9%,-1.0%,Tue
+25/11/2008,09:45,GBP,red,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=november.2008#detail=13367,,,,Tue
+25/11/2008,13:15,USD,red,Fed Announcement,https://www.forexfactory.com/calendar?month=november.2008#detail=30157,,,,Tue
+25/11/2008,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8949,0.8%,0.2%,-0.2%,Tue
+25/11/2008,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8950,1.1%,0.4%,-0.3%,Tue
+25/11/2008,,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8329,-0.5%,-0.5%,-0.3%,Tue
+25/11/2008,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8370,4.2%,4.2%,4.2%,Tue
+25/11/2008,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=10012,-17.4%,-17.0%,-16.6%,Tue
+25/11/2008,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2008#detail=9710,44.9,38.0,38.8,Tue
+25/11/2008,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2008#detail=9555,-38,-26,-26,Tue
+25/11/2008,,USD,yellow,Treasury Sec Paulson Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13391,,,,Tue
+25/11/2008,15:38,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10018,-1.3%,-0.7%,-0.8%,Tue
+25/11/2008,17:00,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13475,,,,Tue
+26/11/2008,00:30,AUD,orange,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=9848,4.4%,1.5%,-0.4%,Wed
+26/11/2008,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10124,-3.6%,-1.4%,-1.0%,Wed
+26/11/2008,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9383,-0.5%,-0.3%,-0.2%,Wed
+26/11/2008,08:00,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=12690,,,,Wed
+26/11/2008,08:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13389,,,,Wed
+26/11/2008,09:30,GBP,red,Second Estimate GDP q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=8374,-0.5%,-0.5%,-0.5%,Wed
+26/11/2008,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=november.2008#detail=12178,-0.4%,-0.4%,-0.3%,Wed
+26/11/2008,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11195,-4.4%,-1.4%,-2.3%,Wed
+26/11/2008,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2008#detail=7945,529K,534K,543K,Wed
+26/11/2008,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8654,0.0%,0.1%,0.2%,Wed
+26/11/2008,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11196,-6.2%,-2.8%,-0.2%,Wed
+26/11/2008,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11218,-1.0%,-1.0%,-0.3%,Wed
+26/11/2008,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11220,0.3%,0.1%,0.1%,Wed
+26/11/2008,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=9779,33.8,36.5,37.8,Wed
+26/11/2008,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2008#detail=8425,55.3,57.0,57.9,Wed
+26/11/2008,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2008#detail=9990,2.9%,,2.9%,Wed
+26/11/2008,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=november.2008#detail=9857,433K,445K,457K,Wed
+26/11/2008,15:35,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2008#detail=7908,7.3M,0.7M,1.6M,Wed
+26/11/2008,15:45,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13476,,,,Wed
+26/11/2008,17:00,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2008#detail=8270,-66B,-44B,16B,Wed
+26/11/2008,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=november.2008#detail=9047,-942M,-1000M,-1260M,Wed
+26/11/2008,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2008#detail=10394,,,,Wed
+27/11/2008,00:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=november.2008#detail=11952,0.6%,0.5%,7.4%,Thu
+27/11/2008,01:00,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=14474,4.5%,,-1.8%,Thu
+27/11/2008,02:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=november.2008#detail=10496,-43.0,,-42.3,Thu
+27/11/2008,07:00,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10032,-0.4%,-1.7%,-1.3%,Thu
+27/11/2008,08:15,CHF,orange,Employment Level,https://www.forexfactory.com/calendar?month=november.2008#detail=8559,3.96M,3.87M,3.92M,Thu
+27/11/2008,08:54,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=november.2008#detail=8651,-10K,-4K,-23K,Thu
+27/11/2008,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=11778,8.7%,8.1%,8.7%,Thu
+27/11/2008,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=11267,7.8%,8.0%,8.5%,Thu
+27/11/2008,,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=43598,40.6,,44.3,Thu
+27/11/2008,09:24,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2008#detail=43375,4.49|1.4,,5.28|1.2,Thu
+27/11/2008,10:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2008#detail=11045,-25,-25,-24,Thu
+27/11/2008,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2008#detail=12009,,,,Thu
+27/11/2008,15:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13384,,,,Thu
+27/11/2008,16:00,CHF,orange,SNB Chairman Roth Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=10471,,,,Thu
+27/11/2008,21:45,NZD,red,Building Consents m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9873,-21.9%,,11.1%,Thu
+27/11/2008,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2008#detail=10226,36.7,,42.2,Thu
+27/11/2008,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=11246,-3.8%,-3.4%,-2.3%,Thu
+27/11/2008,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9390,1.1%,1.3%,1.5%,Thu
+27/11/2008,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9393,1.9%,1.9%,2.3%,Thu
+27/11/2008,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8548,3.7%,4.2%,4.0%,Thu
+27/11/2008,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9814,-3.1%,-2.5%,1.1%,Thu
+27/11/2008,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9000,-0.6%,-0.9%,-0.3%,Thu
+28/11/2008,00:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2008#detail=9783,-35,-38,-36,Fri
+28/11/2008,00:05,CAD,orange,Gov Council Member Duguay Speaks,https://www.forexfactory.com/calendar?month=november.2008#detail=13368,,,,Fri
+28/11/2008,00:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=11096,0.6%,0.5%,0.8%,Fri
+28/11/2008,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9911,19.8%,29.3%,54.2%,Fri
+28/11/2008,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=november.2008#detail=9478,2.1%,2.4%,3.2%,Fri
+28/11/2008,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=9489,-0.4%,-0.1%,0.0%,Fri
+28/11/2008,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2008#detail=8481,7.7%,7.6%,7.6%,Fri
+28/11/2008,10:30,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=november.2008#detail=10384,-0.05,0.19,0.28,Fri
+28/11/2008,11:00,GBP,red,CBI Realized Sales,https://www.forexfactory.com/calendar?month=november.2008#detail=11035,-46,-35,-27,Fri
+28/11/2008,13:30,CAD,orange,Current Account,https://www.forexfactory.com/calendar?month=november.2008#detail=9658,5.6B,5.1B,8.2B,Fri
+28/11/2008,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8774,-12.5%,-7.8%,-7.3%,Fri
+28/11/2008,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=8773,0.0%,-1.3%,-1.2%,Fri
+30/11/2008,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2008#detail=10216,32.7,,40.4,Sun
+30/11/2008,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=november.2008#detail=10274,-0.6%,,-0.2%,Sun

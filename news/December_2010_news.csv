@@ -1,0 +1,358 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/12/2010,00:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=24121,0.2%,0.5%,1.1%,Wed
+01/12/2010,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=24911,55.2,54.8,54.7,Wed
+01/12/2010,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27282,4.5%,,2.9%,Wed
+01/12/2010,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=24910,55.3,,54.8,Wed
+01/12/2010,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2010#detail=49021,1.19|2.4,,0.97|3.9,Wed
+01/12/2010,05:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=27168,44.4%,,47.5%,Wed
+01/12/2010,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25212,2.3%,1.3%,-1.8%,Wed
+01/12/2010,,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=24565,-0.3%,-0.3%,-0.7%,Wed
+01/12/2010,08:00,GBP,orange,MPC Member Tucker Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36373,,,,Wed
+01/12/2010,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=43836,50.0,,51.2,Wed
+01/12/2010,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=24686,61.8,60.6,59.2,Wed
+01/12/2010,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=43490,52.0,52.4,53.0,Wed
+01/12/2010,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=58931,57.9,57.5,57.5,Wed
+01/12/2010,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=58989,58.1,58.9,58.9,Wed
+01/12/2010,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=24685,55.3,55.5,55.5,Wed
+01/12/2010,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=24566,58.0,54.8,55.4,Wed
+01/12/2010,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=27474,-3.3%,,-31.8%,Wed
+01/12/2010,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=december.2010#detail=26970,93K,70K,82K,Wed
+01/12/2010,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=december.2010#detail=56239,1.9%,,-0.8%,Wed
+01/12/2010,,USD,orange,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=26117,2.3%,2.4%,1.9%,Wed
+01/12/2010,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=26118,-0.1%,-0.2%,-0.1%,Wed
+01/12/2010,14:10,USD,orange,FOMC Member Yellen Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36370,,,,Wed
+01/12/2010,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=24820,56.6,56.4,56.9,Wed
+01/12/2010,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25376,0.7%,-0.3%,0.7%,Wed
+01/12/2010,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=december.2010#detail=24821,69.5,70.9,71.0,Wed
+01/12/2010,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2010#detail=24782,1.1M,-0.8M,1.0M,Wed
+01/12/2010,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=december.2010#detail=25333,12.3M,12.1M,12.3M,Wed
+01/12/2010,18:40,GBP,orange,MPC Member Dale Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36375,,,,Wed
+01/12/2010,19:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=december.2010#detail=26615,,,,Wed
+01/12/2010,23:50,JPY,orange,Capital Spending q/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28456,5.0%,6.1%,-1.7%,Wed
+01/12/2010,,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=25879,7.6%,6.9%,6.4%,Wed
+02/12/2010,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=24648,2.63B,2.07B,1.81B,Thu
+02/12/2010,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27334,-1.1%,0.4%,0.1%,Thu
+02/12/2010,06:45,CHF,orange,GDP q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=25516,0.7%,0.5%,0.8%,Thu
+02/12/2010,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=december.2010#detail=44015,24.3K,,68.2K,Thu
+02/12/2010,08:15,CHF,red,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=25561,3.5%,4.9%,4.1%,Thu
+02/12/2010,09:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=24567,51.8,51.1,51.6,Thu
+02/12/2010,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27247,0.4%,0.4%,0.3%,Thu
+02/12/2010,,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=27426,0.4%,0.4%,0.4%,Thu
+02/12/2010,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=24180,1.00%,1.00%,1.00%,Thu
+02/12/2010,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=december.2010#detail=24181,,,,Thu
+02/12/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2010#detail=28917,436K,425K,410K,Thu
+02/12/2010,15:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36378,,,,Thu
+02/12/2010,,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27393,10.4%,-0.7%,-1.8%,Thu
+02/12/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2010#detail=24783,-23B,-26B,-6B,Thu
+02/12/2010,17:30,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36371,,,,Thu
+02/12/2010,19:00,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36372,,,,Thu
+02/12/2010,22:30,AUD,orange,AIG Services Index,https://www.forexfactory.com/calendar?month=december.2010#detail=24606,46.2,,50.7,Thu
+03/12/2010,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=42239,53.2,,60.5,Fri
+03/12/2010,07:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36376,,,,Fri
+03/12/2010,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25533,0.2%,0.1%,0.5%,Fri
+03/12/2010,,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=43932,48.3,,46.5,Fri
+03/12/2010,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=43550,54.4,51.4,51.0,Fri
+03/12/2010,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=59139,55.0,55.7,55.7,Fri
+03/12/2010,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=59151,59.2,58.6,58.6,Fri
+03/12/2010,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=24687,55.4,55.2,55.2,Fri
+03/12/2010,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=24568,53.0,53.2,53.2,Fri
+03/12/2010,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27223,0.5%,0.4%,-0.1%,Fri
+03/12/2010,12:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=december.2010#detail=26739,15.2K,20.2K,3.0K,Fri
+03/12/2010,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=26738,7.6%,7.9%,7.9%,Fri
+03/12/2010,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=december.2010#detail=24233,39K,143K,172K,Fri
+03/12/2010,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=24232,9.8%,9.6%,9.6%,Fri
+03/12/2010,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=24234,0.0%,0.2%,0.3%,Fri
+03/12/2010,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=25387,55.0,54.7,54.3,Fri
+03/12/2010,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26275,-0.9%,-0.7%,3.0%,Fri
+05/12/2010,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=29052,0.4%,,0.3%,Sun
+06/12/2010,00:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36576,,,,Mon
+06/12/2010,00:30,AUD,red,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=28493,2.9%,,0.7%,Mon
+06/12/2010,08:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=december.2010#detail=41365,212B,,212B,Mon
+06/12/2010,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=december.2010#detail=44077,,,,Mon
+06/12/2010,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=december.2010#detail=25093,9.7,13.2,14.0,Mon
+06/12/2010,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26958,-6.5%,-2.9%,14.9%,Mon
+06/12/2010,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=25605,57.5,56.4,56.7,Mon
+06/12/2010,22:29,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=december.2010#detail=24607,42.2,,44.0,Mon
+07/12/2010,00:00,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28287,0.7%,,0.8%,Tue
+07/12/2010,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=24485,4.75%,4.75%,4.75%,Tue
+07/12/2010,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=december.2010#detail=24486,,,,Tue
+07/12/2010,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2010#detail=49080,2.19|3.0,,1.98|5.4,Tue
+07/12/2010,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=december.2010#detail=29014,97.2%,97.6%,98.6%,Tue
+07/12/2010,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=27794,3.6%,3.6%,3.6%,Tue
+07/12/2010,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=december.2010#detail=36570,,,,Tue
+07/12/2010,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27020,0.6%,0.4%,0.2%,Tue
+07/12/2010,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27019,-0.2%,0.3%,0.4%,Tue
+07/12/2010,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25200,1.6%,1.9%,-4.0%,Tue
+07/12/2010,14:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=december.2010#detail=24197,,,,Tue
+07/12/2010,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=24196,1.00%,1.00%,1.00%,Tue
+07/12/2010,15:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=december.2010#detail=26988,0.6%,,0.5%,Tue
+07/12/2010,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=december.2010#detail=49317,3.36M,,3.01M,Tue
+07/12/2010,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=december.2010#detail=28241,45.8,48.3,46.7,Tue
+07/12/2010,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=24933,3.4B,-0.9B,1.2B,Tue
+07/12/2010,21:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=27516,1.3%,,3.1%,Tue
+07/12/2010,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=28343,-1.4%,0.0%,-10.3%,Tue
+07/12/2010,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28468,-2.0%,,-1.9%,Tue
+07/12/2010,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=december.2010#detail=28331,1.46T,1.55T,1.66T,Tue
+07/12/2010,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28531,2.6%,2.7%,2.8%,Tue
+08/12/2010,00:00,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28183,2.0%,,2.2%,Wed
+08/12/2010,00:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26166,1.9%,0.1%,-0.5%,Wed
+08/12/2010,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=december.2010#detail=26263,43.6,42.1,40.2,Wed
+08/12/2010,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=25105,14.3B,15.1B,15.4B,Wed
+08/12/2010,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=29248,,,,Wed
+08/12/2010,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=26627,-133.1B,,-124.2B,Wed
+08/12/2010,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=26559,-3.4B,-4.2B,-4.4B,Wed
+08/12/2010,09:20,AUD,orange,RBA Deputy Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36572,,,,Wed
+08/12/2010,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25178,2.9%,1.1%,-1.0%,Wed
+08/12/2010,,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=december.2010#detail=28195,-3,-12,-15,Wed
+08/12/2010,13:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=december.2010#detail=27926,187K,174K,168K,Wed
+08/12/2010,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2010#detail=24784,-3.8M,-1.3M,1.1M,Wed
+08/12/2010,16:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36809,,,,Wed
+08/12/2010,18:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2010#detail=42320,3.34|2.9,,2.64|2.8,Wed
+08/12/2010,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=24101,3.00%,3.00%,3.00%,Wed
+08/12/2010,,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=december.2010#detail=24116,,,,Wed
+08/12/2010,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=december.2010#detail=24109,,,,Wed
+08/12/2010,,NZD,orange,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=december.2010#detail=24117,,,,Wed
+08/12/2010,23:50,JPY,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=27717,1.1%,1.0%,0.9%,Wed
+08/12/2010,23:52,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=27718,-2.4%,-2.0%,-2.0%,Wed
+09/12/2010,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=december.2010#detail=26239,54.6K,21.3K,36.9K,Thu
+09/12/2010,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=26238,5.2%,5.2%,5.4%,Thu
+09/12/2010,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=26262,104.2%,,71.0%,Thu
+09/12/2010,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=26591,0.1%,0.3%,0.3%,Thu
+09/12/2010,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25154,0.1%,0.1%,0.1%,Thu
+09/12/2010,08:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=24569,-0.1%,0.3%,1.8%,Thu
+09/12/2010,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=december.2010#detail=27294,,,,Thu
+09/12/2010,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=26691,-8.5B,-8.1B,-8.4B,Thu
+09/12/2010,10:00,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=28135,0.4%,,0.5%,Thu
+09/12/2010,11:00,EUR,yellow,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=december.2010#detail=58829,,,,Thu
+09/12/2010,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=december.2010#detail=25081,200B,200B,200B,Thu
+09/12/2010,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=25079,0.50%,0.50%,0.50%,Thu
+09/12/2010,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26842,0.1%,0.2%,0.2%,Thu
+09/12/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2010#detail=28918,421K,426K,438K,Thu
+09/12/2010,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27964,1.9%,0.9%,2.1%,Thu
+09/12/2010,15:30,CAD,yellow,BOC Financial System Review,https://www.forexfactory.com/calendar?month=december.2010#detail=58702,,,,Thu
+09/12/2010,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2010#detail=24785,-89B,-83B,-23B,Thu
+09/12/2010,18:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2010#detail=42930,4.41|2.7,,4.32|2.3,Thu
+09/12/2010,21:45,NZD,yellow,Overseas Trade Index q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=27569,3.0%,1.7%,2.0%,Thu
+09/12/2010,23:50,JPY,orange,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2010#detail=28315,-8.0,14.3,13.3,Thu
+09/12/2010,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28371,0.9%,1.1%,0.8%,Thu
+10/12/2010,02:03,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=26417,22.9B,21.2B,27.2B,Fri
+10/12/2010,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2010#detail=28394,40.4,42.3,40.9,Fri
+10/12/2010,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25117,0.7%,0.5%,-0.3%,Fri
+10/12/2010,07:07,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=december.2010#detail=26419,564B,503B,588B,Fri
+10/12/2010,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=26418,19.5%,19.1%,19.3%,Fri
+10/12/2010,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26571,-0.8%,0.4%,0.1%,Fri
+10/12/2010,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26507,-0.1%,0.8%,-2.1%,Fri
+10/12/2010,09:30,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26715,0.3%,0.4%,0.6%,Fri
+10/12/2010,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=26751,-1.7B,-2.0B,-2.3B,Fri
+10/12/2010,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=25908,-38.7B,-43.5B,-44.6B,Fri
+10/12/2010,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26017,1.3%,0.9%,1.0%,Fri
+10/12/2010,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2010#detail=25318,74.2,72.4,71.6,Fri
+10/12/2010,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2010#detail=25319,2.9%,,3.0%,Fri
+10/12/2010,16:15,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36901,,,,Fri
+10/12/2010,19:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=25573,-150.4B,-129.8B,-140.4B,Fri
+11/12/2010,02:00,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=24913,5.1%,4.7%,4.4%,Sat
+11/12/2010,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=december.2010#detail=24915,24.9%,24.3%,24.4%,Sat
+11/12/2010,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=24912,13.3%,13.1%,13.1%,Sat
+11/12/2010,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=december.2010#detail=24916,,,,Sat
+11/12/2010,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=24914,6.1%,5.2%,5.0%,Sat
+11/12/2010,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=24917,18.7%,18.7%,18.6%,Sat
+11/12/2010,All Day,All,yellow,OPEC Meetings,https://www.forexfactory.com/calendar?month=december.2010#detail=29073,,,,Sat
+12/12/2010,21:45,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36573,,,,Sun
+12/12/2010,21:49,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27512,-0.6%,,2.2%,Sun
+12/12/2010,23:15,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27982,-3.0%,,-3.2%,Sun
+13/12/2010,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25415,-0.2%,0.1%,-0.4%,Mon
+13/12/2010,09:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26714,0.9%,0.7%,2.2%,Mon
+13/12/2010,11:30,GBP,orange,MPC Member Bean Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36899,,,,Mon
+13/12/2010,13:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=26846,78.1%,76.6%,76.9%,Mon
+13/12/2010,17:10,CAD,orange,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36574,,,,Mon
+13/12/2010,18:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36902,,,,Mon
+13/12/2010,21:00,NZD,orange,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=37367,1.9%,,-0.9%,Mon
+13/12/2010,21:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26667,-1.6%,-1.0%,1.7%,Mon
+13/12/2010,,NZD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26666,-2.5%,-0.8%,1.7%,Mon
+14/12/2010,00:01,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=28275,-44%,-49%,-49%,Tue
+14/12/2010,00:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=december.2010#detail=29029,6,,8,Tue
+14/12/2010,,AUD,yellow,Housing Starts q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=28477,-13.2%,-5.0%,2.1%,Tue
+14/12/2010,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=28783,-2.0%,-1.8%,-1.8%,Tue
+14/12/2010,06:30,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26583,0.1%,0.2%,0.1%,Tue
+14/12/2010,06:45,CHF,orange,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=december.2010#detail=28482,,,,Tue
+14/12/2010,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=25449,3.3%,3.1%,3.2%,Tue
+14/12/2010,,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=25450,2.7%,2.6%,2.7%,Tue
+14/12/2010,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=25712,5.5%,5.8%,6.1%,Tue
+14/12/2010,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=25451,4.7%,4.4%,4.5%,Tue
+14/12/2010,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=december.2010#detail=27701,4.3,3.8,1.8,Tue
+14/12/2010,,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27211,0.7%,1.4%,-0.7%,Tue
+14/12/2010,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=december.2010#detail=27702,15.5,10.3,13.8,Tue
+14/12/2010,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=december.2010#detail=48385,93.2,92.3,91.7,Tue
+14/12/2010,13:30,CAD,orange,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=26850,0.1%,0.3%,-0.6%,Tue
+14/12/2010,,CAD,orange,Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27939,0.3%,0.4%,0.3%,Tue
+14/12/2010,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25932,1.2%,0.7%,0.8%,Tue
+14/12/2010,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26004,0.8%,0.6%,0.4%,Tue
+14/12/2010,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25931,0.8%,0.6%,1.7%,Tue
+14/12/2010,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26005,0.3%,0.2%,-0.6%,Tue
+14/12/2010,13:34,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26830,-0.3%,3.3%,4.2%,Tue
+14/12/2010,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27318,0.7%,0.9%,1.3%,Tue
+14/12/2010,19:15,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=24156,<0.25%,<0.25%,<0.25%,Tue
+14/12/2010,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=december.2010#detail=24157,,,,Tue
+14/12/2010,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2010#detail=27185,0.2%,,-5.3%,Tue
+14/12/2010,23:50,JPY,red,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2010#detail=25341,5,4,8,Tue
+14/12/2010,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2010#detail=25342,1,0,2,Tue
+14/12/2010,,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=28747,0.5%,0.4%,-0.8%,Tue
+15/12/2010,00:00,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36575,,,,Wed
+15/12/2010,00:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26792,0.2%,,-0.5%,Wed
+15/12/2010,02:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=31175,0.9%,,0.6%,Wed
+15/12/2010,02:03,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=december.2010#detail=26416,17.7%,,15.7%,Wed
+15/12/2010,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=26519,-2.01B,-1.97B,-3.16B,Wed
+15/12/2010,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=december.2010#detail=24968,-1.2K,-2.9K,-5.2K,Wed
+15/12/2010,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=december.2010#detail=24969,2.2%,2.2%,2.1%,Wed
+15/12/2010,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=24967,7.9%,7.7%,7.7%,Wed
+15/12/2010,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=december.2010#detail=28933,-12.5,,-30.9,Wed
+15/12/2010,,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=28217,0.0%,0.2%,0.1%,Wed
+15/12/2010,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=december.2010#detail=28212,56,38,43,Wed
+15/12/2010,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26806,1.7%,0.9%,-0.5%,Wed
+15/12/2010,,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=december.2010#detail=56240,2.3%,,1.9%,Wed
+15/12/2010,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26041,0.1%,0.1%,0.0%,Wed
+15/12/2010,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=128517,1.1%,1.1%,1.2%,Wed
+15/12/2010,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26040,0.1%,0.2%,0.2%,Wed
+15/12/2010,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2010#detail=27093,10.6,4.7,-11.1,Wed
+15/12/2010,14:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=december.2010#detail=24500,27.6B,82.3B,77.2B,Wed
+15/12/2010,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=26098,75.2%,75.1%,74.9%,Wed
+15/12/2010,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26097,0.4%,0.4%,-0.2%,Wed
+15/12/2010,15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=december.2010#detail=26863,16,16,16,Wed
+15/12/2010,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2010#detail=24786,-9.9M,-2.7M,-3.8M,Wed
+15/12/2010,21:00,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2010#detail=27557,108.3,,114.1,Wed
+15/12/2010,21:29,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2010#detail=27306,52.7,,50.0,Wed
+16/12/2010,00:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2010#detail=28452,2.8%,,3.1%,Thu
+16/12/2010,00:30,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=december.2010#detail=24649,,,,Thu
+16/12/2010,02:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=december.2010#detail=28509,29.5,,33.2,Thu
+16/12/2010,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=26486,56.3,57.8,57.9,Thu
+16/12/2010,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=26491,54.1,55.4,55.0,Thu
+16/12/2010,08:19,CHF,orange,Industrial Production q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=25521,1.8%,1.1%,5.8%,Thu
+16/12/2010,08:20,GBP,red,MPC Member Posen Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=36900,,,,Thu
+16/12/2010,08:30,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=24976,0.25%,0.25%,0.25%,Thu
+16/12/2010,,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=december.2010#detail=24977,,,,Thu
+16/12/2010,,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=december.2010#detail=28440,,,,Thu
+16/12/2010,,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=26487,60.9,58.2,58.1,Thu
+16/12/2010,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=26488,58.3,59.1,59.2,Thu
+16/12/2010,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=26489,56.8,55.3,55.3,Thu
+16/12/2010,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=26490,53.7,55.3,55.4,Thu
+16/12/2010,Day 1,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=december.2010#detail=36897,,,,Thu
+16/12/2010,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=december.2010#detail=37064,,,,Thu
+16/12/2010,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26053,0.3%,0.5%,0.7%,Thu
+16/12/2010,,GBP,orange,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2010#detail=25246,3.9%,,3.4%,Thu
+16/12/2010,09:40,EUR,orange,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2010#detail=42488,5.45|1.7,,4.62|1.8,Thu
+16/12/2010,10:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=27383,1.1%,1.2%,1.1%,Thu
+16/12/2010,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=27382,1.9%,1.9%,1.9%,Thu
+16/12/2010,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=december.2010#detail=26818,9.51B,10.97B,13.36B,Thu
+16/12/2010,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=december.2010#detail=27770,0.53M,0.57M,0.55M,Thu
+16/12/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2010#detail=28919,420K,421K,423K,Thu
+16/12/2010,,USD,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2010#detail=26073,-127B,-126B,-123B,Thu
+16/12/2010,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=december.2010#detail=27769,0.56M,0.55M,0.53M,Thu
+16/12/2010,15:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2010#detail=27585,24.3,14.8,22.5,Thu
+16/12/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2010#detail=24787,-164B,-166B,-89B,Thu
+17/12/2010,00:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2010#detail=26069,45,53,52,Fri
+17/12/2010,,GBP,yellow,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=december.2010#detail=25256,,,,Fri
+17/12/2010,08:15,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=december.2010#detail=37065,,,,Fri
+17/12/2010,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=december.2010#detail=27806,109.9,109.2,109.3,Fri
+17/12/2010,Day 2,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=december.2010#detail=36898,,,,Fri
+17/12/2010,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=27406,3.6B,2.9B,2.0B,Fri
+17/12/2010,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=28120,1.1%,1.2%,0.4%,Fri
+20/12/2010,07:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25129,0.2%,0.4%,0.4%,Mon
+20/12/2010,09:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2010#detail=27235,-9.8B,-6.2B,-9.7B,Mon
+20/12/2010,09:34,GBP,orange,Prelim Mortgage Approvals,https://www.forexfactory.com/calendar?month=december.2010#detail=30396,45K,47K,44K,Mon
+20/12/2010,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=december.2010#detail=50171,,,,Mon
+20/12/2010,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27914,0.0%,0.8%,0.7%,Mon
+20/12/2010,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2010#detail=30760,-11,-9,-10,Mon
+20/12/2010,21:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=27530,0.5%,,-1.7%,Mon
+20/12/2010,23:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=28147,0.6%,,-0.2%,Mon
+21/12/2010,00:00,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2010#detail=27078,-21,-21,-21,Tue
+21/12/2010,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2010#detail=24650,,,,Tue
+21/12/2010,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28430,3.8%,,4.6%,Tue
+21/12/2010,03:55,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=december.2010#detail=28825,,,,Tue
+21/12/2010,,JPY,red,Overnight Call Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=28824,<0.10%,<0.10%,<0.10%,Tue
+21/12/2010,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=28555,-0.2%,-0.1%,-0.8%,Tue
+21/12/2010,07:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=december.2010#detail=27951,5.4,5.8,5.5,Tue
+21/12/2010,07:10,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=december.2010#detail=28826,,,,Tue
+21/12/2010,07:15,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=25545,1.93B,1.98B,2.05B,Tue
+21/12/2010,09:30,GBP,red,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=december.2010#detail=25690,22.8B,16.8B,8.6B,Tue
+21/12/2010,10:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=26607,8.3%,8.3%,8.4%,Tue
+21/12/2010,12:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26924,0.0%,0.2%,0.4%,Tue
+21/12/2010,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26923,0.1%,0.3%,0.4%,Tue
+21/12/2010,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26887,0.9%,0.8%,0.2%,Tue
+21/12/2010,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26886,0.8%,0.6%,0.4%,Tue
+21/12/2010,14:00,USD,orange,Fed Announcement,https://www.forexfactory.com/calendar?month=december.2010#detail=37165,,,,Tue
+21/12/2010,21:45,NZD,red,Current Account,https://www.forexfactory.com/calendar?month=december.2010#detail=27565,-1.77B,-2.27B,-0.99B,Tue
+21/12/2010,23:30,AUD,orange,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=29053,0.3%,,0.0%,Tue
+21/12/2010,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=december.2010#detail=28543,0.43T,0.63T,0.58T,Tue
+22/12/2010,05:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=december.2010#detail=28866,,,,Wed
+22/12/2010,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25166,1.2%,0.5%,-0.2%,Wed
+22/12/2010,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26531,0.3%,0.2%,-0.3%,Wed
+22/12/2010,09:30,GBP,red,Current Account,https://www.forexfactory.com/calendar?month=december.2010#detail=26057,-9.6B,-8.1B,-5.2B,Wed
+22/12/2010,,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=december.2010#detail=49147,1-0-8,1-0-8,1-0-8,Wed
+22/12/2010,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=december.2010#detail=28263,1-0-8,1-0-8,1-0-8,Wed
+22/12/2010,,GBP,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=26679,0.7%,0.8%,0.8%,Wed
+22/12/2010,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=25222,3.1%,-0.1%,-0.2%,Wed
+22/12/2010,13:30,USD,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=25980,2.6%,2.8%,2.5%,Wed
+22/12/2010,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=25981,2.1%,2.3%,2.3%,Wed
+22/12/2010,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=december.2010#detail=27818,3.1,1.2,0.8,Wed
+22/12/2010,15:00,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=december.2010#detail=27394,4.68M,4.72M,4.43M,Wed
+22/12/2010,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26899,0.7%,-0.1%,-1.2%,Wed
+22/12/2010,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2010#detail=24788,-5.3M,-1.1M,-9.9M,Wed
+22/12/2010,21:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=27573,-0.2%,0.1%,0.1%,Wed
+23/12/2010,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=28954,,,,Thu
+23/12/2010,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26603,2.8%,0.5%,-0.6%,Thu
+23/12/2010,09:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=december.2010#detail=29085,30.0K,31.3K,30.7K,Thu
+23/12/2010,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=december.2010#detail=28299,0.6%,0.4%,0.5%,Thu
+23/12/2010,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26936,0.2%,0.3%,-0.1%,Thu
+23/12/2010,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25957,2.4%,1.7%,-1.9%,Thu
+23/12/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2010#detail=28920,420K,421K,423K,Thu
+23/12/2010,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26152,0.1%,0.1%,0.0%,Thu
+23/12/2010,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25956,-1.3%,-0.5%,-3.1%,Thu
+23/12/2010,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26153,0.4%,0.5%,0.7%,Thu
+23/12/2010,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=26154,0.3%,0.3%,0.4%,Thu
+23/12/2010,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2010#detail=25320,74.5,74.7,74.2,Thu
+23/12/2010,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2010#detail=25321,3.0%,,2.9%,Thu
+23/12/2010,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=december.2010#detail=26287,290K,301K,275K,Thu
+23/12/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2010#detail=24789,-184B,-170B,-164B,Thu
+24/12/2010,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=29241,,,,Fri
+24/12/2010,10:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=december.2010#detail=25829,,,,Fri
+26/12/2010,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=28837,,,,Sun
+26/12/2010,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=28834,,,,Sun
+26/12/2010,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2010#detail=31801,,,,Sun
+26/12/2010,,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2010#detail=37160,,,,Sun
+26/12/2010,,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28359,-1.1%,-1.1%,-1.3%,Sun
+27/12/2010,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28406,6.8%,5.0%,6.4%,Mon
+27/12/2010,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=28951,,,,Mon
+27/12/2010,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=28853,,,,Mon
+27/12/2010,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=28836,,,,Mon
+27/12/2010,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=28835,,,,Mon
+27/12/2010,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=25880,-0.4%,0.4%,-0.4%,Mon
+27/12/2010,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=25883,-0.4%,-0.4%,-0.5%,Mon
+27/12/2010,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=25882,-0.5%,-0.5%,-0.6%,Mon
+27/12/2010,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2010#detail=25881,5.1%,5.1%,5.1%,Mon
+27/12/2010,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=28771,1.0%,1.0%,-2.0%,Mon
+27/12/2010,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28759,1.3%,0.4%,-0.2%,Mon
+28/12/2010,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=28383,-0.2%,0.6%,0.5%,Tue
+28/12/2010,07:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=december.2010#detail=24488,1.63,,1.71,Tue
+28/12/2010,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=28952,,,,Tue
+28/12/2010,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=28854,,,,Tue
+28/12/2010,14:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=27782,-0.8%,-0.1%,0.4%,Tue
+28/12/2010,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2010#detail=27032,25,11,9,Tue
+28/12/2010,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2010#detail=24487,52.5,56.2,54.3,Tue
+29/12/2010,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=25142,1.0%,0.8%,0.1%,Wed
+29/12/2010,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=27745,1.9%,1.6%,0.9%,Wed
+29/12/2010,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=december.2010#detail=27746,2.0%,1.7%,1.5%,Wed
+29/12/2010,09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=december.2010#detail=25261,-6.1B,-5.5B,-5.8B,Wed
+29/12/2010,10:30,CHF,red,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=december.2010#detail=25399,2.10,2.07,2.13,Wed
+29/12/2010,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=29002,48.3,,47.3,Wed
+30/12/2010,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=35043,54.4,,55.3,Thu
+30/12/2010,09:00,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=43623,52.9,,51.3,Thu
+30/12/2010,10:32,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2010#detail=42423,4.80|1.3,,4.43|1.3,Thu
+30/12/2010,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2010#detail=28921,388K,416K,422K,Thu
+30/12/2010,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=december.2010#detail=25273,68.6,61.2,62.5,Thu
+30/12/2010,15:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=37159,3.5%,1.8%,10.1%,Thu
+30/12/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2010#detail=24791,-136B,-171B,-184B,Thu
+30/12/2010,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2010#detail=24790,-1.3M,-2.8M,-5.3M,Thu
+31/12/2010,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=28953,,,,Fri
+31/12/2010,00:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=28418,0.3%,0.2%,0.1%,Fri
+31/12/2010,07:00,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=december.2010#detail=24570,0.4%,-0.2%,-0.3%,Fri
+31/12/2010,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=december.2010#detail=29242,,,,Fri

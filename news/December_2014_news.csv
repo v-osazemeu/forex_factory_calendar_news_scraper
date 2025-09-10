@@ -1,0 +1,382 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/12/2014,00:30,AUD,orange,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=50586,0.5%,-1.2%,-7.5%,Mon
+01/12/2014,00:59,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50489,50.3,50.5,50.8,Mon
+01/12/2014,01:35,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=51368,52.0,52.1,52.1,Mon
+01/12/2014,01:45,CNY,red,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50477,50.0,50.0,50.0,Mon
+01/12/2014,05:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=50674,-18.6%,,-17.6%,Mon
+01/12/2014,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50270,54.7,53.1,52.6,Mon
+01/12/2014,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50273,52.1,52.9,55.3,Mon
+01/12/2014,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50272,49.0,49.5,49.0,Mon
+01/12/2014,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=59060,48.4,47.6,47.6,Mon
+01/12/2014,08:55,EUR,orange,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=59061,49.5,50.0,50.0,Mon
+01/12/2014,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50271,50.1,50.4,50.4,Mon
+01/12/2014,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50274,53.5,53.1,53.3,Mon
+01/12/2014,,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51614,2.6B,2.8B,2.7B,Mon
+01/12/2014,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51839,-0.1%,0.2%,-0.7%,Mon
+01/12/2014,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=december.2014#detail=51842,59K,59K,61K,Mon
+01/12/2014,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=59550,55.3,,55.3,Mon
+01/12/2014,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=49682,54.8,55.0,54.7,Mon
+01/12/2014,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=49658,58.7,57.9,59.0,Mon
+01/12/2014,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=december.2014#detail=49657,44.5,52.6,53.5,Mon
+01/12/2014,17:15,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58344,,,,Mon
+01/12/2014,18:00,USD,orange,FOMC Member Fischer Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58345,,,,Mon
+01/12/2014,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51451,36.7%,37.2%,36.9%,Mon
+02/12/2014,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51002,-1.6%,,-0.8%,Tue
+02/12/2014,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=50759,11.4%,5.2%,-11.2%,Tue
+02/12/2014,,AUD,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2014#detail=50578,-12.5B,-13.5B,-13.9B,Tue
+02/12/2014,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51321,0.5%,0.8%,0.7%,Tue
+02/12/2014,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=49918,2.50%,2.50%,2.50%,Tue
+02/12/2014,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=december.2014#detail=49919,,,,Tue
+02/12/2014,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2014#detail=51428,0.47|3.0,,0.44|3.5,Tue
+02/12/2014,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=december.2014#detail=53302,-14.7K,21.3K,79.2K,Tue
+02/12/2014,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50370,59.4,61.1,61.4,Tue
+02/12/2014,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52202,-0.4%,0.3%,0.2%,Tue
+02/12/2014,13:10,USD,orange,FOMC Member Fischer Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58346,,,,Tue
+02/12/2014,13:30,USD,orange,Fed Chair Yellen Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58347,,,,Tue
+02/12/2014,14:33,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=december.2014#detail=56336,-1.1%,,-3.1%,Tue
+02/12/2014,15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=49670,1.1%,0.6%,-0.1%,Tue
+02/12/2014,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=december.2014#detail=52783,17.2M,16.6M,16.5M,Tue
+02/12/2014,17:00,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58348,,,,Tue
+02/12/2014,22:21,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=december.2014#detail=50405,43.8,,43.6,Tue
+03/12/2014,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51754,-1.9%,,-1.9%,Wed
+03/12/2014,00:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=50582,0.3%,0.7%,0.5%,Wed
+03/12/2014,01:00,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50501,53.9,,53.8,Wed
+03/12/2014,01:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=54057,53.0,,52.9,Wed
+03/12/2014,06:45,CHF,yellow,GDP q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=51969,0.6%,0.3%,0.3%,Wed
+03/12/2014,08:15,EUR,orange,Spanish Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50442,52.7,56.2,55.9,Wed
+03/12/2014,08:45,EUR,orange,Italian Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50439,51.8,50.9,50.8,Wed
+03/12/2014,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=59241,47.9,48.8,48.8,Wed
+03/12/2014,08:55,EUR,orange,German Final Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=59247,52.1,52.1,52.1,Wed
+03/12/2014,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50436,51.1,51.3,51.3,Wed
+03/12/2014,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50358,58.6,56.6,56.2,Wed
+03/12/2014,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52203,0.4%,0.6%,-1.2%,Wed
+03/12/2014,12:30,GBP,red,Autumn Forecast Statement,https://www.forexfactory.com/calendar?month=december.2014#detail=50208,,,,Wed
+03/12/2014,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=december.2014#detail=49892,208K,223K,233K,Wed
+03/12/2014,13:30,USD,orange,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=52507,2.3%,2.3%,2.0%,Wed
+03/12/2014,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=52509,-1.0%,0.3%,0.3%,Wed
+03/12/2014,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=53494,56.2,56.3,56.3,Wed
+03/12/2014,15:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=december.2014#detail=49968,,,,Wed
+03/12/2014,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=49969,1.00%,1.00%,1.00%,Wed
+03/12/2014,,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=52835,59.3,57.5,57.1,Wed
+03/12/2014,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2014#detail=49628,-3.7M,1.1M,1.9M,Wed
+03/12/2014,17:30,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58302,,,,Wed
+03/12/2014,19:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=december.2014#detail=49812,,,,Wed
+03/12/2014,,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58352,,,,Wed
+03/12/2014,22:45,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58350,,,,Wed
+04/12/2014,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=50634,-1.32B,-1.85B,-2.24B,Thu
+04/12/2014,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=50646,0.4%,0.1%,1.3%,Thu
+04/12/2014,,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58365,,,,Thu
+04/12/2014,08:03,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51814,0.4%,0.2%,-0.4%,Thu
+04/12/2014,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50453,48.9,,47.0,Thu
+04/12/2014,09:42,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2014#detail=58245,1.84|2.2,,2.12|3.0,Thu
+04/12/2014,10:02,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2014#detail=58244,1.11|2.4,,1.18|1.4,Thu
+04/12/2014,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=50079,0.50%,0.50%,0.50%,Thu
+04/12/2014,,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=december.2014#detail=50058,375B,375B,375B,Thu
+04/12/2014,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=49895,-20.7%,,11.9%,Thu
+04/12/2014,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=50020,0.05%,0.05%,0.05%,Thu
+04/12/2014,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=december.2014#detail=50018,,,,Thu
+04/12/2014,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2014#detail=49524,297K,296K,314K,Thu
+04/12/2014,,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58303,,,,Thu
+04/12/2014,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=53698,56.9,52.7,51.2,Thu
+04/12/2014,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2014#detail=49576,-22B,-51B,-162B,Thu
+04/12/2014,17:30,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58349,,,,Thu
+04/12/2014,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=december.2014#detail=50406,45.4,,53.4,Thu
+05/12/2014,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=december.2014#detail=51168,104.0%,104.2%,105.6%,Fri
+05/12/2014,07:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53055,2.5%,0.6%,1.1%,Fri
+05/12/2014,08:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=december.2014#detail=49996,462B,,461B,Fri
+05/12/2014,09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2014#detail=51883,2.5%,,2.8%,Fri
+05/12/2014,10:00,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=52220,0.2%,0.2%,0.2%,Fri
+05/12/2014,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=december.2014#detail=53620,-10.7K,5.3K,43.1K,Fri
+05/12/2014,,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=53534,0.1B,0.4B,0.3B,Fri
+05/12/2014,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=53621,6.6%,6.6%,6.5%,Fri
+05/12/2014,,CAD,orange,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=53626,0.1%,-0.1%,2.0%,Fri
+05/12/2014,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=december.2014#detail=49461,321K,231K,243K,Fri
+05/12/2014,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=52584,-43.4B,-41.3B,-43.6B,Fri
+05/12/2014,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=49460,5.8%,5.8%,5.8%,Fri
+05/12/2014,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=49459,0.4%,0.2%,0.1%,Fri
+05/12/2014,13:45,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58304,,,,Fri
+05/12/2014,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52859,-0.7%,0.0%,-0.5%,Fri
+05/12/2014,19:45,USD,orange,FOMC Member Fischer Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58305,,,,Fri
+05/12/2014,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52771,13.2B,16.5B,15.4B,Fri
+07/12/2014,21:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=50982,-1.2%,,-2.3%,Sun
+07/12/2014,23:50,JPY,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2014#detail=51132,0.95T,0.46T,0.41T,Sun
+07/12/2014,,JPY,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=51271,-0.5%,-0.1%,-0.4%,Sun
+07/12/2014,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51108,2.7%,,2.3%,Sun
+07/12/2014,23:54,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51268,2.0%,2.1%,2.1%,Sun
+08/12/2014,00:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=50723,0.7%,,0.2%,Mon
+08/12/2014,02:07,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=50901,54.5B,44.3B,45.4B,Mon
+08/12/2014,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=december.2014#detail=51393,41.5,45.9,44.0,Mon
+08/12/2014,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53056,0.2%,0.2%,1.1%,Mon
+08/12/2014,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53432,,,,Mon
+08/12/2014,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52038,0.0%,0.0%,0.0%,Mon
+08/12/2014,,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=52011,0.3%,0.9%,0.5%,Mon
+08/12/2014,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=december.2014#detail=52977,-2.5,-9.9,-11.9,Mon
+08/12/2014,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=december.2014#detail=58306,,,,Mon
+08/12/2014,13:13,CAD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=december.2014#detail=53710,196K,201K,184K,Mon
+08/12/2014,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53506,0.7%,2.1%,12.5%,Mon
+08/12/2014,15:00,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=57472,2.9,,3.9,Mon
+08/12/2014,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51452,3.6%,3.2%,3.2%,Mon
+09/12/2014,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51538,0.9%,,0.0%,Tue
+09/12/2014,00:30,AUD,red,NAB Business Confidence,https://www.forexfactory.com/calendar?month=december.2014#detail=50529,1,,5,Tue
+09/12/2014,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2014#detail=51416,1.46|3.1,,1.48|3.0,Tue
+09/12/2014,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51180,36.6%,,30.8%,Tue
+09/12/2014,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=52052,3.1%,3.2%,3.1%,Tue
+09/12/2014,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=53031,20.6B,18.1B,18.6B,Tue
+09/12/2014,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=52305,-84.7B,,-80.5B,Tue
+09/12/2014,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=52307,-4.6B,-4.5B,-4.7B,Tue
+09/12/2014,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51602,-0.7%,0.2%,0.6%,Tue
+09/12/2014,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51600,-0.1%,0.3%,0.7%,Tue
+09/12/2014,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=december.2014#detail=58307,,,,Tue
+09/12/2014,10:34,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2014#detail=58301,2.70|1.8,,3.04|2.0,Tue
+09/12/2014,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=december.2014#detail=52674,98.1,96.6,96.1,Tue
+09/12/2014,15:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=december.2014#detail=51626,0.7%,,0.7%,Tue
+09/12/2014,,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=december.2014#detail=52508,4.83M,4.81M,4.69M,Tue
+09/12/2014,,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52637,0.4%,0.1%,0.4%,Tue
+09/12/2014,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=december.2014#detail=49824,48.4,47.2,46.4,Tue
+09/12/2014,21:05,NZD,yellow,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51068,3.3%,,1.4%,Tue
+09/12/2014,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2014#detail=50552,-5.7%,,1.9%,Tue
+09/12/2014,23:50,JPY,orange,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2014#detail=51357,8.1,13.1,12.7,Tue
+09/12/2014,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51345,2.7%,2.7%,2.9%,Tue
+10/12/2014,00:30,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=50784,0.3%,0.1%,-0.4%,Wed
+10/12/2014,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=50857,1.4%,1.6%,1.6%,Wed
+10/12/2014,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=50856,-2.7%,-2.3%,-2.2%,Wed
+10/12/2014,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2014#detail=51387,37.7,39.6,38.9,Wed
+10/12/2014,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=52340,-0.3%,-0.2%,0.0%,Wed
+10/12/2014,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52320,-0.8%,0.2%,0.0%,Wed
+10/12/2014,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=51657,-9.6B,-9.5B,-10.5B,Wed
+10/12/2014,15:30,CAD,yellow,BOC Financial System Review,https://www.forexfactory.com/calendar?month=december.2014#detail=58710,,,,Wed
+10/12/2014,,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2014#detail=49629,1.5M,-2.6M,-3.7M,Wed
+10/12/2014,16:15,CAD,orange,Gov Council Member Wilkins Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58413,,,,Wed
+10/12/2014,18:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2014#detail=49843,2.21|3.0,,2.37|2.5,Wed
+10/12/2014,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=52795,-56.8B,-68.3B,-121.7B,Wed
+10/12/2014,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=52933,3.50%,3.50%,3.50%,Wed
+10/12/2014,,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=december.2014#detail=52936,,,,Wed
+10/12/2014,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=december.2014#detail=52934,,,,Wed
+10/12/2014,,NZD,orange,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=december.2014#detail=52935,,,,Wed
+10/12/2014,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51022,-0.5%,,0.0%,Wed
+10/12/2014,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51120,-6.4%,-2.1%,2.9%,Wed
+10/12/2014,,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51204,-0.2%,-0.1%,1.3%,Wed
+11/12/2014,00:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2014#detail=50553,3.4%,,4.1%,Thu
+11/12/2014,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=51855,13%,16%,20%,Thu
+11/12/2014,00:10,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58433,,,,Thu
+11/12/2014,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=december.2014#detail=50747,42.7K,15.2K,13.7K,Thu
+11/12/2014,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=50745,6.3%,6.3%,6.2%,Thu
+11/12/2014,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53343,0.0%,0.0%,0.0%,Thu
+11/12/2014,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52283,-0.2%,0.2%,0.0%,Thu
+11/12/2014,08:30,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=49983,<0.25%,<0.25%,<0.25%,Thu
+11/12/2014,,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=december.2014#detail=49984,,,,Thu
+11/12/2014,,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=december.2014#detail=49982,,,,Thu
+11/12/2014,09:00,EUR,yellow,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=december.2014#detail=50032,,,,Thu
+11/12/2014,,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52388,-0.1%,0.3%,-0.9%,Thu
+11/12/2014,10:19,EUR,red,Long Term Refinancing Operation,https://www.forexfactory.com/calendar?month=december.2014#detail=54274,129.8B,148.2B,82.6B,Thu
+11/12/2014,13:00,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58432,,,,Thu
+11/12/2014,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53650,0.1%,0.2%,0.1%,Thu
+11/12/2014,,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=53574,83.4%,82.9%,82.8%,Thu
+11/12/2014,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52959,0.5%,0.1%,0.4%,Thu
+11/12/2014,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52961,0.7%,0.4%,0.5%,Thu
+11/12/2014,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2014#detail=49525,294K,299K,297K,Thu
+11/12/2014,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52510,-1.5%,-1.7%,-1.2%,Thu
+11/12/2014,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52686,0.2%,0.2%,0.3%,Thu
+11/12/2014,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2014#detail=49577,-51B,-45B,-22B,Thu
+11/12/2014,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2014#detail=49847,2.85|2.8,,3.09|2.3,Thu
+11/12/2014,21:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2014#detail=50513,55.2,,58.9,Thu
+12/12/2014,04:33,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51240,0.4%,0.2%,0.2%,Fri
+12/12/2014,05:30,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=50854,7.2%,7.6%,7.7%,Fri
+12/12/2014,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=december.2014#detail=50853,15.8%,15.8%,15.9%,Fri
+12/12/2014,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=50855,11.7%,11.5%,11.5%,Fri
+12/12/2014,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53067,-0.7%,0.3%,-0.6%,Fri
+12/12/2014,08:02,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=december.2014#detail=50887,853B,660B,548B,Fri
+12/12/2014,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=50889,12.3%,12.5%,12.6%,Fri
+12/12/2014,09:30,GBP,orange,Construction Output m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=54224,-2.2%,0.8%,2.2%,Fri
+12/12/2014,10:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52204,0.1%,0.2%,0.5%,Fri
+12/12/2014,,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=52224,0.2%,0.2%,0.3%,Fri
+12/12/2014,,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51550,-0.3%,,-0.3%,Fri
+12/12/2014,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52512,-0.2%,-0.1%,0.2%,Fri
+12/12/2014,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52511,0.0%,0.1%,0.4%,Fri
+12/12/2014,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2014#detail=49752,93.8,89.6,88.8,Fri
+12/12/2014,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2014#detail=49754,2.9%,,2.8%,Fri
+14/12/2014,All Day,JPY,red,Lower House Elections,https://www.forexfactory.com/calendar?month=december.2014#detail=58249,,,,Sun
+14/12/2014,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=december.2014#detail=127152,54.8,,57.6,Sun
+14/12/2014,23:16,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51867,-3.3%,,-1.7%,Sun
+14/12/2014,23:50,JPY,orange,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2014#detail=51350,12,13,13,Sun
+14/12/2014,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2014#detail=51353,16,14,13,Sun
+15/12/2014,00:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=50610,-0.6%,,-1.8%,Mon
+15/12/2014,02:24,AUD,red,Mid-Year Economic and Fiscal Outlook,https://www.forexfactory.com/calendar?month=december.2014#detail=53958,,,,Mon
+15/12/2014,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52041,-0.7%,0.2%,-0.1%,Mon
+15/12/2014,11:00,EUR,orange,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=december.2014#detail=50572,,,,Mon
+15/12/2014,,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=december.2014#detail=51918,5,3,3,Mon
+15/12/2014,13:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2014#detail=52601,-3.6,12.1,10.2,Mon
+15/12/2014,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=52625,80.1%,79.4%,79.3%,Mon
+15/12/2014,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52626,1.3%,0.8%,0.1%,Mon
+15/12/2014,15:00,USD,orange,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=december.2014#detail=53756,57,59,58,Mon
+15/12/2014,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=december.2014#detail=52734,-1.4B,72.8B,164.3B,Mon
+16/12/2014,00:15,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58630,,,,Tue
+16/12/2014,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2014#detail=49934,,,,Tue
+16/12/2014,01:35,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=54135,52.1,52.3,52.0,Tue
+16/12/2014,01:45,CNY,red,Caixin Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50478,49.5,49.8,50.0,Tue
+16/12/2014,02:00,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=december.2014#detail=50913,0.7%,,-1.2%,Tue
+16/12/2014,07:00,GBP,red,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=december.2014#detail=57464,,,,Tue
+16/12/2014,,GBP,orange,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=december.2014#detail=50210,,,,Tue
+16/12/2014,,GBP,orange,FPC Statement,https://www.forexfactory.com/calendar?month=december.2014#detail=57074,,,,Tue
+16/12/2014,08:00,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50343,47.9,48.7,48.4,Tue
+16/12/2014,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50344,49.8,48.6,47.9,Tue
+16/12/2014,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50345,51.2,50.4,49.5,Tue
+16/12/2014,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50346,51.4,52.6,52.1,Tue
+16/12/2014,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50341,50.8,50.5,50.1,Tue
+16/12/2014,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=50342,51.9,51.6,51.1,Tue
+16/12/2014,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=53272,5.40B,1.97B,2.02B,Tue
+16/12/2014,09:15,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=54243,,,,Tue
+16/12/2014,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51738,1.0%,1.2%,1.3%,Tue
+16/12/2014,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51741,-1.0%,-1.1%,-1.5%,Tue
+16/12/2014,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51739,2.0%,2.2%,2.3%,Tue
+16/12/2014,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51737,1.2%,1.5%,1.5%,Tue
+16/12/2014,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51740,10.4%,13.2%,12.1%,Tue
+16/12/2014,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51742,0.2%,-0.3%,-0.3%,Tue
+16/12/2014,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=december.2014#detail=53133,34.9,19.8,11.5,Tue
+16/12/2014,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=december.2014#detail=53132,31.8,20.1,11.0,Tue
+16/12/2014,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=52205,19.4B,18.2B,17.9B,Tue
+16/12/2014,13:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53637,-0.6%,-0.4%,2.2%,Tue
+16/12/2014,,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=december.2014#detail=53521,9.53B,5.21B,4.64B,Tue
+16/12/2014,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=december.2014#detail=52721,1.04M,1.06M,1.09M,Tue
+16/12/2014,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=december.2014#detail=52722,1.03M,1.04M,1.05M,Tue
+16/12/2014,14:45,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=49694,53.7,56.1,54.8,Tue
+16/12/2014,14:48,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=december.2014#detail=56337,2.4%,,-1.1%,Tue
+16/12/2014,21:45,NZD,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2014#detail=50990,-5.01B,-5.32B,-1.08B,Tue
+16/12/2014,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=50622,-0.1%,,0.1%,Tue
+16/12/2014,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=51192,-0.93T,-0.99T,-0.99T,Tue
+17/12/2014,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51785,1.4%,1.3%,1.0%,Wed
+17/12/2014,,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=december.2014#detail=51790,-26.9K,-19.8K,-25.1K,Wed
+17/12/2014,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=december.2014#detail=50103,2-0-7,2-0-7,2-0-7,Wed
+17/12/2014,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=december.2014#detail=50106,0-0-9,0-0-9,0-0-9,Wed
+17/12/2014,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=51788,6.0%,5.9%,6.0%,Wed
+17/12/2014,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=december.2014#detail=52100,-4.9,,-7.6,Wed
+17/12/2014,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=52207,0.3%,0.3%,0.3%,Wed
+17/12/2014,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=52206,0.7%,0.7%,0.7%,Wed
+17/12/2014,All Day,EUR,yellow,Greek Presidential Elections,https://www.forexfactory.com/calendar?month=december.2014#detail=58728,,,,Wed
+17/12/2014,13:30,CAD,red,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53662,0.1%,0.9%,2.3%,Wed
+17/12/2014,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52513,0.1%,0.1%,0.2%,Wed
+17/12/2014,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52514,-0.3%,-0.1%,0.0%,Wed
+17/12/2014,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=128565,1.3%,1.4%,1.7%,Wed
+17/12/2014,,USD,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2014#detail=52585,-100B,-98B,-98B,Wed
+17/12/2014,14:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=december.2014#detail=49974,,,,Wed
+17/12/2014,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2014#detail=49630,-0.8M,-2.6M,1.5M,Wed
+17/12/2014,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=49787,<0.25%,<0.25%,<0.25%,Wed
+17/12/2014,,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=december.2014#detail=49790,,,,Wed
+17/12/2014,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=december.2014#detail=49788,,,,Wed
+17/12/2014,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=december.2014#detail=49789,,,,Wed
+17/12/2014,21:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=50986,1.0%,0.7%,0.7%,Wed
+18/12/2014,00:30,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=december.2014#detail=49939,,,,Thu
+18/12/2014,06:45,CHF,yellow,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=december.2014#detail=52088,,,,Thu
+18/12/2014,07:00,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=58662,-0.25%,,<0.25%,Thu
+18/12/2014,,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=52014,3.87B,2.41B,3.23B,Thu
+18/12/2014,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=december.2014#detail=53226,105.5,105.6,104.7,Thu
+18/12/2014,Day 1,EUR,orange,EU Economic Summit,https://www.forexfactory.com/calendar?month=december.2014#detail=58435,,,,Thu
+18/12/2014,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51658,1.6%,0.3%,1.0%,Thu
+18/12/2014,09:46,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2014#detail=53212,1.73|1.8,,1.84|2.2,Thu
+18/12/2014,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2014#detail=49526,289K,297K,295K,Thu
+18/12/2014,14:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=53478,53.6,57.1,56.2,Thu
+18/12/2014,15:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2014#detail=52746,24.5,26.3,40.8,Thu
+18/12/2014,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52847,0.6%,0.6%,0.6%,Thu
+18/12/2014,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2014#detail=49578,-64B,-61B,-51B,Thu
+18/12/2014,21:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=50957,3.1%,,3.5%,Thu
+18/12/2014,23:37,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2014#detail=51895,-4,-1,-2,Thu
+19/12/2014,00:00,NZD,orange,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=december.2014#detail=51091,30.4,,31.5,Fri
+19/12/2014,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=50978,5.2%,,6.8%,Fri
+19/12/2014,03:28,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=december.2014#detail=51504,,,,Fri
+19/12/2014,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51143,-0.1%,0.2%,1.4%,Fri
+19/12/2014,06:30,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=december.2014#detail=51505,,,,Fri
+19/12/2014,07:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=december.2014#detail=53238,9.0,8.9,8.7,Fri
+19/12/2014,,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53079,0.0%,-0.2%,-0.2%,Fri
+19/12/2014,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=december.2014#detail=52208,20.5B,27.8B,32.0B,Fri
+19/12/2014,Day 2,EUR,orange,EU Economic Summit,https://www.forexfactory.com/calendar?month=december.2014#detail=58436,,,,Fri
+19/12/2014,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=december.2014#detail=51669,13.4B,14.8B,6.4B,Fri
+19/12/2014,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=december.2014#detail=51919,61,30,27,Fri
+19/12/2014,13:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53555,-0.2%,0.1%,0.3%,Fri
+19/12/2014,,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53686,0.2%,0.2%,0.0%,Fri
+19/12/2014,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53558,-0.4%,-0.2%,0.1%,Fri
+19/12/2014,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53684,0.0%,-0.4%,0.8%,Fri
+21/12/2014,21:00,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2014#detail=51080,114.8,,116.7,Sun
+22/12/2014,05:00,JPY,yellow,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=december.2014#detail=51466,,,,Mon
+22/12/2014,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53096,-0.8%,-0.6%,-0.3%,Mon
+22/12/2014,09:30,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2014#detail=57089,,,,Mon
+22/12/2014,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2014#detail=53877,-11,-11,-12,Mon
+22/12/2014,,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=december.2014#detail=52661,4.93M,5.21M,5.25M,Mon
+22/12/2014,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=december.2014#detail=50946,-213M,-550M,-911M,Mon
+23/12/2014,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53404,,,,Tue
+23/12/2014,02:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=50925,0.9%,,0.8%,Tue
+23/12/2014,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52272,0.4%,0.2%,-0.8%,Tue
+23/12/2014,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53273,0.0%,0.2%,0.0%,Tue
+23/12/2014,09:30,GBP,red,Current Account,https://www.forexfactory.com/calendar?month=december.2014#detail=51554,-27.0B,-21.1B,-24.3B,Tue
+23/12/2014,,GBP,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=51566,0.7%,0.7%,0.7%,Tue
+23/12/2014,,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=december.2014#detail=51802,36.7K,37.3K,37.2K,Tue
+23/12/2014,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=december.2014#detail=51577,0.7%,0.7%,0.8%,Tue
+23/12/2014,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=51633,-1.4%,-0.7%,-0.7%,Tue
+23/12/2014,All Day,EUR,yellow,Greek Presidential Elections,https://www.forexfactory.com/calendar?month=december.2014#detail=58727,,,,Tue
+23/12/2014,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=53570,0.3%,0.1%,0.4%,Tue
+23/12/2014,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52881,-0.4%,1.1%,-1.1%,Tue
+23/12/2014,,USD,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=52590,5.0%,4.3%,3.9%,Tue
+23/12/2014,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52883,-0.7%,3.0%,0.3%,Tue
+23/12/2014,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=52589,1.4%,1.4%,1.4%,Tue
+23/12/2014,14:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=december.2014#detail=52758,-6.9,-5.8,-6.1,Tue
+23/12/2014,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52811,0.6%,0.3%,0.0%,Tue
+23/12/2014,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2014#detail=49751,93.6,93.5,93.8,Tue
+23/12/2014,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2014#detail=49753,2.8%,,2.9%,Tue
+23/12/2014,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2014#detail=53320,7,8,4,Tue
+23/12/2014,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=december.2014#detail=52713,438K,461K,445K,Tue
+23/12/2014,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52586,0.0%,0.1%,0.2%,Tue
+23/12/2014,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52588,0.6%,0.5%,0.3%,Tue
+23/12/2014,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52587,0.4%,0.6%,0.3%,Tue
+23/12/2014,23:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=50598,-0.2%,,-0.6%,Tue
+24/12/2014,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53452,,,,Wed
+24/12/2014,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=december.2014#detail=51981,98.7,99.2,98.9,Wed
+24/12/2014,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2014#detail=49527,280K,291K,289K,Wed
+24/12/2014,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2014#detail=49631,7.3M,-2.4M,-0.8M,Wed
+24/12/2014,17:00,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2014#detail=49579,-49B,-81B,-64B,Wed
+24/12/2014,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53790,,,,Wed
+24/12/2014,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53377,,,,Wed
+24/12/2014,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2014#detail=54247,,,,Wed
+24/12/2014,,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51332,3.6%,3.5%,3.6%,Wed
+25/12/2014,03:45,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=december.2014#detail=58663,,,,Thu
+25/12/2014,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=58434,-14.3%,-12.6%,-12.3%,Thu
+25/12/2014,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53423,,,,Thu
+25/12/2014,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53433,,,,Thu
+25/12/2014,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53444,,,,Thu
+25/12/2014,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53453,,,,Thu
+25/12/2014,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53413,,,,Thu
+25/12/2014,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53388,,,,Thu
+25/12/2014,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53363,,,,Thu
+25/12/2014,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53791,,,,Thu
+25/12/2014,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53378,,,,Thu
+25/12/2014,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51156,-2.5%,-3.5%,-4.0%,Thu
+25/12/2014,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51309,2.3%,2.3%,2.4%,Thu
+25/12/2014,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51308,2.7%,2.7%,2.9%,Thu
+25/12/2014,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2014#detail=51307,3.5%,3.5%,3.5%,Thu
+25/12/2014,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=51228,-0.6%,1.0%,0.4%,Thu
+25/12/2014,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51216,0.4%,1.2%,1.4%,Thu
+26/12/2014,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=51320,-1.5%,0.5%,0.2%,Fri
+26/12/2014,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53424,,,,Fri
+26/12/2014,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53434,,,,Fri
+26/12/2014,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53454,,,,Fri
+26/12/2014,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53414,,,,Fri
+26/12/2014,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53387,,,,Fri
+29/12/2014,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=december.2014#detail=52017,1.29,,1.32,Mon
+29/12/2014,All Day,EUR,red,Greek Presidential Elections,https://www.forexfactory.com/calendar?month=december.2014#detail=58726,,,,Mon
+30/12/2014,07:00,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=55588,0.2%,0.3%,0.3%,Tue
+30/12/2014,08:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=54187,-1.1%,-0.7%,-0.4%,Tue
+30/12/2014,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=53742,3.1%,2.6%,2.5%,Tue
+30/12/2014,,EUR,orange,Private Loans y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=53744,-0.9%,-0.9%,-1.1%,Tue
+30/12/2014,10:20,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2014#detail=52372,1.89|1.3,,2.08|1.6,Tue
+30/12/2014,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=december.2014#detail=52822,4.5%,4.4%,4.8%,Tue
+30/12/2014,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2014#detail=49766,92.6,94.6,91.0,Tue
+31/12/2014,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53405,,,,Wed
+31/12/2014,00:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=50662,0.5%,0.5%,0.6%,Wed
+31/12/2014,01:45,CNY,red,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=55338,49.6,49.5,49.5,Wed
+31/12/2014,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53455,,,,Wed
+31/12/2014,09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=december.2014#detail=51819,-10.9B,-9.2B,-10.6B,Wed
+31/12/2014,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2014#detail=54293,298K,287K,281K,Wed
+31/12/2014,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=december.2014#detail=49706,58.3,60.2,60.8,Wed
+31/12/2014,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=december.2014#detail=52662,0.8%,0.6%,-1.2%,Wed
+31/12/2014,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2014#detail=49632,-1.8M,0.2M,7.3M,Wed
+31/12/2014,17:00,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2014#detail=54398,-26B,-37B,-49B,Wed
+31/12/2014,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=58385,,,,Wed
+31/12/2014,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2014#detail=53368,,,,Wed

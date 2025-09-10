@@ -1,0 +1,317 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/04/2007,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2007#detail=4057,56.0,,57.7,Sun
+01/04/2007,23:50,JPY,red,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2007#detail=4052,23,24,25,Sun
+01/04/2007,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2007#detail=4053,22,23,22,Sun
+02/04/2007,00:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=11305,1.4%,1.3%,1.2%,Mon
+02/04/2007,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=18328,56.1,,53.1,Mon
+02/04/2007,01:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4059,10.6%,0.5%,-2.4%,Mon
+02/04/2007,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4058,0.9%,0.6%,0.8%,Mon
+02/04/2007,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=18323,52.3,,53.0,Mon
+02/04/2007,06:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=10307,9.0%,,8.1%,Mon
+02/04/2007,07:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=43792,55.4,,56.2,Mon
+02/04/2007,07:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4071,62.0,63.1,63.5,Mon
+02/04/2007,07:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=43434,53.8,54.5,54.2,Mon
+02/04/2007,08:00,EUR,orange,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4063,55.4,55.6,55.6,Mon
+02/04/2007,08:30,GBP,orange,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4045,54.4,55.0,55.4,Mon
+02/04/2007,,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=10280,14.6B,14.3B,12.2B,Mon
+02/04/2007,14:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4027,50.9,51.3,52.3,Mon
+02/04/2007,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=april.2007#detail=4028,65.5,60.0,59.0,Mon
+02/04/2007,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4055,-19.1%,-22.0%,-21.1%,Mon
+03/04/2007,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=42299,59.6,,49.7,Tue
+03/04/2007,01:30,AUD,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4060,-0.84B,-1.30B,-0.82B,Tue
+03/04/2007,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2007#detail=48977,1.66|3.1,,1.67|3.9,Tue
+03/04/2007,05:45,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4072,0.1%,0.2%,0.2%,Tue
+03/04/2007,07:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=april.2007#detail=43971,-15.8K,,-7.2K,Tue
+03/04/2007,08:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4046,58.9,57.5,57.3,Tue
+03/04/2007,09:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4064,0.3%,0.3%,0.2%,Tue
+03/04/2007,14:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=9882,0.7%,-0.5%,-4.2%,Tue
+03/04/2007,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2007#detail=4029,16.3M,16.4M,16.6M,Tue
+03/04/2007,23:01,GBP,yellow,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2007#detail=4047,88,86,85,Tue
+03/04/2007,23:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4061,6.25%,6.25%,6.25%,Tue
+03/04/2007,,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=april.2007#detail=4076,50.6,,54.5,Tue
+04/04/2007,03:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=9714,2.0%,,1.6%,Wed
+04/04/2007,07:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=43888,56.7,,56.7,Wed
+04/04/2007,07:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=43438,54.1,56.4,56.2,Wed
+04/04/2007,08:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4066,57.4,57.6,57.5,Wed
+04/04/2007,08:30,GBP,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4048,57.6,57.5,57.4,Wed
+04/04/2007,09:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4067,0.3%,1.0%,-0.8%,Wed
+04/04/2007,09:30,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4079,0.7%,,1.8%,Wed
+04/04/2007,10:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4068,3.9%,0.6%,-0.3%,Wed
+04/04/2007,12:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2007#detail=4030,106K,125K,65K,Wed
+04/04/2007,12:30,CAD,orange,Building Permits m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4041,-22.4%,-8.5%,10.4%,Wed
+04/04/2007,14:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4031,52.4,54.8,54.3,Wed
+04/04/2007,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4033,1.0%,1.9%,-5.7%,Wed
+04/04/2007,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2007#detail=4040,4.3M,0.5M,-0.8M,Wed
+05/04/2007,08:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=9360,1.0%,0.5%,1.9%,Thu
+05/04/2007,08:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4050,-0.6%,0.3%,-0.2%,Thu
+05/04/2007,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4049,-0.2%,0.2%,0.0%,Thu
+05/04/2007,08:56,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2007#detail=43329,4.13|3.0,,4.01|2.3,Thu
+05/04/2007,09:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=april.2007#detail=42190,45B,,45B,Thu
+05/04/2007,10:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4069,0.9%,-0.4%,0.9%,Thu
+05/04/2007,11:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2007#detail=4042,54.9K,12.0K,14.2K,Thu
+05/04/2007,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4043,6.1%,6.1%,6.1%,Thu
+05/04/2007,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4051,5.25%,5.25%,5.25%,Thu
+05/04/2007,12:30,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2007#detail=4034,321K,314K,310K,Thu
+05/04/2007,14:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4044,67.3,61.0,60.5,Thu
+05/04/2007,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2007#detail=8312,58B,54B,-22B,Thu
+05/04/2007,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12098,,,,Thu
+05/04/2007,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12234,,,,Thu
+05/04/2007,23:01,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=april.2007#detail=4077,0.5%,,0.5%,Thu
+06/04/2007,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=april.2007#detail=4056,30.0%,30.0%,40.9%,Fri
+06/04/2007,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12042,,,,Fri
+06/04/2007,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12190,,,,Fri
+06/04/2007,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4075,-20.0B,,-5.5B,Fri
+06/04/2007,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12032,,,,Fri
+06/04/2007,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12024,,,,Fri
+06/04/2007,12:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2007#detail=4035,180K,135K,113K,Fri
+06/04/2007,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4036,4.4%,4.6%,4.5%,Fri
+06/04/2007,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4037,0.3%,0.3%,0.4%,Fri
+06/04/2007,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4038,0.5%,0.4%,0.6%,Fri
+06/04/2007,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4039,3.0B,5.5B,6.6B,Fri
+08/04/2007,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12099,,,,Sun
+08/04/2007,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12235,,,,Sun
+09/04/2007,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=april.2007#detail=4121,50.8,52.0,49.2,Mon
+09/04/2007,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12047,,,,Mon
+09/04/2007,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12191,,,,Mon
+09/04/2007,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12215,,,,Mon
+09/04/2007,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12219,,,,Mon
+09/04/2007,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12033,,,,Mon
+09/04/2007,12:30,USD,orange,FOMC Member Kroszner Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=9365,,,,Mon
+09/04/2007,22:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=april.2007#detail=4104,-15,,3,Mon
+09/04/2007,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=april.2007#detail=4125,51.1,,51.7,Mon
+10/04/2007,01:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=19241,1.9%,,3.4%,Tue
+10/04/2007,,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=april.2007#detail=4101,10,,12,Tue
+10/04/2007,03:23,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4095,0.50%,0.50%,0.50%,Tue
+10/04/2007,05:00,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=18396,6.9B,20.0B,23.8B,Tue
+10/04/2007,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4107,2.9%,2.9%,3.0%,Tue
+10/04/2007,06:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4108,13.8B,15.4B,15.8B,Tue
+10/04/2007,,JPY,yellow,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=april.2007#detail=11024,,,,Tue
+10/04/2007,,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4126,9.5%,,16.5%,Tue
+10/04/2007,06:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4109,1.1%,0.5%,-0.2%,Tue
+10/04/2007,06:57,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2007#detail=4096,,,,Tue
+10/04/2007,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=april.2007#detail=11284,34.7,31.6,27.5,Tue
+10/04/2007,13:30,USD,orange,FOMC Member Mishkin Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4117,,,,Tue
+10/04/2007,14:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=april.2007#detail=49272,4.07M,,4.22M,Tue
+10/04/2007,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=april.2007#detail=9933,45.5,50.0,50.8,Tue
+10/04/2007,23:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4091,3.9%,,3.3%,Tue
+10/04/2007,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4097,-5.2%,-0.4%,3.9%,Tue
+10/04/2007,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=11988,1.0%,,1.3%,Tue
+10/04/2007,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2007#detail=4099,1.49T,1.65T,1.85T,Tue
+10/04/2007,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4098,1.1%,1.0%,1.1%,Tue
+11/04/2007,01:30,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=10268,0.3%,0.3%,0.5%,Wed
+11/04/2007,06:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4124,0.5%,0.5%,0.4%,Wed
+11/04/2007,06:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4110,-2.7B,-2.8B,-2.6B,Wed
+11/04/2007,12:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=april.2007#detail=4088,211K,214K,196K,Wed
+11/04/2007,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4092,0.8%,,0.3%,Wed
+11/04/2007,,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2007#detail=4080,0.7M,1.7M,4.3M,Wed
+11/04/2007,17:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4119,,,,Wed
+11/04/2007,18:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2007#detail=4081,,,,Wed
+11/04/2007,,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=10920,-96.3B,-90.0B,-120.0B,Wed
+11/04/2007,23:01,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4093,26%,22%,25%,Wed
+11/04/2007,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4100,2.0%,1.9%,1.7%,Wed
+12/04/2007,00:00,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2007#detail=9203,57.1,,54.0,Thu
+12/04/2007,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2007#detail=4102,10.5K,15.5K,23.2K,Thu
+12/04/2007,,AUD,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4123,4.5%,4.6%,4.6%,Thu
+12/04/2007,02:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=april.2007#detail=24334,442B,,414B,Thu
+12/04/2007,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=24239,17.3%,17.2%,17.8%,Thu
+12/04/2007,02:45,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2007#detail=19285,11.6%,,13.0%,Thu
+12/04/2007,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=9998,-0.5%,0.5%,-1.7%,Thu
+12/04/2007,08:30,GBP,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4094,-6.8B,-6.4B,-6.4B,Thu
+12/04/2007,09:00,EUR,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=21663,0.9%,0.9%,0.9%,Thu
+12/04/2007,11:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=april.2007#detail=48341,97.3,,98.2,Thu
+12/04/2007,11:45,EUR,orange,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4113,3.75%,3.75%,3.75%,Thu
+12/04/2007,12:30,CAD,yellow,Gov Council Member Kennedy Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=9179,,,,Thu
+12/04/2007,,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4089,0.5%,0.3%,0.3%,Thu
+12/04/2007,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=april.2007#detail=4120,,,,Thu
+12/04/2007,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4082,1.7%,0.7%,0.1%,Thu
+12/04/2007,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2007#detail=4083,342K,318K,323K,Thu
+12/04/2007,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2007#detail=8311,23B,18B,58B,Thu
+12/04/2007,22:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4106,2.3%,1.0%,1.0%,Thu
+12/04/2007,,NZD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4105,1.9%,0.5%,0.5%,Thu
+13/04/2007,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4112,0.4%,0.5%,0.2%,Fri
+13/04/2007,09:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4111,0.6%,0.4%,-0.5%,Fri
+13/04/2007,12:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4090,4.8B,6.1B,5.8B,Fri
+13/04/2007,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4084,1.0%,0.7%,1.3%,Fri
+13/04/2007,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4086,-58.4B,-60.2B,-58.9B,Fri
+13/04/2007,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4085,0.0%,0.2%,0.4%,Fri
+13/04/2007,14:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2007#detail=4087,85.3,87.5,88.4,Fri
+13/04/2007,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2007#detail=9953,3.3%,,3.0%,Fri
+13/04/2007,All Day,All,red,G7 Meetings,https://www.forexfactory.com/calendar?month=april.2007#detail=4128,,,,Fri
+14/04/2007,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2007#detail=19783,,,,Sat
+15/04/2007,Day 2,All,orange,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2007#detail=19784,,,,Sun
+15/04/2007,23:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4151,3.6%,,1.5%,Sun
+16/04/2007,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4190,0.7%,-0.2%,-0.2%,Mon
+16/04/2007,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4162,0.3%,0.3%,0.3%,Mon
+16/04/2007,08:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4152,1.2%,0.9%,1.5%,Mon
+16/04/2007,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=9335,12.1%,11.1%,10.9%,Mon
+16/04/2007,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4153,0.6%,0.3%,0.4%,Mon
+16/04/2007,09:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=9526,1.9%,1.9%,1.9%,Mon
+16/04/2007,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4163,1.9%,1.9%,1.9%,Mon
+16/04/2007,12:30,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4182,-3.7%,-3.7%,-4.0%,Mon
+16/04/2007,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4130,0.8%,0.8%,0.4%,Mon
+16/04/2007,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4129,0.7%,0.4%,0.5%,Mon
+16/04/2007,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2007#detail=4181,3.8,7.5,1.9,Mon
+16/04/2007,13:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=april.2007#detail=4131,58.1B,80.5B,98.8B,Mon
+16/04/2007,14:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4132,0.3%,0.2%,0.2%,Mon
+16/04/2007,14:30,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=april.2007#detail=4192,,,,Mon
+16/04/2007,16:00,EUR,yellow,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4188,,,,Mon
+16/04/2007,17:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=april.2007#detail=4133,33,36,36,Mon
+17/04/2007,01:30,AUD,orange,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=april.2007#detail=10942,10,,4,Tue
+17/04/2007,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2007#detail=49059,2.35|4.3,,2.38|3.3,Tue
+17/04/2007,07:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4171,4.5%,4.0%,5.1%,Tue
+17/04/2007,08:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4164,-1.83B,-1.98B,-3.69B,Tue
+17/04/2007,08:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4154,3.1%,2.8%,2.8%,Tue
+17/04/2007,,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4155,1.9%,1.8%,1.7%,Tue
+17/04/2007,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4156,4.8%,4.6%,4.6%,Tue
+17/04/2007,09:00,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2007#detail=4165,16.5,10.0,5.8,Tue
+17/04/2007,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=9028,-0.2B,0.5B,1.3B,Tue
+17/04/2007,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2007#detail=4166,10.7,7.5,5.1,Tue
+17/04/2007,09:30,GBP,red,BOE Inflation Letter,https://www.forexfactory.com/calendar?month=april.2007#detail=9304,,,,Tue
+17/04/2007,12:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4144,-0.2%,0.1%,-1.9%,Tue
+17/04/2007,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4135,0.1%,0.2%,0.2%,Tue
+17/04/2007,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=128350,2.8%,2.8%,2.4%,Tue
+17/04/2007,,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=april.2007#detail=4137,1.54M,1.51M,1.53M,Tue
+17/04/2007,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4134,0.6%,0.6%,0.4%,Tue
+17/04/2007,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=april.2007#detail=4136,1.52M,1.50M,1.51M,Tue
+17/04/2007,13:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4139,81.4%,82.0%,81.6%,Tue
+17/04/2007,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4138,-0.2%,0.2%,0.8%,Tue
+17/04/2007,15:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4189,,,,Tue
+17/04/2007,16:30,USD,orange,FOMC Member Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4186,,,,Tue
+17/04/2007,22:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=4175,0.5%,0.5%,-0.2%,Tue
+17/04/2007,,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4176,0.0%,,0.1%,Tue
+18/04/2007,00:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2007#detail=4172,-0.2%,,3.7%,Wed
+18/04/2007,08:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4159,4.6%,4.2%,4.2%,Wed
+18/04/2007,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=april.2007#detail=4157,2-0-7,1-1-7,0-1-8,Wed
+18/04/2007,,GBP,orange,Claimant Count Change,https://www.forexfactory.com/calendar?month=april.2007#detail=4158,-9.2K,-5.0K,-3.1K,Wed
+18/04/2007,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4160,5.5%,5.5%,5.5%,Wed
+18/04/2007,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=april.2007#detail=4145,4.84B,-2.03B,-4.90B,Wed
+18/04/2007,14:00,EUR,yellow,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4191,,,,Wed
+18/04/2007,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2007#detail=4185,-1.0M,0.7M,0.7M,Wed
+18/04/2007,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4173,1.0%,-0.2%,0.4%,Wed
+19/04/2007,00:30,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2007#detail=10399,3.8%,,3.2%,Thu
+19/04/2007,01:30,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=april.2007#detail=11009,,,,Thu
+19/04/2007,02:00,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=april.2007#detail=23226,,,,Thu
+19/04/2007,06:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4167,0.3%,0.4%,0.3%,Thu
+19/04/2007,07:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=april.2007#detail=18424,11.1%,10.4%,10.4%,Thu
+19/04/2007,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2007#detail=19729,25.3%,23.0%,23.4%,Thu
+19/04/2007,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=18560,2.7%,2.7%,2.6%,Thu
+19/04/2007,09:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=april.2007#detail=4170,-3.5,,-28.0,Thu
+19/04/2007,,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=april.2007#detail=8463,,,,Thu
+19/04/2007,11:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4147,0.3%,0.2%,0.5%,Thu
+19/04/2007,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4146,0.8%,0.5%,0.7%,Thu
+19/04/2007,12:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4148,0.8%,0.1%,-0.7%,Thu
+19/04/2007,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2007#detail=4140,339K,325K,343K,Thu
+19/04/2007,14:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4141,0.1%,0.2%,-0.6%,Thu
+19/04/2007,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2007#detail=8313,-46B,-48B,23B,Thu
+19/04/2007,16:00,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2007#detail=4142,0.2,2.5,0.2,Thu
+19/04/2007,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4177,-1.0%,,6.6%,Thu
+19/04/2007,23:50,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4174,0.9%,-0.3%,-0.2%,Thu
+20/04/2007,00:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4178,1.4%,,-0.2%,Fri
+20/04/2007,01:30,AUD,yellow,Import Prices q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=4179,-1.7%,-0.8%,-3.2%,Fri
+20/04/2007,,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4180,1.0%,,-0.1%,Fri
+20/04/2007,02:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=18474,17.6%,15.6%,18.5%,Fri
+20/04/2007,,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=18542,3.3%,2.6%,2.7%,Fri
+20/04/2007,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=23266,15.3%,14.5%,14.7%,Fri
+20/04/2007,06:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4168,0.7%,0.3%,-0.5%,Fri
+20/04/2007,07:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4169,0.3%,0.4%,0.3%,Fri
+20/04/2007,08:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4161,0.3%,0.5%,1.6%,Fri
+20/04/2007,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4150,1.0%,0.4%,0.2%,Fri
+20/04/2007,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4149,0.1%,-0.2%,-0.4%,Fri
+20/04/2007,16:00,USD,yellow,Treasury Sec Paulson Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4183,,,,Fri
+20/04/2007,16:15,USD,orange,FOMC Member Mishkin Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4184,,,,Fri
+22/04/2007,All Day,EUR,yellow,French Presidential Election,https://www.forexfactory.com/calendar?month=april.2007#detail=43429,,,,Sun
+23/04/2007,01:30,AUD,red,PPI q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=4224,0.0%,0.5%,0.2%,Mon
+23/04/2007,08:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4208,1.0%,0.9%,0.9%,Mon
+23/04/2007,10:00,EUR,orange,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=april.2007#detail=50126,,,,Mon
+23/04/2007,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4232,0.6%,0.2%,0.4%,Mon
+24/04/2007,01:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=4225,0.1%,0.6%,-0.1%,Tue
+24/04/2007,,AUD,orange,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=8743,0.5%,0.6%,0.5%,Tue
+24/04/2007,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=9596,7.5%,,8.2%,Tue
+24/04/2007,06:15,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4221,0.72B,1.10B,1.25B,Tue
+24/04/2007,08:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=april.2007#detail=4222,2.13,,2.02,Tue
+24/04/2007,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4216,0.2%,0.2%,-0.3%,Tue
+24/04/2007,08:30,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=april.2007#detail=4248,8.5B,7.2B,0.6B,Tue
+24/04/2007,08:45,GBP,orange,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=14804,,,,Tue
+24/04/2007,09:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4217,-0.7%,0.9%,-0.1%,Tue
+24/04/2007,12:30,CAD,yellow,Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4205,0.4%,0.4%,0.7%,Tue
+24/04/2007,13:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=april.2007#detail=7981,,,,Tue
+24/04/2007,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4206,4.25%,4.25%,4.25%,Tue
+24/04/2007,,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=april.2007#detail=10513,3.8,2.0,1.4,Tue
+24/04/2007,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=10005,-1.0%,-1.0%,-0.1%,Tue
+24/04/2007,13:15,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=april.2007#detail=4210,2,6,8,Tue
+24/04/2007,14:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2007#detail=4194,104.0,105.0,108.2,Tue
+24/04/2007,,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=april.2007#detail=4193,6.12M,6.55M,6.68M,Tue
+24/04/2007,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2007#detail=4195,-11,-7,-10,Tue
+24/04/2007,16:15,CHF,orange,Gov Board Member Hildebrand Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4313,,,,Tue
+24/04/2007,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12102,,,,Tue
+24/04/2007,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=12236,,,,Tue
+24/04/2007,23:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4231,1.12T,0.95T,0.63T,Tue
+25/04/2007,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=42152,,,,Wed
+25/04/2007,08:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=april.2007#detail=4218,108.6,107.7,107.7,Wed
+25/04/2007,08:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=4211,0.7%,0.6%,0.7%,Wed
+25/04/2007,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2007#detail=4213,0.8%,0.8%,0.7%,Wed
+25/04/2007,12:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4198,1.5%,1.1%,-0.4%,Wed
+25/04/2007,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4197,3.4%,2.6%,2.4%,Wed
+25/04/2007,,USD,orange,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=9368,,,,Wed
+25/04/2007,14:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=april.2007#detail=4196,858K,890K,836K,Wed
+25/04/2007,,USD,orange,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4243,,,,Wed
+25/04/2007,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2007#detail=4200,2.1M,-1.5M,-1.0M,Wed
+25/04/2007,18:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=april.2007#detail=4199,,,,Wed
+25/04/2007,21:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4230,7.75%,7.50%,7.50%,Wed
+25/04/2007,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=april.2007#detail=7997,,,,Wed
+25/04/2007,22:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2007#detail=4229,61M,2M,-128M,Wed
+25/04/2007,23:01,GBP,yellow,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=april.2007#detail=13122,,,,Wed
+26/04/2007,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4226,0.9%,,0.2%,Thu
+26/04/2007,01:00,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=14456,0.0%,,2.9%,Thu
+26/04/2007,03:00,NZD,orange,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=april.2007#detail=4227,-19.4,,-12.5,Thu
+26/04/2007,06:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=april.2007#detail=4220,5.5,4.5,4.4,Thu
+26/04/2007,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=10126,0.6%,0.6%,0.5%,Thu
+26/04/2007,,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4209,0.9%,0.6%,0.5%,Thu
+26/04/2007,12:30,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2007#detail=4201,321K,325K,341K,Thu
+26/04/2007,14:05,GBP,orange,MPC Member Tucker Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=11041,,,,Thu
+26/04/2007,14:30,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=april.2007#detail=4250,,,,Thu
+26/04/2007,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2007#detail=8310,18B,18B,-46B,Thu
+26/04/2007,15:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=april.2007#detail=13111,,,,Thu
+26/04/2007,17:00,USD,orange,FOMC Member Mishkin Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=4244,,,,Thu
+26/04/2007,23:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4236,0.0%,0.0%,-0.1%,Thu
+26/04/2007,,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4253,52.3,,52.5,Thu
+26/04/2007,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4251,0.1%,0.8%,1.3%,Thu
+26/04/2007,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4234,-0.3%,-0.2%,-0.1%,Thu
+26/04/2007,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=8550,3.8%,4.00%,4.00%,Thu
+26/04/2007,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4237,-0.6%,1.0%,0.7%,Thu
+26/04/2007,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4238,-0.7%,0.3%,-0.2%,Thu
+27/04/2007,04:38,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=4315,0.50%,0.50%,0.50%,Fri
+27/04/2007,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4242,5.5%,-0.3%,-9.9%,Fri
+27/04/2007,06:00,JPY,orange,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=april.2007#detail=4258,,,,Fri
+27/04/2007,06:30,JPY,orange,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2007#detail=8350,,,,Fri
+27/04/2007,07:00,EUR,yellow,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2007#detail=43862,8.5%,8.3%,8.3%,Fri
+27/04/2007,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4316,0.4%,0.2%,0.3%,Fri
+27/04/2007,08:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2007#detail=4215,-5.3B,1.0B,3.5B,Fri
+27/04/2007,,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=43579,54.6,,53.4,Fri
+27/04/2007,09:16,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2007#detail=43358,4.37|1.5,,4.22|1.4,Fri
+27/04/2007,09:30,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=april.2007#detail=4223,1.90,2.00,1.84,Fri
+27/04/2007,,CHF,orange,SNB Chairman Roth Speaks,https://www.forexfactory.com/calendar?month=april.2007#detail=8387,,,,Fri
+27/04/2007,12:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=4202,1.3%,1.9%,2.5%,Fri
+27/04/2007,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=4203,4.0%,3.0%,1.7%,Fri
+27/04/2007,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=april.2007#detail=4256,0.8%,0.9%,0.8%,Fri
+27/04/2007,14:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2007#detail=4204,87.1,85.3,85.3,Fri
+27/04/2007,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2007#detail=9972,3.3%,,3.3%,Fri
+29/04/2007,22:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4301,-2.9%,,6.4%,Sun
+30/04/2007,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2007#detail=4330,,,,Mon
+30/04/2007,00:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4302,0.1%,,0.5%,Mon
+30/04/2007,01:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=11304,1.2%,1.1%,1.4%,Mon
+30/04/2007,06:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4289,-0.7%,0.8%,1.0%,Mon
+30/04/2007,08:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4290,10.9%,9.8%,10.0%,Mon
+30/04/2007,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=11272,10.5%,10.3%,10.3%,Mon
+30/04/2007,08:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=april.2007#detail=4288,75.1K,,54.7K,Mon
+30/04/2007,09:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2007#detail=4292,-4,-4,-4,Mon
+30/04/2007,,EUR,yellow,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2007#detail=4291,1.8%,1.8%,1.9%,Mon
+30/04/2007,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4293,0.2%,0.2%,0.2%,Mon
+30/04/2007,09:30,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2007#detail=4281,-6,-8,-8,Mon
+30/04/2007,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4277,0.4%,0.2%,0.1%,Mon
+30/04/2007,,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4259,0.0%,0.1%,0.3%,Mon
+30/04/2007,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4260,0.3%,0.5%,0.7%,Mon
+30/04/2007,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4261,0.7%,0.5%,0.7%,Mon
+30/04/2007,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=april.2007#detail=4262,52.9,54.5,61.7,Mon
+30/04/2007,14:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=april.2007#detail=4263,0.2%,0.2%,1.5%,Mon
+30/04/2007,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2007#detail=4303,51.7,,52.4,Mon

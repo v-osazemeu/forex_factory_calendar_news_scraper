@@ -1,0 +1,358 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/02/2015,00:59,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=54667,49.8,50.3,50.1,Sun
+01/02/2015,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=54680,53.7,,54.1,Sun
+01/02/2015,22:25,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2015#detail=54714,49.0,,46.9,Sun
+01/02/2015,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54830,0.1%,,0.0%,Sun
+02/02/2015,01:35,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55340,52.2,52.1,52.1,Mon
+02/02/2015,01:45,CNY,red,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55339,49.7,49.8,49.8,Mon
+02/02/2015,05:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=54902,-20.4%,,-20.6%,Mon
+02/02/2015,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55344,54.7,54.2,53.8,Mon
+02/02/2015,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55345,48.2,54.5,54.0,Mon
+02/02/2015,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55343,49.9,49.3,48.4,Mon
+02/02/2015,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=59063,49.2,49.5,49.5,Mon
+02/02/2015,08:55,EUR,orange,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=59066,50.9,51.0,51.0,Mon
+02/02/2015,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55342,51.0,51.0,51.0,Mon
+02/02/2015,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55341,53.0,52.9,52.7,Mon
+02/02/2015,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57808,0.0%,0.0%,0.0%,Mon
+02/02/2015,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57813,-0.3%,-0.1%,0.5%,Mon
+02/02/2015,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57811,0.3%,0.2%,0.3%,Mon
+02/02/2015,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=59552,51.0,,53.9,Mon
+02/02/2015,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55346,53.9,54.1,53.7,Mon
+02/02/2015,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=57997,53.5,54.9,55.5,Mon
+02/02/2015,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57697,0.4%,0.9%,-0.2%,Mon
+02/02/2015,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=february.2015#detail=58003,35.0,40.1,38.5,Mon
+02/02/2015,19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=february.2015#detail=54531,,,,Mon
+02/02/2015,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56924,37.4%,40.1%,38.2%,Mon
+03/02/2015,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55051,-0.9%,,-4.4%,Tue
+03/02/2015,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54942,-3.3%,-4.8%,7.7%,Tue
+03/02/2015,,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=54866,-0.44B,-0.85B,-1.02B,Tue
+03/02/2015,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=february.2015#detail=54771,2.25%,2.50%,2.50%,Tue
+03/02/2015,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=february.2015#detail=54772,,,,Tue
+03/02/2015,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2015#detail=56948,0.31|2.7,,0.30|3.4,Tue
+03/02/2015,07:00,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=56468,1.52B,2.17B,3.80B,Tue
+03/02/2015,08:00,EUR,red,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=february.2015#detail=56599,78.0K,83.4K,-64.4K,Tue
+03/02/2015,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55513,59.1,56.9,57.6,Tue
+03/02/2015,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57241,-1.0%,-0.7%,-0.3%,Tue
+03/02/2015,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56679,-0.4%,-0.1%,0.0%,Tue
+03/02/2015,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58517,-7.6%,-8.8%,-5.7%,Tue
+03/02/2015,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58516,-1.6%,-0.5%,-0.5%,Tue
+03/02/2015,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57793,-3.4%,-1.8%,-1.7%,Tue
+03/02/2015,15:06,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=february.2015#detail=56340,9.4%,,1.0%,Tue
+03/02/2015,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=february.2015#detail=58082,16.7M,17.0M,16.9M,Tue
+03/02/2015,21:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=55180,1.2%,0.8%,0.9%,Tue
+03/02/2015,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2015#detail=55179,5.7%,5.3%,5.4%,Tue
+03/02/2015,,NZD,yellow,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=55163,0.5%,0.5%,0.5%,Tue
+03/02/2015,22:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=february.2015#detail=54715,49.9,,47.5,Tue
+04/02/2015,00:00,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58806,,,,Wed
+04/02/2015,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=55818,-1.3%,,-1.7%,Wed
+04/02/2015,00:30,AUD,orange,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=february.2015#detail=54707,2,,6,Wed
+04/02/2015,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56995,1.6%,1.6%,0.1%,Wed
+04/02/2015,01:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55434,51.8,,53.4,Wed
+04/02/2015,08:15,EUR,orange,Spanish Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55439,56.7,54.5,54.3,Wed
+04/02/2015,08:45,EUR,orange,Italian Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55438,51.2,49.9,49.4,Wed
+04/02/2015,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=59249,49.4,49.5,49.5,Wed
+04/02/2015,08:55,EUR,orange,German Final Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=59255,54.0,52.7,52.7,Wed
+04/02/2015,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55437,52.7,52.3,52.3,Wed
+04/02/2015,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55435,57.2,56.6,55.8,Wed
+04/02/2015,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57242,0.3%,-0.1%,0.7%,Wed
+04/02/2015,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=february.2015#detail=54488,213K,224K,253K,Wed
+04/02/2015,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55436,54.2,54.3,54.0,Wed
+04/02/2015,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=58715,45.4,53.8,55.4,Wed
+04/02/2015,,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=58021,56.7,56.6,56.2,Wed
+04/02/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2015#detail=54350,6.3M,4.0M,8.9M,Wed
+05/02/2015,00:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54953,-1.9%,,2.2%,Thu
+05/02/2015,00:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54878,0.2%,0.3%,0.1%,Thu
+05/02/2015,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2015#detail=56959,1.46|2.7,,1.12|3.6,Thu
+05/02/2015,06:45,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=february.2015#detail=56170,-6,-13,-11,Thu
+05/02/2015,07:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57514,4.2%,1.4%,-2.4%,Thu
+05/02/2015,08:00,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55577,2.0%,0.1%,1.1%,Thu
+05/02/2015,09:00,EUR,orange,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=february.2015#detail=58679,,,,Thu
+05/02/2015,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=57478,46.6,,47.6,Thu
+05/02/2015,10:00,EUR,orange,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=february.2015#detail=58808,,,,Thu
+05/02/2015,,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2015#detail=56481,0.61|1.9,,0.79|2.0,Thu
+05/02/2015,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=february.2015#detail=54585,0.50%,0.50%,0.50%,Thu
+05/02/2015,,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=february.2015#detail=54584,375B,375B,375B,Thu
+05/02/2015,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=54550,17.6%,,6.6%,Thu
+05/02/2015,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=57751,-0.6B,-1.2B,-0.3B,Thu
+05/02/2015,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=57745,-46.6B,-38.2B,-39.8B,Thu
+05/02/2015,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2015#detail=54298,278K,287K,267K,Thu
+05/02/2015,,USD,orange,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=57916,-1.8%,0.3%,2.3%,Thu
+05/02/2015,,USD,orange,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=57917,2.7%,1.3%,-1.0%,Thu
+05/02/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2015#detail=54403,-115B,-119B,-94B,Thu
+05/02/2015,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2015#detail=58387,,,,Thu
+05/02/2015,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=february.2015#detail=54716,45.9,,44.4,Thu
+06/02/2015,00:30,AUD,red,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=february.2015#detail=54806,,,,Fri
+06/02/2015,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=february.2015#detail=56799,105.2%,105.5%,103.9%,Fri
+06/02/2015,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57502,0.1%,0.4%,0.1%,Fri
+06/02/2015,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=56540,-85.6B,,-90.8B,Fri
+06/02/2015,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=56543,-3.4B,-3.1B,-3.1B,Fri
+06/02/2015,08:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=february.2015#detail=56421,498B,,495B,Fri
+06/02/2015,08:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56445,2.2%,0.4%,-0.6%,Fri
+06/02/2015,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=55830,-10.2B,-9.0B,-9.3B,Fri
+06/02/2015,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58447,7.7%,4.8%,-13.6%,Fri
+06/02/2015,,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=february.2015#detail=58540,35.4K,4.7K,-4.3K,Fri
+06/02/2015,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2015#detail=58541,6.6%,6.7%,6.6%,Fri
+06/02/2015,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=february.2015#detail=54456,257K,236K,329K,Fri
+06/02/2015,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2015#detail=54455,5.7%,5.6%,5.6%,Fri
+06/02/2015,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54454,0.5%,0.3%,-0.2%,Fri
+06/02/2015,17:45,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58807,,,,Fri
+06/02/2015,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57973,14.8B,14.6B,13.5B,Fri
+08/02/2015,02:27,CNY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=61804,367B,,305B,Sun
+08/02/2015,02:39,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=56039,60.0B,48.9B,49.6B,Sun
+08/02/2015,23:50,JPY,orange,Current Account,https://www.forexfactory.com/calendar?month=february.2015#detail=56741,0.98T,0.95T,0.91T,Sun
+08/02/2015,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56712,2.5%,,2.6%,Sun
+09/02/2015,00:15,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58809,,,,Mon
+09/02/2015,00:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54818,1.3%,,1.8%,Mon
+09/02/2015,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2015#detail=56890,39.1,39.4,38.8,Mon
+09/02/2015,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=february.2015#detail=56898,45.6,45.7,45.2,Mon
+09/02/2015,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=57550,21.8B,18.2B,17.9B,Mon
+09/02/2015,Day 1,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=february.2015#detail=58814,,,,Mon
+09/02/2015,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=february.2015#detail=58150,12.4,3.4,0.9,Mon
+09/02/2015,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=february.2015#detail=58332,187K,184K,180K,Mon
+09/02/2015,15:00,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58354,4.9,,7.3,Mon
+09/02/2015,21:00,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58818,,,,Mon
+09/02/2015,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56853,-0.3%,0.1%,0.2%,Mon
+09/02/2015,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56753,3.4%,3.6%,3.6%,Mon
+10/02/2015,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=55914,0.2%,,-0.4%,Tue
+10/02/2015,00:30,AUD,red,NAB Business Confidence,https://www.forexfactory.com/calendar?month=february.2015#detail=54696,3,,2,Tue
+10/02/2015,,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=54691,1.9%,2.0%,1.4%,Tue
+10/02/2015,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56016,0.8%,1.1%,1.5%,Tue
+10/02/2015,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56017,-4.3%,-3.7%,-3.3%,Tue
+10/02/2015,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2015#detail=56409,3.1%,3.2%,3.1%,Tue
+10/02/2015,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56528,1.5%,0.3%,-0.2%,Tue
+10/02/2015,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56457,-0.4%,-0.4%,-0.5%,Tue
+10/02/2015,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56623,0.4%,0.1%,0.3%,Tue
+10/02/2015,Day 2,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=february.2015#detail=58815,,,,Tue
+10/02/2015,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55880,0.1%,0.3%,0.8%,Tue
+10/02/2015,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55879,-0.2%,0.3%,-0.1%,Tue
+10/02/2015,13:20,USD,orange,FOMC Member Lacker Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58810,,,,Tue
+10/02/2015,14:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=february.2015#detail=58069,97.9,101.3,100.4,Tue
+10/02/2015,14:35,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=february.2015#detail=55854,0.7%,,0.5%,Tue
+10/02/2015,15:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=february.2015#detail=58106,5.03M,5.03M,4.85M,Tue
+10/02/2015,,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57709,0.1%,0.2%,0.8%,Tue
+10/02/2015,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=february.2015#detail=58130,47.5,51.4,51.5,Tue
+10/02/2015,17:45,CAD,orange,Gov Council Member Wilkins Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58811,,,,Tue
+10/02/2015,23:20,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2015#detail=54748,8.0%,,2.4%,Tue
+11/02/2015,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2015#detail=58417,,,,Wed
+11/02/2015,00:30,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54930,2.7%,2.3%,-0.4%,Wed
+11/02/2015,02:02,NZD,yellow,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55063,-1.0%,,-1.0%,Wed
+11/02/2015,All Day,EUR,red,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=february.2015#detail=58816,,,,Wed
+11/02/2015,10:35,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2015#detail=55705,2.36|1.6,,2.70|1.8,Wed
+11/02/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2015#detail=54351,4.9M,3.7M,6.3M,Wed
+11/02/2015,18:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2015#detail=57408,2.00|2.6,,1.93|2.6,Wed
+11/02/2015,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=54571,-17.5B,-2.6B,1.9B,Wed
+11/02/2015,21:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2015#detail=55145,50.9,,57.1,Wed
+11/02/2015,22:00,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58812,,,,Wed
+11/02/2015,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56728,8.3%,2.4%,1.3%,Wed
+11/02/2015,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56978,0.3%,1.2%,1.8%,Wed
+12/02/2015,00:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2015#detail=54760,4.0%,,3.2%,Thu
+12/02/2015,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=55602,7%,10%,12%,Thu
+12/02/2015,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=february.2015#detail=55201,-12.2K,-4.7K,42.3K,Thu
+12/02/2015,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2015#detail=55202,6.4%,6.2%,6.1%,Thu
+12/02/2015,05:59,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56829,20.4%,,33.9%,Thu
+12/02/2015,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57599,-1.1%,-1.0%,-1.0%,Thu
+12/02/2015,08:28,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56433,-0.6%,-0.6%,-0.4%,Thu
+12/02/2015,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57243,0.0%,0.3%,0.1%,Thu
+12/02/2015,All Day,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=february.2015#detail=58817,,,,Thu
+12/02/2015,10:30,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=54593,,,,Thu
+12/02/2015,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=february.2015#detail=54592,,,,Thu
+12/02/2015,,GBP,orange,BOE Inflation Letter,https://www.forexfactory.com/calendar?month=february.2015#detail=58795,,,,Thu
+12/02/2015,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58579,0.1%,0.2%,0.1%,Thu
+12/02/2015,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57723,-0.9%,-0.4%,-0.9%,Thu
+12/02/2015,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57721,-0.8%,-0.4%,-0.9%,Thu
+12/02/2015,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2015#detail=54299,304K,282K,279K,Thu
+12/02/2015,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57685,0.1%,0.2%,0.2%,Thu
+12/02/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2015#detail=54404,-160B,-165B,-115B,Thu
+12/02/2015,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2015#detail=57396,2.56|2.3,,2.43|2.3,Thu
+12/02/2015,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55039,1.3%,,0.3%,Thu
+12/02/2015,22:30,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58813,,,,Thu
+13/02/2015,02:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56076,0.9%,,1.1%,Fri
+13/02/2015,06:30,EUR,orange,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=56523,0.1%,0.1%,0.3%,Fri
+13/02/2015,07:00,EUR,orange,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=57493,0.7%,0.3%,0.1%,Fri
+13/02/2015,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57586,-0.4%,0.4%,-1.0%,Fri
+13/02/2015,07:45,EUR,orange,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=56519,0.0%,-0.1%,-0.3%,Fri
+13/02/2015,09:00,EUR,orange,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=56650,0.0%,0.0%,-0.1%,Fri
+13/02/2015,09:02,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=february.2015#detail=56053,1470B,1355B,697B,Fri
+13/02/2015,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56052,10.8%,12.1%,12.2%,Fri
+13/02/2015,09:30,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55666,0.4%,2.6%,-1.8%,Fri
+13/02/2015,10:00,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=57252,0.3%,0.2%,0.2%,Fri
+13/02/2015,13:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58567,1.7%,0.8%,-1.3%,Fri
+13/02/2015,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57937,-2.8%,-3.1%,-1.9%,Fri
+13/02/2015,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55926,0.1%,,-0.3%,Fri
+13/02/2015,15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2015#detail=56090,93.6,98.2,98.1,Fri
+13/02/2015,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2015#detail=56092,2.8%,,2.5%,Fri
+15/02/2015,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=february.2015#detail=127154,57.8,,56.2,Sun
+15/02/2015,21:45,NZD,red,Retail Sales q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=55075,1.7%,1.3%,1.6%,Sun
+15/02/2015,,NZD,orange,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=55074,1.5%,1.1%,1.5%,Sun
+15/02/2015,23:16,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55565,2.1%,,1.4%,Sun
+15/02/2015,23:50,JPY,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=57031,0.6%,0.9%,-0.5%,Sun
+15/02/2015,,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=57030,2.3%,1.9%,2.0%,Sun
+16/02/2015,00:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54890,-1.5%,,2.6%,Mon
+16/02/2015,01:30,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=february.2015#detail=55962,29.4%,,1.7%,Mon
+16/02/2015,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56841,0.8%,1.0%,1.0%,Mon
+16/02/2015,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=57244,23.3B,21.3B,21.6B,Mon
+16/02/2015,All Day,EUR,red,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=february.2015#detail=58819,,,,Mon
+16/02/2015,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=february.2015#detail=57622,,,,Mon
+16/02/2015,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2015#detail=133794,,,,Mon
+16/02/2015,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2015#detail=58397,,,,Mon
+17/02/2015,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=february.2015#detail=54795,,,,Tue
+17/02/2015,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=56655,5.76B,3.27B,3.54B,Tue
+17/02/2015,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=55763,0.3%,0.3%,0.5%,Tue
+17/02/2015,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55765,-3.7%,-2.5%,-3.3%,Tue
+17/02/2015,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=55764,1.1%,1.2%,1.6%,Tue
+17/02/2015,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=55762,1.4%,1.3%,1.3%,Tue
+17/02/2015,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=55678,9.8%,10.3%,9.9%,Tue
+17/02/2015,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55766,-0.5%,-0.2%,-0.5%,Tue
+17/02/2015,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=february.2015#detail=58176,53.0,55.4,48.4,Tue
+17/02/2015,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=february.2015#detail=58174,52.7,51.3,45.2,Tue
+17/02/2015,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=february.2015#detail=58831,,,,Tue
+17/02/2015,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=february.2015#detail=58463,-13.55B,5.35B,4.30B,Tue
+17/02/2015,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2015#detail=57985,7.8,8.9,10.0,Tue
+17/02/2015,14:33,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=february.2015#detail=56341,10.1%,,9.4%,Tue
+17/02/2015,15:00,USD,orange,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=february.2015#detail=58256,55,58,57,Tue
+17/02/2015,17:00,CHF,red,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58832,,,,Tue
+17/02/2015,23:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54990,0.4%,,0.1%,Tue
+17/02/2015,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54842,0.1%,,0.0%,Tue
+18/02/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2015#detail=58666,,,,Wed
+18/02/2015,02:49,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=february.2015#detail=57094,,,,Wed
+18/02/2015,06:31,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=february.2015#detail=57095,,,,Wed
+18/02/2015,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=february.2015#detail=55723,2.1%,1.7%,1.8%,Wed
+18/02/2015,,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=february.2015#detail=55724,-38.6K,-25.2K,-35.8K,Wed
+18/02/2015,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=february.2015#detail=54591,0-0-9,0-0-9,0-0-9,Wed
+18/02/2015,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=february.2015#detail=54589,0-0-9,0-0-9,0-0-9,Wed
+18/02/2015,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2015#detail=55725,5.7%,5.8%,5.8%,Wed
+18/02/2015,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=february.2015#detail=56179,-73.0,,-10.8,Wed
+18/02/2015,All Day,EUR,yellow,Greek Presidential Elections,https://www.forexfactory.com/calendar?month=february.2015#detail=58862,,,,Wed
+18/02/2015,10:33,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2015#detail=57420,0.37|1.4,,0.52|1.3,Wed
+18/02/2015,13:30,CAD,red,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58619,2.5%,0.4%,-0.5%,Wed
+18/02/2015,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=february.2015#detail=57661,1.05M,1.08M,1.06M,Wed
+18/02/2015,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57871,-0.8%,-0.4%,-0.3%,Wed
+18/02/2015,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57869,-0.1%,0.1%,0.3%,Wed
+18/02/2015,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=february.2015#detail=57663,1.07M,1.07M,1.09M,Wed
+18/02/2015,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=february.2015#detail=57950,79.4%,79.9%,79.4%,Wed
+18/02/2015,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57951,0.2%,0.5%,-0.3%,Wed
+18/02/2015,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=february.2015#detail=54524,,,,Wed
+18/02/2015,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=february.2015#detail=58094,35.4B,41.3B,33.5B,Wed
+18/02/2015,21:45,NZD,red,PPI Input q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=55171,-0.4%,-0.2%,-1.5%,Wed
+18/02/2015,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=55172,-0.1%,-0.3%,-1.1%,Wed
+18/02/2015,22:00,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58833,,,,Wed
+18/02/2015,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=56866,-0.41T,-0.95T,-0.62T,Wed
+19/02/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2015#detail=58667,,,,Thu
+19/02/2015,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56700,-0.3%,-0.2%,0.0%,Thu
+19/02/2015,05:00,JPY,yellow,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=february.2015#detail=56936,,,,Thu
+19/02/2015,07:00,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=56469,3.43B,1.23B,1.51B,Thu
+19/02/2015,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56492,-1.0%,-0.9%,0.1%,Thu
+19/02/2015,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=february.2015#detail=58206,17.8B,23.3B,19.9B,Thu
+19/02/2015,09:43,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2015#detail=56587,1.62|2.0,,1.73|1.8,Thu
+19/02/2015,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=february.2015#detail=55537,10,7,4,Thu
+19/02/2015,12:30,EUR,red,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=february.2015#detail=58687,,,,Thu
+19/02/2015,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2015#detail=54300,283K,293K,304K,Thu
+19/02/2015,14:59,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2015#detail=57245,-7,-8,-9,Thu
+19/02/2015,15:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2015#detail=58033,5.2,8.8,6.3,Thu
+19/02/2015,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58287,0.2%,0.4%,0.4%,Thu
+19/02/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2015#detail=54405,-111B,-110B,-160B,Thu
+19/02/2015,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2015#detail=54352,7.7M,-1.8M,4.9M,Thu
+19/02/2015,16:30,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58863,,,,Thu
+19/02/2015,17:15,CAD,yellow,Gov Council Member Cote Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58834,,,,Thu
+20/02/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2015#detail=58668,,,,Fri
+20/02/2015,01:35,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55234,51.5,52.6,52.2,Fri
+20/02/2015,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57562,-0.6%,-0.3%,-0.7%,Fri
+20/02/2015,08:00,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55238,47.7,49.7,49.2,Fri
+20/02/2015,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55239,53.4,49.9,49.4,Fri
+20/02/2015,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55240,50.9,51.8,50.9,Fri
+20/02/2015,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55241,55.5,54.3,54.0,Fri
+20/02/2015,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55236,51.1,51.6,51.0,Fri
+20/02/2015,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55237,53.9,53.2,52.7,Fri
+20/02/2015,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55842,-0.3%,-0.1%,0.2%,Fri
+20/02/2015,,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=february.2015#detail=55866,-9.4B,-9.5B,9.9B,Fri
+20/02/2015,All Day,EUR,red,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=february.2015#detail=58864,,,,Fri
+20/02/2015,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58596,-2.3%,-0.7%,0.6%,Fri
+20/02/2015,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58597,-2.0%,-0.3%,0.4%,Fri
+20/02/2015,14:45,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55235,54.3,53.7,53.9,Fri
+22/02/2015,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=february.2015#detail=57047,,,,Sun
+23/02/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2015#detail=58669,,,,Mon
+23/02/2015,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=55094,6.2%,,4.5%,Mon
+23/02/2015,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=february.2015#detail=58162,106.8,107.4,106.7,Mon
+23/02/2015,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=february.2015#detail=55525,1,42,39,Mon
+23/02/2015,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=february.2015#detail=57437,4.82M,5.03M,5.07M,Mon
+23/02/2015,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56990,3.4%,3.6%,3.5%,Mon
+24/02/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2015#detail=58670,,,,Tue
+24/02/2015,02:00,NZD,orange,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=55195,1.80%,,2.06%,Tue
+24/02/2015,07:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=57494,0.7%,0.7%,0.7%,Tue
+24/02/2015,08:15,CHF,orange,Employment Level,https://www.forexfactory.com/calendar?month=february.2015#detail=56404,4.23M,4.22M,4.23M,Tue
+24/02/2015,09:10,GBP,orange,MPC Member Forbes Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58873,,,,Tue
+24/02/2015,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=57254,-0.6%,-0.6%,-0.6%,Tue
+24/02/2015,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=57253,0.6%,0.6%,0.6%,Tue
+24/02/2015,,GBP,red,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=february.2015#detail=55701,,,,Tue
+24/02/2015,All Day,EUR,red,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=february.2015#detail=58874,,,,Tue
+24/02/2015,13:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=58590,-2.8%,,3.7%,Tue
+24/02/2015,14:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58865,,,,Tue
+24/02/2015,,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=february.2015#detail=58275,-8.3,-8.4,-8.8,Tue
+24/02/2015,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=58118,4.5%,4.5%,4.3%,Tue
+24/02/2015,14:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55501,57.0,54.5,54.2,Tue
+24/02/2015,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2015#detail=58045,0,7,6,Tue
+24/02/2015,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2015#detail=54538,96.4,99.6,103.8,Tue
+24/02/2015,,USD,red,Fed Chair Yellen Testifies,https://www.forexfactory.com/calendar?month=february.2015#detail=58866,,,,Tue
+24/02/2015,,USD,yellow,Fed Monetary Policy Report,https://www.forexfactory.com/calendar?month=february.2015#detail=64135,,,,Tue
+24/02/2015,19:00,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58867,,,,Tue
+24/02/2015,23:40,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58879,,,,Tue
+25/02/2015,00:30,AUD,orange,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=54965,-0.2%,-1.2%,-2.8%,Wed
+25/02/2015,,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=54981,0.6%,0.6%,0.6%,Wed
+25/02/2015,01:45,CNY,red,Caixin Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=55233,50.1,49.6,49.7,Wed
+25/02/2015,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=february.2015#detail=56147,1.24,,1.42,Wed
+25/02/2015,09:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=february.2015#detail=55654,36.4K,36.2K,35.8K,Wed
+25/02/2015,10:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58875,,,,Wed
+25/02/2015,15:00,USD,red,Fed Chair Yellen Testifies,https://www.forexfactory.com/calendar?month=february.2015#detail=58868,,,,Wed
+25/02/2015,,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=february.2015#detail=57649,481K,471K,482K,Wed
+25/02/2015,,USD,orange,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=february.2015#detail=58056,5.68%,,5.85%,Wed
+25/02/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2015#detail=54353,8.4M,3.6M,7.7M,Wed
+25/02/2015,16:30,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58869,,,,Wed
+25/02/2015,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=february.2015#detail=55016,56M,-162M,-195M,Wed
+25/02/2015,21:47,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55002,0.8%,,-1.3%,Wed
+26/02/2015,00:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=54921,-2.2%,-1.7%,0.6%,Thu
+26/02/2015,07:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=february.2015#detail=57634,9.7,9.6,9.3,Thu
+26/02/2015,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=february.2015#detail=57539,-20K,-10K,-10K,Thu
+26/02/2015,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=58210,4.1%,3.7%,3.6%,Thu
+26/02/2015,,EUR,orange,Private Loans y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=58212,-0.1%,-0.3%,-0.5%,Thu
+26/02/2015,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56667,-0.2%,0.0%,0.1%,Thu
+26/02/2015,09:30,GBP,red,Second Estimate GDP q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=55949,0.5%,0.5%,0.5%,Thu
+26/02/2015,,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=55953,-1.4%,2.0%,-1.4%,Thu
+26/02/2015,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=february.2015#detail=55902,0.8%,0.7%,0.7%,Thu
+26/02/2015,10:23,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2015#detail=56611,1.36|1.5,,1.62|1.4,Thu
+26/02/2015,13:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58477,0.2%,0.1%,-0.3%,Thu
+26/02/2015,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=58476,-0.2%,-0.4%,-0.7%,Thu
+26/02/2015,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57893,0.2%,0.1%,0.0%,Thu
+26/02/2015,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57895,-0.7%,-0.6%,-0.4%,Thu
+26/02/2015,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=128567,-0.1%,-0.1%,0.8%,Thu
+26/02/2015,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2015#detail=54301,313K,288K,282K,Thu
+26/02/2015,,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57771,0.3%,0.6%,-0.9%,Thu
+26/02/2015,,USD,yellow,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57769,2.8%,1.7%,-3.3%,Thu
+26/02/2015,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56363,0.8%,0.5%,0.7%,Thu
+26/02/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2015#detail=54406,-219B,-241B,-111B,Thu
+26/02/2015,17:30,GBP,orange,MPC Member Shafik Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58876,,,,Thu
+26/02/2015,18:00,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58870,,,,Thu
+26/02/2015,21:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=55017,-3.8%,,-2.3%,Thu
+26/02/2015,23:05,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2015#detail=55549,1,2,1,Thu
+26/02/2015,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56770,-5.1%,-4.0%,-3.4%,Thu
+26/02/2015,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=57027,2.2%,2.2%,2.2%,Thu
+26/02/2015,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=57026,2.2%,2.4%,2.5%,Thu
+26/02/2015,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2015#detail=56773,3.6%,3.4%,3.4%,Thu
+26/02/2015,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56808,4.0%,2.9%,0.8%,Thu
+26/02/2015,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56806,-2.0%,-1.2%,0.1%,Thu
+27/02/2015,00:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=february.2015#detail=55133,34.4,,30.4,Fri
+27/02/2015,00:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=54854,0.6%,0.5%,0.5%,Fri
+27/02/2015,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56878,-13.0%,-11.1%,-14.7%,Fri
+27/02/2015,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57574,-0.8%,-0.8%,-1.7%,Fri
+27/02/2015,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57600,0.9%,0.6%,-1.1%,Fri
+27/02/2015,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56504,0.6%,-0.3%,1.6%,Fri
+27/02/2015,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=february.2015#detail=56159,90.1,89.1,96.1,Fri
+27/02/2015,,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=february.2015#detail=56576,-1.1%,-1.5%,-1.3%,Fri
+27/02/2015,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=56680,0.3%,0.2%,-0.4%,Fri
+27/02/2015,13:30,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=57846,2.2%,2.1%,2.6%,Fri
+27/02/2015,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=february.2015#detail=57847,0.1%,0.0%,0.0%,Fri
+27/02/2015,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=february.2015#detail=56135,45.8,58.4,59.4,Fri
+27/02/2015,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=february.2015#detail=57438,1.7%,2.5%,-1.5%,Fri
+27/02/2015,,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2015#detail=56091,95.4,94.2,93.6,Fri
+27/02/2015,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2015#detail=56093,2.8%,,2.8%,Fri
+27/02/2015,15:15,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58878,,,,Fri
+27/02/2015,18:30,USD,orange,FOMC Member Fischer Speaks,https://www.forexfactory.com/calendar?month=february.2015#detail=58877,,,,Fri
