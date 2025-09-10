@@ -1,9 +1,7 @@
 import time
 import argparse
-import json
-import pandas as pd
-import random
-from datetime import datetime, timedelta
+import random, time
+from datetime import datetime
 from config import ALLOWED_ELEMENT_TYPES, ICON_COLOR_MAP, RETRY_CONFIG
 from utils import save_csv
 import config
@@ -12,7 +10,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, WebDriverException
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Global retry statistics
