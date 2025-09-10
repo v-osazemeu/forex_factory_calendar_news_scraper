@@ -1,9 +1,8 @@
 import time
 import argparse
-import json
-import pandas as pd
 import random
-from datetime import datetime, timedelta
+import time
+from datetime import datetime
 from config import ALLOWED_ELEMENT_TYPES, ICON_COLOR_MAP, RETRY_CONFIG
 from utils import save_csv
 import config
@@ -12,7 +11,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, WebDriverException
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Global retry statistics
@@ -39,10 +37,9 @@ def exponential_backoff_retry(func, max_retries=3, base_delay=1, max_delay=60, *
     
     Raises:
         Exception: Last exception if all retries fail
-    """
-    retry_stats['total_attempts'] += 1
-    
+    """ 
     for attempt in range(max_retries + 1):
+        retry_stats['total_attempts'] += 1
         try:
             result = func(*args, **kwargs)
             if attempt == 0:
