@@ -1,6 +1,7 @@
 import time
 import argparse
-import random, time
+import random
+import time
 from datetime import datetime
 from config import ALLOWED_ELEMENT_TYPES, ICON_COLOR_MAP, RETRY_CONFIG
 from utils import save_csv
