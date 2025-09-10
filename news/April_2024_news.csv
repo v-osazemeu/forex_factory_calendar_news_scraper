@@ -1,0 +1,431 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/04/2024,00:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=135875,48.2,48.2,48.2,Mon
+01/04/2024,01:45,CNY,yellow,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=135098,51.1,51.0,50.9,Mon
+01/04/2024,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=139464,,,,Mon
+01/04/2024,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=139463,,,,Mon
+01/04/2024,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=139437,,,,Mon
+01/04/2024,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=139466,,,,Mon
+01/04/2024,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=139465,,,,Mon
+01/04/2024,13:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=137057,49.8,,49.7,Mon
+01/04/2024,13:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=136846,51.9,52.5,52.5,Mon
+01/04/2024,14:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=136589,50.3,48.5,47.8,Mon
+01/04/2024,,USD,orange,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=april.2024#detail=136601,55.8,53.3,52.5,Mon
+01/04/2024,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136135,-0.3%,0.7%,-0.2%,Mon
+01/04/2024,14:30,CAD,orange,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=april.2024#detail=136718,,,,Mon
+01/04/2024,22:10,AUD,yellow,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140111,,,,Mon
+01/04/2024,22:50,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140119,,,,Mon
+01/04/2024,23:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135834,1.3%,,2.5%,Mon
+01/04/2024,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139628,1.6%,2.5%,2.4%,Mon
+02/04/2024,00:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=137225,0.1%,,-0.1%,Tue
+02/04/2024,00:30,AUD,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2024#detail=136724,,,,Tue
+02/04/2024,,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=137356,-1.0%,,-2.1%,Tue
+02/04/2024,03:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=135851,0.75|3.8,,0.72|3.2,Tue
+02/04/2024,06:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135774,-0.2%,0.4%,0.7%,Tue
+02/04/2024,06:10,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=137405,-15.3%,,-15.3%,Tue
+02/04/2024,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139371,0.4%,0.5%,0.4%,Tue
+02/04/2024,06:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135046,-0.2%,0.4%,0.3%,Tue
+02/04/2024,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=140916,,,,Tue
+02/04/2024,07:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=april.2024#detail=134507,-33.4K,10.0K,-7.5K,Tue
+02/04/2024,07:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134520,51.4,51.1,51.5,Tue
+02/04/2024,07:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134521,45.2,45.0,44.0,Tue
+02/04/2024,07:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134642,50.4,48.9,48.7,Tue
+02/04/2024,07:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134643,46.2,45.8,45.8,Tue
+02/04/2024,07:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134644,41.9,41.6,41.6,Tue
+02/04/2024,08:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134645,46.1,45.7,45.7,Tue
+02/04/2024,08:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134646,50.3,49.9,49.9,Tue
+02/04/2024,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138548,0.5%,0.2%,-0.1%,Tue
+02/04/2024,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=april.2024#detail=138547,60K,57K,56K,Tue
+02/04/2024,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138546,2.9B,1.2B,0.7B,Tue
+02/04/2024,14:00,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=april.2024#detail=138639,8.76M,8.76M,8.75M,Tue
+02/04/2024,,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136906,1.4%,1.1%,-3.8%,Tue
+02/04/2024,14:10,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140120,,,,Tue
+02/04/2024,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2024#detail=137021,15.5M,15.9M,15.8M,Tue
+02/04/2024,15:02,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=april.2024#detail=137520,2.8%,,-2.8%,Tue
+02/04/2024,16:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140112,,,,Tue
+02/04/2024,16:05,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140096,,,,Tue
+02/04/2024,17:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140097,,,,Tue
+02/04/2024,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2024#detail=138002,,,,Tue
+03/04/2024,01:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=135110,52.7,52.5,52.5,Wed
+03/04/2024,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=134791,-44.0B,,-25.7B,Wed
+03/04/2024,08:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=134709,7.5%,7.2%,7.3%,Wed
+03/04/2024,09:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138961,2.9%,3.0%,3.1%,Wed
+03/04/2024,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138962,2.4%,2.5%,2.6%,Wed
+03/04/2024,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=138963,6.5%,6.4%,6.5%,Wed
+03/04/2024,All Day,All,orange,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=april.2024#detail=139978,,,,Wed
+03/04/2024,09:33,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=135366,2.38|2.0,,2.30|2.3,Wed
+03/04/2024,12:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2024#detail=136083,184K,148K,155K,Wed
+03/04/2024,12:30,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140126,,,,Wed
+03/04/2024,13:45,USD,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=136858,51.7,51.7,51.7,Wed
+03/04/2024,,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140121,,,,Wed
+03/04/2024,14:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=136613,51.4,52.8,52.6,Wed
+03/04/2024,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2024#detail=137576,3.2M,-0.3M,3.2M,Wed
+03/04/2024,16:10,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140113,,,,Wed
+03/04/2024,17:10,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140122,,,,Wed
+03/04/2024,20:30,USD,yellow,FOMC Member Kugler Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140123,,,,Wed
+03/04/2024,21:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=137964,14.9%,,-8.6%,Wed
+03/04/2024,23:50,AUD,yellow,RBA Assist Gov Jones Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=146733,,,,Wed
+04/04/2024,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=137899,-1.3%,,3.6%,Thu
+04/04/2024,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=139505,,,,Thu
+04/04/2024,00:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138318,-1.9%,3.0%,-2.5%,Thu
+04/04/2024,01:30,AUD,yellow,Household Spending m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=146434,3.8%,,-14.2%,Thu
+04/04/2024,03:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=135863,1.81|3.5,,1.77|2.9,Thu
+04/04/2024,06:30,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135016,0.0%,0.3%,0.6%,Thu
+04/04/2024,07:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134549,56.1,55.5,54.7,Thu
+04/04/2024,07:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134547,54.6,53.0,52.2,Thu
+04/04/2024,07:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134579,48.3,47.8,47.8,Thu
+04/04/2024,07:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134580,50.1,49.8,49.8,Thu
+04/04/2024,08:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134581,51.5,51.1,51.1,Thu
+04/04/2024,08:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134582,53.1,53.4,53.4,Thu
+04/04/2024,08:42,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=134476,3.19|1.8,,3.16|2.2,Thu
+04/04/2024,09:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138964,-1.0%,-0.6%,-0.9%,Thu
+04/04/2024,09:02,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=134475,2.87|1.9,,2.81|2.4,Thu
+04/04/2024,09:03,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=135625,4.01|3.3,,3.93|3.6,Thu
+04/04/2024,11:30,EUR,yellow,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=april.2024#detail=135531,,,,Thu
+04/04/2024,,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=136882,0.7%,,8.8%,Thu
+04/04/2024,12:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=138192,1.4B,0.7B,0.6B,Thu
+04/04/2024,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2024#detail=136536,221K,213K,212K,Thu
+04/04/2024,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=136123,-68.9B,-66.9B,-67.6B,Thu
+04/04/2024,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2024#detail=135936,-37B,-42B,-36B,Thu
+04/04/2024,16:15,USD,orange,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140117,,,,Thu
+04/04/2024,18:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140114,,,,Thu
+04/04/2024,23:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139791,-0.5%,-2.8%,-6.3%,Thu
+04/04/2024,,USD,yellow,FOMC Member Kugler Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140124,,,,Thu
+05/04/2024,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=139506,,,,Fri
+05/04/2024,00:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=138055,7.28B,10.50B,10.06B,Fri
+05/04/2024,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=april.2024#detail=139803,111.8%,111.6%,109.5%,Fri
+05/04/2024,06:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139375,0.2%,0.6%,-11.4%,Fri
+05/04/2024,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135444,-0.2%,-0.1%,0.0%,Fri
+05/04/2024,,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135787,-1.0%,0.3%,0.3%,Fri
+05/04/2024,06:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=134737,0.2%,0.5%,-0.9%,Fri
+05/04/2024,07:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=april.2024#detail=135030,715B,,678B,Fri
+05/04/2024,,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=april.2024#detail=139927,-38,-41,-42,Fri
+05/04/2024,08:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=135668,50.2,49.8,49.7,Fri
+05/04/2024,,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=135769,-25.1B,-22.3B,-21.4B,Fri
+05/04/2024,09:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138965,-0.5%,-0.3%,0.0%,Fri
+05/04/2024,12:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2024#detail=138140,-2.2K,25.9K,40.7K,Fri
+05/04/2024,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=138127,6.1%,5.9%,5.8%,Fri
+05/04/2024,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135983,0.3%,0.3%,0.2%,Fri
+05/04/2024,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2024#detail=135981,303K,212K,270K,Fri
+05/04/2024,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=135982,3.8%,3.9%,3.9%,Fri
+05/04/2024,13:15,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140118,,,,Fri
+05/04/2024,14:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=137036,57.5,54.2,53.9,Fri
+05/04/2024,16:30,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140125,,,,Fri
+05/04/2024,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136071,14.1B,16.2B,17.7B,Fri
+06/04/2024,14:00,NZD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=april.2024#detail=136735,,,,Sat
+06/04/2024,16:00,AUD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=april.2024#detail=136733,,,,Sat
+07/04/2024,23:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139652,1.8%,1.8%,1.5%,Sun
+07/04/2024,23:50,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2024#detail=139761,1.37T,1.99T,2.75T,Sun
+08/04/2024,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=april.2024#detail=139547,49.8,51.6,51.3,Mon
+08/04/2024,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=134992,2.3%,2.2%,2.2%,Mon
+08/04/2024,06:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139373,2.1%,0.6%,1.3%,Mon
+08/04/2024,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=139372,21.4B,25.1B,27.6B,Mon
+08/04/2024,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=april.2024#detail=135494,-5.9,-8.3,-10.5,Mon
+08/04/2024,15:15,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140129,,,,Mon
+08/04/2024,15:30,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140130,,,,Mon
+08/04/2024,22:00,NZD,yellow,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=april.2024#detail=137495,-25,,-2,Mon
+08/04/2024,23:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135823,3.2%,1.8%,1.0%,Mon
+09/04/2024,00:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2024#detail=137237,-2.4%,,-1.8%,Tue
+09/04/2024,01:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=april.2024#detail=137344,1,,0,Tue
+09/04/2024,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2024#detail=139533,39.5,39.6,39.1,Tue
+09/04/2024,05:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139827,-3.8%,,-8.0%,Tue
+09/04/2024,06:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=134822,-5.2B,-7.0B,-7.2B,Tue
+09/04/2024,10:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=april.2024#detail=136870,88.5,88.8,89.4,Tue
+09/04/2024,14:06,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=april.2024#detail=138496,43.2,44.2,43.5,Tue
+09/04/2024,16:30,CHF,yellow,Gov Board Member Schlegel Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140131,,,,Tue
+09/04/2024,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2024#detail=138003,,,,Tue
+09/04/2024,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139755,3.2%,3.1%,3.0%,Tue
+09/04/2024,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139698,0.8%,0.8%,0.7%,Tue
+10/04/2024,02:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=136463,5.50%,5.50%,5.50%,Wed
+10/04/2024,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=april.2024#detail=136470,,,,Wed
+10/04/2024,08:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=134754,0.1%,0.2%,0.0%,Wed
+10/04/2024,12:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138210,9.3%,-4.3%,12.9%,Wed
+10/04/2024,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136039,0.4%,0.3%,0.4%,Wed
+10/04/2024,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=140110,0.4%,0.3%,0.4%,Wed
+10/04/2024,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=136040,3.5%,3.4%,3.2%,Wed
+10/04/2024,12:45,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140137,,,,Wed
+10/04/2024,13:45,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=april.2024#detail=136441,,,,Wed
+10/04/2024,,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=april.2024#detail=136434,,,,Wed
+10/04/2024,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=136426,5.00%,5.00%,5.00%,Wed
+10/04/2024,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136956,0.5%,0.5%,0.5%,Wed
+10/04/2024,14:30,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=april.2024#detail=136459,,,,Wed
+10/04/2024,,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2024#detail=137577,5.8M,0.9M,3.2M,Wed
+10/04/2024,16:45,USD,orange,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140139,,,,Wed
+10/04/2024,17:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=137319,4.56|2.3,,4.17|2.5,Wed
+10/04/2024,18:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2024#detail=136230,,,,Wed
+10/04/2024,,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=137554,-236.5B,-209.4B,-296.3B,Wed
+10/04/2024,23:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=135799,-4%,-6%,-10%,Wed
+10/04/2024,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139618,2.5%,2.4%,2.4%,Wed
+11/04/2024,01:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2024#detail=137249,4.6%,,4.3%,Thu
+11/04/2024,01:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135149,0.1%,0.4%,0.7%,Thu
+11/04/2024,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135150,-2.8%,-2.8%,-2.7%,Thu
+11/04/2024,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=134726,0.1%,0.6%,-1.4%,Thu
+11/04/2024,08:30,GBP,yellow,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=april.2024#detail=135702,,,,Thu
+11/04/2024,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=april.2024#detail=135586,,,,Thu
+11/04/2024,12:15,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=135510,4.50%,4.50%,4.50%,Thu
+11/04/2024,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2024#detail=135511,,,,Thu
+11/04/2024,12:30,USD,red,Core PPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136015,0.2%,0.2%,0.3%,Thu
+11/04/2024,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136014,0.2%,0.3%,0.6%,Thu
+11/04/2024,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2024#detail=136537,211K,216K,222k,Thu
+11/04/2024,12:45,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=april.2024#detail=135509,,,,Thu
+11/04/2024,,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140132,,,,Thu
+11/04/2024,14:00,USD,orange,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140140,,,,Thu
+11/04/2024,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2024#detail=135935,24B,14B,-37B,Thu
+11/04/2024,16:50,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140133,,,,Thu
+11/04/2024,17:01,USD,red,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=137320,4.67|2.4,,4.33|2.5,Thu
+11/04/2024,17:30,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140141,,,,Thu
+11/04/2024,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2024#detail=137469,47.1,,49.1,Thu
+11/04/2024,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=137887,-0.5%,,-0.6%,Thu
+12/04/2024,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139839,-0.6%,-0.1%,-0.1%,Fri
+12/04/2024,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139376,0.4%,0.4%,0.4%,Fri
+12/04/2024,,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138822,0.1%,0.1%,0.3%,Fri
+12/04/2024,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138827,-1.9%,-0.4%,1.1%,Fri
+12/04/2024,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=138823,-14.2B,-14.5B,-14.1B,Fri
+12/04/2024,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2024#detail=138824,0.2%,0.1%,0.0%,Fri
+12/04/2024,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138825,1.1%,0.0%,-0.3%,Fri
+12/04/2024,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138826,1.2%,0.1%,-0.2%,Fri
+12/04/2024,,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140135,,,,Fri
+12/04/2024,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=134832,0.2%,0.2%,0.2%,Fri
+12/04/2024,07:12,CNY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=135206,416B,508B,891B,Fri
+12/04/2024,07:13,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=135207,58.6B,70.2B,125.2B,Fri
+12/04/2024,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=april.2024#detail=135585,,,,Fri
+12/04/2024,10:54,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=april.2024#detail=135174,3090B,3700B,1450B,Fri
+12/04/2024,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135173,8.3%,8.7%,8.7%,Fri
+12/04/2024,11:02,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=april.2024#detail=135759,0.4%,,0.2%,Fri
+12/04/2024,12:30,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136267,0.4%,0.3%,0.3%,Fri
+12/04/2024,14:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2024#detail=136315,77.9,79.0,79.4,Fri
+12/04/2024,,USD,orange,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2024#detail=136314,3.1%,,2.9%,Fri
+12/04/2024,18:30,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140142,,,,Fri
+12/04/2024,19:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140143,,,,Fri
+14/04/2024,All Day,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=april.2024#detail=140175,,,,Sun
+14/04/2024,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=april.2024#detail=137481,47.5,,52.6,Sun
+14/04/2024,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=137871,0.9%,,7.6%,Sun
+15/04/2024,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139781,7.7%,0.8%,-1.7%,Mon
+15/04/2024,07:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135004,0.1%,0.2%,0.1%,Mon
+15/04/2024,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138966,0.8%,0.8%,-3.0%,Mon
+15/04/2024,12:15,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140162,,,,Mon
+15/04/2024,13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138182,0.7%,0.7%,0.0%,Mon
+15/04/2024,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138201,0.0%,0.8%,-0.2%,Mon
+15/04/2024,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136150,1.1%,0.5%,0.6%,Mon
+15/04/2024,,USD,red,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2024#detail=136395,-14.3,-5.2,-20.9,Mon
+15/04/2024,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136151,0.7%,0.4%,0.9%,Mon
+15/04/2024,,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140169,,,,Mon
+15/04/2024,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136894,0.4%,0.3%,0.0%,Mon
+15/04/2024,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=april.2024#detail=138432,51,51,51,Mon
+15/04/2024,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2024#detail=138363,,,,Mon
+16/04/2024,01:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140146,,,,Tue
+16/04/2024,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136821,-0.34%,,-0.36%,Tue
+16/04/2024,03:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135292,4.5%,6.0%,7.0%,Tue
+16/04/2024,,CNY,orange,GDP q/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135291,5.3%,4.8%,5.2%,Tue
+16/04/2024,,CNY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135294,3.1%,5.1%,5.5%,Tue
+16/04/2024,,CNY,yellow,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135290,4.5%,4.0%,4.2%,Tue
+16/04/2024,,CNY,yellow,NBS Press Conference,https://www.forexfactory.com/calendar?month=april.2024#detail=135293,,,,Tue
+16/04/2024,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=135295,5.2%,5.2%,5.3%,Tue
+16/04/2024,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135470,0.2%,0.1%,-0.1%,Tue
+16/04/2024,,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=april.2024#detail=138707,10.9K,17.2K,4.1K,Tue
+16/04/2024,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138706,5.6%,5.5%,5.6%,Tue
+16/04/2024,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=138705,4.2%,4.0%,3.9%,Tue
+16/04/2024,10:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=134767,6.03B,3.44B,2.50B,Tue
+16/04/2024,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=138967,17.9B,27.3B,27.1B,Tue
+16/04/2024,,EUR,yellow,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2024#detail=135408,42.9,35.9,31.7,Tue
+16/04/2024,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2024#detail=135411,43.9,37.8,33.5,Tue
+16/04/2024,13:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=april.2024#detail=138222,242K,244K,260K,Tue
+16/04/2024,13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138257,0.6%,0.7%,0.3%,Tue
+16/04/2024,,CAD,red,Median CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138258,2.8%,3.0%,3.0%,Tue
+16/04/2024,,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138259,3.1%,3.2%,3.2%,Tue
+16/04/2024,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138246,2.9%,3.1%,3.1%,Tue
+16/04/2024,,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138256,0.5%,,0.1%,Tue
+16/04/2024,,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=april.2024#detail=136668,1.46M,1.51M,1.52M,Tue
+16/04/2024,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=april.2024#detail=136680,1.32M,1.48M,1.55M,Tue
+16/04/2024,14:00,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140147,,,,Tue
+16/04/2024,14:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136282,0.4%,0.4%,0.4%,Tue
+16/04/2024,,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=136283,78.4%,78.5%,78.2%,Tue
+16/04/2024,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138923,-0.3%,,0.0%,Tue
+16/04/2024,Day 2,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2024#detail=138364,,,,Tue
+16/04/2024,15:17,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=april.2024#detail=137521,0.1%,,2.8%,Tue
+16/04/2024,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139885,-0.3%,,0.3%,Tue
+16/04/2024,,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140165,,,,Tue
+16/04/2024,17:30,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140176,,,,Tue
+16/04/2024,18:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140148,,,,Tue
+16/04/2024,,USD,orange,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140170,,,,Tue
+16/04/2024,18:15,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140164,,,,Tue
+16/04/2024,,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140171,,,,Tue
+16/04/2024,21:00,CAD,yellow,Annual Budget Release,https://www.forexfactory.com/calendar?month=april.2024#detail=138339,,,,Tue
+16/04/2024,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2024#detail=138004,,,,Tue
+16/04/2024,23:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=137881,0.6%,0.6%,0.5%,Tue
+17/04/2024,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=139863,-0.70T,-0.30T,-0.57T,Wed
+17/04/2024,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=137392,-0.1%,,0.1%,Wed
+17/04/2024,07:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138751,3.2%,3.1%,3.4%,Wed
+17/04/2024,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138750,4.2%,4.1%,4.5%,Wed
+17/04/2024,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138754,-0.1%,0.1%,0.3%,Wed
+17/04/2024,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138755,0.2%,0.2%,0.3%,Wed
+17/04/2024,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138753,4.3%,4.2%,4.5%,Wed
+17/04/2024,09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138752,-0.2%,0.2%,-1.3%,Wed
+17/04/2024,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138968,2.9%,2.9%,2.9%,Wed
+17/04/2024,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138969,2.4%,2.4%,2.4%,Wed
+17/04/2024,10:37,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=135380,2.62|3.2,,2.52|3.4,Wed
+17/04/2024,13:05,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140149,,,,Wed
+17/04/2024,13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=april.2024#detail=138173,-8.78B,10.10B,8.88B,Wed
+17/04/2024,Day 3,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2024#detail=138365,,,,Wed
+17/04/2024,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2024#detail=137578,2.7M,1.6M,5.8M,Wed
+17/04/2024,17:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140150,,,,Wed
+17/04/2024,19:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140177,,,,Wed
+17/04/2024,,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140151,,,,Wed
+17/04/2024,,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=april.2024#detail=136302,,,,Wed
+17/04/2024,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=april.2024#detail=136407,71.5B,40.2B,14.0B,Wed
+17/04/2024,22:30,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140152,,,,Wed
+17/04/2024,23:30,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140153,,,,Wed
+18/04/2024,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2024#detail=137368,-6.6K,7.2K,117.6K,Thu
+18/04/2024,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=137380,3.8%,3.9%,3.7%,Thu
+18/04/2024,,AUD,yellow,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=april.2024#detail=137338,-2,,-6,Thu
+18/04/2024,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=april.2024#detail=136504,,,,Thu
+18/04/2024,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139742,1.5%,0.4%,-0.5%,Thu
+18/04/2024,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=135065,3.54B,3.22B,3.68B,Thu
+18/04/2024,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2024#detail=135604,29.5B,45.2B,39.3B,Thu
+18/04/2024,09:45,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=140168,3.25|1.8,,3.19|1.8,Thu
+18/04/2024,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=april.2024#detail=135341,,,,Thu
+18/04/2024,13:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140154,,,,Thu
+18/04/2024,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2024#detail=136538,212K,215K,212K,Thu
+18/04/2024,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2024#detail=138420,15.5,1.5,3.2,Thu
+18/04/2024,14:05,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140179,,,,Thu
+18/04/2024,14:15,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140155,,,,Thu
+18/04/2024,,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140156,,,,Thu
+18/04/2024,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=april.2024#detail=138464,4.19M,4.20M,4.38M,Thu
+18/04/2024,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138409,-0.3%,-0.1%,0.2%,Thu
+18/04/2024,Day 4,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2024#detail=138366,,,,Thu
+18/04/2024,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2024#detail=135934,50B,54B,24B,Thu
+18/04/2024,16:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140157,,,,Thu
+18/04/2024,17:00,CHF,yellow,Gov Board Member Martin Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140158,,,,Thu
+18/04/2024,22:45,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140159,,,,Thu
+19/04/2024,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139673,2.6%,2.7%,2.8%,Fri
+19/04/2024,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139377,0.2%,0.0%,-0.4%,Fri
+19/04/2024,,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138911,0.0%,0.3%,0.1%,Fri
+19/04/2024,10:10,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135195,-26.1%,,-19.9%,Fri
+19/04/2024,15:15,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140160,,,,Fri
+19/04/2024,,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140163,,,,Fri
+19/04/2024,Day 5,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2024#detail=138357,,,,Fri
+19/04/2024,17:30,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140172,,,,Fri
+19/04/2024,20:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140161,,,,Fri
+19/04/2024,21:00,USD,yellow,FOMC Financial Stability Report,https://www.forexfactory.com/calendar?month=april.2024#detail=138332,,,,Fri
+20/04/2024,Day 6,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2024#detail=138358,,,,Sat
+22/04/2024,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135810,1.1%,,1.5%,Mon
+22/04/2024,02:15,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=135249,3.45%,3.45%,3.45%,Mon
+22/04/2024,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=135250,3.95%,3.95%,3.95%,Mon
+22/04/2024,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=137940,1.4%,,2.1%,Mon
+22/04/2024,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138297,0.8%,0.8%,1.1%,Mon
+22/04/2024,,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138234,0.0%,0.1%,0.1%,Mon
+22/04/2024,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138306,4.7%,2.9%,2.1%,Mon
+22/04/2024,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2024#detail=135482,-15,-14,-15,Mon
+22/04/2024,16:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140190,,,,Mon
+23/04/2024,00:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=138678,49.9,,47.3,Tue
+23/04/2024,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=138679,54.2,,54.4,Tue
+23/04/2024,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134896,49.9,48.0,48.2,Tue
+23/04/2024,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139685,2.2%,2.3%,2.3%,Tue
+23/04/2024,07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=april.2024#detail=138899,11.0B,8.9B,8.6B,Tue
+23/04/2024,08:15,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134888,44.9,46.9,46.2,Tue
+23/04/2024,,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134889,50.5,48.9,48.3,Tue
+23/04/2024,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134890,42.2,42.8,41.9,Tue
+23/04/2024,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134891,53.3,50.6,50.1,Tue
+23/04/2024,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134892,45.6,46.5,46.1,Tue
+23/04/2024,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134893,52.9,51.8,51.5,Tue
+23/04/2024,,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140181,,,,Tue
+23/04/2024,09:30,GBP,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134894,48.7,50.3,50.3,Tue
+23/04/2024,,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=134895,54.9,53.0,53.1,Tue
+23/04/2024,12:15,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140182,,,,Tue
+23/04/2024,13:30,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140185,,,,Tue
+23/04/2024,14:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=138654,49.9,52.0,51.9,Tue
+23/04/2024,,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=138655,50.9,52.0,51.7,Tue
+23/04/2024,14:59,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2024#detail=136383,-7,-7,-11,Tue
+23/04/2024,15:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=april.2024#detail=136692,693K,668K,637K,Tue
+23/04/2024,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2024#detail=138005,,,,Tue
+23/04/2024,23:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=137923,588M,-505M,-315M,Tue
+24/04/2024,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139710,2.3%,2.1%,2.2%,Wed
+24/04/2024,02:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=137426,1.0%,0.8%,0.6%,Wed
+24/04/2024,,AUD,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=137417,3.5%,3.4%,3.4%,Wed
+24/04/2024,,AUD,red,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=137434,1.0%,0.8%,0.8%,Wed
+24/04/2024,08:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140186,,,,Wed
+24/04/2024,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=april.2024#detail=134974,17.6,,11.5,Wed
+24/04/2024,,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=april.2024#detail=135353,89.4,88.9,87.9,Wed
+24/04/2024,10:33,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=139944,2.54|2.5,,2.38|2.0,Wed
+24/04/2024,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=april.2024#detail=135648,-23,-16,-18,Wed
+24/04/2024,13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138149,-0.3%,0.0%,0.4%,Wed
+24/04/2024,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138158,-0.1%,0.1%,-0.3%,Wed
+24/04/2024,,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136363,0.2%,0.3%,0.3%,Wed
+24/04/2024,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136362,2.6%,2.5%,1.3%,Wed
+24/04/2024,13:55,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=april.2024#detail=135238,-11.9,-9.6,-10.4,Wed
+24/04/2024,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135270,-0.2%,,-0.3%,Wed
+24/04/2024,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2024#detail=137579,-6.4M,1.6M,2.7M,Wed
+24/04/2024,18:30,CAD,yellow,BOC Summary of Deliberations,https://www.forexfactory.com/calendar?month=april.2024#detail=137048,,,,Wed
+24/04/2024,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=137279,,,,Wed
+24/04/2024,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=137262,,,,Wed
+25/04/2024,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=april.2024#detail=135392,-24.2,-25.9,-27.3,Thu
+25/04/2024,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=139479,,,,Thu
+25/04/2024,09:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=april.2024#detail=135532,,,,Thu
+25/04/2024,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=april.2024#detail=135647,-44,-2,2,Thu
+25/04/2024,13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=136207,1.6%,2.5%,3.4%,Thu
+25/04/2024,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2024#detail=136539,207K,214K,212K,Thu
+25/04/2024,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=136206,3.1%,3.0%,1.6%,Thu
+25/04/2024,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2024#detail=136930,-91.8B,-91.1B,-90.3B,Thu
+25/04/2024,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136918,-0.4%,0.2%,0.4%,Thu
+25/04/2024,15:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138476,3.4%,0.3%,1.6%,Thu
+25/04/2024,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2024#detail=135933,92B,87B,50B,Thu
+25/04/2024,16:15,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140187,,,,Thu
+26/04/2024,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2024#detail=135697,-19,-20,-21,Fri
+26/04/2024,00:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139662,1.6%,2.2%,2.4%,Fri
+26/04/2024,02:30,AUD,yellow,Import Prices q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=137430,-1.8%,0.1%,1.1%,Fri
+26/04/2024,,AUD,yellow,PPI q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=137219,0.9%,0.9%,0.9%,Fri
+26/04/2024,04:22,JPY,red,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=april.2024#detail=139580,,,,Fri
+26/04/2024,,JPY,red,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=139579,<0.10%,<0.10%,<0.10%,Fri
+26/04/2024,,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2024#detail=139578,,,,Fri
+26/04/2024,07:30,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2024#detail=139577,,,,Fri
+26/04/2024,08:00,EUR,yellow,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=134502,12.3%,11.8%,11.8%,Fri
+26/04/2024,09:00,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=april.2024#detail=140184,,,,Fri
+26/04/2024,,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135556,0.9%,0.5%,0.4%,Fri
+26/04/2024,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135557,0.2%,0.3%,0.3%,Fri
+26/04/2024,13:30,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136177,0.3%,0.3%,0.3%,Fri
+26/04/2024,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136178,0.5%,0.5%,0.3%,Fri
+26/04/2024,,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136179,0.8%,0.6%,0.8%,Fri
+26/04/2024,15:00,USD,red,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2024#detail=136339,77.2,77.9,77.9,Fri
+26/04/2024,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2024#detail=136338,3.2%,,3.1%,Fri
+29/04/2024,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2024#detail=139490,,,,Mon
+29/04/2024,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139378,0.5%,0.6%,0.4%,Mon
+29/04/2024,08:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=134618,3.3%,3.4%,3.2%,Mon
+29/04/2024,10:13,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2024#detail=134699,3.86|1.3,,3.67|1.4,Mon
+30/04/2024,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=135835,0.8%,,1.3%,Tue
+30/04/2024,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=139558,2.6%,2.5%,2.6%,Tue
+30/04/2024,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=139815,3.8%,3.4%,-0.6%,Tue
+30/04/2024,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139851,1.2%,2.5%,4.7%,Tue
+30/04/2024,02:00,NZD,orange,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=april.2024#detail=137911,14.9,,22.9,Tue
+30/04/2024,02:30,AUD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138044,-0.4%,0.2%,0.2%,Tue
+30/04/2024,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=137209,0.3%,0.4%,0.5%,Tue
+30/04/2024,,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=135125,50.4,50.3,50.8,Tue
+30/04/2024,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=135126,51.2,52.3,53.0,Tue
+30/04/2024,02:45,CNY,yellow,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=135100,51.4,51.0,51.1,Tue
+30/04/2024,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=139640,-12.8%,-7.6%,-8.2%,Tue
+30/04/2024,06:30,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=134811,0.4%,0.2%,0.1%,Tue
+30/04/2024,,EUR,yellow,French Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=134854,0.2%,0.1%,0.1%,Tue
+30/04/2024,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135445,0.4%,0.1%,-0.2%,Tue
+30/04/2024,,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=135458,1.8%,1.3%,-1.9%,Tue
+30/04/2024,07:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=134844,0.5%,0.5%,0.2%,Tue
+30/04/2024,08:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=april.2024#detail=135058,101.8,102.1,100.4,Tue
+30/04/2024,,EUR,yellow,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=134498,0.7%,0.4%,0.7%,Tue
+30/04/2024,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=april.2024#detail=135432,10K,7K,6K,Tue
+30/04/2024,09:00,EUR,yellow,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=134748,0.3%,0.1%,0.1%,Tue
+30/04/2024,,EUR,yellow,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=139428,0.2%,0.1%,-0.5%,Tue
+30/04/2024,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138549,0.7%,0.4%,0.6%,Tue
+30/04/2024,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=april.2024#detail=138550,61K,61K,60K,Tue
+30/04/2024,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138551,1.8B,1.7B,3.1B,Tue
+30/04/2024,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138970,2.7%,2.6%,2.9%,Tue
+30/04/2024,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=138971,2.4%,2.4%,2.4%,Tue
+30/04/2024,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=134779,0.2%,0.3%,0.0%,Tue
+30/04/2024,,EUR,yellow,Prelim Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=139061,0.3%,0.1%,0.0%,Tue
+30/04/2024,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=138117,0.2%,0.3%,0.5%,Tue
+30/04/2024,,USD,red,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=136417,1.2%,1.0%,0.9%,Tue
+30/04/2024,14:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=april.2024#detail=136243,7.3%,6.7%,6.6%,Tue
+30/04/2024,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=april.2024#detail=136255,1.2%,0.1%,-0.1%,Tue
+30/04/2024,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=april.2024#detail=136632,37.9,44.9,41.4,Tue
+30/04/2024,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2024#detail=137304,97.0,104.0,103.1,Tue
+30/04/2024,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2024#detail=138006,,,,Tue
+30/04/2024,22:00,NZD,yellow,RBNZ Financial Stability Report,https://www.forexfactory.com/calendar?month=april.2024#detail=136484,,,,Tue
+30/04/2024,23:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=137499,-0.2%,0.3%,0.4%,Tue
+30/04/2024,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2024#detail=137503,4.3%,4.3%,4.0%,Tue
+30/04/2024,,NZD,yellow,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=april.2024#detail=137539,0.8%,0.8%,1.0%,Tue

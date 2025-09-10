@@ -1,0 +1,400 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/09/2022,00:50,JPY,yellow,Capital Spending q/y,https://www.forexfactory.com/calendar?month=september.2022#detail=126802,4.6%,3.0%,3.0%,Thu
+01/09/2022,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=126988,51.5,51.0,51.0,Thu
+01/09/2022,02:30,AUD,yellow,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=124920,-0.3%,1.1%,0.4%,Thu
+01/09/2022,02:45,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123623,49.5,50.1,50.4,Thu
+01/09/2022,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2022#detail=126966,0.24|4.0,,0.17|3.0,Thu
+01/09/2022,07:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125553,1.9%,-0.1%,-1.5%,Thu
+01/09/2022,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124717,0.8%,0.1%,0.2%,Thu
+01/09/2022,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=124882,21.7%,,10.3%,Thu
+01/09/2022,,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125126,0.3%,0.2%,0.0%,Thu
+01/09/2022,,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125162,2.6%,0.9%,0.7%,Thu
+01/09/2022,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122465,49.9,48.5,48.7,Thu
+01/09/2022,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122466,56.4,56.4,58.0,Thu
+01/09/2022,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122467,48.0,48.0,48.5,Thu
+01/09/2022,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122471,50.6,49.0,49.0,Thu
+01/09/2022,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122470,49.1,49.8,49.8,Thu
+01/09/2022,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122469,49.6,49.7,49.7,Thu
+01/09/2022,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=122526,7.9%,8.1%,8.0%,Thu
+01/09/2022,09:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122468,47.3,46.0,46.0,Thu
+01/09/2022,09:48,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2022#detail=122615,2.81|1.8,,1.98|1.7,Thu
+01/09/2022,09:57,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2022#detail=122616,2.21|2.0,,1.43|2.5,Thu
+01/09/2022,10:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=126759,6.6%,6.6%,6.7%,Thu
+01/09/2022,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123109,30.3%,,36.3%,Thu
+01/09/2022,13:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125713,-6.6%,-0.3%,-0.6%,Thu
+01/09/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2022#detail=122995,232K,250K,237K,Thu
+01/09/2022,,USD,yellow,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=124138,-4.1%,-4.3%,-4.6%,Thu
+01/09/2022,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=124139,10.2%,10.8%,10.8%,Thu
+01/09/2022,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123312,48.7,,52.5,Thu
+01/09/2022,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123157,51.5,51.3,51.3,Thu
+01/09/2022,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123121,52.8,52.1,52.8,Thu
+01/09/2022,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124200,-0.4%,-0.3%,-0.5%,Thu
+01/09/2022,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=september.2022#detail=123133,52.5,55.4,60.0,Thu
+01/09/2022,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=september.2022#detail=123905,13.2M,13.3M,13.4M,Thu
+01/09/2022,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2022#detail=122101,61B,58B,60B,Thu
+01/09/2022,23:45,NZD,yellow,Overseas Trade Index q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=125267,-2.4%,0.2%,0.6%,Thu
+02/09/2022,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=127090,0.4%,3.1%,2.8%,Fri
+02/09/2022,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=125554,5.4B,4.6B,6.2B,Fri
+02/09/2022,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=124980,-131.2B,,-76.1B,Fri
+02/09/2022,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=september.2022#detail=122631,40.4K,4.6K,3.2K,Fri
+02/09/2022,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126760,4.0%,2.5%,1.3%,Fri
+02/09/2022,13:30,CAD,yellow,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=126135,0.2%,0.1%,-0.5%,Fri
+02/09/2022,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124050,0.3%,0.4%,0.5%,Fri
+02/09/2022,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2022#detail=122945,315K,295K,526K,Fri
+02/09/2022,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=122957,3.7%,3.5%,3.5%,Fri
+02/09/2022,15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124747,-1.0%,0.2%,1.8%,Fri
+04/09/2022,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=september.2022#detail=123241,47.9,,45.3,Sun
+05/09/2022,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=123673,-3.3%,,-2.2%,Mon
+05/09/2022,02:02,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=123400,-0.5%,,1.2%,Mon
+05/09/2022,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=123426,2.0%,,-1.0%,Mon
+05/09/2022,,AUD,yellow,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=124936,7.6%,4.6%,9.8%,Mon
+05/09/2022,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123624,55.0,54.0,55.5,Mon
+05/09/2022,08:00,CHF,yellow,GDP q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=125103,0.3%,0.4%,0.5%,Mon
+05/09/2022,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122475,50.6,52.3,53.8,Mon
+05/09/2022,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122476,50.5,48.9,48.4,Mon
+05/09/2022,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122474,51.2,51.0,51.0,Mon
+05/09/2022,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122473,47.7,48.2,48.2,Mon
+05/09/2022,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122472,49.8,50.2,50.2,Mon
+05/09/2022,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=september.2022#detail=125359,-31.8,-26.8,-25.2,Mon
+05/09/2022,,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122477,50.9,52.5,52.5,Mon
+05/09/2022,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126761,0.3%,0.3%,-1.0%,Mon
+05/09/2022,All Day,All,orange,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=september.2022#detail=122686,,,,Mon
+05/09/2022,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2022#detail=121972,,,,Mon
+05/09/2022,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2022#detail=121960,,,,Mon
+05/09/2022,16:30,GBP,orange,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128034,,,,Mon
+06/09/2022,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=126548,0.5%,0.5%,1.6%,Tue
+06/09/2022,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125920,1.8%,1.9%,2.0%,Tue
+06/09/2022,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=126874,3.4%,4.5%,3.5%,Tue
+06/09/2022,02:30,AUD,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2022#detail=124940,18.3B,22.0B,2.8B,Tue
+06/09/2022,,AUD,yellow,Household Spending m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=146415,-0.2%,,2.6%,Tue
+06/09/2022,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2022#detail=126977,1.24|3.3,,1.12|3.0,Tue
+06/09/2022,05:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=125659,2.35%,2.35%,1.85%,Tue
+06/09/2022,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=september.2022#detail=125670,,,,Tue
+06/09/2022,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125555,-1.1%,-0.8%,-0.3%,Tue
+06/09/2022,09:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124693,49.2,48.0,48.9,Tue
+06/09/2022,14:45,USD,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123169,43.7,44.3,44.1,Tue
+06/09/2022,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123145,56.9,55.4,56.7,Tue
+06/09/2022,15:55,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=september.2022#detail=123219,4.9%,,-2.9%,Tue
+06/09/2022,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=september.2022#detail=123254,53.3,,51.7,Tue
+07/09/2022,02:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=124859,0.9%,0.9%,0.7%,Wed
+07/09/2022,04:02,CNY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=123547,536B,650B,683B,Wed
+07/09/2022,04:03,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=123548,79.4B,91.8B,101.3B,Wed
+07/09/2022,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=september.2022#detail=126831,99.6%,100.2%,100.9%,Wed
+07/09/2022,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125556,-0.3%,-0.5%,0.8%,Wed
+07/09/2022,,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124266,0.4%,0.1%,-0.1%,Wed
+07/09/2022,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=september.2022#detail=125058,860B,,850B,Wed
+07/09/2022,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=122567,1.3%,0.3%,-1.1%,Wed
+07/09/2022,10:00,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=126763,0.4%,0.3%,0.3%,Wed
+07/09/2022,,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=126762,0.8%,0.6%,0.6%,Wed
+07/09/2022,,GBP,red,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=september.2022#detail=126554,,,,Wed
+07/09/2022,10:02,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2022#detail=124545,3.09|2.4,,1.78|2.4,Wed
+07/09/2022,13:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=126121,4.1B,3.8B,4.9B,Wed
+07/09/2022,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=124164,-70.6B,-70.2B,-80.9B,Wed
+07/09/2022,15:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=september.2022#detail=122705,,,,Wed
+07/09/2022,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=122697,3.25%,3.25%,2.50%,Wed
+07/09/2022,,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=125197,60.9,48.3,49.6,Wed
+07/09/2022,,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128036,,,,Wed
+07/09/2022,17:40,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128035,,,,Wed
+07/09/2022,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=september.2022#detail=123072,,,,Wed
+07/09/2022,,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128039,,,,Wed
+07/09/2022,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2022#detail=122166,,,,Wed
+07/09/2022,23:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=125223,-3.8%,,0.9%,Wed
+08/09/2022,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=126524,53%,60%,62%,Thu
+08/09/2022,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125885,1.9%,1.9%,1.7%,Thu
+08/09/2022,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2022#detail=126862,-0.63T,0.06T,0.84T,Thu
+08/09/2022,,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=128026,-0.3%,-0.4%,-0.4%,Thu
+08/09/2022,,JPY,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=128027,0.9%,0.7%,0.5%,Thu
+08/09/2022,02:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=124950,8.73B,14.55B,17.13B,Thu
+08/09/2022,04:05,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128033,,,,Thu
+08/09/2022,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=september.2022#detail=127012,45.5,45.0,43.8,Thu
+08/09/2022,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=124989,0.5%,0.5%,0.5%,Thu
+08/09/2022,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=125113,2.1%,2.2%,2.2%,Thu
+08/09/2022,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=125000,-14.5B,-13.0B,-13.1B,Thu
+08/09/2022,13:15,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=125298,1.25%,1.25%,0.50%,Thu
+08/09/2022,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=september.2022#detail=125299,,,,Thu
+08/09/2022,13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2022#detail=122996,222K,234K,228K,Thu
+08/09/2022,13:45,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=september.2022#detail=125297,,,,Thu
+08/09/2022,14:10,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128040,,,,Thu
+08/09/2022,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2022#detail=122102,54B,55B,61B,Thu
+08/09/2022,16:00,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2022#detail=122288,8.8M,-2.0M,-3.3M,Thu
+08/09/2022,16:25,CAD,yellow,Gov Council Member Rogers Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128032,,,,Thu
+08/09/2022,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124789,23.8B,31.5B,39.1B,Thu
+09/09/2022,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=127078,3.4%,3.4%,3.4%,Fri
+09/09/2022,02:30,CNY,yellow,CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123543,2.5%,2.8%,2.7%,Fri
+09/09/2022,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123544,2.3%,3.2%,4.2%,Fri
+09/09/2022,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=122555,-1.6%,-0.4%,1.2%,Fri
+09/09/2022,09:03,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123545,12.2%,12.2%,12.0%,Fri
+09/09/2022,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=september.2022#detail=123546,1250B,1500B,679B,Fri
+09/09/2022,10:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128107,,,,Fri
+09/09/2022,All Day,EUR,orange,EU Economic Summit,https://www.forexfactory.com/calendar?month=september.2022#detail=128028,,,,Fri
+09/09/2022,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=september.2022#detail=128037,,,,Fri
+09/09/2022,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=september.2022#detail=122921,-39.7K,15.0K,-30.6K,Fri
+09/09/2022,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=122933,5.4%,5.0%,4.9%,Fri
+09/09/2022,,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=126138,83.8%,82.1%,81.9%,Fri
+09/09/2022,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124250,0.6%,0.8%,0.8%,Fri
+09/09/2022,17:00,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128042,,,,Fri
+09/09/2022,,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128041,,,,Fri
+10/09/2022,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=september.2022#detail=128038,,,,Sat
+11/09/2022,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125261,41.8%,,30.1%,Sun
+12/09/2022,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2022#detail=126635,,,,Mon
+12/09/2022,06:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=126910,10.7%,,5.5%,Mon
+12/09/2022,07:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124464,0.2%,0.3%,-0.6%,Mon
+12/09/2022,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124466,-0.8%,0.4%,-1.4%,Mon
+12/09/2022,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=124465,-19.4B,-22.2B,-22.8B,Mon
+12/09/2022,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=september.2022#detail=124468,-0.2%,-0.2%,-0.4%,Mon
+12/09/2022,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124469,-0.3%,0.4%,-0.9%,Mon
+12/09/2022,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124467,0.1%,0.3%,-1.6%,Mon
+12/09/2022,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=122543,0.4%,0.0%,-2.0%,Mon
+12/09/2022,11:22,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=september.2022#detail=126536,-0.3%,,0.0%,Mon
+12/09/2022,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2022#detail=123917,3.33|2.4,,2.76|2.5,Mon
+12/09/2022,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125209,1.1%,,2.1%,Mon
+13/09/2022,00:50,JPY,yellow,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2022#detail=127017,1.7,-8.1,-9.9,Tue
+13/09/2022,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125872,9.0%,8.9%,9.0%,Tue
+13/09/2022,01:15,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2022#detail=123412,3.9%,,-3.0%,Tue
+13/09/2022,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=september.2022#detail=123986,10,,8,Tue
+13/09/2022,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125605,0.3%,0.3%,0.3%,Tue
+13/09/2022,,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123809,5.5%,5.4%,5.2%,Tue
+13/09/2022,,GBP,yellow,Claimant Count Change,https://www.forexfactory.com/calendar?month=september.2022#detail=123811,6.3K,-13.2K,-14.5K,Tue
+13/09/2022,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=123810,3.6%,3.8%,3.8%,Tue
+13/09/2022,07:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125137,-0.1%,0.1%,-0.1%,Tue
+13/09/2022,09:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=122533,8.1%,8.1%,8.5%,Tue
+13/09/2022,10:00,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=september.2022#detail=125376,-60.7,-57.9,-54.9,Tue
+13/09/2022,,EUR,yellow,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=september.2022#detail=125383,-61.9,-59.4,-55.3,Tue
+13/09/2022,10:55,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=september.2022#detail=124038,91.8,90.9,89.9,Tue
+13/09/2022,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124083,0.6%,0.3%,0.3%,Tue
+13/09/2022,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124082,0.1%,-0.1%,0.0%,Tue
+13/09/2022,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=128658,8.3%,8.1%,8.5%,Tue
+13/09/2022,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=september.2022#detail=123085,44.7,42.5,38.1,Tue
+13/09/2022,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2022#detail=123929,3.51|2.4,,3.11|2.3,Tue
+13/09/2022,18:53,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=123063,-219.6B,-215.0B,-211.1B,Tue
+13/09/2022,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2022#detail=122167,,,,Tue
+13/09/2022,23:45,NZD,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2022#detail=125251,-5.22B,-4.70B,-6.50B,Tue
+14/09/2022,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126832,5.3%,-0.6%,0.9%,Wed
+14/09/2022,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126893,0.8%,1.0%,1.0%,Wed
+14/09/2022,07:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123874,9.9%,10.0%,10.1%,Wed
+14/09/2022,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123873,6.3%,6.2%,6.2%,Wed
+14/09/2022,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=123878,-1.2%,0.2%,0.0%,Wed
+14/09/2022,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=123877,-0.1%,1.0%,1.6%,Wed
+14/09/2022,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123875,12.3%,12.3%,12.3%,Wed
+14/09/2022,09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123876,15.5%,7.9%,7.8%,Wed
+14/09/2022,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126764,-2.3%,-1.0%,1.1%,Wed
+14/09/2022,13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126111,-0.9%,-1.0%,-0.1%,Wed
+14/09/2022,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124110,-0.1%,-0.1%,-0.5%,Wed
+14/09/2022,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124111,0.4%,0.3%,0.2%,Wed
+14/09/2022,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=128256,-0.7%,,-0.6%,Wed
+14/09/2022,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2022#detail=122293,2.4M,1.9M,8.8M,Wed
+14/09/2022,23:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=123992,1.7%,1.0%,-0.2%,Wed
+15/09/2022,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=126922,-2.37T,-2.08T,-2.16T,Thu
+15/09/2022,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2022#detail=122897,5.4%,,5.9%,Thu
+15/09/2022,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=september.2022#detail=124906,33.5K,35.5K,-40.9K,Thu
+15/09/2022,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=124894,3.5%,3.4%,3.4%,Thu
+15/09/2022,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=september.2022#detail=125649,,,,Thu
+15/09/2022,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126937,-0.6%,-0.1%,-0.4%,Thu
+15/09/2022,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125557,0.1%,0.5%,-0.4%,Thu
+15/09/2022,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125036,0.5%,0.4%,0.4%,Thu
+15/09/2022,09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2022#detail=123823,4.9%,,4.6%,Thu
+15/09/2022,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=126765,-40.3B,-31.9B,-32.2B,Thu
+15/09/2022,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124184,-0.3%,0.0%,0.0%,Thu
+15/09/2022,,USD,red,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2022#detail=123941,-1.5,-12.7,-31.3,Thu
+15/09/2022,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124185,0.3%,-0.1%,-0.4%,Thu
+15/09/2022,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2022#detail=122856,-9.9,2.4,6.2,Thu
+15/09/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2022#detail=122997,213K,225K,218K,Thu
+15/09/2022,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124152,-1.0%,-1.3%,-1.5%,Thu
+15/09/2022,14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=124767,80.0%,80.2%,80.2%,Thu
+15/09/2022,,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124768,-0.2%,0.0%,0.5%,Thu
+15/09/2022,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124280,0.6%,0.6%,1.4%,Thu
+15/09/2022,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2022#detail=122103,77B,71B,54B,Thu
+15/09/2022,23:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2022#detail=123657,54.9,,53.5,Thu
+16/09/2022,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=136802,-0.29%,,-0.11%,Fri
+16/09/2022,03:00,CNY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123485,5.4%,3.2%,2.7%,Fri
+16/09/2022,,CNY,yellow,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123482,5.8%,5.5%,5.7%,Fri
+16/09/2022,,CNY,yellow,Industrial Production y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123483,4.2%,3.8%,3.8%,Fri
+16/09/2022,,CNY,yellow,NBS Press Conference,https://www.forexfactory.com/calendar?month=september.2022#detail=123484,,,,Fri
+16/09/2022,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=123584,5.3%,5.4%,5.4%,Fri
+16/09/2022,07:00,GBP,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124516,-1.6%,-0.5%,0.4%,Fri
+16/09/2022,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=122579,-0.36B,-1.50B,-2.51B,Fri
+16/09/2022,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=126767,4.3%,4.3%,4.3%,Fri
+16/09/2022,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=126766,9.1%,9.1%,9.1%,Fri
+16/09/2022,13:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=september.2022#detail=125701,267K,264K,275K,Fri
+16/09/2022,13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=september.2022#detail=126076,14.83B,12.35B,-17.64B,Fri
+16/09/2022,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126130,-0.6%,-0.4%,0.2%,Fri
+16/09/2022,15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2022#detail=123288,59.5,60.0,58.2,Fri
+16/09/2022,,USD,orange,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2022#detail=123287,4.6%,,4.8%,Fri
+16/09/2022,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=september.2022#detail=124853,21.4B,121.6B,121.8B,Fri
+19/09/2022,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2022#detail=126600,,,,Mon
+19/09/2022,03:30,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123583,16.4%,,17.3%,Mon
+19/09/2022,04:00,NZD,red,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128232,,,,Mon
+19/09/2022,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2022#detail=128110,,,,Mon
+19/09/2022,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=september.2022#detail=125451,,,,Mon
+19/09/2022,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126099,-1.2%,-0.9%,-2.5%,Mon
+19/09/2022,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126100,-4.2%,3.2%,-7.5%,Mon
+19/09/2022,15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=september.2022#detail=124026,46,47,49,Mon
+20/09/2022,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125904,2.8%,2.7%,2.4%,Tue
+20/09/2022,02:15,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=134394,3.65%,3.65%,3.65%,Tue
+20/09/2022,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=134342,4.30%,4.30%,4.30%,Tue
+20/09/2022,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=september.2022#detail=125682,,,,Tue
+20/09/2022,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=125173,3.42B,3.50B,3.52B,Tue
+20/09/2022,,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125558,7.9%,2.5%,5.3%,Tue
+20/09/2022,08:00,CHF,yellow,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=september.2022#detail=124659,,,,Tue
+20/09/2022,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2022#detail=125395,-19.9B,5.3B,4.2B,Tue
+20/09/2022,13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=123336,-0.3%,-0.1%,0.1%,Tue
+20/09/2022,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123372,5.7%,5.6%,6.0%,Tue
+20/09/2022,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123375,4.8%,5.1%,4.9%,Tue
+20/09/2022,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=123374,5.2%,5.5%,5.4%,Tue
+20/09/2022,,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=september.2022#detail=124220,1.52M,1.60M,1.69M,Tue
+20/09/2022,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=september.2022#detail=124221,1.58M,1.45M,1.40M,Tue
+20/09/2022,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=123373,0.0%,,0.5%,Tue
+20/09/2022,15:40,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=september.2022#detail=123220,2.0%,,4.9%,Tue
+20/09/2022,18:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128233,,,,Tue
+20/09/2022,20:30,CAD,yellow,Gov Council Member Beaudry Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128167,,,,Tue
+20/09/2022,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2022#detail=122168,,,,Tue
+21/09/2022,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=122881,-0.1%,,-0.2%,Wed
+21/09/2022,03:00,AUD,yellow,RBA Gov Bullock Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128168,,,,Wed
+21/09/2022,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125277,29.4%,,5.1%,Wed
+21/09/2022,07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=september.2022#detail=124528,11.1B,8.2B,2.1B,Wed
+21/09/2022,10:34,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2022#detail=125429,1.87|1.8,,1.33|1.6,Wed
+21/09/2022,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=september.2022#detail=124669,-2,-13,-7,Wed
+21/09/2022,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=september.2022#detail=124801,4.80M,4.69M,4.82M,Wed
+21/09/2022,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=123465,0.4%,,0.6%,Wed
+21/09/2022,,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2022#detail=122294,1.1M,2.0M,2.4M,Wed
+21/09/2022,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=123026,3.25%,3.25%,2.50%,Wed
+21/09/2022,,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=september.2022#detail=123031,,,,Wed
+21/09/2022,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=september.2022#detail=123018,,,,Wed
+21/09/2022,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=september.2022#detail=123038,,,,Wed
+21/09/2022,21:54,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2022#detail=123663,87.6,,78.7,Wed
+21/09/2022,23:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=125233,-2447M,-500M,-1406M,Wed
+22/09/2022,03:51,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=september.2022#detail=127046,,,,Thu
+22/09/2022,,JPY,yellow,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=127045,-0.10%,-0.10%,-0.10%,Thu
+22/09/2022,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125932,1.9%,1.9%,1.8%,Thu
+22/09/2022,07:30,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=september.2022#detail=127047,,,,Thu
+22/09/2022,08:30,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=september.2022#detail=125086,,,,Thu
+22/09/2022,,CHF,red,SNB Policy Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=125088,0.50%,0.50%,-0.25%,Thu
+22/09/2022,09:00,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=september.2022#detail=125087,,,,Thu
+22/09/2022,,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=september.2022#detail=125320,,,,Thu
+22/09/2022,12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=september.2022#detail=123753,,,,Thu
+22/09/2022,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=september.2022#detail=123755,9-0-0,9-0-0,9-0-0,Thu
+22/09/2022,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=123752,2.25%,2.25%,1.75%,Thu
+22/09/2022,,GBP,orange,BOE Inflation Letter,https://www.forexfactory.com/calendar?month=september.2022#detail=133664,,,,Thu
+22/09/2022,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=123324,0.1%,0.1%,0.1%,Thu
+22/09/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2022#detail=122998,213K,220K,208K,Thu
+22/09/2022,,USD,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2022#detail=124777,-251B,-261B,-283B,Thu
+22/09/2022,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2022#detail=126850,-29,-26,-25,Thu
+22/09/2022,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125725,-0.3%,-0.1%,-0.5%,Thu
+22/09/2022,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2022#detail=122104,103B,97B,77B,Thu
+22/09/2022,16:00,GBP,yellow,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128170,,,,Thu
+22/09/2022,19:30,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128373,,,,Thu
+23/09/2022,00:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123959,53.9,,53.8,Fri
+23/09/2022,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123972,50.4,,50.2,Fri
+23/09/2022,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2022#detail=126500,-49,-42,-44,Fri
+23/09/2022,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2022#detail=126601,,,,Fri
+23/09/2022,08:15,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124630,53.0,50.5,51.2,Fri
+23/09/2022,,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124629,47.8,49.8,50.6,Fri
+23/09/2022,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124631,48.3,48.3,49.1,Fri
+23/09/2022,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124632,45.4,47.2,47.7,Fri
+23/09/2022,09:00,EUR,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124627,48.5,48.7,49.6,Fri
+23/09/2022,,EUR,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124628,48.9,49.1,49.8,Fri
+23/09/2022,09:30,GBP,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124626,48.5,47.4,47.3,Fri
+23/09/2022,,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124625,49.2,49.9,50.9,Fri
+23/09/2022,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=september.2022#detail=124680,-20,9,37,Fri
+23/09/2022,13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126057,-3.1%,-1.0%,0.6%,Fri
+23/09/2022,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126058,-2.5%,-2.0%,1.0%,Fri
+23/09/2022,14:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124002,49.2,45.5,43.7,Fri
+23/09/2022,,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=124014,51.8,51.0,51.5,Fri
+23/09/2022,16:30,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128234,,,,Fri
+23/09/2022,,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128171,,,,Fri
+23/09/2022,19:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128169,,,,Fri
+24/09/2022,15:00,NZD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=september.2022#detail=122121,,,,Sat
+26/09/2022,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124706,0.7%,,-1.3%,Mon
+26/09/2022,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=127000,51.0,51.3,51.5,Mon
+26/09/2022,06:36,JPY,orange,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128380,,,,Mon
+26/09/2022,08:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128381,,,,Mon
+26/09/2022,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=september.2022#detail=125463,84.3,86.9,88.6,Mon
+26/09/2022,13:59,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=september.2022#detail=126664,-11.8,-8.9,-5.8,Mon
+26/09/2022,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=131580,-0.5%,,-0.3%,Mon
+26/09/2022,,EUR,red,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128385,,,,Mon
+26/09/2022,15:00,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128386,,,,Mon
+26/09/2022,17:00,GBP,yellow,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128374,,,,Mon
+26/09/2022,18:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128382,,,,Mon
+26/09/2022,21:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128387,,,,Mon
+27/09/2022,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125879,1.9%,2.4%,2.0%,Tue
+27/09/2022,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125344,6.1%,5.4%,5.7%,Tue
+27/09/2022,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125343,4.5%,4.5%,4.5%,Tue
+27/09/2022,12:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128479,,,,Tue
+27/09/2022,,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128388,,,,Tue
+27/09/2022,13:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124300,0.2%,0.3%,0.2%,Tue
+27/09/2022,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124301,-0.2%,0.1%,-0.1%,Tue
+27/09/2022,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124837,-0.6%,0.0%,0.1%,Tue
+27/09/2022,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=124825,16.1%,17.1%,18.6%,Tue
+27/09/2022,14:35,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128375,,,,Tue
+27/09/2022,14:55,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128376,,,,Tue
+27/09/2022,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2022#detail=123097,108.0,104.0,103.6,Tue
+27/09/2022,,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=september.2022#detail=124238,685K,500K,532K,Tue
+27/09/2022,,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2022#detail=122831,0,-10,-8,Tue
+27/09/2022,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2022#detail=122169,,,,Tue
+28/09/2022,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=126512,5.7%,,5.1%,Wed
+28/09/2022,00:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=september.2022#detail=127065,,,,Wed
+28/09/2022,02:30,AUD,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=127948,0.6%,0.5%,1.3%,Wed
+28/09/2022,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=september.2022#detail=125475,-42.5,-38.9,-36.8,Wed
+28/09/2022,08:15,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128389,,,,Wed
+28/09/2022,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=september.2022#detail=125069,-69.2,,-56.3,Wed
+28/09/2022,09:15,GBP,yellow,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128372,,,,Wed
+28/09/2022,13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2022#detail=124735,-87.3B,-88.9B,-90.2B,Wed
+28/09/2022,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124316,1.3%,0.4%,0.6%,Wed
+28/09/2022,14:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=september.2022#detail=125075,,,,Wed
+28/09/2022,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124813,-2.0%,-0.9%,-0.6%,Wed
+28/09/2022,15:10,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128390,,,,Wed
+28/09/2022,15:15,USD,orange,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128423,,,,Wed
+28/09/2022,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2022#detail=122297,-0.2M,2.0M,1.1M,Wed
+28/09/2022,16:00,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128424,,,,Wed
+28/09/2022,19:00,GBP,yellow,MPC Member Dhingra Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128422,,,,Wed
+29/09/2022,01:00,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=september.2022#detail=123684,-36.7,,-47.8,Thu
+29/09/2022,All Day,EUR,yellow,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125595,1.9%,1.5%,0.3%,Thu
+29/09/2022,08:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=122643,9.0%,10.1%,10.5%,Thu
+29/09/2022,10:15,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2022#detail=122357,4.70|1.4,,3.76|1.5,Thu
+29/09/2022,12:30,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128377,,,,Thu
+29/09/2022,12:45,CHF,orange,Gov Board Member Maechler Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128379,,,,Thu
+29/09/2022,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126085,0.1%,-0.1%,0.1%,Thu
+29/09/2022,,USD,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=124328,-0.6%,-0.6%,-0.6%,Thu
+29/09/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2022#detail=122999,193K,215K,209K,Thu
+29/09/2022,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=124334,9.0%,8.9%,8.9%,Thu
+29/09/2022,14:00,NZD,red,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128378,,,,Thu
+29/09/2022,14:30,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128426,,,,Thu
+29/09/2022,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2022#detail=122105,103B,93B,103B,Thu
+29/09/2022,18:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128391,,,,Thu
+29/09/2022,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125246,-1.6%,,4.9%,Thu
+30/09/2022,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=127422,2.5%,2.5%,2.6%,Fri
+30/09/2022,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=126895,2.7%,-0.2%,0.8%,Fri
+30/09/2022,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=126947,4.1%,2.8%,2.4%,Fri
+30/09/2022,02:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124869,0.8%,0.7%,0.8%,Fri
+30/09/2022,,CNY,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123625,50.1,49.4,49.4,Fri
+30/09/2022,,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123626,50.6,52.6,52.6,Fri
+30/09/2022,02:45,CNY,yellow,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=123627,48.1,49.7,49.5,Fri
+30/09/2022,06:02,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2022#detail=126833,30.8,33.6,32.5,Fri
+30/09/2022,,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125944,4.6%,-4.0%,-5.4%,Fri
+30/09/2022,07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2022#detail=124500,-33.8B,-43.2B,-43.9B,Fri
+30/09/2022,,GBP,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=124497,0.2%,-0.1%,-0.1%,Fri
+30/09/2022,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124718,0.0%,0.2%,0.7%,Fri
+30/09/2022,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=september.2022#detail=124506,3.7%,3.7%,3.8%,Fri
+30/09/2022,07:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=125161,3.0%,2.8%,3.0%,Fri
+30/09/2022,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125012,0.0%,-0.1%,-0.9%,Fri
+30/09/2022,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=125029,-0.5%,-0.2%,0.5%,Fri
+30/09/2022,08:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=september.2022#detail=125149,93.8,85.0,93.5,Fri
+30/09/2022,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=september.2022#detail=125487,14K,20K,26K,Fri
+30/09/2022,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=122527,7.8%,7.9%,7.9%,Fri
+30/09/2022,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124407,-0.2%,0.5%,0.5%,Fri
+30/09/2022,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=september.2022#detail=124408,74K,63K,64K,Fri
+30/09/2022,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124409,7.2B,6.4B,6.6B,Fri
+30/09/2022,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=126769,4.8%,4.7%,4.3%,Fri
+30/09/2022,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=september.2022#detail=126768,10.0%,9.7%,9.1%,Fri
+30/09/2022,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=122591,0.3%,-0.4%,0.8%,Fri
+30/09/2022,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2022#detail=126770,6.6%,6.6%,6.6%,Fri
+30/09/2022,13:30,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124352,0.6%,0.5%,0.0%,Fri
+30/09/2022,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124373,0.3%,0.3%,0.3%,Fri
+30/09/2022,,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=september.2022#detail=124372,0.4%,0.2%,-0.2%,Fri
+30/09/2022,14:00,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128392,,,,Fri
+30/09/2022,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2022#detail=128371,,,,Fri
+30/09/2022,14:45,USD,yellow,Chicago PMI,https://www.forexfactory.com/calendar?month=september.2022#detail=122869,45.7,51.6,52.2,Fri
+30/09/2022,15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2022#detail=123289,58.6,59.5,59.5,Fri
+30/09/2022,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2022#detail=123290,4.7%,,4.6%,Fri
+30/09/2022,16:00,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128425,,,,Fri
+30/09/2022,21:15,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2022#detail=128383,,,,Fri

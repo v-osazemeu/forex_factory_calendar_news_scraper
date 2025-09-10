@@ -1,0 +1,391 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/03/2013,00:59,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=44753,50.1,50.5,50.4,Fri
+01/03/2013,01:00,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48854,,,,Fri
+01/03/2013,01:45,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=44752,50.4,50.4,50.4,Fri
+01/03/2013,05:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44467,-7.2%,,-8.9%,Fri
+01/03/2013,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47022,3.1%,1.1%,-2.1%,Fri
+01/03/2013,,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45916,0.2%,0.2%,0.5%,Fri
+01/03/2013,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47213,46.8,46.3,46.1,Fri
+01/03/2013,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=45348,50.8,52.2,52.5,Fri
+01/03/2013,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47209,45.8,47.6,47.8,Fri
+01/03/2013,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=59016,43.9,43.6,43.6,Fri
+01/03/2013,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=59018,50.3,50.1,50.1,Fri
+01/03/2013,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47205,47.9,47.8,47.8,Fri
+01/03/2013,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=47420,11.7%,11.1%,11.3%,Fri
+01/03/2013,,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=47444,11.2%,10.8%,10.7%,Fri
+01/03/2013,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=45806,47.9,51.0,50.8,Fri
+01/03/2013,,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46195,0.6B,1.1B,1.8B,Fri
+01/03/2013,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46002,0.9%,0.3%,0.7%,Fri
+01/03/2013,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=march.2013#detail=45904,55K,57K,56K,Fri
+01/03/2013,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=46832,1.8%,2.0%,2.0%,Fri
+01/03/2013,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=46880,11.9%,11.8%,11.8%,Fri
+01/03/2013,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47320,0.1%,0.3%,0.2%,Fri
+01/03/2013,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47882,-0.2%,-0.2%,0.3%,Fri
+01/03/2013,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46437,0.1%,0.1%,0.0%,Fri
+01/03/2013,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46433,0.2%,0.2%,0.1%,Fri
+01/03/2013,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46421,-3.6%,-2.3%,2.6%,Fri
+01/03/2013,14:00,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=46760,54.3,55.2,55.2,Fri
+01/03/2013,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=59529,51.7,,50.5,Fri
+01/03/2013,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2013#detail=46657,77.6,76.3,76.3,Fri
+01/03/2013,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2013#detail=46656,3.3%,,3.3%,Fri
+01/03/2013,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=46724,54.2,52.7,53.1,Fri
+01/03/2013,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46256,-2.1%,0.6%,1.1%,Fri
+01/03/2013,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=march.2013#detail=46736,61.5,57.3,56.5,Fri
+01/03/2013,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=march.2013#detail=46458,15.4M,15.1M,15.3M,Fri
+01/03/2013,16:35,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48874,,,,Fri
+02/03/2013,03:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48859,,,,Sat
+03/03/2013,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=44774,54.5,,56.2,Sun
+03/03/2013,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44455,0.0%,,0.3%,Sun
+03/03/2013,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44984,15.0%,11.5%,10.9%,Sun
+04/03/2013,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44641,1.0%,,0.3%,Mon
+04/03/2013,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44346,-2.4%,2.8%,-1.7%,Mon
+04/03/2013,,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44416,3.0%,,0.6%,Mon
+04/03/2013,,AUD,orange,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=44477,-1.0%,-0.9%,-2.7%,Mon
+04/03/2013,08:00,EUR,red,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=march.2013#detail=47425,59.4K,77.5K,132.1K,Mon
+04/03/2013,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=march.2013#detail=48868,,,,Mon
+04/03/2013,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=march.2013#detail=47721,-10.6,-4.5,-3.9,Mon
+04/03/2013,,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=45807,46.8,49.2,48.7,Mon
+04/03/2013,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46868,0.6%,0.5%,-0.2%,Mon
+04/03/2013,13:00,USD,orange,FOMC Member Yellen Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48866,,,,Mon
+04/03/2013,18:15,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48870,,,,Mon
+04/03/2013,22:25,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=march.2013#detail=44262,48.5,,45.3,Mon
+05/03/2013,00:00,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=46135,2.7%,,1.9%,Tue
+05/03/2013,00:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44531,0.9%,0.4%,-0.4%,Tue
+05/03/2013,,AUD,orange,Current Account,https://www.forexfactory.com/calendar?month=march.2013#detail=44481,-14.7B,-15.4B,-15.0B,Tue
+05/03/2013,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45118,0.7%,-0.3%,-1.7%,Tue
+05/03/2013,01:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=54036,52.1,,54.0,Tue
+05/03/2013,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=44224,3.00%,3.00%,3.00%,Tue
+05/03/2013,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=march.2013#detail=44225,,,,Tue
+05/03/2013,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2013#detail=49048,0.64|2.4,,0.80|2.8,Tue
+05/03/2013,08:15,EUR,red,Spanish Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47249,44.7,45.9,47.0,Tue
+05/03/2013,08:45,EUR,red,Italian Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47245,43.6,43.6,43.9,Tue
+05/03/2013,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=59202,42.7,42.7,42.7,Tue
+05/03/2013,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=59214,54.1,54.1,54.1,Tue
+05/03/2013,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47241,47.9,47.3,47.3,Tue
+05/03/2013,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=march.2013#detail=48867,,,,Tue
+05/03/2013,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=45828,51.8,51.1,51.5,Tue
+05/03/2013,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46892,1.2%,0.3%,-0.8%,Tue
+05/03/2013,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=march.2013#detail=56294,11.5%,,4.1%,Tue
+05/03/2013,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=46748,56.0,55.0,55.2,Tue
+05/03/2013,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=march.2013#detail=48068,42.2,47.8,47.3,Tue
+06/03/2013,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=46111,1.1%,,0.6%,Wed
+06/03/2013,00:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=44485,0.6%,0.6%,0.7%,Wed
+06/03/2013,08:00,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45945,0.5%,0.4%,-0.3%,Wed
+06/03/2013,09:45,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48869,,,,Wed
+06/03/2013,10:00,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=46928,-0.6%,-0.6%,-0.6%,Wed
+06/03/2013,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=march.2013#detail=45676,198K,172K,215K,Wed
+06/03/2013,15:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=march.2013#detail=45760,,,,Wed
+06/03/2013,,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=46792,51.1,56.2,58.9,Wed
+06/03/2013,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=45761,1.00%,1.00%,1.00%,Wed
+06/03/2013,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46386,-2.0%,-2.2%,1.3%,Wed
+06/03/2013,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2013#detail=45592,3.8M,0.9M,1.1M,Wed
+06/03/2013,19:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=march.2013#detail=44197,,,,Wed
+06/03/2013,22:26,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=march.2013#detail=44263,45.6,,36.2,Wed
+07/03/2013,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=44534,-1.06B,-0.51B,-0.69B,Thu
+07/03/2013,03:24,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=march.2013#detail=44949,,,,Thu
+07/03/2013,,JPY,red,Overnight Call Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=44950,<0.10%,<0.10%,<0.10%,Thu
+07/03/2013,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=march.2013#detail=45216,96.3%,96.2%,93.2%,Thu
+07/03/2013,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=45452,3.1%,3.1%,3.1%,Thu
+07/03/2013,07:32,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=march.2013#detail=44951,,,,Thu
+07/03/2013,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=46999,-5.9B,-4.8B,-5.4B,Thu
+07/03/2013,08:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=march.2013#detail=45336,428B,,430B,Thu
+07/03/2013,09:00,CHF,red,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48875,,,,Thu
+07/03/2013,09:45,EUR,red,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2013#detail=48872,4.92|2.3,,5.20|1.6,Thu
+07/03/2013,09:59,EUR,orange,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2013#detail=47590,2.10|2.2,,2.30|3.1,Thu
+07/03/2013,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47047,-1.9%,0.6%,1.1%,Thu
+07/03/2013,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=march.2013#detail=45728,375B,375B,375B,Thu
+07/03/2013,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=45730,0.50%,0.50%,0.50%,Thu
+07/03/2013,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45677,7.0%,,-24.4%,Thu
+07/03/2013,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=45701,0.75%,0.75%,0.75%,Thu
+07/03/2013,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47948,1.7%,5.4%,-10.4%,Thu
+07/03/2013,,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=47919,-0.2B,-0.6B,-0.3B,Thu
+07/03/2013,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=march.2013#detail=45700,,,,Thu
+07/03/2013,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=46292,-44.4B,-42.8B,-38.1B,Thu
+07/03/2013,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2013#detail=45489,340K,354K,347K,Thu
+07/03/2013,,USD,orange,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=46566,-1.9%,-1.6%,-2.0%,Thu
+07/03/2013,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=46573,4.6%,4.4%,4.5%,Thu
+07/03/2013,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2013#detail=45541,-146B,-135B,-171B,Thu
+07/03/2013,18:15,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48871,,,,Thu
+07/03/2013,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46322,16.2B,15.2B,15.1B,Thu
+07/03/2013,21:30,USD,orange,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=march.2013#detail=47316,,,,Thu
+07/03/2013,21:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=44691,0.0%,,1.7%,Thu
+07/03/2013,23:50,JPY,red,Current Account,https://www.forexfactory.com/calendar?month=march.2013#detail=45180,0.36T,0.11T,0.11T,Thu
+07/03/2013,,JPY,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=45304,0.0%,-0.1%,-0.1%,Thu
+07/03/2013,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45168,1.5%,,1.3%,Thu
+07/03/2013,,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45305,-0.7%,-0.6%,-0.6%,Thu
+08/03/2013,02:02,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=44893,15.3B,-8.8B,29.2B,Fri
+08/03/2013,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2013#detail=49098,1.82|3.3,,1.99|3.5,Fri
+08/03/2013,05:00,JPY,yellow,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=march.2013#detail=44918,,,,Fri
+08/03/2013,,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=march.2013#detail=45061,53.2,51.2,49.5,Fri
+08/03/2013,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=47470,-12.8B,,-87.2B,Fri
+08/03/2013,08:15,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45380,0.3%,-0.3%,-0.3%,Fri
+08/03/2013,09:30,GBP,orange,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2013#detail=45863,3.6%,,3.5%,Fri
+08/03/2013,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47035,0.0%,0.6%,0.6%,Fri
+08/03/2013,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=march.2013#detail=46813,181K,173K,159K,Fri
+08/03/2013,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=march.2013#detail=47833,50.7K,7.8K,-21.9K,Fri
+08/03/2013,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=47835,7.0%,7.1%,7.0%,Fri
+08/03/2013,,CAD,orange,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=47825,0.1%,-0.1%,-0.4%,Fri
+08/03/2013,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=march.2013#detail=45642,236K,162K,119K,Fri
+08/03/2013,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=45643,7.7%,7.9%,7.9%,Fri
+08/03/2013,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45644,0.2%,0.2%,0.1%,Fri
+08/03/2013,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46268,1.2%,0.4%,0.1%,Fri
+09/03/2013,01:00,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48876,,,,Sat
+09/03/2013,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44801,3.2%,3.0%,2.0%,Sat
+09/03/2013,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44800,-1.6%,-1.5%,-1.6%,Sat
+09/03/2013,05:30,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44826,21.2%,20.6%,20.6%,Sat
+09/03/2013,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44827,9.9%,10.4%,10.3%,Sat
+09/03/2013,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44828,12.3%,14.5%,15.2%,Sat
+10/03/2013,07:00,CAD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2013#detail=44151,,,,Sun
+10/03/2013,,USD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2013#detail=44148,,,,Sun
+10/03/2013,07:07,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=march.2013#detail=44869,620B,750B,1070B,Sun
+10/03/2013,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44868,15.2%,14.8%,15.9%,Sun
+10/03/2013,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45204,-13.1%,-1.6%,2.8%,Sun
+10/03/2013,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44996,2.9%,2.7%,2.7%,Sun
+11/03/2013,06:03,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45264,-21.5%,,-26.4%,Mon
+11/03/2013,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=47011,15.7B,17.9B,16.9B,Mon
+11/03/2013,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46987,-1.2%,-0.1%,0.9%,Mon
+11/03/2013,08:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45404,1.9%,3.7%,4.7%,Mon
+11/03/2013,23:50,JPY,orange,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2013#detail=45006,-4.6,-6.2,-10.3,Mon
+11/03/2013,,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=march.2013#detail=44932,,,,Mon
+11/03/2013,,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45288,-1.1%,-0.1%,1.1%,Mon
+11/03/2013,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45143,-0.1%,-0.1%,-0.3%,Mon
+12/03/2013,00:01,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=45881,-6%,-1%,-4%,Tue
+12/03/2013,00:27,NZD,orange,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44610,1.6%,,-1.0%,Tue
+12/03/2013,00:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=march.2013#detail=44293,1,,3,Tue
+12/03/2013,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2013#detail=45049,44.3,43.0,43.3,Tue
+12/03/2013,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47385,0.6%,0.6%,0.6%,Tue
+12/03/2013,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47334,0.1%,0.4%,0.3%,Tue
+12/03/2013,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46172,-1.5%,0.0%,1.5%,Tue
+12/03/2013,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=46123,-8.2B,-8.8B,-8.7B,Tue
+12/03/2013,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46160,-1.2%,0.1%,1.1%,Tue
+12/03/2013,11:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=march.2013#detail=48412,90.8,91.3,88.9,Tue
+12/03/2013,14:57,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=march.2013#detail=46208,-0.1%,,-0.2%,Tue
+12/03/2013,15:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=march.2013#detail=49344,3.69M,3.67M,3.61M,Tue
+12/03/2013,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44673,-0.3%,,1.9%,Tue
+12/03/2013,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2013#detail=44312,2.0%,,7.7%,Tue
+13/03/2013,00:30,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44333,-1.5%,0.2%,-2.1%,Wed
+13/03/2013,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=47452,-0.3%,-0.2%,-0.2%,Wed
+13/03/2013,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47336,0.3%,0.5%,-0.5%,Wed
+13/03/2013,10:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46904,-0.4%,-0.1%,0.9%,Wed
+13/03/2013,12:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46358,1.0%,0.5%,0.4%,Wed
+13/03/2013,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46370,1.1%,0.5%,0.2%,Wed
+13/03/2013,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46518,1.1%,0.5%,0.6%,Wed
+13/03/2013,14:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46310,1.0%,0.5%,0.3%,Wed
+13/03/2013,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2013#detail=45593,2.6M,2.3M,3.8M,Wed
+13/03/2013,17:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2013#detail=47673,2.03|3.2,,2.05|2.7,Wed
+13/03/2013,17:20,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=44206,-203.5B,-200.0B,2.9B,Wed
+13/03/2013,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=44558,2.50%,2.50%,2.50%,Wed
+13/03/2013,,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=march.2013#detail=44561,,,,Wed
+13/03/2013,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=march.2013#detail=44559,,,,Wed
+13/03/2013,,NZD,orange,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=march.2013#detail=44560,,,,Wed
+14/03/2013,00:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2013#detail=44311,2.3%,,2.2%,Thu
+14/03/2013,00:05,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48882,,,,Thu
+14/03/2013,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=march.2013#detail=44394,71.5K,9.5K,13.1K,Thu
+14/03/2013,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=44395,5.4%,5.5%,5.4%,Thu
+14/03/2013,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45240,0.3%,1.0%,1.0%,Thu
+14/03/2013,07:00,AUD,orange,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48881,,,,Thu
+14/03/2013,08:30,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=45319,<0.25%,<0.25%,<0.25%,Thu
+14/03/2013,,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=march.2013#detail=45320,,,,Thu
+14/03/2013,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=march.2013#detail=47458,,,,Thu
+14/03/2013,Day 1,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=march.2013#detail=48878,,,,Thu
+14/03/2013,10:00,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=46938,-0.3%,-0.1%,-0.1%,Thu
+14/03/2013,12:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47803,0.1%,0.1%,0.2%,Thu
+14/03/2013,,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=47877,80.7%,80.8%,81.1%,Thu
+14/03/2013,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46493,0.7%,0.7%,0.2%,Thu
+14/03/2013,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2013#detail=45491,332K,348K,342K,Thu
+14/03/2013,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46506,0.2%,0.2%,0.2%,Thu
+14/03/2013,,USD,orange,Current Account,https://www.forexfactory.com/calendar?month=march.2013#detail=46380,-110B,-111B,-112B,Thu
+14/03/2013,13:00,USD,orange,FOMC Member Raskin Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48880,,,,Thu
+14/03/2013,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2013#detail=45542,-145B,-136B,-146B,Thu
+14/03/2013,17:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2013#detail=47709,3.25|2.4,,3.18|2.7,Thu
+14/03/2013,20:30,USD,yellow,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=march.2013#detail=48877,,,,Thu
+14/03/2013,21:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2013#detail=44583,56.3,,55.2,Thu
+14/03/2013,23:00,NZD,yellow,RBNZ Assist Gov McDermott Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=59334,,,,Thu
+15/03/2013,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45392,0.1%,0.3%,-0.1%,Fri
+15/03/2013,Day 2,EUR,orange,EU Economic Summit,https://www.forexfactory.com/calendar?month=march.2013#detail=48879,,,,Fri
+15/03/2013,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=march.2013#detail=48884,,,,Fri
+15/03/2013,10:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=46844,1.3%,1.3%,1.3%,Fri
+15/03/2013,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=46856,1.8%,1.8%,1.8%,Fri
+15/03/2013,,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=48270,0.4%,,0.0%,Fri
+15/03/2013,11:00,GBP,orange,MPC Member Dale Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48883,,,,Fri
+15/03/2013,12:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46470,0.2%,0.2%,0.3%,Fri
+15/03/2013,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=128544,2.0%,1.9%,1.6%,Fri
+15/03/2013,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46482,0.7%,0.6%,0.0%,Fri
+15/03/2013,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2013#detail=48008,9.2,9.8,10.0,Fri
+15/03/2013,13:00,USD,orange,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=march.2013#detail=48101,25.7B,39.3B,64.2B,Fri
+15/03/2013,13:12,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=46409,79.6%,79.4%,79.2%,Fri
+15/03/2013,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46398,0.7%,0.4%,0.0%,Fri
+15/03/2013,13:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2013#detail=46658,71.8,78.2,77.6,Fri
+15/03/2013,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2013#detail=46659,3.3%,,3.3%,Fri
+17/03/2013,21:00,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2013#detail=44601,110.8,,111.1,Sun
+17/03/2013,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=march.2013#detail=127131,55.5,,53.0,Sun
+18/03/2013,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45893,1.7%,,2.8%,Mon
+18/03/2013,00:35,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44494,0.0%,,-2.2%,Mon
+18/03/2013,06:45,CHF,yellow,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=march.2013#detail=45358,,,,Mon
+18/03/2013,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=47077,-1.62B,2.11B,2.11B,Mon
+18/03/2013,All Day,EUR,red,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=march.2013#detail=48893,,,,Mon
+18/03/2013,10:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=march.2013#detail=53113,,,,Mon
+18/03/2013,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=46916,9.0B,10.4B,10.3B,Mon
+18/03/2013,11:00,EUR,orange,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=march.2013#detail=50198,,,,Mon
+18/03/2013,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=march.2013#detail=47932,13.34B,7.85B,-1.92B,Mon
+18/03/2013,14:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=march.2013#detail=48032,44,48,46,Mon
+18/03/2013,22:15,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48888,,,,Mon
+18/03/2013,22:50,AUD,orange,RBA Deputy Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48885,,,,Mon
+19/03/2013,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=march.2013#detail=44245,,,,Tue
+19/03/2013,02:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=48304,1.3%,,1.3%,Tue
+19/03/2013,,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44892,-1.4%,,-7.3%,Tue
+19/03/2013,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47067,0.8%,-0.3%,-0.2%,Tue
+19/03/2013,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=46051,2.8%,2.8%,2.7%,Tue
+19/03/2013,,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46085,3.2%,1.7%,1.3%,Tue
+19/03/2013,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=46075,3.2%,3.3%,3.3%,Tue
+19/03/2013,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=46063,2.3%,2.2%,2.3%,Tue
+19/03/2013,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45933,2.2%,2.6%,3.3%,Tue
+19/03/2013,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46099,0.8%,0.2%,0.2%,Tue
+19/03/2013,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=march.2013#detail=47960,48.5,47.9,48.2,Tue
+19/03/2013,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=march.2013#detail=47973,33.4,43.7,42.4,Tue
+19/03/2013,12:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47815,-0.2%,0.7%,-3.3%,Tue
+19/03/2013,,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47763,0.3%,0.4%,-1.1%,Tue
+19/03/2013,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=march.2013#detail=46596,0.95M,0.93M,0.90M,Tue
+19/03/2013,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=march.2013#detail=46576,0.92M,0.92M,0.91M,Tue
+19/03/2013,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=march.2013#detail=56295,14.7%,,11.5%,Tue
+19/03/2013,21:45,NZD,orange,Current Account,https://www.forexfactory.com/calendar?month=march.2013#detail=44699,-3.26B,-2.97B,-4.39B,Tue
+19/03/2013,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44493,0.3%,,0.3%,Tue
+20/03/2013,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2013#detail=48190,,,,Wed
+20/03/2013,07:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47369,-0.1%,0.2%,0.8%,Wed
+20/03/2013,09:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=march.2013#detail=46959,14.8B,7.9B,16.0B,Wed
+20/03/2013,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=march.2013#detail=46027,-1.5K,-5.2K,-10.0K,Wed
+20/03/2013,,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=march.2013#detail=49174,3-0-6,3-0-6,3-0-6,Wed
+20/03/2013,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=march.2013#detail=45969,0-0-9,0-0-9,0-0-9,Wed
+20/03/2013,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=46015,7.8%,7.8%,7.8%,Wed
+20/03/2013,,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=march.2013#detail=46037,1.2%,1.5%,1.3%,Wed
+20/03/2013,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=march.2013#detail=45368,2.3,,10.0,Wed
+20/03/2013,10:34,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2013#detail=47579,1.36|1.6,,1.66|1.2,Wed
+20/03/2013,12:30,GBP,red,Annual Budget Release,https://www.forexfactory.com/calendar?month=march.2013#detail=45721,,,,Wed
+20/03/2013,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2013#detail=45594,-1.3M,1.8M,2.6M,Wed
+20/03/2013,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2013#detail=47733,-24,-23,-24,Wed
+20/03/2013,18:00,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=march.2013#detail=44168,,,,Wed
+20/03/2013,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=march.2013#detail=44167,,,,Wed
+20/03/2013,,USD,orange,Federal Funds Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=44166,<0.25%,<0.25%,<0.25%,Wed
+20/03/2013,18:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=march.2013#detail=44169,,,,Wed
+20/03/2013,21:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=44695,1.5%,0.9%,0.2%,Wed
+20/03/2013,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=45276,-1.09T,-1.01T,-0.74T,Wed
+21/03/2013,00:30,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=march.2013#detail=44378,,,,Thu
+21/03/2013,01:45,CNY,red,Caixin Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=44786,51.7,51.2,50.4,Thu
+21/03/2013,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=44729,4.7%,,0.5%,Thu
+21/03/2013,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45192,-1.4%,-1.1%,1.6%,Thu
+21/03/2013,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=45428,2.10B,1.87B,2.12B,Thu
+21/03/2013,08:00,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47133,43.9,44.4,43.9,Thu
+21/03/2013,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47137,41.9,44.1,42.7,Thu
+21/03/2013,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47139,48.9,50.8,50.3,Thu
+21/03/2013,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47145,51.6,54.9,54.1,Thu
+21/03/2013,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47149,46.6,48.2,47.9,Thu
+21/03/2013,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47153,46.5,48.2,47.3,Thu
+21/03/2013,All Day,EUR,red,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=march.2013#detail=48899,,,,Thu
+21/03/2013,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46182,2.1%,0.5%,-0.7%,Thu
+21/03/2013,,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=march.2013#detail=46218,4.4B,8.4B,-10.3B,Thu
+21/03/2013,09:45,EUR,red,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2013#detail=48897,4.90|1.9,,4.92|2.3,Thu
+21/03/2013,10:00,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48894,,,,Thu
+21/03/2013,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=march.2013#detail=45840,-15,-16,-14,Thu
+21/03/2013,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47777,0.5%,0.4%,-1.0%,Thu
+21/03/2013,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47779,1.0%,0.6%,-2.3%,Thu
+21/03/2013,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2013#detail=45490,336K,343K,334K,Thu
+21/03/2013,13:00,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=46772,54.9,55.1,54.3,Thu
+21/03/2013,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46600,0.6%,0.7%,0.5%,Thu
+21/03/2013,14:00,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=march.2013#detail=46612,4.98M,5.02M,4.94M,Thu
+21/03/2013,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2013#detail=48045,2.0,-1.6,-12.5,Thu
+21/03/2013,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=48056,0.5%,0.3%,0.5%,Thu
+21/03/2013,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2013#detail=45543,-62B,-70B,-145B,Thu
+21/03/2013,15:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=march.2013#detail=45331,,,,Thu
+21/03/2013,17:00,CHF,orange,Gov Board Member Zurbrugg Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48886,,,,Thu
+21/03/2013,20:00,CAD,orange,Annual Budget Release,https://www.forexfactory.com/calendar?month=march.2013#detail=46802,,,,Thu
+21/03/2013,21:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44707,4.1%,,-2.2%,Thu
+21/03/2013,23:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=48303,0.2%,,-0.1%,Thu
+22/03/2013,01:45,AUD,orange,RBA Assist Gov Edey Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48889,,,,Fri
+22/03/2013,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=march.2013#detail=47301,106.7,107.8,107.4,Fri
+22/03/2013,14:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=march.2013#detail=47289,-15.0,-10.3,-11.0,Fri
+24/03/2013,All Day,EUR,red,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=march.2013#detail=48903,,,,Sun
+25/03/2013,09:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=march.2013#detail=45957,30.5K,33.6K,32.0K,Mon
+25/03/2013,15:45,CHF,orange,Gov Board Member Danthine Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48900,,,,Mon
+25/03/2013,16:15,USD,yellow,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48892,,,,Mon
+25/03/2013,17:15,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48891,,,,Mon
+25/03/2013,21:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=march.2013#detail=44708,414M,2M,-287M,Mon
+25/03/2013,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45156,0.1%,0.0%,-0.2%,Mon
+26/03/2013,00:00,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48904,,,,Tue
+26/03/2013,04:45,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48890,,,,Tue
+26/03/2013,10:00,GBP,yellow,Chancellor Osborne Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48902,,,,Tue
+26/03/2013,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=march.2013#detail=45852,0,12,8,Tue
+26/03/2013,12:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46334,-0.5%,0.7%,2.3%,Tue
+26/03/2013,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46346,5.7%,3.9%,-4.9%,Tue
+26/03/2013,13:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=46640,8.1%,7.9%,6.8%,Tue
+26/03/2013,13:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2013#detail=48020,3,8,6,Tue
+26/03/2013,14:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2013#detail=46700,59.7,67.9,68.0,Tue
+26/03/2013,,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=march.2013#detail=46280,411K,426K,431K,Tue
+26/03/2013,Day 1,All,orange,BRICS Summit,https://www.forexfactory.com/calendar?month=march.2013#detail=134277,,,,Tue
+26/03/2013,16:45,CAD,yellow,Gov Council Member Cote Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48887,,,,Tue
+27/03/2013,00:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=march.2013#detail=48290,34.6,,39.4,Wed
+27/03/2013,00:30,AUD,orange,RBA Financial Stability Review,https://www.forexfactory.com/calendar?month=march.2013#detail=44388,,,,Wed
+27/03/2013,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=march.2013#detail=45416,1.26,,1.15,Wed
+27/03/2013,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=march.2013#detail=47745,5.9,5.9,5.9,Wed
+27/03/2013,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47357,0.3%,0.2%,0.1%,Wed
+27/03/2013,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=march.2013#detail=45440,0.99,1.07,1.04,Wed
+27/03/2013,,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=54166,2.4%,2.7%,2.8%,Wed
+27/03/2013,09:30,GBP,red,Current Account,https://www.forexfactory.com/calendar?month=march.2013#detail=46231,-14.0B,-12.8B,-15.1B,Wed
+27/03/2013,,GBP,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=46234,-0.3%,-0.3%,-0.3%,Wed
+27/03/2013,,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=march.2013#detail=57067,,,,Wed
+27/03/2013,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=46253,-0.8%,-1.2%,-1.2%,Wed
+27/03/2013,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47089,-0.5%,0.4%,-0.1%,Wed
+27/03/2013,10:13,EUR,red,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2013#detail=47622,4.66|1.3,,4.83|1.7,Wed
+27/03/2013,12:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47897,0.8%,0.3%,0.1%,Wed
+27/03/2013,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47899,1.2%,0.6%,0.1%,Wed
+27/03/2013,14:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46624,-0.4%,-0.3%,3.8%,Wed
+27/03/2013,Day 2,All,orange,BRICS Summit,https://www.forexfactory.com/calendar?month=march.2013#detail=134278,,,,Wed
+27/03/2013,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2013#detail=45595,3.3M,1.5M,-1.3M,Wed
+27/03/2013,15:00,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48901,,,,Wed
+27/03/2013,15:30,USD,orange,FOMC Member Rosengren Speaks,https://www.forexfactory.com/calendar?month=march.2013#detail=48898,,,,Wed
+27/03/2013,21:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44609,1.9%,,-0.2%,Wed
+27/03/2013,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44456,0.2%,,0.0%,Wed
+27/03/2013,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45252,-2.3%,0.9%,-1.1%,Wed
+28/03/2013,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2013#detail=45869,-26,-27,-26,Thu
+28/03/2013,00:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=44519,0.2%,0.3%,0.2%,Thu
+28/03/2013,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47023,0.4%,-0.5%,3.0%,Thu
+28/03/2013,,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45917,0.0%,0.2%,0.2%,Thu
+28/03/2013,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=march.2013#detail=47409,13K,-2K,0K,Thu
+28/03/2013,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=48079,3.1%,3.2%,3.5%,Thu
+28/03/2013,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=48081,-0.9%,-0.7%,-0.9%,Thu
+28/03/2013,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=47277,43.7,,44.5,Thu
+28/03/2013,09:30,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=march.2013#detail=46147,-0.2%,-0.2%,0.0%,Thu
+28/03/2013,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47883,0.2%,0.1%,-0.2%,Thu
+28/03/2013,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47860,2.2%,1.9%,3.8%,Thu
+28/03/2013,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47858,1.4%,0.6%,0.1%,Thu
+28/03/2013,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2013#detail=45492,357K,340K,341K,Thu
+28/03/2013,,USD,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=46532,0.4%,0.5%,0.1%,Thu
+28/03/2013,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=march.2013#detail=46544,1.0%,0.9%,0.9%,Thu
+28/03/2013,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=46712,52.4,56.5,56.8,Thu
+28/03/2013,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2013#detail=45544,-95B,-85B,-62B,Thu
+28/03/2013,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2013#detail=48167,,,,Thu
+28/03/2013,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2013#detail=48137,,,,Thu
+28/03/2013,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2013#detail=45020,50.4,,48.5,Thu
+28/03/2013,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45131,0.8%,0.4%,2.4%,Thu
+28/03/2013,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45098,-0.5%,-0.6%,-0.6%,Thu
+28/03/2013,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45097,-0.3%,-0.4%,-0.2%,Thu
+28/03/2013,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2013#detail=45083,4.3%,4.2%,4.2%,Thu
+28/03/2013,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=45228,-0.1%,2.6%,0.3%,Thu
+29/03/2013,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=march.2013#detail=45032,3.0%,-1.0%,5.0%,Fri
+29/03/2013,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2013#detail=48231,,,,Fri
+29/03/2013,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=march.2013#detail=48245,,,,Fri
+29/03/2013,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46975,-0.2%,0.3%,-0.9%,Fri
+29/03/2013,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2013#detail=48157,,,,Fri
+29/03/2013,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=47321,0.3%,0.3%,0.1%,Fri
+29/03/2013,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2013#detail=48147,,,,Fri
+29/03/2013,12:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46439,0.1%,0.1%,0.2%,Fri
+29/03/2013,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46434,0.7%,0.6%,0.4%,Fri
+29/03/2013,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=march.2013#detail=46422,1.1%,1.0%,-3.7%,Fri
+29/03/2013,13:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2013#detail=46660,78.6,73.2,71.8,Fri
+29/03/2013,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2013#detail=46661,3.2%,,3.3%,Fri
+31/03/2013,01:00,CHF,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2013#detail=44156,,,,Sun
+31/03/2013,,EUR,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2013#detail=44158,,,,Sun
+31/03/2013,,GBP,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2013#detail=44161,,,,Sun
+31/03/2013,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2013#detail=48168,,,,Sun
+31/03/2013,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2013#detail=48138,,,,Sun
+31/03/2013,23:50,JPY,orange,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2013#detail=45010,-8,-7,-12,Sun
+31/03/2013,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2013#detail=45011,6,8,4,Sun

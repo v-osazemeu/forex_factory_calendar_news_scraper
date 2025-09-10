@@ -1,0 +1,321 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/08/2008,00:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2008#detail=9901,46.9,,47.0,Fri
+01/08/2008,01:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9902,0.4%,,0.5%,Fri
+01/08/2008,02:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=18359,48.4,,52.0,Fri
+01/08/2008,03:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=18354,53.3,,53.3,Fri
+01/08/2008,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9064,-1.4%,-0.5%,0.5%,Fri
+01/08/2008,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2008#detail=9907,,,,Fri
+01/08/2008,07:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=10063,41.1%,,36.5%,Fri
+01/08/2008,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=43808,39.2,,40.6,Fri
+01/08/2008,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=43462,45.3,45.9,46.9,Fri
+01/08/2008,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=58915,47.1,47.3,47.3,Fri
+01/08/2008,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=58959,50.9,50.9,50.9,Fri
+01/08/2008,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=9903,47.4,47.5,47.5,Fri
+01/08/2008,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=9904,44.3,45.5,45.9,Fri
+01/08/2008,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=august.2008#detail=8487,-51K,-75K,-51K,Fri
+01/08/2008,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8442,5.7%,5.6%,5.5%,Fri
+01/08/2008,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9472,0.3%,0.3%,0.3%,Fri
+01/08/2008,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=9905,50.0,49.4,50.2,Fri
+01/08/2008,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9849,-0.4%,-0.3%,0.0%,Fri
+01/08/2008,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=august.2008#detail=9906,88.5,88.0,91.5,Fri
+01/08/2008,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=august.2008#detail=9745,12.6M,13.6M,13.6M,Fri
+03/08/2008,02:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=42290,58.1,,56.9,Sun
+03/08/2008,23:45,NZD,red,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=9506,0.8%,0.8%,0.7%,Sun
+04/08/2008,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=10038,-0.7%,-0.2%,0.4%,Mon
+04/08/2008,02:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=19257,-0.3%,,-3.0%,Mon
+04/08/2008,,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=10039,-0.3%,-1.1%,0.4%,Mon
+04/08/2008,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=august.2008#detail=43987,36.5K,,36.8K,Mon
+04/08/2008,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10040,54.1,53.4,54.9,Mon
+04/08/2008,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=august.2008#detail=10042,-15.3,-10.0,-9.3,Mon
+04/08/2008,,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10041,36.7,37.6,38.8,Mon
+04/08/2008,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8723,0.9%,0.8%,1.2%,Mon
+04/08/2008,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=8612,140.8%,,46.7%,Mon
+04/08/2008,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2008#detail=10059,,,,Mon
+04/08/2008,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8658,0.3%,0.2%,0.2%,Mon
+04/08/2008,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10043,0.6%,0.5%,0.8%,Mon
+04/08/2008,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10044,0.1%,-0.1%,1.8%,Mon
+04/08/2008,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10045,1.7%,0.7%,0.9%,Mon
+05/08/2008,00:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=august.2008#detail=10037,42.8,,45.4,Tue
+05/08/2008,04:06,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9721,1.8%,,0.0%,Tue
+05/08/2008,04:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2008#detail=48993,1.53|2.6,,1.70|3.1,Tue
+05/08/2008,05:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8075,7.25%,7.25%,7.25%,Tue
+05/08/2008,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=august.2008#detail=8074,,,,Tue
+05/08/2008,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=43904,37.1,,36.7,Tue
+05/08/2008,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=43522,45.6,47.4,48.5,Tue
+05/08/2008,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=59090,47.5,47.0,47.0,Tue
+05/08/2008,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=59099,53.1,53.3,53.3,Tue
+05/08/2008,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10046,48.3,48.3,48.3,Tue
+05/08/2008,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10047,47.4,46.7,47.1,Tue
+05/08/2008,,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9663,-0.5%,0.1%,-0.5%,Tue
+05/08/2008,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9668,-0.2%,0.1%,-0.9%,Tue
+05/08/2008,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8934,-0.6%,-0.6%,0.5%,Tue
+05/08/2008,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10048,49.5,48.6,48.2,Tue
+05/08/2008,15:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=august.2008#detail=56208,-12.9%,,1.0%,Tue
+05/08/2008,19:13,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=7783,2.00%,2.00%,2.00%,Tue
+05/08/2008,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=august.2008#detail=7817,,,,Tue
+06/08/2008,00:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2008#detail=9800,51,59,62,Wed
+06/08/2008,,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=august.2008#detail=9913,0.1%,,0.2%,Wed
+06/08/2008,02:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10050,-3.7%,-2.1%,-6.9%,Wed
+06/08/2008,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=august.2008#detail=9128,91.2%,90.8%,92.9%,Wed
+06/08/2008,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=august.2008#detail=42182,46B,,47B,Wed
+06/08/2008,10:32,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9140,3.2%,,2.5%,Wed
+06/08/2008,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10051,-2.9%,0.4%,-1.4%,Wed
+06/08/2008,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10052,65.5,62.0,69.6,Wed
+06/08/2008,15:35,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2008#detail=7886,1.7M,0.1M,-0.1M,Wed
+06/08/2008,18:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2008#detail=43073,4.08|2.6,,4.23|2.3,Wed
+06/08/2008,23:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8594,1.2%,0.1%,-1.3%,Wed
+06/08/2008,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8592,3.9%,3.8%,3.7%,Wed
+07/08/2008,00:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=august.2008#detail=10049,41.6,,40.3,Thu
+07/08/2008,00:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10053,-2.6%,-9.6%,10.4%,Thu
+07/08/2008,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=august.2008#detail=8576,10.9K,4.5K,22.2K,Thu
+07/08/2008,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8569,4.3%,4.3%,4.3%,Thu
+07/08/2008,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=9085,18.1B,15.0B,14.5B,Thu
+07/08/2008,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=9153,-5.6B,-4.6B,-4.7B,Thu
+07/08/2008,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9818,0.1%,0.2%,-1.4%,Thu
+07/08/2008,,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9342,-1.7%,-1.5%,-2.0%,Thu
+07/08/2008,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9828,0.2%,0.8%,-1.8%,Thu
+07/08/2008,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8116,5.00%,5.00%,5.00%,Thu
+07/08/2008,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=7956,4.25%,4.25%,4.25%,Thu
+07/08/2008,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9684,-5.3%,-1.0%,2.0%,Thu
+07/08/2008,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=august.2008#detail=7957,,,,Thu
+07/08/2008,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2008#detail=7929,455K,420K,448K,Thu
+07/08/2008,15:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9859,5.3%,-1.0%,-4.9%,Thu
+07/08/2008,15:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10341,-1.0%,,-0.6%,Thu
+07/08/2008,15:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2008#detail=8254,56B,60B,65B,Thu
+07/08/2008,18:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2008#detail=43096,4.61|2.4,,4.60|2.7,Thu
+07/08/2008,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10055,14.3B,6.6B,8.1B,Thu
+08/08/2008,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=11966,1.8%,,1.8%,Fri
+08/08/2008,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=11877,2.1%,2.2%,2.2%,Fri
+08/08/2008,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=august.2008#detail=10056,29.3,28.9,29.5,Fri
+08/08/2008,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8553,2.5%,2.5%,2.5%,Fri
+08/08/2008,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=10057,-32.8B,,-50.1B,Fri
+08/08/2008,09:00,EUR,yellow,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8398,-0.3%,0.0%,0.5%,Fri
+08/08/2008,12:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=august.2008#detail=8494,-55.2K,5.0K,-5.0K,Fri
+08/08/2008,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8447,6.1%,6.2%,6.2%,Fri
+08/08/2008,13:30,USD,orange,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=9225,2.2%,2.5%,2.6%,Fri
+08/08/2008,,USD,orange,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=9441,1.3%,1.4%,2.2%,Fri
+08/08/2008,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9230,1.1%,0.5%,0.9%,Fri
+11/08/2008,02:30,AUD,red,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=august.2008#detail=10066,,,,Mon
+11/08/2008,03:00,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=18576,10.0%,9.6%,8.8%,Mon
+11/08/2008,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10054,1.4%,0.5%,0.9%,Mon
+11/08/2008,,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=10067,-8.9%,,-2.5%,Mon
+11/08/2008,07:25,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=18388,25.3B,20.3B,21.4B,Mon
+11/08/2008,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9835,-0.4%,0.5%,-2.9%,Mon
+11/08/2008,09:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8797,-0.6%,1.0%,2.7%,Mon
+11/08/2008,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=9016,-7.7B,-7.4B,-7.4B,Mon
+11/08/2008,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8796,0.4%,0.5%,0.9%,Mon
+11/08/2008,13:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=august.2008#detail=9695,187K,210K,216K,Mon
+11/08/2008,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10068,0.1%,0.1%,0.0%,Mon
+11/08/2008,19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=august.2008#detail=24062,,,,Mon
+12/08/2008,00:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9134,-0.9%,,-0.4%,Tue
+12/08/2008,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=10069,-84%,-90%,-87%,Tue
+12/08/2008,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9215,7.1%,5.8%,5.7%,Tue
+12/08/2008,02:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=august.2008#detail=10070,-9,,-9,Tue
+12/08/2008,03:00,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=18528,6.3%,6.6%,7.1%,Tue
+12/08/2008,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9808,-2.2%,-2.0%,-2.0%,Tue
+12/08/2008,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2008#detail=9945,31.4,32.1,32.6,Tue
+12/08/2008,07:42,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9454,-0.2%,-0.2%,0.4%,Tue
+12/08/2008,09:15,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=august.2008#detail=19301,44.5%,,45.6%,Tue
+12/08/2008,09:29,GBP,orange,ONS HPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9321,0.6%,1.5%,3.0%,Tue
+12/08/2008,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=8705,4.4%,4.1%,3.8%,Tue
+12/08/2008,,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=8707,1.9%,1.7%,1.6%,Tue
+12/08/2008,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=8706,5.0%,4.9%,4.6%,Tue
+12/08/2008,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=august.2008#detail=48357,88.2,,89.2,Tue
+12/08/2008,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=9090,5.8B,5.7B,5.2B,Tue
+12/08/2008,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=9002,-56.8B,-61.8B,-59.2B,Tue
+12/08/2008,15:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=august.2008#detail=49288,3.63M,,3.63M,Tue
+12/08/2008,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=august.2008#detail=9925,42.8,38.5,37.4,Tue
+12/08/2008,19:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=10913,-102.8B,-88.5B,50.7B,Tue
+13/08/2008,00:15,AUD,orange,RBA Deputy Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=august.2008#detail=10159,,,,Wed
+13/08/2008,00:50,JPY,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8359,-0.6%,-0.6%,0.8%,Wed
+13/08/2008,,JPY,orange,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=8365,-1.6%,-1.5%,-1.5%,Wed
+13/08/2008,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=august.2008#detail=9789,1.29T,1.08T,2.03T,Wed
+13/08/2008,01:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2008#detail=10071,9.1%,,-6.7%,Wed
+13/08/2008,02:30,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=9437,1.2%,1.0%,0.9%,Wed
+13/08/2008,03:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=august.2008#detail=24350,382B,,332B,Wed
+13/08/2008,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=24255,16.4%,17.2%,17.4%,Wed
+13/08/2008,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=23254,23.3%,22.3%,23.0%,Wed
+13/08/2008,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=august.2008#detail=8783,20.1K,17.5K,20.0K,Wed
+13/08/2008,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9532,3.4%,3.6%,3.8%,Wed
+13/08/2008,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8782,5.4%,5.3%,5.2%,Wed
+13/08/2008,10:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9823,0.0%,0.3%,-1.8%,Wed
+13/08/2008,10:07,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2008#detail=43197,4.24|1.8,,4.66|1.1,Wed
+13/08/2008,10:30,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=august.2008#detail=13115,,,,Wed
+13/08/2008,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=august.2008#detail=10064,,,,Wed
+13/08/2008,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8978,0.4%,0.5%,0.9%,Wed
+13/08/2008,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8979,-0.1%,0.0%,0.3%,Wed
+13/08/2008,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10072,1.7%,1.0%,2.9%,Wed
+13/08/2008,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9236,0.7%,0.5%,0.4%,Wed
+13/08/2008,15:35,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2008#detail=7887,-0.4M,-0.1M,1.7M,Wed
+13/08/2008,23:33,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2008#detail=9208,48.8,,45.3,Wed
+14/08/2008,00:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10073,-0.8%,-0.3%,-0.2%,Thu
+14/08/2008,01:20,AUD,orange,RBA Deputy Gov Battellino Speaks,https://www.forexfactory.com/calendar?month=august.2008#detail=12630,,,,Thu
+14/08/2008,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2008#detail=10311,4.9%,,5.9%,Thu
+14/08/2008,03:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=18456,14.7%,15.9%,16.0%,Thu
+14/08/2008,06:45,CHF,orange,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=august.2008#detail=10074,-17,-4,2,Thu
+14/08/2008,07:00,EUR,red,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8355,-0.5%,-0.8%,1.3%,Thu
+14/08/2008,,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9497,0.6%,0.6%,0.6%,Thu
+14/08/2008,07:45,EUR,orange,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8606,-0.1%,0.2%,0.4%,Thu
+14/08/2008,,EUR,yellow,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8393,-0.3%,0.1%,0.4%,Thu
+14/08/2008,08:00,EUR,yellow,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=43749,0.1%,0.0%,0.3%,Thu
+14/08/2008,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=august.2008#detail=8454,,,,Thu
+14/08/2008,10:00,EUR,red,Final CPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9483,4.0%,4.1%,4.1%,Thu
+14/08/2008,,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9508,1.7%,1.8%,1.8%,Thu
+14/08/2008,,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8392,-0.2%,-0.2%,0.7%,Thu
+14/08/2008,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8678,0.3%,0.2%,0.3%,Thu
+14/08/2008,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=128366,5.6%,5.1%,5.0%,Thu
+14/08/2008,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8679,0.8%,0.4%,1.1%,Thu
+14/08/2008,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2008#detail=7930,450K,440K,460K,Thu
+14/08/2008,15:30,CAD,yellow,BOC Review,https://www.forexfactory.com/calendar?month=august.2008#detail=10065,,,,Thu
+14/08/2008,15:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2008#detail=8255,50B,53B,56B,Thu
+14/08/2008,19:30,USD,orange,FOMC Member Stern Speaks,https://www.forexfactory.com/calendar?month=august.2008#detail=10110,,,,Thu
+14/08/2008,23:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8963,0.0%,-0.8%,0.8%,Thu
+14/08/2008,,NZD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8962,0.9%,0.1%,-1.1%,Thu
+14/08/2008,,NZD,yellow,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=37733,-0.7%,,0.3%,Thu
+14/08/2008,,NZD,yellow,Retail Sales q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=37716,-1.5%,-1.6%,-1.2%,Thu
+15/08/2008,03:00,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=august.2008#detail=19744,27.3%,26.6%,26.8%,Fri
+15/08/2008,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=august.2008#detail=12207,,,,Fri
+15/08/2008,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=august.2008#detail=12228,,,,Fri
+15/08/2008,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10076,2.1%,1.0%,2.2%,Fri
+15/08/2008,,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10075,-1.0%,0.0%,0.8%,Fri
+15/08/2008,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2008#detail=9737,2.8,-4.3,-4.9,Fri
+15/08/2008,14:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=august.2008#detail=10077,53.4B,60.0B,83.2B,Fri
+15/08/2008,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=9652,79.9%,79.8%,79.8%,Fri
+15/08/2008,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9647,0.2%,0.0%,0.4%,Fri
+15/08/2008,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2008#detail=8429,61.7,62.0,61.2,Fri
+15/08/2008,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2008#detail=9992,4.8%,,5.1%,Fri
+18/08/2008,00:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10023,-2.3%,,-1.8%,Mon
+18/08/2008,08:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9057,0.7%,3.2%,7.4%,Mon
+18/08/2008,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=9023,-3.0B,0.5B,-1.0B,Mon
+18/08/2008,11:00,EUR,orange,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=august.2008#detail=50142,,,,Mon
+18/08/2008,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=august.2008#detail=10132,7.25B,5.54B,10.63B,Mon
+18/08/2008,18:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=august.2008#detail=9314,16,16,16,Mon
+18/08/2008,23:45,NZD,red,PPI Input q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8745,5.6%,2.6%,2.3%,Mon
+18/08/2008,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8746,3.5%,2.1%,1.8%,Mon
+19/08/2008,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2008#detail=10133,,,,Tue
+19/08/2008,04:30,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=august.2008#detail=11658,,,,Tue
+19/08/2008,,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8125,0.50%,0.50%,0.50%,Tue
+19/08/2008,07:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8718,2.0%,0.7%,0.9%,Tue
+19/08/2008,08:20,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=august.2008#detail=8126,,,,Tue
+19/08/2008,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=august.2008#detail=10134,-55.5,-62.0,-63.9,Tue
+19/08/2008,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=august.2008#detail=10135,-55.7,-65.0,-63.7,Tue
+19/08/2008,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10136,2.0%,0.7%,1.5%,Tue
+19/08/2008,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=august.2008#detail=9642,0.94M,0.98M,1.14M,Tue
+19/08/2008,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8692,1.2%,0.6%,1.8%,Tue
+19/08/2008,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8693,0.7%,0.2%,0.2%,Tue
+19/08/2008,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=august.2008#detail=9637,0.97M,0.97M,1.08M,Tue
+19/08/2008,15:00,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=august.2008#detail=10161,,,,Tue
+20/08/2008,00:50,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10137,-0.9%,-0.8%,0.4%,Wed
+20/08/2008,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10138,0.1%,,0.0%,Wed
+20/08/2008,06:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=august.2008#detail=10162,,,,Wed
+20/08/2008,09:30,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=august.2008#detail=10145,1-1-7,0-2-7,1-1-7,Wed
+20/08/2008,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10147,0.9%,0.5%,1.8%,Wed
+20/08/2008,,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=august.2008#detail=10146,-4.8B,-4.5B,9.6B,Wed
+20/08/2008,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=august.2008#detail=10148,-13,-12,-8,Wed
+20/08/2008,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8943,1.4%,0.5%,0.6%,Wed
+20/08/2008,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8944,0.5%,0.4%,0.3%,Wed
+20/08/2008,,CAD,yellow,Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10149,0.0%,0.1%,0.0%,Wed
+20/08/2008,15:35,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2008#detail=7888,9.4M,0.7M,-0.4M,Wed
+20/08/2008,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10150,2.1%,,-1.4%,Wed
+21/08/2008,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=9074,0.17T,0.35T,0.13T,Thu
+21/08/2008,02:30,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10151,-3.4%,,0.8%,Thu
+21/08/2008,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=august.2008#detail=10158,,,,Thu
+21/08/2008,04:03,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9541,3.8%,,3.4%,Thu
+21/08/2008,07:15,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=9075,2.37B,2.00B,2.37B,Thu
+21/08/2008,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10143,45.1,47.0,47.1,Thu
+21/08/2008,,EUR,yellow,French Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10144,48.5,47.3,47.5,Thu
+21/08/2008,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8758,0.5%,0.3%,0.6%,Thu
+21/08/2008,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10141,49.9,50.5,50.9,Thu
+21/08/2008,,EUR,yellow,German Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10142,50.6,52.2,53.1,Thu
+21/08/2008,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10139,47.5,47.0,47.4,Thu
+21/08/2008,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10140,48.2,48.0,48.3,Thu
+21/08/2008,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8990,0.8%,-0.3%,-4.3%,Thu
+21/08/2008,,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=9700,-1.9%,-0.7%,-1.8%,Thu
+21/08/2008,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=august.2008#detail=10152,-79.6,,-76.9,Thu
+21/08/2008,12:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8665,0.1%,0.2%,0.1%,Thu
+21/08/2008,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8664,0.3%,0.3%,0.7%,Thu
+21/08/2008,13:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=12274,2.5%,,-1.1%,Thu
+21/08/2008,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2008#detail=7931,432K,443K,445K,Thu
+21/08/2008,15:00,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2008#detail=10153,-12.7,-14.5,-16.3,Thu
+21/08/2008,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10154,-0.7%,-0.2%,0.0%,Thu
+21/08/2008,15:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2008#detail=8256,88B,82B,50B,Thu
+21/08/2008,Day 1,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2008#detail=24069,,,,Thu
+22/08/2008,00:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2008#detail=10155,,,,Fri
+22/08/2008,09:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=august.2008#detail=9794,-8.2B,-2.0B,-5.5B,Fri
+22/08/2008,09:30,GBP,red,Second Estimate GDP q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8373,0.0%,0.1%,0.2%,Fri
+22/08/2008,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=august.2008#detail=10156,0.2%,0.4%,0.4%,Fri
+22/08/2008,10:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10157,-0.3%,-1.1%,-5.4%,Fri
+22/08/2008,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=august.2008#detail=10508,-5.9,-8.0,-7.6,Fri
+22/08/2008,15:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=august.2008#detail=10163,,,,Fri
+22/08/2008,Day 2,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2008#detail=24070,,,,Fri
+23/08/2008,Day 3,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2008#detail=24071,,,,Sat
+24/08/2008,23:49,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8777,0.6%,,1.3%,Sun
+25/08/2008,07:00,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=august.2008#detail=10318,,,,Mon
+25/08/2008,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2008#detail=10182,,,,Mon
+25/08/2008,15:00,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=august.2008#detail=9864,5.00M,4.92M,4.85M,Mon
+25/08/2008,23:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=august.2008#detail=9044,-781M,-536M,-207M,Mon
+26/08/2008,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9446,1.3%,1.4%,1.3%,Tue
+26/08/2008,04:00,NZD,red,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=10164,3.00%,,2.90%,Tue
+26/08/2008,07:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=august.2008#detail=10320,1.5,2.0,1.9,Tue
+26/08/2008,,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8644,-0.5%,-0.5%,-0.5%,Tue
+26/08/2008,09:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=august.2008#detail=10167,1.85,,2.22,Tue
+26/08/2008,,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=august.2008#detail=10165,94.8,97.1,97.5,Tue
+26/08/2008,09:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=august.2008#detail=10168,22.4K,,22.4K,Tue
+26/08/2008,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=10009,-15.9%,-16.2%,-15.8%,Tue
+26/08/2008,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2008#detail=9707,56.9,53.0,51.9,Tue
+26/08/2008,,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=august.2008#detail=9854,515K,530K,503K,Tue
+26/08/2008,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10015,0.0%,-0.4%,-0.3%,Tue
+26/08/2008,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2008#detail=9552,-16,-10,-16,Tue
+26/08/2008,17:15,CAD,orange,Gov Council Member Longworth Speaks,https://www.forexfactory.com/calendar?month=august.2008#detail=10321,,,,Tue
+26/08/2008,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2008#detail=10169,,,,Tue
+27/08/2008,02:30,AUD,orange,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=9847,-2.6%,1.5%,5.0%,Wed
+27/08/2008,04:02,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=august.2008#detail=10173,-20.5,,-43.2,Wed
+27/08/2008,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10121,0.6%,0.5%,1.5%,Wed
+27/08/2008,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9380,-0.3%,-0.2%,0.6%,Wed
+27/08/2008,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10171,0.7%,-0.5%,2.4%,Wed
+27/08/2008,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10170,1.3%,0.1%,1.3%,Wed
+27/08/2008,15:35,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2008#detail=7889,-0.1M,0.9M,9.4M,Wed
+27/08/2008,16:30,CHF,orange,Gov Board Member Hildebrand Speaks,https://www.forexfactory.com/calendar?month=august.2008#detail=10319,,,,Wed
+28/08/2008,01:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10061,-0.5%,,-0.1%,Thu
+28/08/2008,02:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=10172,5.7%,2.0%,1.0%,Thu
+28/08/2008,07:00,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10029,-1.9%,-1.5%,-1.5%,Thu
+28/08/2008,08:15,CHF,orange,Employment Level,https://www.forexfactory.com/calendar?month=august.2008#detail=8558,3.92M,3.91M,3.90M,Thu
+28/08/2008,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=august.2008#detail=8648,-40K,-10K,-20K,Thu
+28/08/2008,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=10174,9.3%,9.1%,9.5%,Thu
+28/08/2008,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=11253,9.4%,9.5%,9.9%,Thu
+28/08/2008,,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=43595,47.7,,46.0,Thu
+28/08/2008,10:17,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2008#detail=43372,4.76|1.5,,5.00|1.3,Thu
+28/08/2008,11:00,GBP,red,CBI Realized Sales,https://www.forexfactory.com/calendar?month=august.2008#detail=10176,-46,-30,-36,Thu
+28/08/2008,13:30,CAD,orange,Current Account,https://www.forexfactory.com/calendar?month=august.2008#detail=9657,6.8B,8.0B,4.5B,Thu
+28/08/2008,,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8328,3.3%,2.6%,1.9%,Thu
+28/08/2008,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2008#detail=7932,425K,427K,435K,Thu
+28/08/2008,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=august.2008#detail=8371,1.2%,1.1%,1.1%,Thu
+28/08/2008,15:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2008#detail=8257,102B,84B,88B,Thu
+28/08/2008,23:45,NZD,red,Building Consents m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9870,4.7%,,-18.8%,Thu
+29/08/2008,00:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2008#detail=9683,-36,-41,-39,Fri
+29/08/2008,00:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=10177,46.9,,47.0,Fri
+29/08/2008,00:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9387,1.5%,1.7%,1.6%,Fri
+29/08/2008,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=10178,-0.5%,-1.8%,-1.8%,Fri
+29/08/2008,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9396,2.4%,2.3%,1.9%,Fri
+29/08/2008,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8545,4.0%,4.1%,4.1%,Fri
+29/08/2008,00:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9809,0.9%,-0.5%,-2.2%,Fri
+29/08/2008,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=8997,1.9%,1.3%,0.3%,Fri
+29/08/2008,01:30,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=14471,-7.2%,,4.0%,Fri
+29/08/2008,02:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10322,0.5%,0.5%,0.4%,Fri
+29/08/2008,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9908,19.0%,14.5%,-16.7%,Fri
+29/08/2008,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8957,-0.5%,0.0%,0.2%,Fri
+29/08/2008,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=august.2008#detail=9475,3.8%,3.9%,4.0%,Fri
+29/08/2008,,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2008#detail=10175,-19,-20,-20,Fri
+29/08/2008,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=9486,0.1%,0.1%,0.5%,Fri
+29/08/2008,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2008#detail=8478,7.3%,7.3%,7.3%,Fri
+29/08/2008,10:30,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=august.2008#detail=10179,0.68,0.83,0.85,Fri
+29/08/2008,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8342,0.1%,0.1%,-0.1%,Fri
+29/08/2008,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8768,1.4%,0.2%,4.3%,Fri
+29/08/2008,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8767,0.4%,0.7%,1.6%,Fri
+29/08/2008,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=8657,0.3%,0.3%,0.3%,Fri
+29/08/2008,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10180,0.2%,0.3%,0.6%,Fri
+29/08/2008,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=august.2008#detail=10181,-0.7%,-0.1%,0.1%,Fri
+29/08/2008,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=august.2008#detail=9681,57.9,50.1,50.8,Fri
+29/08/2008,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2008#detail=8422,63.0,62.0,61.7,Fri
+29/08/2008,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2008#detail=9987,4.8%,,4.8%,Fri
+31/08/2008,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2008#detail=10207,47.0,,46.9,Sun

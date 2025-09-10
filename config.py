@@ -49,7 +49,8 @@ RETRY_CONFIG = {
 #   "US/Central"          → Central Time (e.g., Chicago)
 #   "US/Pacific"          → Pacific Time (e.g., Los Angeles)
 #   "Europe/London"       → UK Time (adjusts for DST)
+#   "Africa/Lagos"        → West Africa Time
 #   "Asia/Karachi"        → Pakistan Standard Time
 #   "Asia/Kolkata"        → India Standard Time
 
-TARGET_TIMEZONE = "Asia/Karachi"
+TARGET_TIMEZONE = "Africa/Lagos"

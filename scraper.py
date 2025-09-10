@@ -37,9 +37,7 @@ def exponential_backoff_retry(func, max_retries=3, base_delay=1, max_delay=60, *
     
     Raises:
         Exception: Last exception if all retries fail
-    """
-    
-    
+    """ 
     for attempt in range(max_retries + 1):
         retry_stats['total_attempts'] += 1
         try:

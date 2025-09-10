@@ -1,0 +1,382 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/11/2014,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50488,50.8,51.1,51.1,Sat
+02/11/2014,07:00,CAD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2014#detail=49468,,,,Sun
+02/11/2014,,USD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2014#detail=49469,,,,Sun
+02/11/2014,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2014#detail=50401,49.4,,46.5,Sun
+02/11/2014,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50705,0.2%,,0.1%,Sun
+03/11/2014,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2014#detail=53402,,,,Mon
+03/11/2014,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50758,-11.0%,-0.9%,3.4%,Mon
+03/11/2014,,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50722,0.2%,,0.8%,Mon
+03/11/2014,00:57,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50500,53.8,,54.0,Mon
+03/11/2014,01:45,CNY,red,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50475,50.4,50.4,50.4,Mon
+03/11/2014,05:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=50673,-16.9%,,-16.8%,Mon
+03/11/2014,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50268,52.6,52.4,52.6,Mon
+03/11/2014,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50266,55.3,51.3,50.4,Mon
+03/11/2014,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50269,49.0,50.6,50.7,Mon
+03/11/2014,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=59057,48.5,47.3,47.3,Mon
+03/11/2014,08:55,EUR,orange,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=59059,51.4,51.8,51.8,Mon
+03/11/2014,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50267,50.6,50.7,50.7,Mon
+03/11/2014,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50265,53.2,51.5,51.5,Mon
+03/11/2014,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=59549,55.3,,53.5,Mon
+03/11/2014,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=49681,55.9,56.1,56.2,Mon
+03/11/2014,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=49656,59.0,56.5,56.6,Mon
+03/11/2014,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=49669,-0.4%,0.8%,-0.5%,Mon
+03/11/2014,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=november.2014#detail=49654,53.5,58.3,59.5,Mon
+03/11/2014,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=november.2014#detail=52782,16.5M,16.6M,16.4M,Mon
+03/11/2014,17:50,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57460,,,,Mon
+03/11/2014,19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=november.2014#detail=49802,,,,Mon
+04/11/2014,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51001,-0.8%,,-1.3%,Tue
+04/11/2014,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=50633,-2.26B,-1.78B,-1.01B,Tue
+04/11/2014,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50645,1.2%,0.3%,0.1%,Tue
+04/11/2014,01:35,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=51367,52.4,52.8,52.8,Tue
+04/11/2014,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=49916,2.50%,2.50%,2.50%,Tue
+04/11/2014,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=november.2014#detail=49917,,,,Tue
+04/11/2014,08:00,EUR,red,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=november.2014#detail=53301,79.2K,23.4K,19.7K,Tue
+04/11/2014,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50369,61.4,63.5,64.2,Tue
+04/11/2014,10:00,EUR,orange,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=november.2014#detail=50035,,,,Tue
+04/11/2014,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52193,0.2%,0.0%,-0.2%,Tue
+04/11/2014,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=53532,0.7B,-0.7B,-0.5B,Tue
+04/11/2014,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=52578,-43.0B,-40.0B,-40.0B,Tue
+04/11/2014,14:27,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=november.2014#detail=56334,-0.3%,,1.4%,Tue
+04/11/2014,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52858,-0.6%,-0.4%,-10.0%,Tue
+04/11/2014,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=november.2014#detail=49823,46.4,46.6,45.2,Tue
+04/11/2014,All Day,USD,orange,Congressional Elections,https://www.forexfactory.com/calendar?month=november.2014#detail=57476,,,,Tue
+04/11/2014,15:30,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57461,,,,Tue
+04/11/2014,21:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=51041,0.8%,0.6%,0.5%,Tue
+04/11/2014,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=51042,5.4%,5.5%,5.6%,Tue
+04/11/2014,,NZD,orange,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=51010,0.5%,0.5%,0.6%,Tue
+04/11/2014,22:25,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=november.2014#detail=50402,43.6,,45.4,Tue
+04/11/2014,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51450,36.9%,36.2%,35.3%,Tue
+05/11/2014,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51753,-1.9%,,-1.8%,Wed
+05/11/2014,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51318,0.8%,0.9%,0.9%,Wed
+05/11/2014,01:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=54056,52.9,,53.5,Wed
+05/11/2014,02:30,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57465,,,,Wed
+05/11/2014,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2014#detail=51427,0.44|3.5,,0.52|3.5,Wed
+05/11/2014,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52037,0.0%,-0.1%,0.1%,Wed
+05/11/2014,,EUR,orange,Spanish Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50441,55.9,56.2,55.8,Wed
+05/11/2014,08:45,EUR,orange,Italian Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50438,50.8,49.6,48.8,Wed
+05/11/2014,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=59240,48.3,48.1,48.1,Wed
+05/11/2014,08:55,EUR,orange,German Final Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=59246,54.4,54.8,54.8,Wed
+05/11/2014,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50435,52.3,52.4,52.4,Wed
+05/11/2014,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50357,56.2,58.5,58.7,Wed
+05/11/2014,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52194,-1.3%,-0.6%,0.9%,Wed
+05/11/2014,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=november.2014#detail=49891,230K,214K,225K,Wed
+05/11/2014,14:15,USD,orange,FOMC Member Kocherlakota Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57466,,,,Wed
+05/11/2014,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=53493,57.1,57.3,57.3,Wed
+05/11/2014,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=52834,57.1,58.2,58.6,Wed
+05/11/2014,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2014#detail=49624,0.5M,1.8M,2.1M,Wed
+05/11/2014,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2014#detail=51478,,,,Wed
+06/11/2014,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=november.2014#detail=50746,24.1K,20.3K,-23.7K,Thu
+06/11/2014,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=50744,6.2%,6.2%,6.2%,Thu
+06/11/2014,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=november.2014#detail=51167,105.6%,105.5%,104.4%,Thu
+06/11/2014,06:45,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=november.2014#detail=52084,-11,-4,-1,Thu
+06/11/2014,07:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53053,0.8%,2.2%,-4.2%,Thu
+06/11/2014,07:59,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51813,-0.4%,0.5%,0.4%,Thu
+06/11/2014,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50452,47.0,,44.8,Thu
+06/11/2014,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=november.2014#detail=57467,,,,Thu
+06/11/2014,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51601,0.4%,0.3%,0.2%,Thu
+06/11/2014,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51599,0.6%,0.5%,-0.1%,Thu
+06/11/2014,09:46,EUR,orange,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2014#detail=53209,2.12|3.0,,2.20|1.6,Thu
+06/11/2014,10:00,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2014#detail=52253,1.18|1.4,,1.23|2.0,Thu
+06/11/2014,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=november.2014#detail=50057,375B,375B,375B,Thu
+06/11/2014,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=50080,0.50%,0.50%,0.50%,Thu
+06/11/2014,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=49894,11.9%,,-24.4%,Thu
+06/11/2014,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=50021,0.05%,0.05%,0.05%,Thu
+06/11/2014,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53505,12.7%,5.2%,-27.3%,Thu
+06/11/2014,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=november.2014#detail=50019,,,,Thu
+06/11/2014,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2014#detail=49520,278K,285K,288K,Thu
+06/11/2014,,USD,orange,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=52499,2.0%,0.9%,2.3%,Thu
+06/11/2014,,USD,orange,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=52501,0.3%,1.0%,-0.1%,Thu
+06/11/2014,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=53697,51.2,59.2,58.6,Thu
+06/11/2014,,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=november.2014#detail=51625,0.7%,,0.7%,Thu
+06/11/2014,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2014#detail=49572,91B,86B,87B,Thu
+06/11/2014,18:30,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57473,,,,Thu
+06/11/2014,22:27,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=november.2014#detail=50403,53.4,,59.1,Thu
+07/11/2014,00:05,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57469,,,,Fri
+07/11/2014,00:30,AUD,red,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=november.2014#detail=49923,,,,Fri
+07/11/2014,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=52053,3.2%,3.2%,3.2%,Fri
+07/11/2014,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53054,1.4%,2.1%,-3.1%,Fri
+07/11/2014,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=53032,18.5B,18.3B,17.5B,Fri
+07/11/2014,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52319,0.0%,-0.1%,-0.2%,Fri
+07/11/2014,,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=52308,-80.5B,,-94.1B,Fri
+07/11/2014,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=52306,-4.7B,-5.2B,-5.0B,Fri
+07/11/2014,08:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=november.2014#detail=49997,460B,,462B,Fri
+07/11/2014,08:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=52010,0.3%,2.2%,1.4%,Fri
+07/11/2014,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=51655,-9.8B,-9.4B,-9.0B,Fri
+07/11/2014,10:15,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57645,,,,Fri
+07/11/2014,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=november.2014#detail=57468,,,,Fri
+07/11/2014,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=november.2014#detail=53619,43.1K,-3.9K,74.1K,Fri
+07/11/2014,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=53622,6.5%,6.8%,6.8%,Fri
+07/11/2014,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=november.2014#detail=49456,214K,235K,256K,Fri
+07/11/2014,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=49458,5.8%,5.9%,5.9%,Fri
+07/11/2014,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=49457,0.1%,0.2%,0.0%,Fri
+07/11/2014,15:15,USD,red,Fed Chair Yellen Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57474,,,,Fri
+07/11/2014,19:30,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57475,,,,Fri
+07/11/2014,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52770,15.9B,16.6B,14.0B,Fri
+08/11/2014,02:10,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=50900,45.4B,41.6B,31.0B,Sat
+10/11/2014,00:30,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50783,-0.7%,-0.3%,-0.4%,Mon
+10/11/2014,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=50852,1.6%,1.6%,1.6%,Mon
+10/11/2014,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=50850,-2.2%,-1.9%,-1.8%,Mon
+10/11/2014,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52387,-0.9%,0.2%,0.2%,Mon
+10/11/2014,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=november.2014#detail=52976,-11.9,-6.9,-13.7,Mon
+10/11/2014,13:15,CAD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=november.2014#detail=53709,184K,200K,197K,Mon
+10/11/2014,15:01,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=57471,4.0,,4.0,Mon
+10/11/2014,23:50,JPY,orange,Current Account,https://www.forexfactory.com/calendar?month=november.2014#detail=51131,0.41T,0.03T,0.13T,Mon
+10/11/2014,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51107,2.4%,,2.3%,Mon
+11/11/2014,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51537,0.0%,,-2.1%,Tue
+11/11/2014,00:30,AUD,red,NAB Business Confidence,https://www.forexfactory.com/calendar?month=november.2014#detail=50528,4,,6,Tue
+11/11/2014,,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=50792,1.5%,1.6%,1.9%,Tue
+11/11/2014,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2014#detail=51415,1.48|3.0,,1.63|2.6,Tue
+11/11/2014,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2014#detail=51386,38.9,40.6,39.9,Tue
+11/11/2014,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=november.2014#detail=51391,44.0,49.2,47.4,Tue
+11/11/2014,,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51179,31.2%,,34.7%,Tue
+11/11/2014,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=november.2014#detail=53443,,,,Tue
+11/11/2014,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=november.2014#detail=52673,96.1,95.1,95.3,Tue
+11/11/2014,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2014#detail=53386,,,,Tue
+11/11/2014,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2014#detail=53361,,,,Tue
+11/11/2014,20:00,NZD,red,RBNZ Financial Stability Report,https://www.forexfactory.com/calendar?month=november.2014#detail=52911,,,,Tue
+11/11/2014,20:05,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57489,,,,Tue
+11/11/2014,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2014#detail=50550,1.9%,,0.9%,Tue
+11/11/2014,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51203,1.0%,0.9%,-0.1%,Tue
+11/11/2014,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51453,3.2%,2.5%,3.1%,Tue
+12/11/2014,00:30,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=50694,0.6%,0.6%,0.6%,Wed
+12/11/2014,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53068,-0.6%,0.2%,0.1%,Wed
+12/11/2014,08:00,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57490,,,,Wed
+12/11/2014,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51787,1.0%,0.9%,0.7%,Wed
+12/11/2014,,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=november.2014#detail=51789,-20.4K,-24.9K,-18.4K,Wed
+12/11/2014,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=51786,6.0%,5.9%,6.0%,Wed
+12/11/2014,10:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52195,0.6%,0.6%,-1.4%,Wed
+12/11/2014,,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51549,-0.4%,,0.4%,Wed
+12/11/2014,10:30,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=50113,,,,Wed
+12/11/2014,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=november.2014#detail=50114,,,,Wed
+12/11/2014,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52638,0.3%,0.3%,0.6%,Wed
+12/11/2014,16:25,CAD,orange,Gov Council Member Schembri Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57462,,,,Wed
+12/11/2014,17:00,USD,orange,FOMC Member Kocherlakota Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57491,,,,Wed
+12/11/2014,18:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2014#detail=49842,2.37|2.5,,2.38|2.5,Wed
+12/11/2014,21:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2014#detail=50512,59.3,,58.5,Wed
+12/11/2014,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51021,0.0%,,-0.8%,Wed
+12/11/2014,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51119,2.9%,-1.0%,4.7%,Wed
+12/11/2014,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51344,2.9%,3.4%,3.6%,Wed
+13/11/2014,00:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2014#detail=50551,4.1%,,3.4%,Thu
+13/11/2014,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=51854,20%,25%,30%,Thu
+13/11/2014,01:10,NZD,yellow,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51067,1.4%,,0.2%,Thu
+13/11/2014,01:30,AUD,orange,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57492,,,,Thu
+13/11/2014,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51239,2.9%,2.7%,2.7%,Thu
+13/11/2014,05:30,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=50845,7.7%,8.0%,8.0%,Thu
+13/11/2014,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2014#detail=50843,15.9%,16.0%,16.1%,Thu
+13/11/2014,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=50848,11.5%,11.6%,11.6%,Thu
+13/11/2014,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53342,-0.3%,-0.3%,-0.3%,Thu
+13/11/2014,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52284,0.0%,-0.1%,-0.4%,Thu
+13/11/2014,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52040,-0.1%,-0.2%,-0.1%,Thu
+13/11/2014,09:00,EUR,yellow,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=november.2014#detail=50031,,,,Thu
+13/11/2014,10:35,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2014#detail=51954,2.21|1.5,,2.15|1.7,Thu
+13/11/2014,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53649,0.1%,0.2%,0.3%,Thu
+13/11/2014,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2014#detail=49521,290K,282K,278K,Thu
+13/11/2014,15:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=november.2014#detail=52500,4.74M,4.81M,4.85M,Thu
+13/11/2014,15:30,CAD,yellow,BOC Review,https://www.forexfactory.com/calendar?month=november.2014#detail=49945,,,,Thu
+13/11/2014,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2014#detail=49625,-1.7M,0.7M,0.5M,Thu
+13/11/2014,17:30,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58233,,,,Thu
+13/11/2014,17:45,USD,red,Fed Chair Yellen Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58236,,,,Thu
+13/11/2014,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2014#detail=49846,3.09|2.3,,3.07|2.4,Thu
+13/11/2014,18:59,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=52794,-121.7B,-111.5B,105.8B,Thu
+13/11/2014,20:05,CAD,orange,Gov Council Member Wilkins Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=57463,,,,Thu
+13/11/2014,20:30,USD,orange,FOMC Member Kocherlakota Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58234,,,,Thu
+14/11/2014,06:30,EUR,red,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=52324,0.3%,0.1%,-0.1%,Fri
+14/11/2014,07:00,EUR,red,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=52328,0.1%,0.1%,-0.2%,Fri
+14/11/2014,07:45,EUR,orange,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=52336,-0.2%,0.2%,0.1%,Fri
+14/11/2014,08:02,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=november.2014#detail=50886,548B,615B,857B,Fri
+14/11/2014,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=50888,12.6%,12.9%,12.9%,Fri
+14/11/2014,09:00,EUR,orange,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=52332,-0.1%,-0.1%,-0.2%,Fri
+14/11/2014,09:30,GBP,orange,Construction Output m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=54223,1.8%,3.7%,-3.0%,Fri
+14/11/2014,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=52197,0.4%,0.4%,0.4%,Fri
+14/11/2014,,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=52219,0.2%,0.1%,0.1%,Fri
+14/11/2014,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=52196,0.7%,0.7%,0.7%,Fri
+14/11/2014,13:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53638,2.1%,1.3%,-3.5%,Fri
+14/11/2014,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52958,0.3%,0.2%,0.0%,Fri
+14/11/2014,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52960,0.3%,0.2%,-0.3%,Fri
+14/11/2014,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52502,-1.3%,-1.7%,-0.6%,Fri
+14/11/2014,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2014#detail=49747,89.4,87.3,86.9,Fri
+14/11/2014,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2014#detail=49749,2.6%,,2.9%,Fri
+14/11/2014,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52685,0.3%,0.3%,0.1%,Fri
+14/11/2014,,USD,orange,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=november.2014#detail=52799,5.85%,,6.04%,Fri
+14/11/2014,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2014#detail=49573,40B,37B,91B,Fri
+14/11/2014,21:00,USD,orange,FOMC Member Fischer Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58235,,,,Fri
+15/11/2014,Day 1,All,red,G20 Meetings,https://www.forexfactory.com/calendar?month=november.2014#detail=57646,,,,Sat
+16/11/2014,Day 2,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=november.2014#detail=57647,,,,Sun
+16/11/2014,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=november.2014#detail=127151,57.8,,57.6,Sun
+16/11/2014,21:45,NZD,red,Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=50966,1.5%,0.8%,1.1%,Sun
+16/11/2014,,NZD,orange,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=50965,1.4%,1.0%,1.2%,Sun
+16/11/2014,23:50,JPY,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=51264,-0.4%,0.5%,-1.8%,Sun
+16/11/2014,,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51260,2.1%,1.9%,2.0%,Sun
+16/11/2014,23:54,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51866,-1.7%,,2.6%,Sun
+17/11/2014,00:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50609,-1.6%,,2.8%,Mon
+17/11/2014,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=53269,2.01B,2.68B,2.06B,Mon
+17/11/2014,09:30,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58247,,,,Mon
+17/11/2014,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=52198,17.7B,16.2B,15.4B,Mon
+17/11/2014,11:00,EUR,orange,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=november.2014#detail=50571,,,,Mon
+17/11/2014,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=november.2014#detail=53522,4.37B,11.32B,10.29B,Mon
+17/11/2014,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2014#detail=52602,10.2,12.1,6.2,Mon
+17/11/2014,14:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58237,,,,Mon
+17/11/2014,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=52623,78.9%,79.3%,79.2%,Mon
+17/11/2014,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52624,-0.1%,0.2%,0.8%,Mon
+17/11/2014,23:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50597,-0.3%,,-0.1%,Mon
+18/11/2014,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2014#detail=49933,,,,Tue
+18/11/2014,02:05,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2014#detail=50912,-1.2%,,-1.4%,Tue
+18/11/2014,08:25,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58238,,,,Tue
+18/11/2014,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51731,1.3%,1.2%,1.2%,Tue
+18/11/2014,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51735,-1.5%,-1.4%,-0.6%,Tue
+18/11/2014,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51733,2.3%,2.3%,2.3%,Tue
+18/11/2014,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51732,1.5%,1.6%,1.5%,Tue
+18/11/2014,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51734,12.1%,12.1%,11.7%,Tue
+18/11/2014,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51736,-0.3%,-0.2%,-0.2%,Tue
+18/11/2014,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2014#detail=53130,11.5,0.9,-3.6,Tue
+18/11/2014,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2014#detail=53131,11.0,4.3,4.1,Tue
+18/11/2014,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52506,0.2%,-0.1%,-0.1%,Tue
+18/11/2014,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52503,0.4%,0.2%,0.0%,Tue
+18/11/2014,14:41,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=november.2014#detail=56335,-3.1%,,-0.3%,Tue
+18/11/2014,15:00,USD,orange,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=november.2014#detail=53755,58,55,54,Tue
+18/11/2014,18:30,GBP,orange,MPC Member Forbes Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58248,,,,Tue
+18/11/2014,,USD,orange,FOMC Member Kocherlakota Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58239,,,,Tue
+18/11/2014,19:05,CAD,yellow,Gov Council Member Cote Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58240,,,,Tue
+18/11/2014,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=november.2014#detail=52733,164.3B,41.3B,52.1B,Tue
+18/11/2014,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50621,0.0%,,-0.1%,Tue
+19/11/2014,03:24,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=november.2014#detail=51502,,,,Wed
+19/11/2014,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51144,1.0%,1.2%,0.0%,Wed
+19/11/2014,06:29,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=november.2014#detail=51503,,,,Wed
+19/11/2014,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=november.2014#detail=52199,30.0B,21.3B,22.8B,Wed
+19/11/2014,09:30,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=november.2014#detail=50105,2-0-7,2-0-7,2-0-7,Wed
+19/11/2014,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=november.2014#detail=50104,0-0-9,0-0-9,0-0-9,Wed
+19/11/2014,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=november.2014#detail=52099,-7.6,,-30.7,Wed
+19/11/2014,13:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=november.2014#detail=52719,1.08M,1.04M,1.03M,Wed
+19/11/2014,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=november.2014#detail=52720,1.01M,1.03M,1.04M,Wed
+19/11/2014,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2014#detail=49627,2.6M,-0.7M,-1.7M,Wed
+19/11/2014,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2014#detail=49798,,,,Wed
+19/11/2014,21:45,NZD,red,PPI Input q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=51032,-1.5%,0.3%,-1.0%,Wed
+19/11/2014,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=51034,-1.1%,0.2%,-0.5%,Wed
+19/11/2014,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=51191,-0.98T,-1.02T,-1.07T,Wed
+20/11/2014,01:35,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=54140,52.1,52.7,52.4,Thu
+20/11/2014,01:45,CNY,red,Caixin Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50476,50.0,50.2,50.4,Thu
+20/11/2014,05:00,JPY,yellow,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=november.2014#detail=51465,,,,Thu
+20/11/2014,07:00,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=52013,3.26B,2.57B,2.49B,Thu
+20/11/2014,,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53080,-0.2%,-0.1%,0.0%,Thu
+20/11/2014,08:00,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50337,47.6,48.9,48.5,Thu
+20/11/2014,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50338,48.8,48.6,48.3,Thu
+20/11/2014,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50339,50.0,51.5,51.4,Thu
+20/11/2014,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50340,52.1,54.5,54.4,Thu
+20/11/2014,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50335,50.4,50.9,50.6,Thu
+20/11/2014,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=50336,51.3,52.3,52.3,Thu
+20/11/2014,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51656,0.8%,0.4%,-0.4%,Thu
+20/11/2014,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=november.2014#detail=51917,3,-3,-6,Thu
+20/11/2014,12:45,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58246,,,,Thu
+20/11/2014,13:30,CAD,red,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53661,1.8%,0.7%,0.0%,Thu
+20/11/2014,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52505,0.2%,0.2%,0.1%,Thu
+20/11/2014,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52504,0.0%,-0.1%,0.1%,Thu
+20/11/2014,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=128564,1.7%,1.6%,1.7%,Thu
+20/11/2014,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2014#detail=49522,291K,286K,293K,Thu
+20/11/2014,14:45,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=49693,54.7,56.2,55.9,Thu
+20/11/2014,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2014#detail=53876,-12,-11,-11,Thu
+20/11/2014,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2014#detail=52745,40.8,18.9,20.7,Thu
+20/11/2014,,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=november.2014#detail=52659,5.26M,5.16M,5.18M,Thu
+20/11/2014,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52846,0.9%,0.6%,0.7%,Thu
+20/11/2014,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2014#detail=49574,-17B,-12B,40B,Thu
+20/11/2014,17:00,CHF,orange,Gov Board Member Zurbrugg Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58241,,,,Thu
+20/11/2014,18:30,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58242,,,,Thu
+21/11/2014,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=50977,6.7%,,4.5%,Fri
+21/11/2014,08:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58243,,,,Fri
+21/11/2014,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=november.2014#detail=51670,7.1B,6.9B,10.6B,Fri
+21/11/2014,10:15,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58253,,,,Fri
+21/11/2014,13:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53556,0.3%,0.2%,0.2%,Fri
+21/11/2014,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53557,0.1%,-0.3%,0.1%,Fri
+21/11/2014,19:45,GBP,orange,MPC Member Miles Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58254,,,,Fri
+23/11/2014,13:00,CHF,red,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58298,,,,Sun
+23/11/2014,21:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50958,3.3%,,1.1%,Sun
+24/11/2014,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2014#detail=53403,,,,Mon
+24/11/2014,08:15,CHF,orange,Employment Level,https://www.forexfactory.com/calendar?month=november.2014#detail=52057,4.23M,4.22M,4.20M,Mon
+24/11/2014,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=november.2014#detail=53225,104.7,103.0,103.2,Mon
+24/11/2014,14:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=november.2014#detail=52757,-6.1,-5.3,-6.8,Mon
+24/11/2014,14:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=53477,56.3,57.3,57.1,Mon
+24/11/2014,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2014#detail=51479,,,,Mon
+24/11/2014,,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51333,3.6%,3.6%,3.5%,Mon
+25/11/2014,01:00,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58250,,,,Tue
+25/11/2014,02:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50924,0.9%,,1.0%,Tue
+25/11/2014,,NZD,orange,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=51076,2.06%,,2.23%,Tue
+25/11/2014,07:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=53084,0.1%,0.1%,0.1%,Tue
+25/11/2014,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53270,-0.1%,0.2%,-0.2%,Tue
+25/11/2014,09:05,AUD,orange,RBA Deputy Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58252,,,,Tue
+25/11/2014,09:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=november.2014#detail=51801,37.1K,38.5K,39.1K,Tue
+25/11/2014,10:00,GBP,red,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=november.2014#detail=58300,,,,Tue
+25/11/2014,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53685,0.0%,0.4%,-0.2%,Tue
+25/11/2014,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53683,0.8%,0.6%,-0.2%,Tue
+25/11/2014,,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=53308,3.7%,,2.6%,Tue
+25/11/2014,,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=52580,3.9%,3.3%,3.5%,Tue
+25/11/2014,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=52579,1.4%,1.3%,1.3%,Tue
+25/11/2014,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=52823,4.9%,4.7%,5.6%,Tue
+25/11/2014,14:05,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52810,0.0%,0.5%,0.4%,Tue
+25/11/2014,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2014#detail=53319,4,17,20,Tue
+25/11/2014,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2014#detail=49765,88.7,95.9,94.1,Tue
+26/11/2014,00:30,AUD,orange,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=50788,-2.2%,-1.7%,-1.2%,Wed
+26/11/2014,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=november.2014#detail=52016,1.29,,1.39,Wed
+26/11/2014,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53095,-0.3%,-0.3%,0.3%,Wed
+26/11/2014,09:30,GBP,red,Second Estimate GDP q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=51565,0.7%,0.7%,0.7%,Wed
+26/11/2014,,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=51634,-0.7%,2.3%,3.3%,Wed
+26/11/2014,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=november.2014#detail=51578,0.8%,0.7%,0.8%,Wed
+26/11/2014,10:33,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2014#detail=53172,0.74|1.1,,0.87|1.2,Wed
+26/11/2014,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=november.2014#detail=51916,27,28,31,Wed
+26/11/2014,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52880,-0.9%,0.5%,-0.1%,Wed
+26/11/2014,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2014#detail=49523,313K,287K,292K,Wed
+26/11/2014,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52581,0.2%,0.1%,0.1%,Wed
+26/11/2014,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52882,0.4%,-0.4%,-1.1%,Wed
+26/11/2014,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52582,0.2%,0.4%,0.0%,Wed
+26/11/2014,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52583,0.2%,0.4%,0.2%,Wed
+26/11/2014,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=november.2014#detail=49705,60.8,63.1,66.2,Wed
+26/11/2014,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2014#detail=49748,88.8,90.2,89.4,Wed
+26/11/2014,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2014#detail=49750,2.8%,,2.6%,Wed
+26/11/2014,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=november.2014#detail=52711,458K,471K,455K,Wed
+26/11/2014,,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52660,-1.1%,0.9%,0.6%,Wed
+26/11/2014,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2014#detail=49626,1.9M,0.4M,2.6M,Wed
+26/11/2014,17:00,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2014#detail=49575,-162B,-145B,-17B,Wed
+26/11/2014,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=november.2014#detail=50945,-908M,-645M,-1367M,Wed
+27/11/2014,00:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50771,3.0%,,0.0%,Thu
+27/11/2014,00:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=50650,0.2%,-1.7%,1.6%,Thu
+27/11/2014,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53331,0.0%,0.0%,-0.3%,Thu
+27/11/2014,08:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=54186,-0.4%,-0.3%,-0.1%,Thu
+27/11/2014,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=november.2014#detail=53019,-14K,-1K,-23K,Thu
+27/11/2014,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=53741,2.5%,2.6%,2.5%,Thu
+27/11/2014,,EUR,orange,Private Loans y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=53743,-1.1%,-1.0%,-1.2%,Thu
+27/11/2014,All Day,All,red,OPEC Meetings,https://www.forexfactory.com/calendar?month=november.2014#detail=53003,,,,Thu
+27/11/2014,10:24,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2014#detail=52371,2.08|1.6,,2.44|1.5,Thu
+27/11/2014,11:00,EUR,yellow,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=november.2014#detail=58842,,,,Thu
+27/11/2014,11:30,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58343,,,,Thu
+27/11/2014,12:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=november.2014#detail=53237,8.7,8.6,8.5,Thu
+27/11/2014,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2014#detail=53362,,,,Thu
+27/11/2014,13:30,CAD,orange,Current Account,https://www.forexfactory.com/calendar?month=november.2014#detail=53510,-8.4B,-10.3B,-9.9B,Thu
+27/11/2014,21:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51054,8.8%,,-11.9%,Thu
+27/11/2014,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51155,-4.0%,-4.8%,-5.6%,Thu
+27/11/2014,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51293,2.4%,2.3%,2.5%,Thu
+27/11/2014,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51305,2.9%,2.9%,3.0%,Thu
+27/11/2014,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=51295,3.5%,3.6%,3.6%,Thu
+27/11/2014,23:50,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2014#detail=51894,-2,-1,-2,Thu
+27/11/2014,,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51227,0.2%,-0.4%,2.9%,Thu
+27/11/2014,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51215,1.4%,1.5%,2.3%,Thu
+28/11/2014,00:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=november.2014#detail=51090,31.5,,26.5,Fri
+28/11/2014,00:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50661,0.6%,0.5%,0.5%,Fri
+28/11/2014,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=51404,-12.3%,-14.5%,-14.3%,Fri
+28/11/2014,06:57,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=51877,0.3%,0.4%,0.5%,Fri
+28/11/2014,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53107,1.9%,1.7%,-2.8%,Fri
+28/11/2014,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=52271,-0.9%,0.2%,-0.5%,Fri
+28/11/2014,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=november.2014#detail=51980,98.7,100.1,99.5,Fri
+28/11/2014,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=53285,13.2%,12.6%,12.9%,Fri
+28/11/2014,,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=52907,12.8%,12.4%,12.6%,Fri
+28/11/2014,10:00,EUR,red,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=52200,0.3%,0.3%,0.4%,Fri
+28/11/2014,,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=november.2014#detail=54125,0.7%,0.7%,0.7%,Fri
+28/11/2014,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2014#detail=52201,11.5%,11.5%,11.5%,Fri
+28/11/2014,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53271,-0.2%,-0.3%,0.1%,Fri
+28/11/2014,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53569,0.4%,0.4%,-0.1%,Fri
+28/11/2014,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53598,-4.3%,1.5%,-2.1%,Fri
+28/11/2014,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=53596,-0.5%,0.3%,-0.3%,Fri
+30/11/2014,All Day,CHF,red,SNB Gold Asset Vote,https://www.forexfactory.com/calendar?month=november.2014#detail=56855,Reject,Reject,,Sun
+30/11/2014,19:45,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=november.2014#detail=58351,,,,Sun
+30/11/2014,21:45,NZD,orange,Overseas Trade Index q/q,https://www.forexfactory.com/calendar?month=november.2014#detail=51026,-4.4%,-4.3%,0.1%,Sun
+30/11/2014,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2014#detail=50404,50.1,,49.4,Sun
+30/11/2014,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=november.2014#detail=50706,0.1%,,0.2%,Sun
+30/11/2014,23:50,JPY,yellow,Capital Spending q/y,https://www.forexfactory.com/calendar?month=november.2014#detail=50040,5.5%,2.1%,3.0%,Sun

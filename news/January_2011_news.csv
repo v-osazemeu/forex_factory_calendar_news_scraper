@@ -1,0 +1,351 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/01/2011,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=35044,53.9,55.7,55.2,Sat
+02/01/2011,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=35681,,,,Sun
+02/01/2011,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=35689,,,,Sun
+03/01/2011,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=37021,,,,Mon
+03/01/2011,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=42240,56.5,,53.2,Mon
+03/01/2011,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=37044,,,,Mon
+03/01/2011,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=36992,,,,Mon
+03/01/2011,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=36993,,,,Mon
+03/01/2011,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=35699,,,,Mon
+03/01/2011,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=43837,51.5,,50.0,Mon
+03/01/2011,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=35067,59.6,61.7,61.8,Mon
+03/01/2011,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=43491,54.7,52.3,52.0,Mon
+03/01/2011,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=58932,57.2,56.3,56.3,Mon
+03/01/2011,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=58990,60.7,60.9,60.9,Mon
+03/01/2011,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33210,57.1,56.9,56.8,Mon
+03/01/2011,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=37036,,,,Mon
+03/01/2011,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=32964,57.0,57.0,56.6,Mon
+03/01/2011,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34105,0.4%,0.2%,0.7%,Mon
+03/01/2011,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=january.2011#detail=32965,72.5,71.2,69.5,Mon
+03/01/2011,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=35683,,,,Mon
+03/01/2011,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2011#detail=32999,46.3,,47.6,Mon
+04/01/2011,05:33,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=36110,47.7%,,45.7%,Tue
+04/01/2011,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=january.2011#detail=44016,-10.2K,,24.3K,Tue
+04/01/2011,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=january.2011#detail=36903,3K,-12K,-8K,Tue
+04/01/2011,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33154,58.3,57.3,57.5,Tue
+04/01/2011,,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35647,0.7B,0.9B,1.5B,Tue
+04/01/2011,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36315,-0.8%,0.4%,0.7%,Tue
+04/01/2011,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=january.2011#detail=35646,48K,47K,47K,Tue
+04/01/2011,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35169,2.2%,2.0%,1.9%,Tue
+04/01/2011,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=26543,0.4%,0.2%,0.0%,Tue
+04/01/2011,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=january.2011#detail=56241,5.8%,,2.3%,Tue
+04/01/2011,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33996,0.7%,-0.1%,-0.7%,Tue
+04/01/2011,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=january.2011#detail=33405,12.6M,12.3M,12.3M,Tue
+04/01/2011,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=january.2011#detail=37166,,,,Tue
+04/01/2011,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=36761,7.0%,7.9%,7.6%,Tue
+05/01/2011,00:58,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=28990,-0.2%,,2.4%,Wed
+05/01/2011,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=43933,46.2,,48.3,Wed
+05/01/2011,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=43551,50.2,53.6,54.4,Wed
+05/01/2011,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=59152,54.9,54.1,54.1,Wed
+05/01/2011,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=59164,59.2,58.3,58.3,Wed
+05/01/2011,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=35622,54.2,53.7,53.7,Wed
+05/01/2011,09:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33166,49.1,51.1,51.8,Wed
+05/01/2011,10:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35172,1.4%,1.3%,-4.2%,Wed
+05/01/2011,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35171,0.3%,0.3%,0.4%,Wed
+05/01/2011,10:05,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2011#detail=42356,2.87|1.6,,2.59|1.2,Wed
+05/01/2011,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35461,-29.0%,,-3.3%,Wed
+05/01/2011,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=january.2011#detail=33198,297K,101K,92K,Wed
+05/01/2011,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34079,3.5%,2.1%,2.1%,Wed
+05/01/2011,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34078,0.5%,0.4%,0.5%,Wed
+05/01/2011,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=32966,57.1,55.6,55.0,Wed
+05/01/2011,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2011#detail=36939,-4.2M,-1.4M,-1.3M,Wed
+05/01/2011,22:26,AUD,orange,AIG Services Index,https://www.forexfactory.com/calendar?month=january.2011#detail=33000,46.4,,46.2,Wed
+06/01/2011,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34481,-4.2%,-3.6%,8.3%,Thu
+06/01/2011,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2011#detail=49022,1.21|3.0,,1.19|2.4,Thu
+06/01/2011,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=36994,,,,Thu
+06/01/2011,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36429,0.0%,-0.1%,0.2%,Thu
+06/01/2011,09:27,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=january.2011#detail=41351,203B,,212B,Thu
+06/01/2011,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33178,49.7,52.9,53.0,Thu
+06/01/2011,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=january.2011#detail=25825,,,,Thu
+06/01/2011,10:00,EUR,orange,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2011#detail=42389,3.36|2.0,,2.87|1.9,Thu
+06/01/2011,,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35170,-0.8%,0.3%,0.0%,Thu
+06/01/2011,10:38,GBP,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2011#detail=42459,3.69|2.0,,3.45|1.8,Thu
+06/01/2011,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33499,5.2%,1.0%,1.6%,Thu
+06/01/2011,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2011#detail=35329,409K,400K,391K,Thu
+06/01/2011,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33587,50.0,53.3,57.5,Thu
+06/01/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2011#detail=35336,-135B,-135B,-136B,Thu
+07/01/2011,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=36200,3.6%,3.6%,3.6%,Fri
+07/01/2011,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33622,-2.4%,0.6%,0.1%,Fri
+07/01/2011,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=33451,11.8B,14.5B,14.2B,Fri
+07/01/2011,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=35899,-3.9B,-4.0B,-3.7B,Fri
+07/01/2011,09:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37232,,,,Fri
+07/01/2011,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=37147,8.7%,8.6%,8.7%,Fri
+07/01/2011,10:00,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=35173,10.1%,10.1%,10.1%,Fri
+07/01/2011,,EUR,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=35116,0.3%,0.4%,0.4%,Fri
+07/01/2011,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33463,-0.7%,-0.1%,3.0%,Fri
+07/01/2011,12:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=january.2011#detail=34192,22.0K,19.1K,15.2K,Fri
+07/01/2011,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=34191,7.6%,7.7%,7.6%,Fri
+07/01/2011,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=january.2011#detail=32860,103K,159K,71K,Fri
+07/01/2011,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=32859,9.4%,9.7%,9.8%,Fri
+07/01/2011,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=32861,0.1%,0.2%,0.0%,Fri
+07/01/2011,14:30,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=january.2011#detail=37211,,,,Fri
+07/01/2011,16:35,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37233,,,,Fri
+07/01/2011,18:30,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37224,,,,Fri
+07/01/2011,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35489,1.3B,0.1B,7.0B,Fri
+07/01/2011,21:30,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37227,,,,Fri
+08/01/2011,21:30,USD,orange,FOMC Member Yellen Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37225,,,,Sat
+10/01/2011,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=37022,,,,Mon
+10/01/2011,00:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34420,0.3%,0.3%,-0.8%,Mon
+10/01/2011,03:01,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=33228,13.1B,20.9B,22.9B,Mon
+10/01/2011,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36477,2.3%,1.1%,-0.8%,Mon
+10/01/2011,08:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36577,-1.3%,-0.3%,-0.2%,Mon
+10/01/2011,08:15,CHF,red,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=36631,2.5%,2.2%,3.5%,Mon
+10/01/2011,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=january.2011#detail=33607,10.6,11.9,9.7,Mon
+10/01/2011,12:00,EUR,red,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37236,,,,Mon
+10/01/2011,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33875,-11.2%,0.8%,-6.2%,Mon
+10/01/2011,15:30,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=january.2011#detail=34141,,,,Mon
+10/01/2011,18:05,CAD,yellow,Gov Council Member Cote Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37235,,,,Mon
+10/01/2011,21:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=january.2011#detail=34315,8,,6,Mon
+10/01/2011,21:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34146,8.8%,,-1.8%,Mon
+11/01/2011,00:00,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35967,-0.3%,,0.7%,Tue
+11/01/2011,00:30,AUD,red,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=37129,2.0%,,3.0%,Tue
+11/01/2011,,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=34432,1.93B,2.03B,2.56B,Tue
+11/01/2011,02:02,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=january.2011#detail=37104,481B,365B,564B,Tue
+11/01/2011,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=37103,19.7%,19.2%,19.5%,Tue
+11/01/2011,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=january.2011#detail=36915,101.0%,100.9%,97.2%,Tue
+11/01/2011,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=january.2011#detail=48386,92.6,94.6,93.2,Tue
+11/01/2011,13:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=january.2011#detail=36453,172K,179K,198K,Tue
+11/01/2011,13:30,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37228,,,,Tue
+11/01/2011,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33972,-0.2%,1.1%,1.7%,Tue
+11/01/2011,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=january.2011#detail=49318,3.25M,,3.33M,Tue
+11/01/2011,19:00,USD,orange,FOMC Member Kocherlakota Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37229,,,,Tue
+11/01/2011,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35772,-1.9%,,-2.0%,Tue
+11/01/2011,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=january.2011#detail=35770,1.15T,0.99T,1.46T,Tue
+11/01/2011,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35771,2.3%,2.6%,2.6%,Tue
+12/01/2011,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=36873,2.1%,,2.0%,Wed
+12/01/2011,00:22,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=january.2011#detail=36134,51.9,47.1,45.8,Wed
+12/01/2011,00:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34469,2.5%,-1.2%,2.2%,Wed
+12/01/2011,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=january.2011#detail=36775,45.1,44.9,43.6,Wed
+12/01/2011,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=35900,-140.7B,,-133.1B,Wed
+12/01/2011,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36478,1.1%,0.7%,-0.1%,Wed
+12/01/2011,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=34534,-8.7B,-8.2B,-8.6B,Wed
+12/01/2011,10:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35174,1.2%,0.5%,0.7%,Wed
+12/01/2011,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34343,0.3%,0.1%,0.1%,Wed
+12/01/2011,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36666,1.1%,1.3%,1.5%,Wed
+12/01/2011,,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37239,,,,Wed
+12/01/2011,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2011#detail=36940,-2.2M,0.4M,-4.2M,Wed
+12/01/2011,18:00,CHF,red,Gov Board Member Jordan Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37238,,,,Wed
+12/01/2011,,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2011#detail=42321,3.39|3.3,,3.34|2.9,Wed
+12/01/2011,,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37237,,,,Wed
+12/01/2011,19:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=january.2011#detail=33579,,,,Wed
+12/01/2011,,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=36465,-80.0B,-81.1B,-150.4B,Wed
+12/01/2011,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35887,-3.0%,2.1%,-1.4%,Wed
+13/01/2011,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=january.2011#detail=34446,2.3K,25.2K,55.2K,Thu
+13/01/2011,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=34445,5.0%,5.1%,5.2%,Thu
+13/01/2011,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34320,2.0%,,4.5%,Thu
+13/01/2011,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2011#detail=49081,2.16|5.8,,2.19|3.0,Thu
+13/01/2011,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=36774,63.5%,,104.2%,Thu
+13/01/2011,06:30,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35923,0.5%,0.4%,0.1%,Thu
+13/01/2011,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36607,1.8%,0.6%,0.7%,Thu
+13/01/2011,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33050,0.6%,0.5%,0.6%,Thu
+13/01/2011,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33049,0.4%,0.5%,-0.1%,Thu
+13/01/2011,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=january.2011#detail=32725,200B,200B,200B,Thu
+13/01/2011,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=32723,0.50%,0.50%,0.50%,Thu
+13/01/2011,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=32775,1.00%,1.00%,1.00%,Thu
+13/01/2011,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=34367,-0.1B,-2.0B,-1.5B,Thu
+13/01/2011,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=january.2011#detail=32776,,,,Thu
+13/01/2011,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36379,1.1%,0.8%,0.8%,Thu
+13/01/2011,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=33948,-38.3B,-40.8B,-38.4B,Thu
+13/01/2011,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2011#detail=35330,445K,405K,410K,Thu
+13/01/2011,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36380,0.2%,0.2%,0.3%,Thu
+13/01/2011,15:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=january.2011#detail=35384,0.5%,,0.6%,Thu
+13/01/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2011#detail=35335,-138B,-146B,-135B,Thu
+13/01/2011,18:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37234,,,,Thu
+13/01/2011,,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2011#detail=42931,4.52|2.7,,4.41|2.7,Thu
+13/01/2011,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35822,1.2%,1.0%,0.9%,Thu
+14/01/2011,02:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=37091,0.5%,,0.8%,Fri
+14/01/2011,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33487,1.0%,1.0%,1.0%,Fri
+14/01/2011,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36630,0.3%,0.2%,-0.2%,Fri
+14/01/2011,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=36725,-3.38B,-1.96B,-2.01B,Fri
+14/01/2011,09:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33122,3.4%,1.6%,0.9%,Fri
+14/01/2011,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33123,0.5%,0.4%,0.4%,Fri
+14/01/2011,10:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35177,1.1%,1.1%,1.1%,Fri
+14/01/2011,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35176,2.2%,2.2%,2.2%,Fri
+14/01/2011,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=35175,-1.9B,1.9B,3.5B,Fri
+14/01/2011,13:30,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34156,0.3%,0.9%,-0.3%,Fri
+14/01/2011,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36382,0.1%,0.1%,0.1%,Fri
+14/01/2011,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34118,0.5%,0.7%,1.0%,Fri
+14/01/2011,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=128518,1.5%,1.4%,1.1%,Fri
+14/01/2011,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34117,0.6%,0.8%,0.8%,Fri
+14/01/2011,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36381,0.5%,0.4%,0.1%,Fri
+14/01/2011,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=34788,76.0%,75.6%,75.4%,Fri
+14/01/2011,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34787,0.8%,0.5%,0.3%,Fri
+14/01/2011,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2011#detail=33531,72.7,75.5,74.5,Fri
+14/01/2011,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2011#detail=33532,3.3%,,3.0%,Fri
+14/01/2011,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33985,0.2%,0.7%,0.8%,Fri
+16/01/2011,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34147,-0.8%,,-0.6%,Sun
+16/01/2011,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=29054,0.2%,,0.4%,Sun
+17/01/2011,00:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36690,0.3%,,-3.0%,Mon
+17/01/2011,00:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34493,0.8%,,0.5%,Mon
+17/01/2011,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2011#detail=36811,40.1,41.7,40.4,Mon
+17/01/2011,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=january.2011#detail=44078,,,,Mon
+17/01/2011,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=january.2011#detail=50172,,,,Mon
+17/01/2011,12:15,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37230,,,,Mon
+17/01/2011,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=35671,,,,Mon
+17/01/2011,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=january.2011#detail=35031,8.01B,10.42B,9.71B,Mon
+17/01/2011,21:00,NZD,orange,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=37368,-0.6%,,1.9%,Mon
+18/01/2011,00:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2011#detail=34855,53,47,45,Tue
+18/01/2011,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=35968,-39%,-43%,-44%,Tue
+18/01/2011,02:00,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=january.2011#detail=36082,17.4%,,17.7%,Tue
+18/01/2011,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35834,1.0%,1.0%,1.0%,Tue
+18/01/2011,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=january.2011#detail=37231,,,,Tue
+18/01/2011,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=33086,3.7%,3.3%,3.3%,Tue
+18/01/2011,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=33088,4.8%,4.8%,4.7%,Tue
+18/01/2011,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=33087,2.9%,2.6%,2.7%,Tue
+18/01/2011,09:38,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35088,4.0%,5.2%,5.5%,Tue
+18/01/2011,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=january.2011#detail=34699,15.4,6.5,4.3,Tue
+18/01/2011,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=january.2011#detail=34700,25.4,17.3,15.5,Tue
+18/01/2011,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=january.2011#detail=56242,0.7%,,5.8%,Tue
+18/01/2011,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2011#detail=35558,11.9,12.6,10.6,Tue
+18/01/2011,14:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=january.2011#detail=32840,,,,Tue
+18/01/2011,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=32839,1.00%,1.00%,1.00%,Tue
+18/01/2011,,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=january.2011#detail=35745,85.1B,43.4B,28.9B,Tue
+18/01/2011,15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=january.2011#detail=36678,16,17,16,Tue
+18/01/2011,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2011#detail=36122,-5.7%,,0.2%,Tue
+18/01/2011,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35858,0.6%,0.6%,0.3%,Tue
+19/01/2011,09:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=january.2011#detail=36554,-11.2B,-10.2B,-9.6B,Wed
+19/01/2011,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=january.2011#detail=34380,-4.1K,-0.3K,-3.2K,Wed
+19/01/2011,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=january.2011#detail=34381,2.1%,2.2%,2.1%,Wed
+19/01/2011,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=34379,7.9%,7.9%,7.9%,Wed
+19/01/2011,10:00,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35634,0.0%,,0.4%,Wed
+19/01/2011,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34239,-0.8%,0.6%,1.5%,Wed
+19/01/2011,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=january.2011#detail=34020,0.64M,0.56M,0.54M,Wed
+19/01/2011,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=january.2011#detail=34021,0.53M,0.55M,0.55M,Wed
+19/01/2011,15:30,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=january.2011#detail=35538,,,,Wed
+19/01/2011,16:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=january.2011#detail=35539,,,,Wed
+19/01/2011,17:00,GBP,orange,MPC Member Posen Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37256,,,,Wed
+19/01/2011,21:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=34148,2.3%,2.3%,1.1%,Wed
+20/01/2011,00:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2011#detail=34576,4.6%,,2.8%,Thu
+20/01/2011,02:00,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=33223,4.6%,4.7%,5.1%,Thu
+20/01/2011,,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35327,9.8%,9.3%,9.6%,Thu
+20/01/2011,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=january.2011#detail=33224,24.5%,24.9%,24.9%,Thu
+20/01/2011,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=33222,13.5%,13.5%,13.3%,Thu
+20/01/2011,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=january.2011#detail=33225,,,,Thu
+20/01/2011,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=33226,5.9%,5.6%,6.1%,Thu
+20/01/2011,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=33227,19.1%,18.9%,18.7%,Thu
+20/01/2011,07:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33519,0.7%,0.5%,0.2%,Thu
+20/01/2011,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=january.2011#detail=35999,,,,Thu
+20/01/2011,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=january.2011#detail=36170,-18.4,,-12.5,Thu
+20/01/2011,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=january.2011#detail=35943,-16,-1,-3,Thu
+20/01/2011,13:30,CAD,orange,Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33839,0.5%,0.4%,0.5%,Thu
+20/01/2011,,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34355,1.2%,0.3%,0.3%,Thu
+20/01/2011,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2011#detail=35331,404K,422K,441K,Thu
+20/01/2011,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2011#detail=36703,-11,-12,-11,Thu
+20/01/2011,,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=january.2011#detail=34831,5.28M,4.88M,4.70M,Thu
+20/01/2011,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2011#detail=37174,19.3,20.7,24.3,Thu
+20/01/2011,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35525,1.0%,0.7%,1.1%,Thu
+20/01/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2011#detail=35334,-243B,-223B,-138B,Thu
+20/01/2011,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2011#detail=36941,2.6M,-1.1M,-2.2M,Thu
+20/01/2011,17:00,CHF,red,SNB Chairman Hildebrand Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37255,,,,Thu
+20/01/2011,21:29,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2011#detail=36885,53.1,,52.7,Thu
+20/01/2011,21:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34150,-0.2%,0.6%,-1.6%,Thu
+20/01/2011,,NZD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34149,1.5%,1.3%,-2.4%,Thu
+21/01/2011,00:30,AUD,orange,Import Prices q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=33308,-3.8%,0.9%,0.8%,Fri
+21/01/2011,04:30,JPY,orange,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35870,-0.1%,0.2%,-0.3%,Fri
+21/01/2011,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=january.2011#detail=35707,110.3,110.0,109.8,Fri
+21/01/2011,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33073,-0.8%,-0.2%,0.4%,Fri
+21/01/2011,,GBP,orange,Prelim Mortgage Approvals,https://www.forexfactory.com/calendar?month=january.2011#detail=35123,40K,49K,45k,Fri
+21/01/2011,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33869,1.0%,0.6%,0.9%,Fri
+21/01/2011,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33851,1.3%,0.5%,1.0%,Fri
+21/01/2011,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=january.2011#detail=35708,4.5,3.3,3.1,Fri
+21/01/2011,18:05,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37310,,,,Fri
+24/01/2011,00:30,AUD,red,PPI q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=33035,0.1%,0.5%,1.3%,Mon
+24/01/2011,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33332,54.3,56.8,57.2,Mon
+24/01/2011,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33333,57.1,55.2,54.9,Mon
+24/01/2011,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33334,60.2,61.1,60.7,Mon
+24/01/2011,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33335,60.0,59.2,59.2,Mon
+24/01/2011,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33336,56.9,57.1,57.1,Mon
+24/01/2011,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=33337,55.2,54.2,54.2,Mon
+24/01/2011,10:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35178,2.1%,2.3%,1.4%,Mon
+24/01/2011,18:00,GBP,orange,MPC Member Sentance Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37308,,,,Mon
+24/01/2011,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=january.2011#detail=127106,52.5,,51.1,Mon
+24/01/2011,23:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=37198,0.3%,,0.6%,Mon
+25/01/2011,00:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=33039,0.4%,0.7%,0.7%,Tue
+25/01/2011,,AUD,orange,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=33040,0.3%,0.8%,0.6%,Tue
+25/01/2011,03:29,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=january.2011#detail=36835,,,,Tue
+25/01/2011,,JPY,red,Overnight Call Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=36834,<0.10%,<0.10%,<0.10%,Tue
+25/01/2011,07:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=january.2011#detail=35750,1.84,,1.62,Tue
+25/01/2011,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=january.2011#detail=36702,5.7,5.5,5.5,Tue
+25/01/2011,07:12,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=january.2011#detail=36836,,,,Tue
+25/01/2011,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36479,0.6%,0.4%,2.7%,Tue
+25/01/2011,09:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=34546,-0.5%,0.5%,0.7%,Tue
+25/01/2011,,GBP,red,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=january.2011#detail=35099,15.3B,18.2B,19.7B,Tue
+25/01/2011,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=january.2011#detail=34557,0.5%,0.6%,0.5%,Tue
+25/01/2011,12:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34046,-0.3%,-0.2%,0.0%,Tue
+25/01/2011,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34045,0.0%,0.1%,0.1%,Tue
+25/01/2011,14:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=36542,-1.6%,-1.4%,-0.8%,Tue
+25/01/2011,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2011#detail=33417,18,23,25,Tue
+25/01/2011,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2011#detail=35477,60.6,54.4,53.3,Tue
+25/01/2011,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36088,0.0%,-0.1%,0.2%,Tue
+25/01/2011,19:40,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37309,,,,Tue
+25/01/2011,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2011#detail=35690,,,,Tue
+25/01/2011,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35806,-1.3%,-1.3%,-1.1%,Tue
+26/01/2011,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=36158,2.0%,,3.7%,Wed
+26/01/2011,,USD,orange,President Obama Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37311,,,,Wed
+26/01/2011,05:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=january.2011#detail=36517,,,,Wed
+26/01/2011,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36606,2.3%,1.3%,1.2%,Wed
+26/01/2011,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36726,-0.3%,0.1%,0.3%,Wed
+26/01/2011,Day 1,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2011#detail=37086,,,,Wed
+26/01/2011,09:30,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=january.2011#detail=49148,1-0-8,1-0-8,1-0-8,Wed
+26/01/2011,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=january.2011#detail=32726,2-0-7,1-0-8,1-0-8,Wed
+26/01/2011,,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=january.2011#detail=37052,28.7K,29.9K,29.7K,Wed
+26/01/2011,10:05,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2011#detail=42900,3.58|1.2,,3.33|1.2,Wed
+26/01/2011,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=january.2011#detail=33960,329K,302K,280K,Wed
+26/01/2011,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2011#detail=36942,4.8M,0.9M,2.6M,Wed
+26/01/2011,19:15,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=32632,<0.25%,<0.25%,<0.25%,Wed
+26/01/2011,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=january.2011#detail=32633,,,,Wed
+26/01/2011,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=32799,3.00%,3.00%,3.00%,Wed
+26/01/2011,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=january.2011#detail=32800,,,,Wed
+26/01/2011,23:30,AUD,orange,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34554,0.0%,,0.3%,Wed
+26/01/2011,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=37243,0.71T,0.53T,0.54T,Wed
+27/01/2011,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33475,-0.5%,-0.3%,1.0%,Thu
+27/01/2011,Day 2,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2011#detail=37087,,,,Thu
+27/01/2011,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=january.2011#detail=35955,37,37,56,Thu
+27/01/2011,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33997,0.5%,0.9%,4.5%,Thu
+27/01/2011,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2011#detail=35332,454K,407K,403K,Thu
+27/01/2011,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34044,-2.5%,1.6%,-0.1%,Thu
+27/01/2011,15:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34843,2.0%,0.9%,3.1%,Thu
+27/01/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2011#detail=35333,-174B,-121B,-243B,Thu
+27/01/2011,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35570,-3.3%,-0.6%,-0.4%,Thu
+27/01/2011,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35572,-0.2%,-0.3%,-0.4%,Thu
+27/01/2011,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35571,-0.4%,-0.4%,-0.5%,Thu
+27/01/2011,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=35573,4.9%,5.1%,5.1%,Thu
+27/01/2011,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=january.2011#detail=36529,,,,Thu
+27/01/2011,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=36810,-2.0%,0.6%,1.5%,Thu
+28/01/2011,00:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2011#detail=35355,-29,-20,-21,Fri
+28/01/2011,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2011#detail=43877,20.3%,20.1%,19.8%,Fri
+28/01/2011,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35502,1.7%,2.1%,2.1%,Fri
+28/01/2011,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35501,1.9%,2.3%,2.0%,Fri
+28/01/2011,,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=43624,55.8,,52.9,Fri
+28/01/2011,Day 3,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2011#detail=37088,,,,Fri
+28/01/2011,10:19,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2011#detail=42424,4.73|1.5,,4.80|1.3,Fri
+28/01/2011,10:30,CHF,red,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=january.2011#detail=36632,2.10,2.09,2.11,Fri
+28/01/2011,11:00,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37312,,,,Fri
+28/01/2011,13:00,CAD,orange,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=january.2011#detail=37316,,,,Fri
+28/01/2011,13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=34723,3.2%,3.5%,2.6%,Fri
+28/01/2011,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=34724,0.3%,1.7%,2.1%,Fri
+28/01/2011,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=35305,0.4%,0.5%,0.4%,Fri
+28/01/2011,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2011#detail=33533,74.2,73.1,72.7,Fri
+28/01/2011,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2011#detail=33534,3.4%,,3.3%,Fri
+29/01/2011,Day 4,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2011#detail=37089,,,,Sat
+30/01/2011,Day 5,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2011#detail=37090,,,,Sun
+30/01/2011,21:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34154,-18.6%,,7.8%,Sun
+30/01/2011,,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=january.2011#detail=34153,-250M,-15M,-186M,Sun
+30/01/2011,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=36182,51.4,,48.3,Sun
+30/01/2011,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34506,0.4%,,0.2%,Sun
+30/01/2011,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=35835,3.1%,2.9%,1.0%,Sun
+31/01/2011,00:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=36136,0.2%,0.3%,0.3%,Mon
+31/01/2011,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=37212,7.5%,4.8%,6.8%,Mon
+31/01/2011,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33623,-0.3%,1.9%,-1.9%,Mon
+31/01/2011,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2011#detail=35179,2.4%,2.4%,2.2%,Mon
+31/01/2011,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=33822,0.4%,0.2%,0.2%,Mon
+31/01/2011,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34083,4.2%,3.3%,3.5%,Mon
+31/01/2011,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34082,0.7%,0.6%,0.6%,Mon
+31/01/2011,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34753,0.0%,0.1%,0.1%,Mon
+31/01/2011,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34752,0.7%,0.6%,0.3%,Mon
+31/01/2011,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=january.2011#detail=34751,0.4%,0.5%,0.4%,Mon
+31/01/2011,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=january.2011#detail=35546,68.8,65.5,68.6,Mon
+31/01/2011,19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=january.2011#detail=37141,,,,Mon
+31/01/2011,21:45,NZD,red,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=january.2011#detail=34155,0.6%,0.5%,0.6%,Mon
+31/01/2011,22:25,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2011#detail=33002,46.7,,46.3,Mon

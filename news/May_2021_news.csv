@@ -1,0 +1,413 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+02/05/2021,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2021#detail=116475,61.7,,59.9,Sun
+03/05/2021,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121212,,,,Mon
+03/05/2021,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121263,,,,Mon
+03/05/2021,01:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119100,0.4%,,0.4%,Mon
+03/05/2021,01:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119088,4.7%,,7.8%,Mon
+03/05/2021,06:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120547,7.7%,2.9%,2.7%,Mon
+03/05/2021,06:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=117681,34.7%,,27.2%,Mon
+03/05/2021,07:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116758,57.7,59.1,56.9,Mon
+03/05/2021,07:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116805,69.5,66.4,66.3,Mon
+03/05/2021,07:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116757,60.7,60.9,59.8,Mon
+03/05/2021,07:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116756,58.9,59.2,59.2,Mon
+03/05/2021,07:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116755,66.2,66.4,66.4,Mon
+03/05/2021,08:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116754,62.9,63.3,63.3,Mon
+03/05/2021,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121132,,,,Mon
+03/05/2021,13:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117657,57.2,,58.5,Mon
+03/05/2021,13:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117560,60.5,60.7,60.6,Mon
+03/05/2021,14:00,USD,orange,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117313,60.7,65.0,64.7,Mon
+03/05/2021,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117297,0.2%,1.7%,-0.6%,Mon
+03/05/2021,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=may.2021#detail=117314,89.6,86.0,85.6,Mon
+03/05/2021,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=may.2021#detail=117404,18.5M,17.5M,17.7M,Mon
+03/05/2021,18:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=may.2021#detail=117528,,,,Mon
+03/05/2021,18:10,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121730,,,,Mon
+03/05/2021,18:20,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121728,,,,Mon
+04/05/2021,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121213,,,,Tue
+04/05/2021,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121264,,,,Tue
+04/05/2021,01:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=119200,5.57B,8.25B,7.60B,Tue
+04/05/2021,04:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=may.2021#detail=119029,,,,Tue
+04/05/2021,,AUD,orange,Cash Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=119018,0.10%,0.10%,0.10%,Tue
+04/05/2021,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=117063,-60.1B,,-47.5B,Tue
+04/05/2021,07:00,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=may.2021#detail=119687,-7,-11,-15,Tue
+04/05/2021,08:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116753,60.9,60.7,60.7,Tue
+04/05/2021,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119469,0.6%,0.7%,0.8%,Tue
+04/05/2021,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=may.2021#detail=119470,83K,86K,87K,Tue
+04/05/2021,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119468,11.3B,5.0B,5.3B,Tue
+04/05/2021,12:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117870,5.7%,1.6%,3.1%,Tue
+04/05/2021,,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=117695,-1.1B,0.5B,1.4B,Tue
+04/05/2021,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=117480,-74.4B,-74.5B,-70.5B,Tue
+04/05/2021,13:52,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=may.2021#detail=118104,54.4,56.1,56.4,Tue
+04/05/2021,14:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118256,1.1%,1.3%,-0.5%,Tue
+04/05/2021,14:20,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=may.2021#detail=119423,-0.7%,,-0.1%,Tue
+04/05/2021,17:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121729,,,,Tue
+04/05/2021,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=may.2021#detail=118551,,,,Tue
+04/05/2021,21:00,NZD,orange,RBNZ Financial Stability Report,https://www.forexfactory.com/calendar?month=may.2021#detail=119299,,,,Tue
+04/05/2021,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=may.2021#detail=116499,59.1,,61.8,Tue
+04/05/2021,22:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=119306,0.6%,0.3%,0.6%,Tue
+04/05/2021,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=119310,4.7%,4.9%,4.9%,Tue
+04/05/2021,,NZD,yellow,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=119440,0.4%,0.3%,0.5%,Tue
+05/05/2021,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121214,,,,Wed
+05/05/2021,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121265,,,,Wed
+05/05/2021,01:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119391,2.3%,,6.1%,Wed
+05/05/2021,01:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119212,17.4%,2.9%,20.1%,Wed
+05/05/2021,06:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119772,0.2%,0.2%,0.3%,Wed
+05/05/2021,07:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=may.2021#detail=116890,-39.0K,-70.0K,-59.1K,Wed
+05/05/2021,07:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116842,54.6,50.0,48.1,Wed
+05/05/2021,07:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116841,47.3,50.0,48.6,Wed
+05/05/2021,07:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116839,50.3,50.4,50.4,Wed
+05/05/2021,07:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116837,49.9,50.1,50.1,Wed
+05/05/2021,08:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116838,50.5,50.3,50.3,Wed
+05/05/2021,09:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120313,1.1%,1.1%,0.5%,Wed
+05/05/2021,09:05,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2021#detail=119807,0.92|2.7,,0.89|3.0,Wed
+05/05/2021,12:15,USD,orange,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=may.2021#detail=117608,742K,872K,565K,Wed
+05/05/2021,13:30,USD,yellow,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121731,,,,Wed
+05/05/2021,13:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=121552,64.7,63.1,63.1,Wed
+05/05/2021,14:00,USD,orange,ISM Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117535,62.7,64.2,63.7,Wed
+05/05/2021,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2021#detail=118746,-8.0M,-1.9M,0.1M,Wed
+05/05/2021,19:00,USD,yellow,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121732,,,,Wed
+05/05/2021,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119378,17.9%,,-19.3%,Wed
+05/05/2021,23:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=may.2021#detail=121726,,,,Wed
+06/05/2021,01:00,NZD,orange,Prelim ANZ Business Confidence,https://www.forexfactory.com/calendar?month=may.2021#detail=121402,7.0,,-2.0,Thu
+06/05/2021,06:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120607,3.0%,1.5%,1.4%,Thu
+06/05/2021,08:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=may.2021#detail=121743,,,,Thu
+06/05/2021,08:30,GBP,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116840,61.0,60.2,60.1,Thu
+06/05/2021,08:46,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2021#detail=116919,0.43|1.6,,0.37|1.9,Thu
+06/05/2021,08:59,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2021#detail=116933,0.13|1.7,,0.00|1.7,Thu
+06/05/2021,09:00,AUD,yellow,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121734,,,,Thu
+06/05/2021,,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120312,2.7%,1.5%,4.2%,Thu
+06/05/2021,11:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=may.2021#detail=119876,875B,875B,875B,Thu
+06/05/2021,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=may.2021#detail=119874,,,,Thu
+06/05/2021,,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=may.2021#detail=119877,,,,Thu
+06/05/2021,,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=may.2021#detail=119878,0-1-8,0-0-9,0-0-9,Thu
+06/05/2021,,GBP,orange,BOE Inflation Letter,https://www.forexfactory.com/calendar?month=may.2021#detail=121758,,,,Thu
+06/05/2021,,GBP,orange,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=may.2021#detail=119879,0-0-9,0-0-9,0-0-9,Thu
+06/05/2021,,GBP,orange,Official Bank Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=119875,0.10%,0.10%,0.10%,Thu
+06/05/2021,11:15,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121740,,,,Thu
+06/05/2021,11:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=117416,-96.6%,,-86.2%,Thu
+06/05/2021,12:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121744,,,,Thu
+06/05/2021,12:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2021#detail=117441,498K,540K,590K,Thu
+06/05/2021,,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=118522,5.4%,4.3%,-4.2%,Thu
+06/05/2021,,USD,yellow,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=118523,-0.3%,-1.1%,6.0%,Thu
+06/05/2021,13:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121741,,,,Thu
+06/05/2021,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2021#detail=118663,60B,68B,15B,Thu
+06/05/2021,17:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121733,,,,Thu
+06/05/2021,20:00,USD,yellow,FOMC Financial Stability Report,https://www.forexfactory.com/calendar?month=may.2021#detail=121803,,,,Thu
+06/05/2021,22:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=may.2021#detail=116487,61.0,,58.7,Thu
+06/05/2021,23:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=121370,0.2%,-0.2%,-0.4%,Thu
+06/05/2021,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120941,24.3%,21.4%,20.8%,Thu
+07/05/2021,01:30,AUD,orange,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=may.2021#detail=119038,,,,Fri
+07/05/2021,01:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116574,56.3,54.2,54.3,Fri
+07/05/2021,03:00,NZD,orange,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=119269,2.05%,,1.89%,Fri
+07/05/2021,03:01,CNY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=116606,277B,130B,88B,Fri
+07/05/2021,03:02,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=116607,42.9B,28.0B,13.8B,Fri
+07/05/2021,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=119720,3.1%,3.3%,3.3%,Fri
+07/05/2021,06:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120608,2.5%,2.1%,-1.9%,Fri
+07/05/2021,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=120609,14.3B,22.3B,18.9B,Fri
+07/05/2021,06:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117023,0.8%,2.1%,-4.8%,Fri
+07/05/2021,,EUR,yellow,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=117198,0.3%,-0.2%,-0.1%,Fri
+07/05/2021,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=117076,-6.1B,-5.4B,-5.1B,Fri
+07/05/2021,07:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=may.2021#detail=119673,914B,,930B,Fri
+07/05/2021,08:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=116998,-0.1%,-0.6%,5.9%,Fri
+07/05/2021,08:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=119821,61.6,62.0,61.7,Fri
+07/05/2021,10:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121737,,,,Fri
+07/05/2021,11:15,GBP,orange,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121736,,,,Fri
+07/05/2021,12:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=may.2021#detail=117625,-207.1K,-160.5K,303.1K,Fri
+07/05/2021,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=117626,8.1%,7.8%,7.5%,Fri
+07/05/2021,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117385,0.7%,0.0%,-0.1%,Fri
+07/05/2021,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=may.2021#detail=117368,266K,990K,770K,Fri
+07/05/2021,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=117384,6.1%,5.8%,6.0%,Fri
+07/05/2021,13:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121742,,,,Fri
+07/05/2021,14:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117669,60.6,67.0,72.9,Fri
+07/05/2021,,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118284,1.3%,1.4%,1.4%,Fri
+07/05/2021,,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=may.2021#detail=118426,6.38%,,6.73%,Fri
+07/05/2021,15:30,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121756,,,,Fri
+07/05/2021,16:30,USD,red,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121757,,,,Fri
+07/05/2021,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118216,25.8B,19.5B,26.1B,Fri
+10/05/2021,01:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=may.2021#detail=116433,26,,17,Mon
+10/05/2021,07:30,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119496,1.4%,0.3%,1.1%,Mon
+10/05/2021,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=may.2021#detail=120429,21.0,14.9,13.1,Mon
+10/05/2021,17:15,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121762,,,,Mon
+10/05/2021,18:00,USD,yellow,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121745,,,,Mon
+10/05/2021,23:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120010,39.6%,9.3%,20.3%,Mon
+10/05/2021,23:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=121006,6.2%,1.4%,-6.6%,Mon
+10/05/2021,23:50,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=may.2021#detail=120882,,,,Mon
+11/05/2021,01:30,CNY,yellow,CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=116654,0.9%,1.0%,0.4%,Tue
+11/05/2021,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=116655,6.8%,6.5%,4.4%,Tue
+11/05/2021,03:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2021#detail=120744,0.07|3.0,,0.12|3.5,Tue
+11/05/2021,06:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120559,1.1%,1.8%,1.7%,Tue
+11/05/2021,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117011,-0.1%,0.5%,0.1%,Tue
+11/05/2021,09:00,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=may.2021#detail=120441,84.0,68.0,66.3,Tue
+11/05/2021,,EUR,yellow,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=may.2021#detail=120453,84.4,72.0,70.7,Tue
+11/05/2021,09:30,AUD,orange,Annual Budget Release,https://www.forexfactory.com/calendar?month=may.2021#detail=116507,,,,Tue
+11/05/2021,10:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=may.2021#detail=118021,99.8,100.7,98.2,Tue
+11/05/2021,14:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=may.2021#detail=118172,8.12M,7.50M,7.53M,Tue
+11/05/2021,14:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121746,,,,Tue
+11/05/2021,,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121747,,,,Tue
+11/05/2021,16:00,USD,yellow,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121748,,,,Tue
+11/05/2021,17:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121749,,,,Tue
+11/05/2021,17:15,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121755,,,,Tue
+11/05/2021,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=may.2021#detail=118552,,,,Tue
+12/05/2021,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=may.2021#detail=121018,103.2%,102.8%,98.7%,Wed
+12/05/2021,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120610,0.7%,0.7%,0.7%,Wed
+12/05/2021,,GBP,orange,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=120538,-1.5%,-1.6%,1.3%,Wed
+12/05/2021,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120150,5.8%,1.1%,2.3%,Wed
+12/05/2021,,GBP,yellow,GDP m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120151,2.1%,1.5%,0.7%,Wed
+12/05/2021,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=120152,-11.7B,-14.2B,-10.5B,Wed
+12/05/2021,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=may.2021#detail=120154,-2.0%,-1.7%,-2.1%,Wed
+12/05/2021,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120155,1.8%,1.0%,1.0%,Wed
+12/05/2021,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120153,2.1%,1.0%,1.5%,Wed
+12/05/2021,,GBP,yellow,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=120537,-11.9%,-2.5%,5.9%,Wed
+12/05/2021,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117044,0.1%,0.2%,0.2%,Wed
+12/05/2021,08:30,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=116635,8.1%,9.2%,9.4%,Wed
+12/05/2021,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=may.2021#detail=116634,1470B,1575B,2730B,Wed
+12/05/2021,09:00,EUR,orange,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=may.2021#detail=120211,,,,Wed
+12/05/2021,,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120314,0.1%,0.8%,-1.2%,Wed
+12/05/2021,12:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117500,0.9%,0.3%,0.3%,Wed
+12/05/2021,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117499,0.8%,0.2%,0.6%,Wed
+12/05/2021,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=128642,4.2%,3.6%,2.6%,Wed
+12/05/2021,12:46,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=may.2021#detail=120202,1.3%,,-1.5%,Wed
+12/05/2021,13:00,USD,yellow,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121751,,,,Wed
+12/05/2021,14:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121750,,,,Wed
+12/05/2021,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2021#detail=118749,-0.4M,-2.1M,-8.0M,Wed
+12/05/2021,17:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121759,,,,Wed
+12/05/2021,17:03,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2021#detail=117707,1.68|2.5,,1.68|2.4,Wed
+12/05/2021,18:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=118090,-225.6B,-212.5B,-659.6B,Wed
+12/05/2021,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119407,1.1%,,0.0%,Wed
+12/05/2021,23:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=119998,75%,62%,62%,Wed
+12/05/2021,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120970,4.8%,6.3%,6.2%,Wed
+12/05/2021,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=may.2021#detail=120971,1.70T,1.87T,1.84T,Wed
+13/05/2021,03:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2021#detail=120745,0.65|3.1,,0.69|3.1,Thu
+13/05/2021,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=may.2021#detail=120802,39.1,47.1,49.0,Thu
+13/05/2021,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121206,,,,Thu
+13/05/2021,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121253,,,,Thu
+13/05/2021,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121243,,,,Thu
+13/05/2021,07:55,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=may.2021#detail=116636,38.6%,,39.9%,Thu
+13/05/2021,12:00,GBP,yellow,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121752,,,,Thu
+13/05/2021,12:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2021#detail=117442,473K,487K,507K,Thu
+13/05/2021,,USD,yellow,Core PPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118486,0.7%,0.4%,0.7%,Thu
+13/05/2021,,USD,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118485,0.6%,0.3%,1.0%,Thu
+13/05/2021,14:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121760,,,,Thu
+13/05/2021,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2021#detail=118662,71B,74B,60B,Thu
+13/05/2021,15:00,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121753,,,,Thu
+13/05/2021,16:00,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121754,,,,Thu
+13/05/2021,17:00,USD,yellow,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121761,,,,Thu
+13/05/2021,17:01,USD,orange,30-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2021#detail=117719,2.40|2.2,,2.32|2.5,Thu
+13/05/2021,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2021#detail=119260,58.4,,63.6,Thu
+13/05/2021,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120953,9.2%,9.4%,9.4%,Thu
+14/05/2021,11:30,EUR,yellow,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=may.2021#detail=120241,,,,Fri
+14/05/2021,12:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117847,3.5%,3.5%,-1.1%,Fri
+14/05/2021,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117859,2.8%,1.0%,-0.9%,Fri
+14/05/2021,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117588,0.0%,1.0%,10.7%,Fri
+14/05/2021,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118509,0.7%,0.6%,1.4%,Fri
+14/05/2021,12:32,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117589,-0.8%,0.5%,9.0%,Fri
+14/05/2021,13:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118313,0.7%,0.9%,2.4%,Fri
+14/05/2021,,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=118314,74.9%,75.0%,74.4%,Fri
+14/05/2021,13:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=121231,0.1%,,-0.4%,Fri
+14/05/2021,14:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=may.2021#detail=118128,82.8,90.2,88.3,Fri
+14/05/2021,,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118192,0.3%,0.3%,0.6%,Fri
+14/05/2021,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=may.2021#detail=118129,4.6%,,3.4%,Fri
+16/05/2021,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=may.2021#detail=127228,61.2,,52.9,Sun
+16/05/2021,23:48,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119365,-12.4%,,-2.8%,Sun
+17/05/2021,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119988,1.8%,,2.1%,Mon
+17/05/2021,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120911,3.6%,3.1%,1.2%,Mon
+17/05/2021,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=136786,0.48%,,0.41%,Mon
+17/05/2021,03:00,CNY,yellow,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=may.2021#detail=116693,19.9%,19.9%,25.6%,Mon
+17/05/2021,,CNY,yellow,Industrial Production y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=116694,9.8%,10.0%,14.1%,Mon
+17/05/2021,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=116695,17.7%,25.0%,34.2%,Mon
+17/05/2021,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=116696,5.1%,5.2%,5.3%,Mon
+17/05/2021,07:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=121056,120.8%,,65.1%,Mon
+17/05/2021,07:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119784,0.7%,0.2%,0.6%,Mon
+17/05/2021,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=may.2021#detail=117887,269K,305K,335K,Mon
+17/05/2021,13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=may.2021#detail=117823,3.25B,3.25B,8.56B,Mon
+17/05/2021,,USD,yellow,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2021#detail=117973,24.3,23.9,26.3,Mon
+17/05/2021,15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=may.2021#detail=118009,83,83,83,Mon
+17/05/2021,15:05,USD,yellow,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121765,,,,Mon
+17/05/2021,15:15,GBP,yellow,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121772,,,,Mon
+17/05/2021,15:25,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121767,,,,Mon
+17/05/2021,,USD,yellow,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121766,,,,Mon
+17/05/2021,16:30,GBP,yellow,MPC Member Vlieghe Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121773,,,,Mon
+17/05/2021,17:30,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121774,,,,Mon
+17/05/2021,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=may.2021#detail=118369,262.2B,67.0B,4.3B,Mon
+18/05/2021,00:50,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=121110,-0.2%,-0.1%,0.3%,Tue
+18/05/2021,,JPY,yellow,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=121108,-1.3%,-1.1%,2.8%,Tue
+18/05/2021,02:30,AUD,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=may.2021#detail=119052,,,,Tue
+18/05/2021,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=121033,1.1%,0.8%,-0.3%,Tue
+18/05/2021,07:00,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=may.2021#detail=119945,4.0%,4.5%,4.5%,Tue
+18/05/2021,,GBP,yellow,Claimant Count Change,https://www.forexfactory.com/calendar?month=may.2021#detail=119946,-15.1K,25.6K,-19.4K,Tue
+18/05/2021,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=119944,4.8%,4.9%,4.9%,Tue
+18/05/2021,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=116987,5.19B,4.40B,4.75B,Tue
+18/05/2021,10:00,EUR,yellow,Flash Employment Change q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=120395,-0.3%,0.1%,0.4%,Tue
+18/05/2021,,EUR,yellow,Flash GDP q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=120383,-0.6%,-0.6%,-0.6%,Tue
+18/05/2021,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=120315,13.0B,20.3B,23.1B,Tue
+18/05/2021,13:30,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=may.2021#detail=118385,1.76M,1.77M,1.76M,Tue
+18/05/2021,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=may.2021#detail=118386,1.57M,1.71M,1.73M,Tue
+18/05/2021,15:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121779,,,,Tue
+18/05/2021,15:27,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=may.2021#detail=119424,-0.2%,,-0.7%,Tue
+18/05/2021,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119136,1.0%,,0.5%,Tue
+18/05/2021,16:00,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121769,,,,Tue
+18/05/2021,17:30,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121768,,,,Tue
+18/05/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=may.2021#detail=118553,,,,Tue
+18/05/2021,23:45,NZD,yellow,PPI Input q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=119449,2.1%,0.1%,0.1%,Tue
+18/05/2021,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=119450,1.2%,0.2%,0.5%,Tue
+19/05/2021,01:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=may.2021#detail=119076,-4.8%,,6.2%,Wed
+19/05/2021,02:30,AUD,yellow,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=119245,0.6%,0.5%,0.6%,Wed
+19/05/2021,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=121045,1.7%,2.2%,2.2%,Wed
+19/05/2021,07:00,GBP,orange,CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120056,1.5%,1.5%,0.7%,Wed
+19/05/2021,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120055,1.3%,1.3%,1.1%,Wed
+19/05/2021,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120057,1.2%,1.0%,1.9%,Wed
+19/05/2021,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120058,0.4%,0.4%,0.8%,Wed
+19/05/2021,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120054,2.9%,2.4%,1.5%,Wed
+19/05/2021,09:00,EUR,orange,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=may.2021#detail=119009,,,,Wed
+19/05/2021,09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120059,10.2%,7.6%,9.2%,Wed
+19/05/2021,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120317,0.7%,0.8%,0.8%,Wed
+19/05/2021,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120316,1.6%,1.6%,1.6%,Wed
+19/05/2021,10:35,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2021#detail=120469,-0.09|1.3,,-0.25|1.7,Wed
+19/05/2021,13:30,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117731,0.5%,0.2%,0.5%,Wed
+19/05/2021,,CAD,yellow,Common CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=117758,1.7%,1.7%,1.5%,Wed
+19/05/2021,,CAD,yellow,Median CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=117756,2.3%,2.1%,2.1%,Wed
+19/05/2021,,CAD,yellow,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=117755,2.3%,2.2%,2.1%,Wed
+19/05/2021,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117757,0.5%,,0.3%,Wed
+19/05/2021,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2021#detail=118752,1.3M,1.5M,-0.4M,Wed
+19/05/2021,16:35,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121770,,,,Wed
+19/05/2021,19:00,USD,orange,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=may.2021#detail=118079,,,,Wed
+20/05/2021,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120994,3.7%,5.1%,-8.5%,Thu
+20/05/2021,,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=121090,0.07T,0.07T,0.37T,Thu
+20/05/2021,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=may.2021#detail=119064,3.5%,,3.2%,Thu
+20/05/2021,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=may.2021#detail=119116,-30.6K,17.5K,77.0K,Thu
+20/05/2021,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=119117,5.5%,5.6%,5.7%,Thu
+20/05/2021,,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=134378,3.85%,3.85%,3.85%,Thu
+20/05/2021,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=134326,4.65%,4.65%,4.65%,Thu
+20/05/2021,03:00,NZD,orange,Annual Budget Release,https://www.forexfactory.com/calendar?month=may.2021#detail=119276,,,,Thu
+20/05/2021,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120611,0.8%,0.8%,0.9%,Thu
+20/05/2021,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=may.2021#detail=120405,17.8B,24.3B,25.9B,Thu
+20/05/2021,09:45,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2021#detail=121775,0.60|1.8,,0.43|1.6,Thu
+20/05/2021,10:05,GBP,yellow,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121771,,,,Thu
+20/05/2021,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=may.2021#detail=119845,17,0,-8,Thu
+20/05/2021,13:00,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121777,,,,Thu
+20/05/2021,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117894,1.9%,1.2%,1.1%,Thu
+20/05/2021,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2021#detail=118033,31.5,40.8,50.2,Thu
+20/05/2021,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2021#detail=117443,444K,453K,478K,Thu
+20/05/2021,13:32,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=may.2021#detail=117645,351.3K,,266.7K,Thu
+20/05/2021,15:00,CAD,yellow,BOC Financial System Review,https://www.forexfactory.com/calendar?month=may.2021#detail=117907,,,,Thu
+20/05/2021,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118204,1.6%,1.3%,1.3%,Thu
+20/05/2021,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2021#detail=118661,71B,60B,71B,Thu
+20/05/2021,16:00,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121778,,,,Thu
+21/05/2021,00:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116453,59.9,,59.7,Fri
+21/05/2021,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116454,58.2,,58.8,Fri
+21/05/2021,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2021#detail=121763,-9,-12,-15,Fri
+21/05/2021,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120929,-0.1%,-0.2%,-0.1%,Fri
+21/05/2021,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=120755,52.5,53.0,53.6,Fri
+21/05/2021,02:30,AUD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=121764,1.1%,0.5%,1.3%,Fri
+21/05/2021,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=119329,87.4%,,0.5%,Fri
+21/05/2021,07:00,GBP,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120106,9.2%,4.5%,5.1%,Fri
+21/05/2021,08:15,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117128,59.2,58.6,58.9,Fri
+21/05/2021,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117129,56.6,53.0,50.3,Fri
+21/05/2021,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117130,64.0,66.0,66.2,Fri
+21/05/2021,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117131,52.8,52.0,49.9,Fri
+21/05/2021,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117133,62.8,62.5,62.9,Fri
+21/05/2021,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117132,55.1,52.5,50.5,Fri
+21/05/2021,09:30,GBP,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117134,66.1,60.7,60.9,Fri
+21/05/2021,,GBP,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117135,61.8,62.2,61.0,Fri
+21/05/2021,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=may.2021#detail=121184,,,,Fri
+21/05/2021,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=may.2021#detail=120501,,,,Fri
+21/05/2021,12:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121776,,,,Fri
+21/05/2021,13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117796,4.3%,2.3%,5.6%,Fri
+21/05/2021,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117795,3.6%,2.3%,5.8%,Fri
+21/05/2021,14:32,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2021#detail=120417,-5,-7,-8,Fri
+21/05/2021,14:45,CHF,yellow,Gov Board Member Maechler Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121780,,,,Fri
+21/05/2021,,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117989,61.5,60.0,60.5,Fri
+21/05/2021,,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117990,70.1,64.3,64.7,Fri
+21/05/2021,15:00,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=may.2021#detail=118405,5.85M,6.09M,6.01M,Fri
+21/05/2021,18:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121781,,,,Fri
+22/05/2021,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=may.2021#detail=121185,,,,Sat
+23/05/2021,23:45,NZD,orange,Retail Sales q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=119318,2.5%,-1.8%,-2.6%,Sun
+23/05/2021,23:49,NZD,yellow,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=119322,3.2%,-1.0%,-2.9%,Sun
+24/05/2021,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121207,,,,Mon
+24/05/2021,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121245,,,,Mon
+24/05/2021,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121244,,,,Mon
+24/05/2021,12:06,JPY,orange,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121790,,,,Mon
+24/05/2021,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=117273,,,,Mon
+24/05/2021,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=121165,1.2%,,0.9%,Mon
+24/05/2021,,USD,yellow,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121785,,,,Mon
+24/05/2021,15:30,GBP,red,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=may.2021#detail=121224,,,,Mon
+24/05/2021,17:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121786,,,,Mon
+25/05/2021,02:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=121539,10.14B,,8.23B,Tue
+25/05/2021,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120850,-0.1%,-0.1%,0.0%,Tue
+25/05/2021,07:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=121574,-1.8%,-1.7%,-1.7%,Tue
+25/05/2021,,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=may.2021#detail=120118,31.0B,32.9B,25.5B,Tue
+25/05/2021,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=may.2021#detail=120489,99.2,98.2,96.6,Tue
+25/05/2021,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=may.2021#detail=119833,18,24,20,Tue
+25/05/2021,13:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=117812,18.1%,,7.9%,Tue
+25/05/2021,14:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=may.2021#detail=121147,6.5,5.6,4.4,Tue
+25/05/2021,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118417,1.4%,1.1%,1.1%,Tue
+25/05/2021,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=118457,13.3%,12.6%,12.0%,Tue
+25/05/2021,14:40,USD,yellow,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121796,,,,Tue
+25/05/2021,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2021#detail=117572,18,19,17,Tue
+25/05/2021,15:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2021#detail=117519,117.2,119.0,117.5,Tue
+25/05/2021,,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121787,,,,Tue
+25/05/2021,,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=may.2021#detail=118433,863K,950K,917K,Tue
+25/05/2021,17:00,GBP,yellow,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121788,,,,Tue
+25/05/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=may.2021#detail=118554,,,,Tue
+25/05/2021,23:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=119353,388M,90M,39M,Tue
+26/05/2021,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120905,1.0%,0.9%,0.7%,Wed
+26/05/2021,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119160,0.2%,,0.5%,Wed
+26/05/2021,02:30,AUD,yellow,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=119221,2.4%,1.9%,-1.5%,Wed
+26/05/2021,03:00,NZD,red,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=may.2021#detail=119285,,,,Wed
+26/05/2021,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=may.2021#detail=119290,,,,Wed
+26/05/2021,,NZD,orange,Official Cash Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=119279,0.25%,0.25%,0.25%,Wed
+26/05/2021,04:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=may.2021#detail=119296,,,,Wed
+26/05/2021,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=may.2021#detail=119708,72.2,,68.3,Wed
+26/05/2021,15:00,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121792,,,,Wed
+26/05/2021,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2021#detail=118755,-1.7M,-1.0M,1.3M,Wed
+26/05/2021,18:00,CAD,yellow,Gov Council Member Lane Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121794,,,,Wed
+26/05/2021,20:00,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121793,,,,Wed
+27/05/2021,02:30,AUD,yellow,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=119169,6.3%,2.0%,4.2%,Thu
+27/05/2021,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=119760,3.84B,4.85B,5.73B,Thu
+27/05/2021,,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=may.2021#detail=120514,-7.0,-5.3,-8.6,Thu
+27/05/2021,12:00,GBP,yellow,MPC Member Vlieghe Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121789,,,,Thu
+27/05/2021,13:00,EUR,yellow,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=may.2021#detail=121791,,,,Thu
+27/05/2021,13:30,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=118274,6.4%,6.5%,6.4%,Thu
+27/05/2021,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2021#detail=117444,406K,427K,444K,Thu
+27/05/2021,,USD,yellow,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118232,1.0%,0.8%,1.9%,Thu
+27/05/2021,,USD,yellow,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118233,-1.3%,0.8%,0.8%,Thu
+27/05/2021,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=118275,4.3%,4.1%,4.1%,Thu
+27/05/2021,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118445,-4.4%,0.6%,1.7%,Thu
+27/05/2021,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2021#detail=118660,115B,105B,71B,Thu
+28/05/2021,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120819,-0.2%,-0.2%,-0.2%,Fri
+28/05/2021,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2021#detail=120818,2.8%,2.7%,2.6%,Fri
+28/05/2021,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120571,1.4%,1.0%,1.8%,Fri
+28/05/2021,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117088,-8.3%,-4.1%,-0.3%,Fri
+28/05/2021,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117045,0.3%,0.3%,0.1%,Fri
+28/05/2021,,EUR,yellow,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2021#detail=117206,-0.1%,0.4%,0.4%,Fri
+28/05/2021,08:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=may.2021#detail=119739,143.2,132.2,136.4,Fri
+28/05/2021,10:15,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2021#detail=116953,0.94|1.3,,0.88|1.4,Fri
+28/05/2021,All Day,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=may.2021#detail=121797,,,,Fri
+28/05/2021,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118473,0.7%,0.6%,0.4%,Fri
+28/05/2021,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=may.2021#detail=118297,-85.2B,-92.0B,-92.0B,Fri
+28/05/2021,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118338,-13.1%,-14.2%,20.9%,Fri
+28/05/2021,,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118337,0.5%,0.5%,4.7%,Fri
+28/05/2021,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=118357,0.8%,0.7%,1.3%,Fri
+28/05/2021,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=117547,75.2,67.9,72.1,Fri
+28/05/2021,15:00,USD,yellow,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=may.2021#detail=118130,82.9,83.1,82.8,Fri
+28/05/2021,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=may.2021#detail=118131,4.6%,,4.6%,Fri
+31/05/2021,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=121070,2.5%,4.0%,1.7%,Mon
+31/05/2021,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=121071,12.0%,15.4%,5.2%,Mon
+31/05/2021,02:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119101,-0.2%,,0.4%,Mon
+31/05/2021,,CNY,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116576,51.0,51.3,51.1,Mon
+31/05/2021,,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2021#detail=116575,55.2,55.2,54.9,Mon
+31/05/2021,,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=may.2021#detail=121119,1.8,,7.0,Mon
+31/05/2021,02:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119176,0.2%,0.4%,0.4%,Mon
+31/05/2021,05:59,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2021#detail=120797,34.1,33.2,34.7,Mon
+31/05/2021,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120841,7.1%,4.9%,1.5%,Mon
+31/05/2021,All Day,EUR,yellow,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=120612,0.5%,0.3%,0.7%,Mon
+31/05/2021,08:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=116907,2.7%,2.4%,2.2%,Mon
+31/05/2021,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120257,9.2%,9.6%,10.0%,Mon
+31/05/2021,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=may.2021#detail=120258,3.8%,3.4%,3.3%,Mon
+31/05/2021,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=121133,,,,Mon
+31/05/2021,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=116975,0.0%,0.1%,0.4%,Mon
+31/05/2021,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2021#detail=117286,,,,Mon
+31/05/2021,13:30,CAD,yellow,Current Account,https://www.forexfactory.com/calendar?month=may.2021#detail=117816,1.2B,2.4B,-5.3B,Mon
+31/05/2021,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117955,1.6%,0.8%,1.8%,Mon
+31/05/2021,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=117956,1.0%,1.7%,2.2%,Mon
+31/05/2021,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2021#detail=116476,61.8,,61.7,Mon
+31/05/2021,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=may.2021#detail=119379,4.8%,,19.2%,Mon

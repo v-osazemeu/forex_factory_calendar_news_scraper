@@ -1,0 +1,387 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/07/2019,00:50,JPY,yellow,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2019#detail=107117,7,9,12,Mon
+01/07/2019,,JPY,yellow,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2019#detail=107119,23,20,21,Mon
+01/07/2019,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=106985,49.3,49.5,49.5,Mon
+01/07/2019,02:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104266,0.0%,,0.0%,Mon
+01/07/2019,02:45,CNY,red,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=107997,49.4,50.1,50.2,Mon
+01/07/2019,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2019#detail=107053,38.7,39.2,39.4,Mon
+01/07/2019,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=104240,13.0%,,11.5%,Mon
+01/07/2019,,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=105125,-1.7%,0.6%,-0.8%,Mon
+01/07/2019,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100337,47.9,49.6,50.1,Mon
+01/07/2019,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=104894,47.7,48.9,48.6,Mon
+01/07/2019,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100335,48.4,48.7,49.7,Mon
+01/07/2019,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100339,51.9,52.0,52.0,Mon
+01/07/2019,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100333,45.0,45.4,45.4,Mon
+01/07/2019,,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=july.2019#detail=106383,-1K,1K,60K,Mon
+01/07/2019,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100331,47.6,47.8,47.8,Mon
+01/07/2019,,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=103454,4.8%,4.6%,4.7%,Mon
+01/07/2019,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=100849,9.9%,10.3%,10.1%,Mon
+01/07/2019,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=103457,3.3%,3.5%,3.3%,Mon
+01/07/2019,09:30,GBP,orange,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100332,48.0,49.5,49.4,Mon
+01/07/2019,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=101858,-0.1%,0.6%,0.5%,Mon
+01/07/2019,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=july.2019#detail=101861,65K,66K,66K,Mon
+01/07/2019,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=101863,3.9B,5.1B,5.1B,Mon
+01/07/2019,10:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=103249,7.5%,7.6%,7.6%,Mon
+01/07/2019,All Day,All,red,OPEC Meetings,https://www.forexfactory.com/calendar?month=july.2019#detail=107666,,,,Mon
+01/07/2019,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=july.2019#detail=106910,,,,Mon
+01/07/2019,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100330,50.6,50.1,50.1,Mon
+01/07/2019,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=102152,51.7,51.3,52.1,Mon
+01/07/2019,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=110431,-0.8%,0.1%,0.4%,Mon
+01/07/2019,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=july.2019#detail=102182,47.9,52.9,53.2,Mon
+01/07/2019,23:00,NZD,orange,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=july.2019#detail=104485,-34,,-29,Mon
+01/07/2019,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104702,13.2%,,-7.9%,Mon
+02/07/2019,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107007,4.0%,3.4%,3.6%,Tue
+02/07/2019,02:30,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104343,28.8%,,-11.8%,Tue
+02/07/2019,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=107097,-0.14|3.9,,-0.11|4.0,Tue
+02/07/2019,05:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=103923,1.00%,1.00%,1.25%,Tue
+02/07/2019,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=july.2019#detail=103925,,,,Tue
+02/07/2019,07:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106384,-0.6%,0.5%,-1.0%,Tue
+02/07/2019,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=105584,0.1%,0.2%,-0.2%,Tue
+02/07/2019,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=101051,-83.9B,,-67.2B,Tue
+02/07/2019,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=july.2019#detail=100754,-63.8K,-90.0K,-84.1K,Tue
+02/07/2019,09:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=103585,43.1,49.4,48.6,Tue
+02/07/2019,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=103250,-0.1%,0.1%,-0.3%,Tue
+02/07/2019,10:30,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110433,,,,Tue
+02/07/2019,All Day,All,orange,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=july.2019#detail=107696,,,,Tue
+02/07/2019,11:35,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110435,,,,Tue
+02/07/2019,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=105383,49.2,,49.1,Tue
+02/07/2019,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=july.2019#detail=101998,56.6,54.1,53.2,Tue
+02/07/2019,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=july.2019#detail=110356,17.3M,17.0M,17.3M,Tue
+02/07/2019,15:21,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=july.2019#detail=104785,-0.4%,,-3.8%,Tue
+02/07/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=july.2019#detail=100199,,,,Tue
+02/07/2019,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=july.2019#detail=103861,52.2,,52.5,Tue
+03/07/2019,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=105669,-0.1%,,0.8%,Wed
+03/07/2019,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104754,-3.9%,,0.1%,Wed
+03/07/2019,02:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104294,0.7%,0.0%,-3.4%,Wed
+03/07/2019,,AUD,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=104194,5.75B,5.25B,4.82B,Wed
+03/07/2019,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=107998,52.0,52.6,52.7,Wed
+03/07/2019,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100485,53.6,52.7,52.8,Wed
+03/07/2019,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100488,50.5,50.0,50.0,Wed
+03/07/2019,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100481,52.9,53.1,53.1,Wed
+03/07/2019,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100484,55.8,55.6,55.6,Wed
+03/07/2019,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100480,53.6,53.4,53.4,Wed
+03/07/2019,09:30,GBP,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100490,50.2,51.0,51.0,Wed
+03/07/2019,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=102486,12.8%,,85.9%,Wed
+03/07/2019,13:15,GBP,orange,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110434,,,,Wed
+03/07/2019,,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=july.2019#detail=102509,102K,140K,41K,Wed
+03/07/2019,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=108691,0.8B,-1.7B,-1.1B,Wed
+03/07/2019,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=102580,-55.5B,-53.2B,-51.2B,Wed
+03/07/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2019#detail=99743,221K,220K,229K,Wed
+03/07/2019,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=100492,51.5,50.7,50.7,Wed
+03/07/2019,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=105759,55.1,56.1,56.9,Wed
+03/07/2019,,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102803,-0.7%,-0.4%,-1.2%,Wed
+03/07/2019,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2019#detail=100002,-1.1M,-2.8M,-12.8M,Wed
+03/07/2019,17:00,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2019#detail=99744,89B,85B,98B,Wed
+04/07/2019,02:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104165,0.1%,0.2%,-0.1%,Thu
+04/07/2019,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=107099,0.36|4.0,,0.32|3.5,Thu
+04/07/2019,07:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=105057,0.0%,-0.1%,0.3%,Thu
+04/07/2019,09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=105566,-7.3B,-6.9B,-7.0B,Thu
+04/07/2019,09:54,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=100725,0.26|1.2,,0.94|1.4,Thu
+04/07/2019,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=103252,-0.3%,0.4%,-0.1%,Thu
+04/07/2019,10:03,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=101015,-0.13|2.0,,0.14|2.6,Thu
+04/07/2019,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=july.2019#detail=106512,,,,Thu
+04/07/2019,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=july.2019#detail=103864,43.0,,40.4,Thu
+05/07/2019,00:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107770,4.0%,1.4%,1.3%,Fri
+05/07/2019,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=july.2019#detail=107784,95.2%,95.3%,95.9%,Fri
+05/07/2019,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106385,-2.2%,-0.1%,0.4%,Fri
+05/07/2019,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=101053,-3.3B,-4.8B,-4.9B,Fri
+05/07/2019,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=july.2019#detail=104928,759B,,759B,Fri
+05/07/2019,08:30,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=105523,-0.3%,-0.4%,0.4%,Fri
+05/07/2019,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=july.2019#detail=108693,-2.2K,10.0K,27.7K,Fri
+05/07/2019,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=108695,5.5%,5.5%,5.4%,Fri
+05/07/2019,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102314,0.2%,0.3%,0.3%,Fri
+05/07/2019,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=july.2019#detail=102310,224K,162K,72K,Fri
+05/07/2019,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=102313,3.7%,3.6%,3.6%,Fri
+05/07/2019,15:00,CAD,yellow,Ivey PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=105360,52.4,56.2,55.9,Fri
+05/07/2019,16:00,USD,yellow,Fed Monetary Policy Report,https://www.forexfactory.com/calendar?month=july.2019#detail=101732,,,,Fri
+07/07/2019,All Day,EUR,orange,Greek Parliamentary Election,https://www.forexfactory.com/calendar?month=july.2019#detail=110447,,,,Sun
+08/07/2019,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107733,2.3%,2.6%,2.6%,Mon
+08/07/2019,,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=107745,-7.8%,-3.6%,5.2%,Mon
+08/07/2019,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=july.2019#detail=107759,1.31T,1.24T,1.60T,Mon
+08/07/2019,01:30,JPY,orange,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110446,,,,Mon
+08/07/2019,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104056,4.6%,,-8.2%,Mon
+08/07/2019,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=july.2019#detail=107039,44.0,43.9,44.1,Mon
+08/07/2019,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106388,0.3%,0.4%,-2.0%,Mon
+08/07/2019,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=106387,18.7B,16.8B,16.9B,Mon
+08/07/2019,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=july.2019#detail=103088,-5.8,0.3,-3.3,Mon
+08/07/2019,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102687,17.1B,15.2B,17.5B,Mon
+09/07/2019,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=105670,-1.6%,-1.5%,-3.0%,Tue
+09/07/2019,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107164,-0.2%,-0.6%,-0.3%,Tue
+09/07/2019,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107017,2.3%,2.6%,2.6%,Tue
+09/07/2019,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=july.2019#detail=103812,2,,7,Tue
+09/07/2019,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=105026,2.3%,2.4%,2.3%,Tue
+09/07/2019,06:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107819,-38.0%,,-27.3%,Tue
+09/07/2019,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=100946,-0.7%,0.2%,0.0%,Tue
+09/07/2019,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=july.2019#detail=102210,103.3,103.2,105.0,Tue
+09/07/2019,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=july.2019#detail=105452,246K,209K,197K,Tue
+09/07/2019,13:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108696,-13.0%,-10.0%,16.0%,Tue
+09/07/2019,13:45,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110440,,,,Tue
+09/07/2019,15:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=july.2019#detail=102460,7.32M,7.51M,7.37M,Tue
+09/07/2019,15:10,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110436,,,,Tue
+09/07/2019,19:00,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110441,,,,Tue
+09/07/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=july.2019#detail=100202,,,,Tue
+09/07/2019,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104737,-0.7%,,0.7%,Tue
+10/07/2019,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107399,-0.1%,0.4%,0.6%,Wed
+10/07/2019,01:25,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=july.2019#detail=104032,-4.1%,,-0.6%,Wed
+10/07/2019,02:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=108116,2.7%,2.7%,2.7%,Wed
+10/07/2019,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=108117,0.0%,0.3%,0.6%,Wed
+10/07/2019,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=101111,2.1%,0.3%,0.5%,Wed
+10/07/2019,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=100891,0.9%,0.1%,-0.8%,Wed
+10/07/2019,09:30,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106100,0.3%,0.3%,-0.4%,Wed
+10/07/2019,,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106104,1.4%,2.2%,-4.2%,Wed
+10/07/2019,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106112,0.6%,0.4%,-0.5%,Wed
+10/07/2019,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=106101,-11.5B,-12.5B,-12.8B,Wed
+10/07/2019,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=july.2019#detail=106109,0.3%,0.1%,0.3%,Wed
+10/07/2019,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106106,1.4%,1.6%,-2.9%,Wed
+10/07/2019,10:15,EUR,orange,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=july.2019#detail=110449,,,,Wed
+10/07/2019,10:37,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=101417,-0.26|1.2,,-0.24|1.7,Wed
+10/07/2019,13:14,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=july.2019#detail=105704,-0.1%,,0.3%,Wed
+10/07/2019,15:00,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=july.2019#detail=105484,,,,Wed
+10/07/2019,,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=july.2019#detail=105485,,,,Wed
+10/07/2019,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=105488,1.75%,1.75%,1.75%,Wed
+10/07/2019,,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=july.2019#detail=110437,,,,Wed
+10/07/2019,,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=103044,0.4%,0.4%,0.4%,Wed
+10/07/2019,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2019#detail=100005,-9.5M,-1.9M,-1.1M,Wed
+10/07/2019,16:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=july.2019#detail=105490,,,,Wed
+10/07/2019,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=102105,2.06|2.4,,2.07|3.4,Wed
+10/07/2019,18:10,GBP,orange,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110444,,,,Wed
+10/07/2019,18:30,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110438,,,,Wed
+10/07/2019,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=july.2019#detail=101961,,,,Wed
+11/07/2019,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=105637,-1%,-12%,-9%,Thu
+11/07/2019,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=july.2019#detail=104003,3.2%,,3.3%,Thu
+11/07/2019,02:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104320,0.0%,-0.6%,-0.9%,Thu
+11/07/2019,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=107864,-0.2%,-0.1%,0.8%,Thu
+11/07/2019,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106391,0.3%,0.3%,0.3%,Thu
+11/07/2019,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=101180,0.2%,0.2%,0.2%,Thu
+11/07/2019,08:00,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=july.2019#detail=108003,7.2%,,6.8%,Thu
+11/07/2019,10:30,GBP,orange,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=july.2019#detail=103606,,,,Thu
+11/07/2019,,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=july.2019#detail=111679,,,,Thu
+11/07/2019,,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=july.2019#detail=103711,,,,Thu
+11/07/2019,11:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110451,,,,Thu
+11/07/2019,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=july.2019#detail=109054,,,,Thu
+11/07/2019,12:30,EUR,orange,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=july.2019#detail=103418,,,,Thu
+11/07/2019,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108698,-0.1%,0.2%,0.0%,Thu
+11/07/2019,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102324,0.3%,0.2%,0.1%,Thu
+11/07/2019,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102316,0.1%,0.0%,0.1%,Thu
+11/07/2019,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=128620,1.6%,1.6%,1.8%,Thu
+11/07/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2019#detail=99771,209K,220K,222K,Thu
+11/07/2019,14:10,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110443,,,,Thu
+11/07/2019,15:00,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=july.2019#detail=110439,,,,Thu
+11/07/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2019#detail=99755,81B,71B,89B,Thu
+11/07/2019,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=102126,2.64|2.1,,2.61|2.3,Thu
+11/07/2019,18:30,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110442,,,,Thu
+11/07/2019,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=101747,-8.5B,-7.9B,-207.8B,Thu
+11/07/2019,23:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2019#detail=104471,51.3,,50.4,Thu
+12/07/2019,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=107851,2.0%,2.3%,2.3%,Fri
+12/07/2019,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106394,-0.5%,0.2%,0.3%,Fri
+12/07/2019,08:47,CNY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=108143,345B,276B,279B,Fri
+12/07/2019,08:49,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=108145,51.0B,45.2B,41.7B,Fri
+12/07/2019,09:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=july.2019#detail=108000,1660B,1650B,1180B,Fri
+12/07/2019,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=108001,8.5%,8.6%,8.5%,Fri
+12/07/2019,,GBP,orange,MPC Member Vlieghe Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110445,,,,Fri
+12/07/2019,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=103254,0.9%,0.2%,-0.4%,Fri
+12/07/2019,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=july.2019#detail=109071,,,,Fri
+12/07/2019,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102319,0.1%,0.1%,0.1%,Fri
+12/07/2019,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102321,0.3%,0.2%,0.2%,Fri
+12/07/2019,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=109510,-0.4%,,-0.3%,Fri
+14/07/2019,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=july.2019#detail=127207,52.7,,53.5,Sun
+14/07/2019,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104691,-0.2%,,-3.2%,Sun
+15/07/2019,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=105609,-0.2%,,0.3%,Mon
+15/07/2019,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=july.2019#detail=107244,,,,Mon
+15/07/2019,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=136764,0.66%,,0.71%,Mon
+15/07/2019,02:58,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=july.2019#detail=101814,6.2%,6.2%,6.4%,Mon
+15/07/2019,03:00,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=july.2019#detail=108005,5.8%,5.6%,5.6%,Mon
+15/07/2019,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=108007,6.3%,5.2%,5.0%,Mon
+15/07/2019,,CNY,yellow,NBS Press Conference,https://www.forexfactory.com/calendar?month=july.2019#detail=108123,,,,Mon
+15/07/2019,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=108008,9.8%,8.5%,8.6%,Mon
+15/07/2019,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=108009,5.1%,,5.0%,Mon
+15/07/2019,07:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=105066,-0.5%,0.1%,0.0%,Mon
+15/07/2019,13:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2019#detail=103770,4.3,1.6,-8.6,Mon
+15/07/2019,13:50,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110453,,,,Mon
+15/07/2019,23:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=104717,0.6%,0.6%,0.1%,Mon
+16/07/2019,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=july.2019#detail=103957,,,,Tue
+16/07/2019,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=100917,5.35B,2.91B,2.85B,Tue
+16/07/2019,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=july.2019#detail=105993,3.4%,3.1%,3.2%,Tue
+16/07/2019,,GBP,yellow,Claimant Count Change,https://www.forexfactory.com/calendar?month=july.2019#detail=105997,38.0K,18.9K,24.5K,Tue
+16/07/2019,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=105994,3.8%,3.8%,3.8%,Tue
+16/07/2019,10:00,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=july.2019#detail=101569,-24.5,-22.1,-21.1,Tue
+16/07/2019,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=103256,20.2B,16.4B,15.7B,Tue
+16/07/2019,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=july.2019#detail=101566,-20.3,-20.9,-20.2,Tue
+16/07/2019,13:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110459,,,,Tue
+16/07/2019,13:15,USD,orange,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110454,,,,Tue
+16/07/2019,13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=july.2019#detail=108699,10.20B,5.02B,-12.79B,Tue
+16/07/2019,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102654,0.4%,0.1%,0.4%,Tue
+16/07/2019,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102657,0.4%,0.1%,0.4%,Tue
+16/07/2019,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102315,-0.9%,-0.7%,0.0%,Tue
+16/07/2019,14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=102070,77.9%,78.2%,78.1%,Tue
+16/07/2019,,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102071,0.0%,0.1%,0.4%,Tue
+16/07/2019,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102732,0.3%,0.4%,0.5%,Tue
+16/07/2019,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=july.2019#detail=106561,65,64,64,Tue
+16/07/2019,15:25,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=july.2019#detail=104786,2.7%,,-0.4%,Tue
+16/07/2019,18:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110452,,,,Tue
+16/07/2019,19:40,USD,red,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110455,,,,Tue
+16/07/2019,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=july.2019#detail=102978,3.5B,32.3B,46.9B,Tue
+16/07/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=july.2019#detail=100203,,,,Tue
+17/07/2019,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104138,-0.1%,,-0.1%,Wed
+17/07/2019,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=105886,2.0%,2.0%,2.0%,Wed
+17/07/2019,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=105894,-1.4%,-1.0%,0.0%,Wed
+17/07/2019,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=105885,1.8%,1.8%,1.7%,Wed
+17/07/2019,,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=105889,1.2%,1.2%,1.5%,Wed
+17/07/2019,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=105891,-0.1%,0.1%,0.3%,Wed
+17/07/2019,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=105887,2.9%,2.9%,3.0%,Wed
+17/07/2019,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=103258,1.1%,1.1%,1.1%,Wed
+17/07/2019,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=103260,1.3%,1.2%,1.2%,Wed
+17/07/2019,10:34,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=101446,0.30|1.1,,0.26|1.6,Wed
+17/07/2019,Day 1,All,red,G7 Meetings,https://www.forexfactory.com/calendar?month=july.2019#detail=110460,,,,Wed
+17/07/2019,13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108704,-0.2%,-0.3%,0.4%,Wed
+17/07/2019,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=108701,1.8%,1.8%,1.8%,Wed
+17/07/2019,,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108709,1.6%,1.6%,-0.4%,Wed
+17/07/2019,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=108707,2.2%,2.1%,2.2%,Wed
+17/07/2019,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=108705,2.1%,2.2%,2.3%,Wed
+17/07/2019,,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=july.2019#detail=102893,1.22M,1.30M,1.30M,Wed
+17/07/2019,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=july.2019#detail=102895,1.25M,1.26M,1.27M,Wed
+17/07/2019,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108703,0.0%,,0.4%,Wed
+17/07/2019,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2019#detail=100007,-3.1M,-3.6M,-9.5M,Wed
+17/07/2019,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=july.2019#detail=101722,,,,Wed
+18/07/2019,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=107875,-0.01T,-0.14T,-0.62T,Thu
+18/07/2019,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=july.2019#detail=104092,0.5K,9.1K,45.3K,Thu
+18/07/2019,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=104095,5.2%,5.2%,5.2%,Thu
+18/07/2019,,AUD,yellow,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=july.2019#detail=103793,6,,-1,Thu
+18/07/2019,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=105099,4.10B,3.21B,3.40B,Thu
+18/07/2019,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106241,1.0%,-0.3%,-0.6%,Thu
+18/07/2019,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=july.2019#detail=103602,,,,Thu
+18/07/2019,09:48,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=100726,0.46|1.7,,0.26|1.2,Thu
+18/07/2019,Day 2,All,red,G7 Meetings,https://www.forexfactory.com/calendar?month=july.2019#detail=110461,,,,Thu
+18/07/2019,13:30,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=july.2019#detail=105429,30.4K,,-36.7K,Thu
+18/07/2019,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2019#detail=106576,21.8,5.0,0.3,Thu
+18/07/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2019#detail=99769,216K,216K,208K,Thu
+18/07/2019,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106935,-0.3%,0.1%,0.0%,Thu
+18/07/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2019#detail=99757,62B,72B,81B,Thu
+18/07/2019,19:15,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110456,,,,Thu
+19/07/2019,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107190,0.6%,0.6%,0.8%,Fri
+19/07/2019,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=104726,6.6%,,6.7%,Fri
+19/07/2019,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=107724,0.3%,0.3%,0.8%,Fri
+19/07/2019,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106397,-0.4%,-0.1%,-0.1%,Fri
+19/07/2019,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=july.2019#detail=103495,29.7B,21.2B,22.4B,Fri
+19/07/2019,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=july.2019#detail=110448,6.5B,3.4B,3.8B,Fri
+19/07/2019,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108712,-0.3%,0.3%,0.0%,Fri
+19/07/2019,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108710,-0.1%,0.3%,0.2%,Fri
+19/07/2019,15:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=july.2019#detail=101665,98.4,98.6,98.2,Fri
+19/07/2019,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=july.2019#detail=101667,2.6%,,2.7%,Fri
+19/07/2019,16:05,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110457,,,,Fri
+19/07/2019,21:30,USD,orange,FOMC Member Rosengren Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110458,,,,Fri
+22/07/2019,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=july.2019#detail=101497,,,,Mon
+22/07/2019,13:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108713,-1.8%,0.8%,1.6%,Mon
+22/07/2019,16:00,JPY,orange,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110465,,,,Mon
+22/07/2019,23:30,AUD,orange,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110463,,,,Mon
+23/07/2019,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=106790,0.6%,0.6%,0.7%,Tue
+23/07/2019,10:35,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=110462,0.79|2.2,,0.89|2.1,Tue
+23/07/2019,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=july.2019#detail=103543,-34,-15,-15,Tue
+23/07/2019,13:20,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110537,,,,Tue
+23/07/2019,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102953,0.1%,0.3%,0.4%,Tue
+23/07/2019,14:58,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2019#detail=110538,-7,-7,-7,Tue
+23/07/2019,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2019#detail=106829,-12,5,3,Tue
+23/07/2019,15:00,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=july.2019#detail=106888,5.27M,5.35M,5.36M,Tue
+23/07/2019,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=109302,-0.1%,,0.2%,Tue
+23/07/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=july.2019#detail=100204,,,,Tue
+23/07/2019,23:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=104653,365M,100M,175M,Tue
+24/07/2019,00:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=108919,51.4,,52.0,Wed
+24/07/2019,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=108920,51.9,,52.6,Wed
+24/07/2019,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=106987,49.6,49.7,49.3,Wed
+24/07/2019,08:15,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=101285,52.2,52.7,52.9,Wed
+24/07/2019,,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=101282,50.0,51.6,51.9,Wed
+24/07/2019,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=101278,43.1,45.1,45.0,Wed
+24/07/2019,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=101279,55.4,55.3,55.8,Wed
+24/07/2019,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=july.2019#detail=104989,-24.0,,-30.0,Wed
+24/07/2019,,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=101273,46.4,47.6,47.6,Wed
+24/07/2019,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=101275,53.3,53.3,53.6,Wed
+24/07/2019,,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=103459,4.5%,4.6%,4.8%,Wed
+24/07/2019,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=103462,3.3%,3.2%,3.3%,Wed
+24/07/2019,09:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=july.2019#detail=105549,42.7K,42.9K,42.4K,Wed
+24/07/2019,13:57,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=july.2019#detail=104872,-5.0,-5.0,-4.9,Wed
+24/07/2019,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108169,0.9%,,0.5%,Wed
+24/07/2019,14:45,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=101385,50.0,50.9,50.6,Wed
+24/07/2019,,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=101384,52.2,51.6,51.5,Wed
+24/07/2019,15:00,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=july.2019#detail=102927,646K,659K,604K,Wed
+24/07/2019,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2019#detail=100010,-10.8M,-4.2M,-3.1M,Wed
+25/07/2019,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107431,0.7%,0.8%,0.9%,Thu
+25/07/2019,04:05,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110464,,,,Thu
+25/07/2019,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=100773,14.0%,13.7%,14.7%,Thu
+25/07/2019,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=july.2019#detail=101471,95.7,97.1,97.5,Thu
+25/07/2019,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=july.2019#detail=103565,-16,0,-42,Thu
+25/07/2019,11:30,GBP,red,Prime Minister Johnson Speaks,https://www.forexfactory.com/calendar?month=july.2019#detail=110575,,,,Thu
+25/07/2019,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=103382,0.00%,0.00%,0.00%,Thu
+25/07/2019,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=july.2019#detail=109195,,,,Thu
+25/07/2019,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=july.2019#detail=103385,,,,Thu
+25/07/2019,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102769,1.2%,0.2%,0.4%,Thu
+25/07/2019,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102772,2.0%,0.8%,-2.3%,Thu
+25/07/2019,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=106854,-74.2B,-72.4B,-75.0B,Thu
+25/07/2019,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106855,0.2%,0.5%,0.4%,Thu
+25/07/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2019#detail=99767,206K,220K,216K,Thu
+25/07/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2019#detail=99760,36B,40B,62B,Thu
+26/07/2019,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107411,0.9%,0.8%,0.9%,Fri
+26/07/2019,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=110468,-1.4%,-0.8%,-0.1%,Fri
+26/07/2019,13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=102840,2.1%,1.8%,3.1%,Fri
+26/07/2019,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=102841,2.4%,4.0%,0.9%,Fri
+29/07/2019,00:50,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107833,0.5%,0.2%,1.3%,Mon
+29/07/2019,03:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104345,-12.4%,,28.8%,Mon
+29/07/2019,08:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=100802,0.5%,0.6%,0.4%,Mon
+29/07/2019,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=101868,0.1%,0.2%,-0.1%,Mon
+29/07/2019,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=july.2019#detail=101866,66K,66K,66K,Mon
+29/07/2019,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=101871,4.8B,4.4B,3.8B,Mon
+29/07/2019,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104703,-3.9%,,13.5%,Mon
+30/07/2019,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=107067,2.3%,2.4%,2.4%,Tue
+30/07/2019,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=107799,-3.6%,-1.8%,2.0%,Tue
+30/07/2019,02:30,AUD,orange,Building Approvals m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104296,-1.2%,0.2%,0.3%,Tue
+30/07/2019,03:55,JPY,red,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=july.2019#detail=106598,,,,Tue
+30/07/2019,,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=july.2019#detail=106616,,,,Tue
+30/07/2019,,JPY,yellow,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=106614,-0.10%,-0.10%,-0.10%,Tue
+30/07/2019,06:30,EUR,yellow,French Flash GDP q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=101125,0.2%,0.3%,0.3%,Tue
+30/07/2019,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=july.2019#detail=101524,9.7,9.7,9.8,Tue
+30/07/2019,07:30,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=july.2019#detail=106632,,,,Tue
+30/07/2019,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=101089,-0.1%,0.2%,0.3%,Tue
+30/07/2019,,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=july.2019#detail=101056,-77.3B,,-83.9B,Tue
+30/07/2019,08:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=july.2019#detail=105148,97.1,93.5,93.8,Tue
+30/07/2019,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106399,0.5%,0.3%,0.3%,Tue
+30/07/2019,10:19,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=100825,1.56|1.3,,2.09|1.3,Tue
+30/07/2019,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102584,0.2%,0.2%,0.2%,Tue
+30/07/2019,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102583,0.3%,0.3%,0.5%,Tue
+30/07/2019,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=102581,0.4%,0.4%,0.4%,Tue
+30/07/2019,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=102036,2.4%,2.4%,2.5%,Tue
+30/07/2019,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2019#detail=101981,135.7,125.1,124.3,Tue
+30/07/2019,,USD,yellow,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106889,2.8%,0.5%,1.1%,Tue
+30/07/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=july.2019#detail=100207,,,,Tue
+31/07/2019,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=105673,-0.1%,,-0.1%,Wed
+31/07/2019,,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2019#detail=103746,-11,-13,-13,Wed
+31/07/2019,02:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=108013,49.7,49.6,49.4,Wed
+31/07/2019,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=108011,53.7,54.0,54.2,Wed
+31/07/2019,,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=july.2019#detail=104449,-44.3,,-38.1,Wed
+31/07/2019,02:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=104391,0.6%,0.5%,0.0%,Wed
+31/07/2019,,AUD,red,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=104389,0.4%,0.4%,0.3%,Wed
+31/07/2019,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=104217,0.1%,0.3%,0.1%,Wed
+31/07/2019,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2019#detail=107054,37.8,38.5,38.7,Wed
+31/07/2019,06:02,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=107129,0.3%,-2.2%,-8.7%,Wed
+31/07/2019,07:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=106401,3.5%,0.5%,-1.7%,Wed
+31/07/2019,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=105589,0.3%,0.2%,0.1%,Wed
+31/07/2019,07:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=101171,-0.2%,-0.3%,0.2%,Wed
+31/07/2019,08:00,EUR,orange,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=100788,0.5%,0.6%,0.7%,Wed
+31/07/2019,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=july.2019#detail=101607,1K,2K,0K,Wed
+31/07/2019,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=100852,9.7%,10.0%,9.8%,Wed
+31/07/2019,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=103261,0.9%,1.0%,1.1%,Wed
+31/07/2019,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=july.2019#detail=103262,1.1%,1.0%,1.2%,Wed
+31/07/2019,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=100972,0.1%,0.1%,0.1%,Wed
+31/07/2019,,EUR,yellow,Prelim Flash GDP q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=103263,0.2%,0.2%,0.4%,Wed
+31/07/2019,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=103264,7.5%,7.5%,7.6%,Wed
+31/07/2019,10:33,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2019#detail=110576,-0.41|2.0,,-0.26|1.2,Wed
+31/07/2019,11:00,EUR,yellow,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=100991,0.0%,-0.1%,0.1%,Wed
+31/07/2019,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=july.2019#detail=102513,156K,150K,112K,Wed
+31/07/2019,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108715,0.2%,0.1%,0.3%,Wed
+31/07/2019,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108717,-5.9%,-2.9%,-2.4%,Wed
+31/07/2019,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=july.2019#detail=108719,-1.4%,-0.2%,-0.1%,Wed
+31/07/2019,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=july.2019#detail=102406,0.6%,0.7%,0.7%,Wed
+31/07/2019,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=july.2019#detail=106812,44.4,51.7,49.7,Wed
+31/07/2019,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2019#detail=100011,-8.5M,-2.5M,-10.8M,Wed
+31/07/2019,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=july.2019#detail=101927,2.25%,2.25%,2.50%,Wed
+31/07/2019,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=july.2019#detail=101930,,,,Wed
+31/07/2019,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=july.2019#detail=108986,,,,Wed
+31/07/2019,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2019#detail=103867,51.3,,49.4,Wed

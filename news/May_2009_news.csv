@@ -1,0 +1,384 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/05/2009,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=23300,,,,Fri
+01/05/2009,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=18436,53.5,,52.4,Fri
+01/05/2009,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=14570,-3.7%,-2.7%,-2.4%,Fri
+01/05/2009,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=12049,,,,Fri
+01/05/2009,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=14758,,,,Fri
+01/05/2009,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=14781,,,,Fri
+01/05/2009,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=14793,,,,Fri
+01/05/2009,06:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=14058,-15.0%,,7.1%,Fri
+01/05/2009,08:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=10866,42.9,40.2,39.5,Fri
+01/05/2009,,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13257,0.9B,1.6B,1.5B,Fri
+01/05/2009,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=may.2009#detail=12399,39K,39K,38K,Fri
+01/05/2009,13:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=may.2009#detail=10682,65.1,61.7,61.9,Fri
+01/05/2009,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=may.2009#detail=10702,2.8%,,3.0%,Fri
+01/05/2009,14:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=10772,40.1,38.4,36.3,Fri
+01/05/2009,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11539,-0.9%,-0.7%,0.7%,Fri
+01/05/2009,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=may.2009#detail=10773,32.0,33.5,31.0,Fri
+01/05/2009,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=may.2009#detail=12960,9.3M,9.7M,9.9M,Fri
+01/05/2009,18:00,USD,red,Fed Announcement,https://www.forexfactory.com/calendar?month=may.2009#detail=30139,,,,Fri
+03/05/2009,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=42276,59.0,,55.7,Sun
+04/05/2009,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=12073,,,,Mon
+04/05/2009,00:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13101,0.0%,,-0.1%,Mon
+04/05/2009,01:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=19266,-7.5%,,-8.5%,Mon
+04/05/2009,,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12659,-2.2%,0.0%,-1.2%,Mon
+04/05/2009,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=18492,50.1,,44.8,Mon
+04/05/2009,06:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11793,-1.0%,0.0%,0.0%,Mon
+04/05/2009,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=12266,,,,Mon
+04/05/2009,07:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=43817,34.6,,32.9,Mon
+04/05/2009,07:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=11102,34.7,34.0,32.6,Mon
+04/05/2009,07:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=43471,37.2,36.9,34.6,Mon
+04/05/2009,07:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=58851,40.1,40.0,40.0,Mon
+04/05/2009,07:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=58970,35.4,35.1,35.0,Mon
+04/05/2009,08:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=10929,36.8,36.7,36.7,Mon
+04/05/2009,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=may.2009#detail=44063,,,,Mon
+04/05/2009,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=may.2009#detail=13774,-34.3,-27.8,-35.3,Mon
+04/05/2009,09:00,EUR,yellow,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=may.2009#detail=48844,,,,Mon
+04/05/2009,14:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13331,3.2%,0.1%,2.0%,Mon
+04/05/2009,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11119,0.3%,-1.4%,-1.0%,Mon
+04/05/2009,18:00,USD,orange,FOMC Member Lacker Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19979,,,,Mon
+04/05/2009,,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=may.2009#detail=24058,,,,Mon
+04/05/2009,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=may.2009#detail=10845,39.8,,35.6,Mon
+05/05/2009,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=12074,,,,Tue
+05/05/2009,01:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12828,3.5%,2.6%,8.0%,Tue
+05/05/2009,03:07,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13982,2.5%,,1.0%,Tue
+05/05/2009,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=10575,3.00%,3.00%,3.00%,Tue
+05/05/2009,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=may.2009#detail=10576,,,,Tue
+05/05/2009,05:45,CHF,orange,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=may.2009#detail=13034,-38,-26,-23,Tue
+05/05/2009,07:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=may.2009#detail=43996,39.5K,,123.5K,Tue
+05/05/2009,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=may.2009#detail=36352,,,,Tue
+05/05/2009,08:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=10868,38.1,31.9,30.9,Tue
+05/05/2009,09:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12973,-0.7%,-0.5%,-0.4%,Tue
+05/05/2009,14:00,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=may.2009#detail=19980,,,,Tue
+05/05/2009,,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=10774,43.7,42.5,40.8,Tue
+05/05/2009,23:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2009#detail=13013,50,43,42,Tue
+05/05/2009,23:03,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=12709,1.4%,,2.0%,Tue
+06/05/2009,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=12075,,,,Wed
+06/05/2009,01:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=12827,2.50B,1.73B,1.75B,Wed
+06/05/2009,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12721,2.2%,0.5%,-2.0%,Wed
+06/05/2009,02:30,USD,orange,FOMC Member Yellen Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19981,,,,Wed
+06/05/2009,03:00,NZD,red,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12504,0.5%,0.6%,0.7%,Wed
+06/05/2009,07:00,CHF,orange,Gov Board Member Jordan Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=15888,,,,Wed
+06/05/2009,,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=may.2009#detail=42167,56B,,56B,Wed
+06/05/2009,07:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=43913,42.3,,34.1,Wed
+06/05/2009,07:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=43531,42.0,40.9,39.1,Wed
+06/05/2009,07:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=59108,46.5,46.2,46.2,Wed
+06/05/2009,07:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=59120,43.8,43.5,43.5,Wed
+06/05/2009,08:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=10959,43.8,43.1,43.1,Wed
+06/05/2009,,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12253,-1.7%,-1.0%,-1.9%,Wed
+06/05/2009,08:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=10870,48.7,46.2,45.5,Wed
+06/05/2009,09:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12990,-0.6%,0.1%,-0.3%,Wed
+06/05/2009,09:42,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2009#detail=43123,3.58|2.5,,3.46|1.8,Wed
+06/05/2009,11:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13845,47.0%,,180.7%,Wed
+06/05/2009,12:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=may.2009#detail=11601,-491K,-644K,-708K,Wed
+06/05/2009,12:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13498,23.5%,2.4%,-15.8%,Wed
+06/05/2009,14:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=13858,53.7,41.0,43.2,Wed
+06/05/2009,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2009#detail=14637,0.6M,2.4M,4.1M,Wed
+06/05/2009,16:15,CHF,red,SNB Chairman Roth Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=15889,,,,Wed
+06/05/2009,17:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2009#detail=43082,3.19|2.5,,2.95|2.5,Wed
+06/05/2009,20:00,CAD,red,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19985,,,,Wed
+06/05/2009,21:30,USD,orange,FOMC Member Yellen Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19982,,,,Wed
+06/05/2009,22:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12845,-1.1%,-1.0%,0.6%,Wed
+06/05/2009,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=12846,5.0%,5.3%,4.7%,Wed
+06/05/2009,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=may.2009#detail=10847,36.5,,30.4,Wed
+06/05/2009,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13821,8.2%,6.7%,6.9%,Wed
+07/05/2009,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=may.2009#detail=13518,27.3K,-24.9K,-37.2K,Thu
+07/05/2009,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=13517,5.4%,5.9%,5.7%,Thu
+07/05/2009,06:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=13870,-4.9B,-3.9B,-4.1B,Thu
+07/05/2009,07:15,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13540,0.9%,0.6%,-0.3%,Thu
+07/05/2009,09:06,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2009#detail=43350,3.67|1.6,,3.62|1.9,Thu
+07/05/2009,10:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11688,3.3%,-0.8%,-3.1%,Thu
+07/05/2009,11:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=may.2009#detail=24504,125B,150B,75B,Thu
+07/05/2009,,GBP,red,MPC Rate Statement,https://www.forexfactory.com/calendar?month=may.2009#detail=11634,,,,Thu
+07/05/2009,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=11633,0.50%,0.50%,0.50%,Thu
+07/05/2009,11:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=10635,1.00%,1.00%,1.25%,Thu
+07/05/2009,12:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=may.2009#detail=10636,,,,Thu
+07/05/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2009#detail=14696,601K,639K,635K,Thu
+07/05/2009,,USD,orange,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=11563,0.8%,0.8%,-0.4%,Thu
+07/05/2009,,USD,orange,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=11564,3.3%,2.6%,5.7%,Thu
+07/05/2009,13:15,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19532,,,,Thu
+07/05/2009,13:30,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19533,,,,Thu
+07/05/2009,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2009#detail=11729,95B,94B,82B,Thu
+07/05/2009,17:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2009#detail=43100,4.29|2.1,,3.64|2.4,Thu
+07/05/2009,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11579,-11.1B,-4.2B,-8.1B,Thu
+07/05/2009,20:15,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20497,,,,Thu
+07/05/2009,21:00,USD,red,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=may.2009#detail=19772,,,,Thu
+07/05/2009,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=may.2009#detail=13927,,,,Thu
+08/05/2009,01:30,AUD,red,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=may.2009#detail=14317,,,,Fri
+08/05/2009,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=13580,3.4%,3.4%,3.3%,Fri
+08/05/2009,06:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=11817,8.9B,7.7B,8.9B,Fri
+08/05/2009,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=14782,,,,Fri
+08/05/2009,08:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12465,-1.0%,0.7%,1.3%,Fri
+08/05/2009,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12466,0.6%,0.2%,0.1%,Fri
+08/05/2009,10:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11676,0.0%,-1.3%,-3.4%,Fri
+08/05/2009,11:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=may.2009#detail=13455,35.9K,-48.5K,-61.3K,Fri
+08/05/2009,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=13456,8.0%,8.3%,8.0%,Fri
+08/05/2009,12:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=may.2009#detail=14198,117K,140K,147K,Fri
+08/05/2009,12:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=may.2009#detail=10604,-539K,-590K,-699K,Fri
+08/05/2009,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=10603,8.9%,8.9%,8.5%,Fri
+08/05/2009,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=10605,0.1%,0.2%,0.2%,Fri
+08/05/2009,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11700,-1.6%,-1.1%,-1.7%,Fri
+08/05/2009,17:00,USD,orange,FOMC Member Lacker Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19983,,,,Fri
+08/05/2009,17:15,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19984,,,,Fri
+11/05/2009,01:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=may.2009#detail=13063,-14,,-13,Mon
+11/05/2009,01:45,USD,orange,FOMC Member Lacker Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20777,,,,Mon
+11/05/2009,02:00,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=18510,-1.5%,-1.4%,-1.2%,Mon
+11/05/2009,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=18549,-6.6%,-6.3%,-6.0%,Mon
+11/05/2009,06:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13882,-1.4%,-0.4%,-0.9%,Mon
+11/05/2009,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14362,-4.6%,-1.7%,-4.6%,Mon
+11/05/2009,08:31,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=may.2009#detail=24359,592B,,1890B,Mon
+11/05/2009,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=24264,26.0%,25.3%,25.5%,Mon
+11/05/2009,12:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12799,-0.5%,-0.5%,-0.7%,Mon
+11/05/2009,22:54,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13994,-0.6%,,0.5%,Mon
+11/05/2009,23:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=12697,4.6%,,-1.2%,Mon
+11/05/2009,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=12302,-60%,-70%,-72%,Mon
+11/05/2009,23:30,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19534,,,,Mon
+12/05/2009,01:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13087,4.9%,4.5%,1.2%,Tue
+12/05/2009,02:00,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=may.2009#detail=19752,30.5%,29.2%,28.6%,Tue
+12/05/2009,02:08,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=18373,13.1B,20.5B,18.6B,Tue
+12/05/2009,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2009#detail=49002,1.45|2.5,,1.35|2.3,Tue
+12/05/2009,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=may.2009#detail=14420,76.6%,77.1%,74.5%,Tue
+12/05/2009,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11851,0.0%,0.0%,0.0%,Tue
+12/05/2009,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11898,0.1%,0.0%,-0.9%,Tue
+12/05/2009,,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=14597,-80.4%,,-85.2%,Tue
+12/05/2009,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=13946,-43.7B,,-29.9B,Tue
+12/05/2009,08:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=10813,-0.1%,-0.8%,-0.3%,Tue
+12/05/2009,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=12666,-6.6B,-7.2B,-6.8B,Tue
+12/05/2009,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=10812,-0.6%,-0.7%,-0.7%,Tue
+12/05/2009,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=12449,-13.6%,-12.7%,-12.3%,Tue
+12/05/2009,09:30,AUD,red,Annual Budget Release,https://www.forexfactory.com/calendar?month=may.2009#detail=20492,,,,Tue
+12/05/2009,11:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=may.2009#detail=48366,86.8,,81.0,Tue
+12/05/2009,12:20,USD,yellow,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19805,,,,Tue
+12/05/2009,12:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=13226,1.1B,0.5B,0.3B,Tue
+12/05/2009,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=11527,-27.6B,-29.2B,-26.1B,Tue
+12/05/2009,13:00,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=may.2009#detail=10741,57.1K,81.5K,65.5K,Tue
+12/05/2009,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=may.2009#detail=10742,-0.4%,-0.9%,0.2%,Tue
+12/05/2009,,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=may.2009#detail=13269,-1.5%,,-1.9%,Tue
+12/05/2009,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=10743,7.1%,6.9%,6.7%,Tue
+12/05/2009,14:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=may.2009#detail=49297,2.72M,,2.97M,Tue
+12/05/2009,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=may.2009#detail=14735,48.6,51.1,49.1,Tue
+12/05/2009,14:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=may.2009#detail=56217,-4.1%,,2.4%,Tue
+12/05/2009,15:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20800,,,,Tue
+12/05/2009,18:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=14822,-20.9B,-21.2B,-192.3B,Tue
+12/05/2009,21:00,NZD,red,RBNZ Financial Stability Report,https://www.forexfactory.com/calendar?month=may.2009#detail=13644,,,,Tue
+12/05/2009,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13833,3.4%,,3.4%,Tue
+12/05/2009,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=14328,2.6%,2.3%,2.2%,Tue
+12/05/2009,23:52,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=may.2009#detail=14531,0.90T,0.51T,0.69T,Tue
+13/05/2009,02:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=18464,7.3%,8.6%,8.3%,Wed
+13/05/2009,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=23247,14.8%,15.1%,14.7%,Wed
+13/05/2009,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=may.2009#detail=14419,34.2,30.1,28.4,Wed
+13/05/2009,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13894,0.2%,0.2%,0.2%,Wed
+13/05/2009,09:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13762,-2.0%,-0.9%,-2.5%,Wed
+13/05/2009,09:30,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=14447,,,,Wed
+13/05/2009,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=may.2009#detail=14448,,,,Wed
+13/05/2009,12:30,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13428,6.3%,6.1%,-2.4%,Wed
+13/05/2009,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11422,-0.5%,0.1%,-1.2%,Wed
+13/05/2009,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11423,-0.4%,0.0%,-1.3%,Wed
+13/05/2009,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11551,1.6%,0.5%,0.2%,Wed
+13/05/2009,13:00,USD,yellow,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20802,,,,Wed
+13/05/2009,14:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11613,-1.0%,-1.1%,-1.4%,Wed
+13/05/2009,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2009#detail=14638,-4.7M,1.1M,0.6M,Wed
+13/05/2009,,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19806,,,,Wed
+13/05/2009,15:30,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20496,,,,Wed
+13/05/2009,16:00,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19807,,,,Wed
+13/05/2009,16:35,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20801,,,,Wed
+13/05/2009,22:21,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2009#detail=14494,43.7,,41.9,Wed
+14/05/2009,07:00,CHF,orange,Gov Board Member Jordan Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19803,,,,Thu
+14/05/2009,,EUR,yellow,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=43752,-1.8%,-1.6%,-1.0%,Thu
+14/05/2009,07:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13552,-0.2%,0.6%,-0.5%,Thu
+14/05/2009,08:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=may.2009#detail=10667,,,,Thu
+14/05/2009,09:00,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14042,-0.5%,,-0.6%,Thu
+14/05/2009,12:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11485,0.3%,0.2%,-1.2%,Thu
+14/05/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2009#detail=14697,637K,608K,605K,Thu
+14/05/2009,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11483,0.1%,0.1%,0.0%,Thu
+14/05/2009,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2009#detail=11730,95B,100B,95B,Thu
+14/05/2009,22:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12872,0.5%,-0.1%,-0.1%,Thu
+14/05/2009,,NZD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12871,-0.4%,0.1%,0.3%,Thu
+14/05/2009,,NZD,yellow,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=37735,-1.2%,,0.1%,Thu
+14/05/2009,,NZD,yellow,Retail Sales q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=37719,-2.9%,-1.5%,-0.7%,Thu
+14/05/2009,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13791,-1.3%,-4.7%,1.4%,Thu
+14/05/2009,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13792,-3.8%,-3.0%,-2.5%,Thu
+15/05/2009,02:08,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=may.2009#detail=19310,-21.0%,,-20.6%,Fri
+15/05/2009,06:00,EUR,red,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=11662,-3.8%,-3.0%,-2.2%,Fri
+15/05/2009,06:45,EUR,orange,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12543,-1.2%,-1.3%,-1.5%,Fri
+15/05/2009,,EUR,orange,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12508,-0.9%,-0.8%,-0.7%,Fri
+15/05/2009,07:15,CHF,red,Retail Sales y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13592,1.2%,-2.2%,-3.8%,Fri
+15/05/2009,08:00,EUR,yellow,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12544,-2.4%,-1.7%,-2.1%,Fri
+15/05/2009,09:00,EUR,red,Flash GDP q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12545,-2.5%,-2.1%,-1.6%,Fri
+15/05/2009,,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13736,1.8%,1.6%,1.4%,Fri
+15/05/2009,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13735,0.6%,0.6%,0.6%,Fri
+15/05/2009,12:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13416,-2.7%,1.2%,2.2%,Fri
+15/05/2009,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11508,0.3%,0.1%,0.2%,Fri
+15/05/2009,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=128498,-0.7%,-0.6%,-0.4%,Fri
+15/05/2009,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11507,0.0%,0.0%,-0.1%,Fri
+15/05/2009,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2009#detail=14006,-4.6,-12.1,-14.7,Fri
+15/05/2009,13:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=may.2009#detail=12141,55.8B,33.3B,22.0B,Fri
+15/05/2009,13:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=11138,69.1%,68.9%,69.4%,Fri
+15/05/2009,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11137,-0.5%,-0.5%,-1.7%,Fri
+15/05/2009,13:55,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=may.2009#detail=10683,67.9,66.9,65.1,Fri
+15/05/2009,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=may.2009#detail=10716,2.6%,,2.8%,Fri
+17/05/2009,22:45,NZD,red,PPI Input q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12493,-2.5%,-0.1%,-2.2%,Sun
+17/05/2009,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12494,-1.4%,0.4%,1.4%,Sun
+17/05/2009,23:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12354,2.4%,,1.8%,Sun
+18/05/2009,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2009#detail=14540,32.4,32.1,28.9,Mon
+18/05/2009,09:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20807,,,,Mon
+18/05/2009,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=13714,-2.1B,-3.8B,-2.9B,Mon
+18/05/2009,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=14746,,,,Mon
+18/05/2009,15:30,USD,yellow,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20803,,,,Mon
+18/05/2009,17:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=may.2009#detail=13970,16,16,14,Mon
+18/05/2009,22:10,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19799,,,,Mon
+19/05/2009,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=may.2009#detail=12377,,,,Tue
+19/05/2009,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14421,1.6%,1.6%,1.6%,Tue
+19/05/2009,08:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=14374,0.08B,0.36B,-0.90B,Tue
+19/05/2009,08:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13150,2.3%,2.4%,2.9%,Tue
+19/05/2009,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13152,-1.2%,-1.1%,-0.4%,Tue
+19/05/2009,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13151,1.5%,1.7%,1.7%,Tue
+19/05/2009,09:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=may.2009#detail=11922,31.1,20.0,13.0,Tue
+19/05/2009,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=may.2009#detail=11923,28.5,15.0,11.8,Tue
+19/05/2009,10:07,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2009#detail=43134,4.44|2.0,,4.26|1.6,Tue
+19/05/2009,12:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=may.2009#detail=11162,0.49M,0.53M,0.51M,Tue
+19/05/2009,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=may.2009#detail=11161,0.46M,0.52M,0.53M,Tue
+19/05/2009,16:00,CAD,orange,Gov Council Member Murray Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20495,,,,Tue
+19/05/2009,23:50,JPY,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12558,-4.0%,-4.2%,-3.8%,Tue
+19/05/2009,,JPY,orange,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=12559,1.1%,1.8%,0.7%,Tue
+20/05/2009,00:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=may.2009#detail=14770,-4.3%,,8.3%,Wed
+20/05/2009,01:30,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12528,0.8%,0.8%,1.3%,Wed
+20/05/2009,06:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11863,-1.4%,-0.2%,-0.7%,Wed
+20/05/2009,08:30,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=may.2009#detail=49128,9-0-0,9-0-0,0-0-9,Wed
+20/05/2009,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=may.2009#detail=11635,0-0-9,0-0-9,0-0-9,Wed
+20/05/2009,09:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=may.2009#detail=13610,-3.9,,-27.7,Wed
+20/05/2009,09:06,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2009#detail=43213,3.54|1.8,,3.23|2.1,Wed
+20/05/2009,10:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=may.2009#detail=50152,,,,Wed
+20/05/2009,,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=may.2009#detail=12314,-56,-50,-57,Wed
+20/05/2009,11:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12917,0.1%,0.1%,0.3%,Wed
+20/05/2009,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12916,-0.1%,0.2%,0.2%,Wed
+20/05/2009,12:30,CAD,yellow,Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13404,-1.1%,-0.9%,-1.5%,Wed
+20/05/2009,13:30,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20804,,,,Wed
+20/05/2009,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2009#detail=14639,-2.1M,-1.3M,-4.7M,Wed
+20/05/2009,18:00,USD,red,Fed Announcement,https://www.forexfactory.com/calendar?month=may.2009#detail=30140,,,,Wed
+20/05/2009,,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=may.2009#detail=10986,,,,Wed
+20/05/2009,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12900,2.4%,,-0.2%,Wed
+20/05/2009,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14344,-4.0%,-1.5%,-1.3%,Wed
+21/05/2009,01:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=may.2009#detail=12742,2.3%,,2.4%,Thu
+21/05/2009,01:30,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13075,0.9%,,-3.3%,Thu
+21/05/2009,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=may.2009#detail=11382,,,,Thu
+21/05/2009,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=12366,-1.6%,,-4.8%,Thu
+21/05/2009,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=12051,,,,Thu
+21/05/2009,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=14759,,,,Thu
+21/05/2009,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=14783,,,,Thu
+21/05/2009,07:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=14141,43.1,40.9,40.1,Thu
+21/05/2009,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=14142,47.6,46.7,46.5,Thu
+21/05/2009,07:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=14143,39.1,37.0,35.4,Thu
+21/05/2009,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=14144,46.0,44.3,43.8,Thu
+21/05/2009,08:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=14145,40.5,38.4,36.8,Thu
+21/05/2009,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=14146,44.7,44.6,43.8,Thu
+21/05/2009,08:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13178,0.9%,0.5%,1.1%,Thu
+21/05/2009,,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=12484,-5.5%,-4.0%,-1.5%,Thu
+21/05/2009,,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=may.2009#detail=13308,8.5B,7.4B,18.2B,Thu
+21/05/2009,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13309,0.1%,0.5%,0.3%,Thu
+21/05/2009,08:43,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2009#detail=43322,3.71|2.7,,4.06|1.9,Thu
+21/05/2009,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=may.2009#detail=12811,6.85B,4.12B,6.07B,Thu
+21/05/2009,,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13440,-0.6%,-0.8%,-0.9%,Thu
+21/05/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2009#detail=14698,631K,630K,643K,Thu
+21/05/2009,14:00,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2009#detail=10976,-22.6,-18.9,-24.4,Thu
+21/05/2009,,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20929,,,,Thu
+21/05/2009,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14030,1.0%,0.7%,-0.2%,Thu
+21/05/2009,14:30,CAD,yellow,BOC Review,https://www.forexfactory.com/calendar?month=may.2009#detail=14591,,,,Thu
+21/05/2009,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2009#detail=11731,103B,95B,95B,Thu
+21/05/2009,20:55,GBP,orange,MPC Member Bean Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20806,,,,Thu
+22/05/2009,03:33,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=may.2009#detail=13919,,,,Fri
+22/05/2009,,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=13917,0.10%,0.10%,0.10%,Fri
+22/05/2009,07:10,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=may.2009#detail=13918,,,,Fri
+22/05/2009,08:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14398,0.1%,-0.1%,-0.9%,Fri
+22/05/2009,08:30,GBP,red,Second Estimate GDP q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=13242,-1.9%,-1.9%,-1.9%,Fri
+22/05/2009,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=may.2009#detail=13281,-1.2%,-1.2%,-1.3%,Fri
+22/05/2009,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13207,-0.2%,-0.2%,0.5%,Fri
+22/05/2009,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13206,0.3%,0.5%,0.2%,Fri
+22/05/2009,18:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19763,,,,Fri
+23/05/2009,20:00,USD,orange,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=20805,,,,Sat
+24/05/2009,23:50,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14345,-2.4%,-2.3%,-2.3%,Sun
+25/05/2009,02:00,JPY,yellow,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19798,,,,Mon
+25/05/2009,05:00,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=21122,,,,Mon
+25/05/2009,,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=may.2009#detail=14095,,,,Mon
+25/05/2009,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=12265,,,,Mon
+25/05/2009,08:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=may.2009#detail=11942,84.2,85.1,83.7,Mon
+25/05/2009,09:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=21036,,,,Mon
+25/05/2009,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=12013,,,,Mon
+25/05/2009,22:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=12856,276M,262M,447M,Mon
+25/05/2009,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=14109,-2.4%,-2.3%,-2.1%,Mon
+26/05/2009,03:00,NZD,red,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=13810,2.20%,,2.30%,Tue
+26/05/2009,06:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=may.2009#detail=13634,0.92,,0.99,Tue
+26/05/2009,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=may.2009#detail=14211,2.5,2.5,2.5,Tue
+26/05/2009,,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=11666,-3.8%,-3.8%,-3.8%,Tue
+26/05/2009,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11886,-0.8%,0.0%,-0.4%,Tue
+26/05/2009,06:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13934,0.7%,-0.4%,0.6%,Tue
+26/05/2009,07:15,CHF,orange,Employment Level,https://www.forexfactory.com/calendar?month=may.2009#detail=13573,3.96M,3.92M,3.96M,Tue
+26/05/2009,08:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=may.2009#detail=13025,-6.5B,-7.5B,-7.8B,Tue
+26/05/2009,09:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13668,-0.8%,1.0%,0.0%,Tue
+26/05/2009,13:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=may.2009#detail=14018,-27.6,-27.0,-29.4,Tue
+26/05/2009,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13958,-18.7%,-18.4%,-18.7%,Tue
+26/05/2009,14:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2009#detail=10655,54.9,42.7,40.8,Tue
+26/05/2009,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2009#detail=12948,4,-6,-9,Tue
+26/05/2009,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=may.2009#detail=13928,,,,Tue
+26/05/2009,23:52,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=14612,-0.05T,-0.03T,-0.51B,Tue
+27/05/2009,00:23,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=21123,,,,Wed
+27/05/2009,00:30,AUD,orange,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14083,0.3%,,-0.5%,Wed
+27/05/2009,01:30,AUD,orange,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=10798,-3.7%,-3.0%,2.3%,Wed
+27/05/2009,03:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=may.2009#detail=13047,1.9,,-14.5,Wed
+27/05/2009,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11829,-0.1%,0.1%,0.0%,Wed
+27/05/2009,08:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=may.2009#detail=12342,27.7K,29.1K,26.7K,Wed
+27/05/2009,12:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=13393,-11.8%,,-16.3%,Wed
+27/05/2009,13:46,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12601,-1.1%,0.2%,0.2%,Wed
+27/05/2009,14:00,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=may.2009#detail=13343,4.68M,4.65M,4.55M,Wed
+27/05/2009,16:00,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=21370,,,,Wed
+27/05/2009,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=14257,-2.9%,-3.2%,-3.9%,Wed
+28/05/2009,00:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14071,0.4%,,0.2%,Thu
+28/05/2009,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=23547,,,,Thu
+28/05/2009,01:10,AUD,orange,RBA Deputy Gov Battellino Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=19800,,,,Thu
+28/05/2009,01:25,GBP,orange,MPC Member Tucker Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=21121,,,,Thu
+28/05/2009,01:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=11954,-8.9%,-6.0%,7.3%,Thu
+28/05/2009,02:00,NZD,red,Annual Budget Release,https://www.forexfactory.com/calendar?month=may.2009#detail=14606,,,,Thu
+28/05/2009,06:15,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=may.2009#detail=13564,2.56B,0.11B,0.15B,Thu
+28/05/2009,07:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=may.2009#detail=11806,1K,66K,57K,Thu
+28/05/2009,08:00,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=43604,47.1,,48.4,Thu
+28/05/2009,All Day,All,yellow,OPEC Meetings,https://www.forexfactory.com/calendar?month=may.2009#detail=21095,,,,Thu
+28/05/2009,09:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2009#detail=13681,-31,-30,-31,Thu
+28/05/2009,09:27,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2009#detail=43382,4.59|1.3,,4.39|1.4,Thu
+28/05/2009,10:00,GBP,red,CBI Realized Sales,https://www.forexfactory.com/calendar?month=may.2009#detail=12326,-17,-10,3,Thu
+28/05/2009,12:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11326,0.8%,-0.4%,-2.7%,Thu
+28/05/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2009#detail=14699,623K,628K,636K,Thu
+28/05/2009,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11325,1.9%,0.1%,-2.1%,Thu
+28/05/2009,14:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=may.2009#detail=11062,352K,363K,351K,Thu
+28/05/2009,,USD,orange,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=may.2009#detail=30053,9.12%,,7.88%,Thu
+28/05/2009,14:15,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=21037,,,,Thu
+28/05/2009,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2009#detail=11732,106B,114B,103B,Thu
+28/05/2009,15:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2009#detail=14640,-5.4M,-0.1M,-2.1M,Thu
+28/05/2009,22:45,NZD,red,Building Consents m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12937,11.2%,,-1.7%,Thu
+28/05/2009,23:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2009#detail=12437,-27,-25,-27,Thu
+28/05/2009,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=14506,46.6,,41.4,Thu
+28/05/2009,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=14550,-1.3%,-0.7%,-0.4%,Thu
+28/05/2009,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=14228,-0.7%,-0.6%,0.0%,Thu
+28/05/2009,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=14227,-0.1%,-0.1%,-0.1%,Thu
+28/05/2009,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2009#detail=14256,5.0%,5.0%,4.8%,Thu
+28/05/2009,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14255,5.2%,3.3%,1.6%,Thu
+29/05/2009,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=23548,,,,Fri
+29/05/2009,01:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11768,0.1%,0.2%,0.1%,Fri
+29/05/2009,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=14551,-32.4%,-21.8%,-20.7%,Fri
+29/05/2009,06:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=11794,0.5%,0.3%,-0.4%,Fri
+29/05/2009,,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=12425,1.2%,-0.9%,-0.3%,Fri
+29/05/2009,08:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13697,4.9%,4.5%,5.0%,Fri
+29/05/2009,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13696,2.4%,2.9%,3.2%,Fri
+29/05/2009,09:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=may.2009#detail=13737,0.0%,0.2%,0.6%,Fri
+29/05/2009,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=14386,0.2%,0.2%,0.2%,Fri
+29/05/2009,09:15,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=may.2009#detail=21038,,,,Fri
+29/05/2009,09:30,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=may.2009#detail=13622,-1.86,-1.80,-1.86,Fri
+29/05/2009,12:30,CAD,orange,Current Account,https://www.forexfactory.com/calendar?month=may.2009#detail=13397,-9.1B,-10.4B,-7.8B,Fri
+29/05/2009,,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=11399,-5.7%,-5.5%,-6.1%,Fri
+29/05/2009,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=may.2009#detail=11398,2.8%,2.9%,2.9%,Fri
+29/05/2009,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=12678,34.9,42.1,40.1,Fri
+29/05/2009,13:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=may.2009#detail=10684,68.7,68.0,67.9,Fri
+29/05/2009,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=may.2009#detail=10703,2.8%,,2.6%,Fri
+31/05/2009,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2009#detail=12535,,,,Sun
+31/05/2009,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2009#detail=10849,37.5,,30.1,Sun
+01/06/2009,01:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=may.2009#detail=13102,-0.3%,,0.0%,Mon
+01/06/2009,01:40,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2009#detail=18437,53.1,,53.5,Mon

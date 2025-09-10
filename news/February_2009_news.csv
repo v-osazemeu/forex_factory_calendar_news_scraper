@@ -1,0 +1,363 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day
+01/02/2009,Day 5,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=february.2009#detail=15596,,,,Sun
+01/02/2009,21:45,NZD,red,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12503,0.7%,0.9%,1.1%,Sun
+01/02/2009,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2009#detail=10831,36.6,,33.7,Sun
+01/02/2009,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13098,0.8%,,-0.2%,Sun
+02/02/2009,00:30,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12658,-0.8%,-1.1%,-2.4%,Mon
+02/02/2009,01:05,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14476,-1.7%,,-1.1%,Mon
+02/02/2009,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=18316,42.2,,41.2,Mon
+02/02/2009,05:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=14055,28.6%,,31.4%,Mon
+02/02/2009,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=43814,31.5,,28.5,Mon
+02/02/2009,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=11099,35.0,36.1,36.9,Mon
+02/02/2009,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=43468,36.1,35.3,35.5,Mon
+02/02/2009,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=58848,37.9,38.1,38.1,Mon
+02/02/2009,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=58967,32.0,32.0,32.0,Mon
+02/02/2009,09:00,EUR,orange,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=10926,34.4,34.5,34.5,Mon
+02/02/2009,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=10844,35.8,34.4,34.9,Mon
+02/02/2009,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11452,0.0%,0.0%,0.0%,Mon
+02/02/2009,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11451,-1.0%,-0.9%,-0.8%,Mon
+02/02/2009,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11439,-0.2%,-0.4%,-0.4%,Mon
+02/02/2009,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=10727,35.6,32.4,32.4,Mon
+02/02/2009,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11116,-1.4%,-1.3%,-1.2%,Mon
+02/02/2009,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=february.2009#detail=10728,29.0,18.0,18.0,Mon
+02/02/2009,19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=february.2009#detail=24059,,,,Mon
+02/02/2009,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13818,3.9%,1.8%,1.8%,Mon
+03/02/2009,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=12821,0.59B,1.05B,0.98B,Tue
+03/02/2009,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=42273,51.0,,48.9,Tue
+03/02/2009,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=9550,-1.4%,-1.5%,-0.7%,Tue
+03/02/2009,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=10569,3.25%,3.25%,4.25%,Tue
+03/02/2009,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=february.2009#detail=10570,,,,Tue
+03/02/2009,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2009#detail=48999,1.30|2.2,,1.28|2.3,Tue
+03/02/2009,05:30,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15879,,,,Tue
+03/02/2009,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11790,-0.2%,0.5%,-0.1%,Tue
+03/02/2009,07:15,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=13560,0.22B,1.74B,2.25B,Tue
+03/02/2009,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=february.2009#detail=43993,198.8K,,139.7K,Tue
+03/02/2009,09:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=10846,34.5,28.8,29.3,Tue
+03/02/2009,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12970,-1.3%,-1.1%,-2.0%,Tue
+03/02/2009,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=february.2009#detail=56214,-8.2%,,-8.6%,Tue
+03/02/2009,15:00,USD,red,Fed Announcement,https://www.forexfactory.com/calendar?month=february.2009#detail=30133,,,,Tue
+03/02/2009,,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13328,6.3%,0.0%,-3.7%,Tue
+03/02/2009,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=february.2009#detail=12957,9.6M,10.2M,10.3M,Tue
+03/02/2009,21:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12896,3.9%,,1.0%,Tue
+03/02/2009,22:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=february.2009#detail=10832,41.0,,39.3,Tue
+04/02/2009,00:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2009#detail=13010,40,45,48,Wed
+04/02/2009,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12822,-2.9%,2.3%,-10.2%,Wed
+04/02/2009,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12718,3.8%,1.4%,0.4%,Wed
+04/02/2009,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=18317,45.3,,41.2,Wed
+04/02/2009,02:06,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13979,-4.3%,,-7.4%,Wed
+04/02/2009,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=43910,31.8,,32.1,Wed
+04/02/2009,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=43528,41.1,40.2,40.3,Wed
+04/02/2009,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=59105,42.6,42.9,42.9,Wed
+04/02/2009,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=59116,45.2,45.4,45.4,Wed
+04/02/2009,09:00,EUR,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=10956,42.2,42.5,42.5,Wed
+04/02/2009,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=10848,42.5,40.3,40.2,Wed
+04/02/2009,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12987,0.0%,-0.2%,-0.1%,Wed
+04/02/2009,10:30,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=12706,1.1%,,0.5%,Wed
+04/02/2009,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13842,222.4%,,274.5%,Wed
+04/02/2009,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=february.2009#detail=11598,-522K,-528K,-659K,Wed
+04/02/2009,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=10765,42.9,39.1,40.6,Wed
+04/02/2009,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2009#detail=14624,7.2M,2.8M,6.2M,Wed
+04/02/2009,21:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12844,0.9%,-0.7%,0.1%,Wed
+04/02/2009,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=12843,4.6%,4.6%,4.2%,Wed
+05/02/2009,04:00,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15884,,,,Thu
+05/02/2009,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=february.2009#detail=42164,47B,,47B,Thu
+05/02/2009,09:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12250,1.9%,-1.7%,-1.6%,Thu
+05/02/2009,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14382,-0.1%,0.0%,-0.1%,Thu
+05/02/2009,10:02,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2009#detail=43347,3.85|2.6,,3.67|1.6,Thu
+05/02/2009,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11685,-6.9%,-2.2%,-5.3%,Thu
+05/02/2009,12:00,GBP,red,MPC Rate Statement,https://www.forexfactory.com/calendar?month=february.2009#detail=11625,,,,Thu
+05/02/2009,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=11624,1.00%,1.00%,1.50%,Thu
+05/02/2009,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=10629,2.00%,2.00%,2.00%,Thu
+05/02/2009,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13495,-3.9%,-5.0%,-11.3%,Thu
+05/02/2009,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=february.2009#detail=10630,,,,Thu
+05/02/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2009#detail=14683,626K,585K,591K,Thu
+05/02/2009,,USD,orange,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=11559,3.2%,1.0%,1.3%,Thu
+05/02/2009,,USD,orange,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=11562,1.8%,3.2%,2.8%,Thu
+05/02/2009,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=13855,36.1,39.2,39.1,Thu
+05/02/2009,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11536,-3.9%,-3.1%,-6.5%,Thu
+05/02/2009,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2009#detail=11716,-195B,-190B,-186B,Thu
+05/02/2009,17:30,CHF,orange,Gov Board Member Hildebrand Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15885,,,,Thu
+05/02/2009,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2009#detail=12095,,,,Thu
+05/02/2009,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=february.2009#detail=10833,34.1,,30.9,Thu
+06/02/2009,00:30,AUD,red,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=february.2009#detail=14316,,,,Fri
+06/02/2009,01:00,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15891,,,,Fri
+06/02/2009,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=february.2009#detail=14410,79.8%,79.0%,81.8%,Fri
+06/02/2009,07:15,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=13577,2.9%,2.9%,2.8%,Fri
+06/02/2009,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=13867,-2.5B,-5.7B,-6.0B,Fri
+06/02/2009,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=10807,-2.2%,-1.3%,-3.0%,Fri
+06/02/2009,,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12459,1.5%,0.5%,-2.4%,Fri
+06/02/2009,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=10806,-1.7%,-1.2%,-2.5%,Fri
+06/02/2009,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12460,0.1%,-0.1%,-0.1%,Fri
+06/02/2009,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11673,-4.6%,-2.4%,-3.7%,Fri
+06/02/2009,12:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=february.2009#detail=13449,-129.0K,-40.0K,-34.4K,Fri
+06/02/2009,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=13450,7.2%,6.8%,6.6%,Fri
+06/02/2009,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=february.2009#detail=10595,-598K,-530K,-577K,Fri
+06/02/2009,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=10594,7.6%,7.5%,7.2%,Fri
+06/02/2009,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=10596,0.3%,0.2%,0.4%,Fri
+06/02/2009,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11576,-6.6B,-4.2B,-11.0B,Fri
+06/02/2009,22:45,USD,orange,FOMC Member Yellen Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15231,,,,Fri
+07/02/2009,00:01,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=february.2009#detail=13266,-1.7%,,-1.5%,Sat
+08/02/2009,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13785,-1.7%,-8.6%,-16.2%,Sun
+08/02/2009,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13830,3.7%,,3.7%,Sun
+08/02/2009,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=february.2009#detail=14522,0.50T,0.60T,0.65T,Sun
+08/02/2009,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=14325,1.9%,1.8%,1.8%,Sun
+09/02/2009,00:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=19263,-6.3%,,-9.7%,Mon
+09/02/2009,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=february.2009#detail=14411,17.1,13.3,15.9,Mon
+09/02/2009,06:02,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=14595,-84.4%,,-71.8%,Mon
+09/02/2009,07:00,EUR,orange,German Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=11814,10.7B,10.0B,10.9B,Mon
+09/02/2009,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=february.2009#detail=44061,,,,Mon
+09/02/2009,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=february.2009#detail=13771,-36.1,-31.2,-34.4,Mon
+09/02/2009,13:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=february.2009#detail=14195,154K,165K,172K,Mon
+10/02/2009,00:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=12694,1.1%,,-3.3%,Tue
+10/02/2009,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=12299,-76%,-72%,-74%,Tue
+10/02/2009,00:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=february.2009#detail=13060,-32,,-20,Tue
+10/02/2009,01:00,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15898,,,,Tue
+10/02/2009,02:00,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=18519,1.0%,0.8%,1.2%,Tue
+10/02/2009,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=18546,-3.3%,-2.7%,-1.1%,Tue
+10/02/2009,03:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=19987,,,,Tue
+10/02/2009,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2009#detail=14523,26.4,25.2,26.2,Tue
+10/02/2009,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13879,-1.8%,-1.9%,-2.8%,Tue
+10/02/2009,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13537,-0.8%,-0.5%,-0.5%,Tue
+10/02/2009,08:45,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15880,,,,Tue
+10/02/2009,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14359,-2.5%,-2.0%,-3.5%,Tue
+10/02/2009,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=february.2009#detail=36350,,,,Tue
+10/02/2009,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=12663,-7.4B,-8.1B,-8.1B,Tue
+10/02/2009,10:00,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14039,-0.6%,,-1.0%,Tue
+10/02/2009,10:38,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2009#detail=43120,3.94|1.8,,4.04|1.4,Tue
+10/02/2009,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=february.2009#detail=48363,84.1,,85.2,Tue
+10/02/2009,14:00,CAD,red,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15894,,,,Tue
+10/02/2009,,USD,yellow,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15869,,,,Tue
+10/02/2009,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11697,-1.4%,-0.8%,-0.9%,Tue
+10/02/2009,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=february.2009#detail=49294,2.69M,,2.86M,Tue
+10/02/2009,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=february.2009#detail=14732,44.6,45.0,45.5,Tue
+10/02/2009,16:00,USD,red,Fed Announcement,https://www.forexfactory.com/calendar?month=february.2009#detail=30134,,,,Tue
+10/02/2009,,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15895,,,,Tue
+10/02/2009,18:00,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=february.2009#detail=15883,,,,Tue
+10/02/2009,19:30,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15899,,,,Tue
+10/02/2009,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2009#detail=14767,-4.6%,,-2.2%,Tue
+11/02/2009,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2009#detail=12070,,,,Wed
+11/02/2009,00:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13084,6.4%,3.6%,1.8%,Wed
+11/02/2009,04:00,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=18370,39.1B,29.0B,39.0B,Wed
+11/02/2009,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11848,-0.5%,-0.5%,-0.5%,Wed
+11/02/2009,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=february.2009#detail=10732,73.8K,88.5K,79.9K,Wed
+11/02/2009,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=february.2009#detail=10733,3.2%,3.0%,3.2%,Wed
+11/02/2009,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=10734,6.3%,6.3%,6.1%,Wed
+11/02/2009,10:07,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2009#detail=43207,3.28|1.2,,3.12|1.3,Wed
+11/02/2009,10:30,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=14446,,,,Wed
+11/02/2009,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=february.2009#detail=14445,,,,Wed
+11/02/2009,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=13223,-0.5B,0.8B,1.2B,Wed
+11/02/2009,,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12796,-0.1%,-0.3%,-0.3%,Wed
+11/02/2009,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=11524,-39.9B,-37.0B,-41.6B,Wed
+11/02/2009,14:50,USD,orange,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15892,,,,Wed
+11/02/2009,15:00,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15896,,,,Wed
+11/02/2009,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2009#detail=14625,4.7M,3.1M,7.2M,Wed
+11/02/2009,18:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2009#detail=43079,2.82|2.2,,2.42|2.6,Wed
+11/02/2009,,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15870,,,,Wed
+11/02/2009,19:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=14819,-83.8B,-80.0B,-83.6B,Wed
+11/02/2009,21:42,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2009#detail=14491,42.0,,42.5,Wed
+11/02/2009,21:48,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13991,0.8%,,-0.2%,Wed
+11/02/2009,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13784,-0.2%,0.3%,1.1%,Wed
+12/02/2009,00:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2009#detail=12738,2.3%,,2.7%,Thu
+12/02/2009,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=february.2009#detail=13512,1.2K,-19.1K,0.0K,Thu
+12/02/2009,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=13511,4.8%,4.7%,4.5%,Thu
+12/02/2009,,AUD,orange,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=february.2009#detail=13055,-31,,-7,Thu
+12/02/2009,02:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=february.2009#detail=24356,1620B,,772B,Thu
+12/02/2009,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=24261,18.8%,18.5%,17.8%,Thu
+12/02/2009,06:45,CHF,orange,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=february.2009#detail=13033,-23,-38,-27,Thu
+12/02/2009,08:00,EUR,yellow,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=43751,-1.0%,-1.0%,-0.3%,Thu
+12/02/2009,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=february.2009#detail=10664,,,,Thu
+12/02/2009,10:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13759,-2.6%,-2.3%,-2.2%,Thu
+12/02/2009,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11416,0.9%,-0.5%,-3.2%,Thu
+12/02/2009,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11417,1.0%,-0.8%,-3.0%,Thu
+12/02/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2009#detail=14684,623K,610K,631K,Thu
+12/02/2009,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11610,-1.3%,-0.8%,-1.1%,Thu
+12/02/2009,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2009#detail=11717,-159B,-166B,-195B,Thu
+12/02/2009,18:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15893,,,,Thu
+12/02/2009,,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2009#detail=43098,3.54|2.0,,4.31|2.1,Thu
+12/02/2009,21:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12866,-0.6%,-0.2%,0.1%,Thu
+12/02/2009,,NZD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12865,-1.0%,-0.9%,0.2%,Thu
+12/02/2009,,NZD,yellow,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=37736,0.0%,,-1.2%,Thu
+12/02/2009,,NZD,yellow,Retail Sales q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=37718,-0.6%,-0.3%,-0.9%,Thu
+13/02/2009,07:00,EUR,red,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=11661,-2.1%,-1.8%,-0.5%,Fri
+13/02/2009,07:45,EUR,orange,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12507,-0.6%,-0.5%,-0.2%,Fri
+13/02/2009,,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=13943,-56.5B,,-66.6B,Fri
+13/02/2009,07:50,EUR,yellow,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12541,-1.2%,-1.1%,0.1%,Fri
+13/02/2009,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13549,-0.8%,-0.1%,-0.7%,Fri
+13/02/2009,09:00,EUR,yellow,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12542,-1.8%,-1.2%,-0.6%,Fri
+13/02/2009,Day 1,All,red,G7 Meetings,https://www.forexfactory.com/calendar?month=february.2009#detail=14838,,,,Fri
+13/02/2009,10:00,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12540,-1.5%,-1.3%,-0.2%,Fri
+13/02/2009,13:30,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13425,-14.8%,-14.0%,-7.2%,Fri
+13/02/2009,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2009#detail=10677,56.2,60.6,61.2,Fri
+13/02/2009,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2009#detail=10712,1.6%,,2.2%,Fri
+14/02/2009,Day 2,All,red,G7 Meetings,https://www.forexfactory.com/calendar?month=february.2009#detail=14839,,,,Sat
+14/02/2009,14:30,USD,red,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15897,,,,Sat
+15/02/2009,21:45,NZD,red,PPI Input q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12491,-2.2%,0.2%,3.7%,Sun
+15/02/2009,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12492,1.4%,0.2%,2.8%,Sun
+15/02/2009,23:50,JPY,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12556,-3.3%,-3.1%,-0.6%,Sun
+15/02/2009,,JPY,orange,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=12557,0.9%,0.2%,-1.6%,Sun
+16/02/2009,00:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12351,1.2%,,-1.9%,Mon
+16/02/2009,02:10,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=february.2009#detail=19307,-32.6%,,23.6%,Mon
+16/02/2009,04:00,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16903,,,,Mon
+16/02/2009,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14412,-9.8%,-9.5%,-9.6%,Mon
+16/02/2009,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2009#detail=12012,,,,Mon
+16/02/2009,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=february.2009#detail=12808,-2.84B,-1.70B,-4.05B,Mon
+16/02/2009,,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13413,-8.0%,-5.5%,-6.2%,Mon
+16/02/2009,14:00,GBP,orange,MPC Member Bean Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16099,,,,Mon
+16/02/2009,14:40,USD,orange,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16097,,,,Mon
+16/02/2009,14:45,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16341,,,,Mon
+16/02/2009,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14339,-1.6%,-1.6%,-1.1%,Mon
+17/02/2009,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=february.2009#detail=12374,,,,Tue
+17/02/2009,08:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13589,3.6%,2.0%,-1.4%,Tue
+17/02/2009,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13141,3.0%,2.6%,3.1%,Tue
+17/02/2009,,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13142,1.3%,1.0%,1.1%,Tue
+17/02/2009,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13143,0.1%,-0.1%,0.9%,Tue
+17/02/2009,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=12446,-10.2%,-10.1%,-8.5%,Tue
+17/02/2009,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=february.2009#detail=11916,-5.8,-26.5,-31.0,Tue
+17/02/2009,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=february.2009#detail=11917,-8.7,-27.5,-30.8,Tue
+17/02/2009,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=13711,-0.3B,-5.2B,-4.0B,Tue
+17/02/2009,13:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2009#detail=14003,-34.7,-23.0,-22.2,Tue
+17/02/2009,14:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=february.2009#detail=12138,34.8B,20.0B,-25.6B,Tue
+17/02/2009,18:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=february.2009#detail=13967,9,8,8,Tue
+17/02/2009,18:30,GBP,orange,MPC Member Besley Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16100,,,,Tue
+17/02/2009,22:20,AUD,orange,RBA Assist Gov Edey Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15874,,,,Tue
+17/02/2009,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14080,-0.4%,,-0.6%,Tue
+18/02/2009,00:30,AUD,orange,Quarterly Retail Sales q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=13363,0.8%,1.0%,0.1%,Wed
+18/02/2009,09:30,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=february.2009#detail=11626,0-9-0,0-9-0,0-9-0,Wed
+18/02/2009,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=february.2009#detail=12311,-56,-45,-48,Wed
+18/02/2009,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13437,-3.4%,-2.2%,-1.5%,Wed
+18/02/2009,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=february.2009#detail=11156,0.52M,0.52M,0.55M,Wed
+18/02/2009,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=february.2009#detail=11155,0.47M,0.53M,0.56M,Wed
+18/02/2009,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11548,-1.1%,-1.2%,-5.0%,Wed
+18/02/2009,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=11132,72.0%,72.5%,73.3%,Wed
+18/02/2009,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11131,-1.8%,-1.4%,-2.4%,Wed
+18/02/2009,18:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15872,,,,Wed
+18/02/2009,18:30,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15871,,,,Wed
+18/02/2009,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=february.2009#detail=10984,,,,Wed
+19/02/2009,00:30,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13072,-1.1%,,1.7%,Thu
+19/02/2009,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=february.2009#detail=11379,,,,Thu
+19/02/2009,04:52,JPY,red,Overnight Call Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=13905,0.10%,0.10%,0.10%,Thu
+19/02/2009,,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=february.2009#detail=13906,,,,Thu
+19/02/2009,07:15,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=13561,2.03B,0.62B,0.00B,Thu
+19/02/2009,07:20,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=february.2009#detail=13907,,,,Thu
+19/02/2009,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=14371,-0.41B,-0.97B,-1.12B,Thu
+19/02/2009,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=february.2009#detail=13302,-3.3B,-6.9B,16.5B,Thu
+19/02/2009,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13303,2.5%,1.2%,1.4%,Thu
+19/02/2009,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=february.2009#detail=13607,-57.7,,-66.7,Thu
+19/02/2009,,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2009#detail=43411,3.81|1.8,,3.95|1.7,Thu
+19/02/2009,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=february.2009#detail=50148,,,,Thu
+19/02/2009,13:30,CAD,yellow,Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13401,-0.8%,-0.6%,-0.5%,Thu
+19/02/2009,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11477,0.8%,0.2%,-1.9%,Thu
+19/02/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2009#detail=14685,627K,620K,627K,Thu
+19/02/2009,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11478,0.4%,0.1%,0.2%,Thu
+19/02/2009,15:00,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2009#detail=10973,-41.3,-24.1,-24.3,Thu
+19/02/2009,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14027,0.4%,0.0%,0.2%,Thu
+19/02/2009,15:30,CAD,yellow,BOC Review,https://www.forexfactory.com/calendar?month=february.2009#detail=13376,,,,Thu
+19/02/2009,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2009#detail=11718,-24B,-49B,-159B,Thu
+19/02/2009,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2009#detail=14626,-0.2M,2.9M,4.7M,Thu
+19/02/2009,17:00,GBP,orange,MPC Member Gieve Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16101,,,,Thu
+19/02/2009,18:15,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16098,,,,Thu
+19/02/2009,22:00,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=15513,,,,Thu
+19/02/2009,23:50,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14338,-2.7%,-2.7%,-2.4%,Thu
+20/02/2009,05:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=february.2009#detail=14092,,,,Fri
+20/02/2009,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13891,-0.4%,-0.5%,-0.2%,Fri
+20/02/2009,08:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=17126,,,,Fri
+20/02/2009,,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=14123,35.4,38.0,37.9,Fri
+20/02/2009,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=14124,40.1,42.8,42.6,Fri
+20/02/2009,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=14125,32.2,32.5,32.0,Fri
+20/02/2009,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=14126,41.6,45.0,45.2,Fri
+20/02/2009,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=14127,33.6,35.0,34.4,Fri
+20/02/2009,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=14128,38.9,42.6,42.2,Fri
+20/02/2009,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13175,0.7%,0.0%,1.7%,Fri
+20/02/2009,12:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12911,-0.4%,-0.1%,-0.4%,Fri
+20/02/2009,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12910,-0.3%,-0.2%,-0.7%,Fri
+20/02/2009,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11502,0.2%,0.1%,0.0%,Fri
+20/02/2009,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=128495,0.0%,-0.2%,0.1%,Fri
+20/02/2009,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11501,0.3%,0.2%,-0.7%,Fri
+22/02/2009,13:45,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16342,,,,Sun
+23/02/2009,02:04,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=12363,-2.2%,,-3.8%,Mon
+23/02/2009,08:10,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=17127,,,,Mon
+23/02/2009,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13201,-3.2%,-2.0%,-2.3%,Mon
+23/02/2009,,CAD,orange,Gov Council Member Jenkins Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16983,,,,Mon
+23/02/2009,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13200,-5.4%,-2.7%,-2.4%,Mon
+23/02/2009,17:40,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16980,,,,Mon
+23/02/2009,18:00,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=17409,,,,Mon
+23/02/2009,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=february.2009#detail=13924,,,,Mon
+23/02/2009,,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=14106,-2.2%,-2.5%,-2.5%,Mon
+24/02/2009,07:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=february.2009#detail=13631,0.99,,1.18,Tue
+24/02/2009,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13931,1.8%,0.2%,-0.9%,Tue
+24/02/2009,08:15,CHF,orange,Employment Level,https://www.forexfactory.com/calendar?month=february.2009#detail=13572,3.96M,3.91M,3.96M,Tue
+24/02/2009,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=february.2009#detail=11939,82.6,83.2,83.0,Tue
+24/02/2009,,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=february.2009#detail=13022,-7.3B,-14.3B,-13.9B,Tue
+24/02/2009,09:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=february.2009#detail=12339,23.4K,20.2K,22.4K,Tue
+24/02/2009,,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12483,-3.9%,-4.2%,-2.1%,Tue
+24/02/2009,09:40,GBP,orange,MPC Member Sentance Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=17128,,,,Tue
+24/02/2009,10:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=13665,-5.2%,-4.9%,-5.4%,Tue
+24/02/2009,11:00,GBP,red,CBI Realized Sales,https://www.forexfactory.com/calendar?month=february.2009#detail=12323,-25,-52,-47,Tue
+24/02/2009,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=february.2009#detail=14015,-31.6,-27.0,-27.7,Tue
+24/02/2009,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13955,-18.5%,-18.3%,-18.2%,Tue
+24/02/2009,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2009#detail=10652,25.0,35.5,37.4,Tue
+24/02/2009,,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=february.2009#detail=15882,,,,Tue
+24/02/2009,,USD,yellow,Fed Monetary Policy Report,https://www.forexfactory.com/calendar?month=february.2009#detail=64147,,,,Tue
+24/02/2009,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2009#detail=12945,-51,-48,-49,Tue
+24/02/2009,15:07,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12598,0.1%,-1.8%,-2.2%,Tue
+24/02/2009,17:00,USD,orange,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=17214,,,,Tue
+24/02/2009,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=14609,-0.36T,-0.49T,-0.21T,Tue
+25/02/2009,00:30,AUD,orange,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=10797,1.7%,-2.0%,5.5%,Wed
+25/02/2009,,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=12527,1.2%,0.9%,1.0%,Wed
+25/02/2009,02:00,NZD,red,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=13390,2.30%,,2.70%,Wed
+25/02/2009,07:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=11665,-2.1%,-2.1%,-2.1%,Wed
+25/02/2009,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14395,0.0%,0.0%,-0.4%,Wed
+25/02/2009,09:30,GBP,red,Second Estimate GDP q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=13241,-1.5%,-1.6%,-1.5%,Wed
+25/02/2009,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=february.2009#detail=13278,-0.9%,-1.1%,-0.5%,Wed
+25/02/2009,15:00,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=february.2009#detail=13340,4.49M,4.78M,4.74M,Wed
+25/02/2009,,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=february.2009#detail=17213,,,,Wed
+25/02/2009,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2009#detail=14627,0.7M,0.9M,-0.2M,Wed
+25/02/2009,17:30,GBP,orange,MPC Member Blanchflower Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=17129,,,,Wed
+25/02/2009,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=february.2009#detail=12853,-187M,-410M,-334M,Wed
+25/02/2009,23:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14068,-0.9%,,-1.1%,Wed
+26/02/2009,00:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=11953,6.0%,-3.1%,1.6%,Thu
+26/02/2009,02:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=february.2009#detail=13044,-41.2,,-35.0,Thu
+26/02/2009,06:10,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=17450,,,,Thu
+26/02/2009,07:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=february.2009#detail=14208,2.6,2.1,2.3,Thu
+26/02/2009,,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12422,-1.8%,-1.2%,-1.3%,Thu
+26/02/2009,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=february.2009#detail=11803,40K,60K,59K,Thu
+26/02/2009,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13691,5.9%,6.9%,7.5%,Thu
+26/02/2009,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13690,5.0%,5.2%,5.8%,Thu
+26/02/2009,,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=43601,42.3,,44.0,Thu
+26/02/2009,10:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2009#detail=13678,-33,-31,-31,Thu
+26/02/2009,10:30,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16982,,,,Thu
+26/02/2009,10:42,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2009#detail=43378,4.57|1.3,,4.62|1.5,Thu
+26/02/2009,13:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=17130,,,,Thu
+26/02/2009,13:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=13392,-16.3%,,7.6%,Thu
+26/02/2009,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11320,-2.5%,-2.1%,-5.5%,Thu
+26/02/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2009#detail=14686,667K,628K,631K,Thu
+26/02/2009,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11319,-5.2%,-2.4%,-4.6%,Thu
+26/02/2009,14:30,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=17215,,,,Thu
+26/02/2009,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=february.2009#detail=11059,309K,325K,344K,Thu
+26/02/2009,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2009#detail=11719,-101B,-98B,-24B,Thu
+26/02/2009,21:45,NZD,red,Building Consents m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12934,-13.1%,,-7.1%,Thu
+26/02/2009,,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12897,-3.0%,,4.0%,Thu
+26/02/2009,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=14503,31.6,,29.6,Thu
+26/02/2009,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=14524,-5.9%,-5.6%,-4.6%,Thu
+26/02/2009,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=14222,0.6%,0.3%,0.5%,Thu
+26/02/2009,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=14221,0.0%,-0.1%,0.2%,Thu
+26/02/2009,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=14247,4.1%,4.6%,4.3%,Thu
+26/02/2009,23:50,JPY,red,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=14246,-10.0%,-10.2%,-9.8%,Thu
+26/02/2009,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=14248,-2.4%,-3.0%,-2.7%,Thu
+27/02/2009,00:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2009#detail=12434,-35,-39,-37,Fri
+27/02/2009,00:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11765,0.6%,0.3%,-0.2%,Fri
+27/02/2009,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=14525,-18.7%,-14.9%,-5.8%,Fri
+27/02/2009,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=11826,0.6%,0.3%,-0.5%,Fri
+27/02/2009,10:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13727,1.6%,1.8%,1.8%,Fri
+27/02/2009,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=february.2009#detail=13726,1.1%,1.1%,1.1%,Fri
+27/02/2009,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2009#detail=13648,8.2%,8.1%,8.1%,Fri
+27/02/2009,10:30,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=february.2009#detail=13619,-1.41,-0.95,-0.93,Fri
+27/02/2009,13:30,CAD,orange,Current Account,https://www.forexfactory.com/calendar?month=february.2009#detail=13396,-7.5B,-5.5B,3.6B,Fri
+27/02/2009,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12776,1.4%,-2.2%,-15.4%,Fri
+27/02/2009,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=february.2009#detail=12775,-0.1%,-0.3%,-2.1%,Fri
+27/02/2009,,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=11393,-6.2%,-5.4%,-3.8%,Fri
+27/02/2009,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=february.2009#detail=11392,0.5%,-0.1%,-0.1%,Fri
+27/02/2009,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=february.2009#detail=12675,34.2,33.0,33.3,Fri
+27/02/2009,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2009#detail=10678,56.3,56.0,56.2,Fri
+27/02/2009,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2009#detail=10700,1.9%,,1.6%,Fri
+27/02/2009,15:45,USD,orange,FOMC Member Yellen Speaks,https://www.forexfactory.com/calendar?month=february.2009#detail=16981,,,,Fri
