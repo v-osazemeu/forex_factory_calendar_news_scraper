@@ -31,9 +31,6 @@ ALLOWED_CURRENCY_CODES = ['CAD', 'EUR', 'GBP', 'USD']
 # Allowed impact levels for filtering news events
 ALLOWED_IMPACT_COLORS = ['red', 'orange', 'gray']
 
-# Timezone configuration
-SCRAPER_TIMEZONE = None         # This will be detected from Selenium
-
 # Retry configuration
 RETRY_CONFIG = {
     'max_retries': 3,           # Maximum number of retry attempts
