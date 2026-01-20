@@ -1,378 +1,378 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/04/2018,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=89876,,,,Sun
-01/04/2018,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=89850,,,,Sun
-02/04/2018,00:50,JPY,yellow,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91778,24,25,25,Mon
-02/04/2018,,JPY,yellow,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91775,23,24,23,Mon
-02/04/2018,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=91728,53.1,53.2,53.2,Mon
-02/04/2018,02:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91616,0.1%,,-0.1%,Mon
-02/04/2018,02:45,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89932,51.0,51.8,51.6,Mon
-02/04/2018,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92579,,,,Mon
-02/04/2018,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92980,,,,Mon
-02/04/2018,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92982,,,,Mon
-02/04/2018,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92983,,,,Mon
-02/04/2018,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=89906,,,,Mon
-02/04/2018,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89779,55.7,,55.6,Mon
-02/04/2018,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86706,55.6,55.7,55.7,Mon
-02/04/2018,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86714,59.3,60.1,60.8,Mon
-02/04/2018,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87169,0.1%,0.4%,0.0%,Mon
-02/04/2018,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=april.2018#detail=86711,78.1,72.5,74.2,Mon
-02/04/2018,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91195,63.1,,57.5,Mon
-03/04/2018,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92376,9.1%,9.6%,9.4%,Tue
-03/04/2018,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91304,0.0%,,-0.4%,Tue
-03/04/2018,04:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=91670,0.03|4.2,,0.06|4.5,Tue
-03/04/2018,05:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=april.2018#detail=91081,,,,Tue
-03/04/2018,,AUD,orange,Cash Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=91078,1.50%,1.50%,1.50%,Tue
-03/04/2018,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92662,-0.7%,0.7%,-0.3%,Tue
-03/04/2018,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=91594,-2.1%,,-2.8%,Tue
-03/04/2018,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=85409,-47.7K,-47.5K,-6.3K,Tue
-03/04/2018,08:15,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90556,-0.2%,-0.7%,-0.4%,Tue
-03/04/2018,,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85405,54.8,54.7,56.0,Tue
-03/04/2018,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=90315,60.3,64.3,65.5,Tue
-03/04/2018,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85527,55.1,55.6,56.8,Tue
-03/04/2018,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85726,53.7,53.6,53.6,Tue
-03/04/2018,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85727,58.2,58.4,58.4,Tue
-03/04/2018,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85729,56.6,56.6,56.6,Tue
-03/04/2018,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85730,55.1,54.8,55.0,Tue
-03/04/2018,15:05,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=april.2018#detail=87121,52.6,55.2,55.6,Tue
-03/04/2018,15:33,NZD,orange,GDT Price Index,https://www.forexfactory.com/calendar?month=april.2018#detail=90965,-0.6%,,-1.2%,Tue
-03/04/2018,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2018#detail=87508,17.5M,16.9M,17.1M,Tue
-03/04/2018,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2018#detail=110341,17.4M,16.9M,17.0M,Tue
-03/04/2018,21:30,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94473,,,,Tue
-03/04/2018,,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2018#detail=99193,,,,Tue
-04/04/2018,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88220,-1.0%,,-0.8%,Wed
-04/04/2018,02:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91457,0.6%,0.3%,0.2%,Wed
-04/04/2018,,AUD,orange,Building Approvals m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91514,-6.2%,-5.1%,17.2%,Wed
-04/04/2018,02:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89964,52.3,54.5,54.2,Wed
-04/04/2018,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=85525,10.9%,11.0%,11.1%,Wed
-04/04/2018,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=88042,47.0,50.9,51.4,Wed
-04/04/2018,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88588,1.0%,1.1%,1.0%,Wed
-04/04/2018,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88591,1.4%,1.4%,1.1%,Wed
-04/04/2018,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=88593,8.5%,8.5%,8.6%,Wed
-04/04/2018,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=86871,241K,208K,246K,Wed
-04/04/2018,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86708,54.0,54.3,54.1,Wed
-04/04/2018,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86717,58.8,59.0,59.5,Wed
-04/04/2018,,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89191,1.2%,1.7%,-1.3%,Wed
-04/04/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2018#detail=86301,-4.6M,1.4M,1.6M,Wed
-04/04/2018,16:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94470,,,,Wed
-04/04/2018,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91227,56.9,,54.0,Wed
-05/04/2018,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92544,,,,Thu
-05/04/2018,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90868,1.2%,,2.8%,Thu
-05/04/2018,02:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=91486,0.83B,0.68B,0.95B,Thu
-05/04/2018,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92665,0.3%,1.6%,-3.5%,Thu
-05/04/2018,08:15,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90459,0.4%,0.2%,0.4%,Thu
-05/04/2018,,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85406,56.2,56.2,57.3,Thu
-05/04/2018,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85528,52.6,53.9,55.0,Thu
-05/04/2018,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85733,56.9,56.8,56.8,Thu
-05/04/2018,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85735,53.9,54.2,54.2,Thu
-05/04/2018,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85731,54.9,55.0,55.0,Thu
-05/04/2018,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85737,51.7,53.9,54.5,Thu
-05/04/2018,09:57,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=85408,1.15|1.5,,1.36|1.3,Thu
-05/04/2018,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=88596,0.1%,0.0%,0.4%,Thu
-05/04/2018,,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=88597,0.1%,0.6%,-0.3%,Thu
-05/04/2018,10:03,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=85940,0.74|1.9,,0.90|1.9,Thu
-05/04/2018,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=86874,39.4%,,-4.3%,Thu
-05/04/2018,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=93108,-2.7B,-2.1B,-1.9B,Thu
-05/04/2018,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2018#detail=86293,242K,225K,218K,Thu
-05/04/2018,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=89334,-57.6B,-56.9B,-56.7B,Thu
-05/04/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2018#detail=86287,-29B,-29B,-63B,Thu
-05/04/2018,17:00,CHF,orange,Gov Board Member Maechler Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94462,,,,Thu
-05/04/2018,18:00,USD,orange,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94474,,,,Thu
-06/04/2018,00:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92275,-0.9%,0.3%,1.9%,Fri
-06/04/2018,01:00,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92180,1.3%,0.5%,1.2%,Fri
-06/04/2018,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92546,,,,Fri
-06/04/2018,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=april.2018#detail=92038,105.8%,105.5%,105.6%,Fri
-06/04/2018,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92666,-1.6%,0.2%,0.1%,Fri
-06/04/2018,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=85968,-28.5B,,-10.8B,Fri
-06/04/2018,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=85976,-5.2B,-5.3B,-5.4B,Fri
-06/04/2018,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=april.2018#detail=90345,738B,,732B,Fri
-06/04/2018,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85920,50.1,,52.3,Fri
-06/04/2018,09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=87938,-6.7B,-6.7B,-6.3B,Fri
-06/04/2018,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=93110,32.3K,20.1K,15.4K,Fri
-06/04/2018,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=93113,5.8%,5.8%,5.8%,Fri
-06/04/2018,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=86534,0.3%,0.3%,0.1%,Fri
-06/04/2018,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=86543,103K,188K,326K,Fri
-06/04/2018,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=86545,4.1%,4.0%,4.1%,Fri
-06/04/2018,15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89697,59.8,60.2,59.6,Fri
-06/04/2018,16:15,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94465,,,,Fri
-06/04/2018,18:30,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94469,,,,Fri
-06/04/2018,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89161,10.6B,15.3B,15.6B,Fri
-08/04/2018,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91236,57.2,,56.0,Sun
-09/04/2018,00:50,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2018#detail=91927,1.02T,1.39T,2.02T,Mon
-09/04/2018,06:03,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=91798,44.3,44.6,44.3,Mon
-09/04/2018,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=90439,2.9%,2.9%,2.9%,Mon
-09/04/2018,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=92669,19.2B,23.1B,21.5B,Mon
-09/04/2018,,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=91813,48.9,48.1,48.6,Mon
-09/04/2018,08:30,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87261,1.5%,0.1%,0.5%,Mon
-09/04/2018,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=88802,19.6,21.2,24.0,Mon
-09/04/2018,15:30,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=april.2018#detail=89683,,,,Mon
-09/04/2018,23:00,NZD,orange,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=90656,-11,,-12,Mon
-10/04/2018,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88250,1.4%,,0.6%,Tue
-10/04/2018,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=91279,7,,9,Tue
-10/04/2018,06:57,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=91860,28.1%,,39.5%,Tue
-10/04/2018,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=86036,1.2%,1.5%,-1.8%,Tue
-10/04/2018,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=85608,-0.5%,1.0%,-1.8%,Tue
-10/04/2018,10:00,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94741,,,,Tue
-10/04/2018,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=april.2018#detail=87527,104.7,107.0,107.6,Tue
-10/04/2018,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=april.2018#detail=89811,225K,219K,231K,Tue
-10/04/2018,13:30,CAD,orange,Building Permits m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93114,-2.6%,-1.5%,5.2%,Tue
-10/04/2018,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87413,0.3%,0.1%,0.2%,Tue
-10/04/2018,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87411,0.3%,0.2%,0.2%,Tue
-10/04/2018,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89469,1.0%,0.8%,1.1%,Tue
-10/04/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2018#detail=99195,,,,Tue
-11/04/2018,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=91917,2.0%,2.1%,2.1%,Wed
-11/04/2018,,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92028,2.1%,-2.6%,8.2%,Wed
-11/04/2018,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92201,2.1%,2.1%,2.6%,Wed
-11/04/2018,01:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=91173,-0.6%,,0.2%,Wed
-11/04/2018,02:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90043,2.1%,2.6%,2.9%,Wed
-11/04/2018,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90028,3.1%,3.2%,3.7%,Wed
-11/04/2018,06:00,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94734,,,,Wed
-11/04/2018,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=85607,0.4%,0.3%,-0.5%,Wed
-11/04/2018,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87899,-0.2%,0.2%,0.0%,Wed
-11/04/2018,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=88498,-10.2B,-12.0B,-12.2B,Wed
-11/04/2018,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87949,-1.6%,0.7%,-3.1%,Wed
-11/04/2018,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87896,0.1%,0.4%,1.3%,Wed
-11/04/2018,10:34,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=94477,1.12|1.0,,1.27|1.1,Wed
-11/04/2018,12:08,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=april.2018#detail=87834,0.2%,,0.1%,Wed
-11/04/2018,12:10,EUR,orange,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94739,,,,Wed
-11/04/2018,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87447,0.2%,0.2%,0.2%,Wed
-11/04/2018,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87449,-0.1%,0.0%,0.2%,Wed
-11/04/2018,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=128605,2.4%,2.4%,2.2%,Wed
-11/04/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2018#detail=86298,3.3M,-0.6M,-4.6M,Wed
-11/04/2018,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=87079,2.80|2.5,,2.89|2.5,Wed
-11/04/2018,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2018#detail=87019,,,,Wed
-11/04/2018,,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=87051,-208.7B,-191.0B,-215.2B,Wed
-12/04/2018,00:00,NZD,orange,RBNZ Assist Gov McDermott Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95304,,,,Thu
-12/04/2018,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=88375,0%,2%,0%,Thu
-12/04/2018,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=91938,3.2%,3.2%,3.2%,Thu
-12/04/2018,01:30,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94735,,,,Thu
-12/04/2018,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2018#detail=91140,3.6%,,3.7%,Thu
-12/04/2018,02:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91551,-0.2%,-0.3%,-1.0%,Thu
-12/04/2018,03:00,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90170,0.5%,,0.5%,Thu
-12/04/2018,04:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=91692,0.71|4.3,,0.75|4.2,Thu
-12/04/2018,07:30,GBP,orange,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94743,,,,Thu
-12/04/2018,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=86097,1.0%,1.0%,1.0%,Thu
-12/04/2018,09:30,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=april.2018#detail=86195,,,,Thu
-12/04/2018,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=88598,-0.8%,0.1%,-0.6%,Thu
-12/04/2018,12:30,EUR,red,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=april.2018#detail=86166,,,,Thu
-12/04/2018,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93116,-0.2%,0.1%,0.0%,Thu
-12/04/2018,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2018#detail=86294,233K,231K,242K,Thu
-12/04/2018,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87384,0.0%,0.2%,0.3%,Thu
-12/04/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2018#detail=86288,-19B,-11B,-29B,Thu
-12/04/2018,17:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94737,,,,Thu
-12/04/2018,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=87082,3.04|2.4,,3.11|2.4,Thu
-12/04/2018,20:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94738,,,,Thu
-12/04/2018,23:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=90636,52.2,,53.3,Thu
-13/04/2018,02:30,AUD,orange,RBA Financial Stability Review,https://www.forexfactory.com/calendar?month=april.2018#detail=91048,,,,Fri
-13/04/2018,04:09,CNY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=90081,-30B,179B,225B,Fri
-13/04/2018,04:10,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=90091,-5.0B,27.1B,33.7B,Fri
-13/04/2018,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92672,0.4%,0.4%,0.4%,Fri
-13/04/2018,09:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90121,8.2%,8.9%,8.8%,Fri
-13/04/2018,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=april.2018#detail=90132,1120B,1326B,839B,Fri
-13/04/2018,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=88599,21.0B,20.2B,20.2B,Fri
-13/04/2018,15:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=86535,97.8,100.6,101.4,Fri
-13/04/2018,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=april.2018#detail=87147,6.05M,6.11M,6.23M,Fri
-13/04/2018,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2018#detail=86538,2.7%,,2.8%,Fri
-13/04/2018,22:00,USD,orange,Treasury Currency Report,https://www.forexfactory.com/calendar?month=april.2018#detail=87032,,,,Fri
-15/04/2018,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=april.2018#detail=127192,58.8,,55.3,Sun
-15/04/2018,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90773,1.0%,,-0.5%,Sun
-16/04/2018,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=88371,0.4%,,1.5%,Mon
-16/04/2018,06:52,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92675,0.0%,0.4%,-0.3%,Mon
-16/04/2018,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90481,-0.2%,0.4%,0.3%,Mon
-16/04/2018,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89265,0.2%,0.2%,0.2%,Mon
-16/04/2018,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89263,0.6%,0.4%,-0.1%,Mon
-16/04/2018,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=89545,15.8,19.8,22.5,Mon
-16/04/2018,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93443,-0.4%,,0.0%,Mon
-16/04/2018,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89129,0.6%,0.6%,0.6%,Mon
-16/04/2018,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=april.2018#detail=87548,69,71,70,Mon
-16/04/2018,18:15,USD,orange,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95310,,,,Mon
-16/04/2018,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=april.2018#detail=89424,49.0B,52.3B,61.4B,Mon
-17/04/2018,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2018#detail=91075,,,,Tue
-17/04/2018,03:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90202,6.8%,6.8%,6.8%,Tue
-17/04/2018,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90208,7.5%,7.7%,7.9%,Tue
-17/04/2018,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90203,6.0%,6.4%,7.2%,Tue
-17/04/2018,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=april.2018#detail=90209,,,,Tue
-17/04/2018,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90206,10.1%,9.7%,9.7%,Tue
-17/04/2018,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=98781,5.1%,,5.0%,Tue
-17/04/2018,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92088,2.0%,4.0%,4.1%,Tue
-17/04/2018,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87985,2.8%,3.0%,2.8%,Tue
-17/04/2018,,GBP,orange,Claimant Count Change,https://www.forexfactory.com/calendar?month=april.2018#detail=87986,11.6K,13.3K,15.1K,Tue
-17/04/2018,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=87989,4.2%,4.3%,4.3%,Tue
-17/04/2018,10:00,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=88892,-8.2,-0.8,5.1,Tue
-17/04/2018,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=85610,3.10B,2.23B,-0.09B,Tue
-17/04/2018,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=88888,1.9,7.3,13.4,Tue
-17/04/2018,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=april.2018#detail=93119,3.96B,7.24B,5.63B,Tue
-17/04/2018,,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93120,1.9%,1.0%,-1.3%,Tue
-17/04/2018,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=april.2018#detail=87300,1.35M,1.33M,1.32M,Tue
-17/04/2018,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=april.2018#detail=87298,1.32M,1.27M,1.30M,Tue
-17/04/2018,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=87348,78.0%,77.9%,78.1%,Tue
-17/04/2018,,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95941,,,,Tue
-17/04/2018,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87350,0.5%,0.3%,1.1%,Tue
-17/04/2018,15:00,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95943,,,,Tue
-17/04/2018,15:26,NZD,orange,GDT Price Index,https://www.forexfactory.com/calendar?month=april.2018#detail=90966,2.7%,,-0.6%,Tue
-17/04/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2018#detail=99197,,,,Tue
-17/04/2018,22:40,USD,orange,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95945,,,,Tue
-18/04/2018,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=91889,0.12T,0.10T,-0.21T,Wed
-18/04/2018,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91400,-0.2%,,0.4%,Wed
-18/04/2018,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=136749,0.42%,,0.25%,Wed
-18/04/2018,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87676,2.5%,2.7%,2.7%,Wed
-18/04/2018,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87682,-0.1%,0.3%,-0.4%,Wed
-18/04/2018,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87680,3.3%,3.5%,3.6%,Wed
-18/04/2018,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87677,2.3%,2.5%,2.4%,Wed
-18/04/2018,,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87685,4.4%,4.8%,4.7%,Wed
-18/04/2018,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87683,0.2%,0.1%,0.0%,Wed
-18/04/2018,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88601,1.3%,1.4%,1.4%,Wed
-18/04/2018,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88602,1.0%,1.0%,1.0%,Wed
-18/04/2018,10:32,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=92922,0.51|1.4,,0.60|1.3,Wed
-18/04/2018,15:00,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=april.2018#detail=89729,,,,Wed
-18/04/2018,,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=april.2018#detail=89731,,,,Wed
-18/04/2018,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=89734,1.25%,1.25%,1.25%,Wed
-18/04/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2018#detail=86303,-1.1M,-0.5M,3.3M,Wed
-18/04/2018,16:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=april.2018#detail=89766,,,,Wed
-18/04/2018,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=april.2018#detail=87008,,,,Wed
-18/04/2018,20:15,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95946,,,,Wed
-18/04/2018,21:15,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95949,,,,Wed
-18/04/2018,23:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=90921,0.5%,0.4%,0.1%,Wed
-19/04/2018,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=91334,4.9K,20.3K,-6.3K,Thu
-19/04/2018,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=91337,5.5%,5.5%,5.5%,Thu
-19/04/2018,,AUD,yellow,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=91266,7,,7,Thu
-19/04/2018,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2018#detail=88850,35.1B,32.3B,39.0B,Thu
-19/04/2018,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87861,-1.2%,-0.5%,0.8%,Thu
-19/04/2018,09:44,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=85416,1.24|1.3,,1.15|1.5,Thu
-19/04/2018,10:36,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=95311,1.60|2.4,,1.58|2.6,Thu
-19/04/2018,13:00,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95952,,,,Thu
-19/04/2018,13:30,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=89058,42.8K,,16.2K,Thu
-19/04/2018,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=89517,23.2,20.8,22.3,Thu
-19/04/2018,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2018#detail=86295,232K,230K,233K,Thu
-19/04/2018,14:30,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95955,,,,Thu
-19/04/2018,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90273,0.3%,0.3%,0.7%,Thu
-19/04/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2018#detail=86289,-36B,-23B,-19B,Thu
-19/04/2018,17:30,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95960,,,,Thu
-19/04/2018,23:45,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95957,,,,Thu
-20/04/2018,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92349,0.9%,0.9%,1.0%,Fri
-20/04/2018,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92151,0.0%,0.1%,-0.4%,Fri
-20/04/2018,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92676,0.1%,0.2%,-0.1%,Fri
-20/04/2018,All Day,All,orange,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=97891,,,,Fri
-20/04/2018,10:30,GBP,orange,MPC Member Saunders Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95959,,,,Fri
-20/04/2018,12:30,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95309,,,,Fri
-20/04/2018,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93124,0.0%,0.4%,1.0%,Fri
-20/04/2018,,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93126,0.3%,0.4%,0.6%,Fri
-20/04/2018,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=93122,1.9%,,1.9%,Fri
-20/04/2018,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=93129,2.1%,,2.1%,Fri
-20/04/2018,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93127,0.4%,0.4%,0.1%,Fri
-20/04/2018,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=93130,2.0%,,2.1%,Fri
-20/04/2018,,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93123,0.2%,,0.7%,Fri
-20/04/2018,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=88826,0,0,0,Fri
-20/04/2018,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=93503,,,,Fri
-20/04/2018,16:15,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95961,,,,Fri
-21/04/2018,Day 2,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=93504,,,,Sat
-22/04/2018,Day 3,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=93507,,,,Sun
-23/04/2018,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=91733,53.3,53.4,53.1,Mon
-23/04/2018,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90848,7.2%,,7.0%,Mon
-23/04/2018,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85739,53.4,53.4,53.7,Mon
-23/04/2018,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85740,57.4,56.6,56.9,Mon
-23/04/2018,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85741,58.1,57.6,58.2,Mon
-23/04/2018,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85742,54.1,53.9,53.9,Mon
-23/04/2018,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85743,56.0,56.6,56.6,Mon
-23/04/2018,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85745,55.0,54.8,54.9,Mon
-23/04/2018,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=april.2018#detail=88930,,,,Mon
-23/04/2018,13:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93131,-0.8%,0.3%,0.3%,Mon
-23/04/2018,14:45,USD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86719,56.5,55.2,55.6,Mon
-23/04/2018,,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86721,54.4,54.3,54.0,Mon
-23/04/2018,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=april.2018#detail=89572,5.60M,5.55M,5.54M,Mon
-23/04/2018,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93465,0.3%,,-0.3%,Mon
-23/04/2018,20:30,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98001,,,,Mon
-23/04/2018,23:00,AUD,orange,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98000,,,,Mon
-23/04/2018,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90775,-2.1%,,3.6%,Mon
-24/04/2018,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=96624,0.5%,0.5%,0.7%,Tue
-24/04/2018,02:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=91656,0.4%,0.5%,0.6%,Tue
-24/04/2018,,AUD,red,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=91661,0.5%,0.5%,0.4%,Tue
-24/04/2018,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92237,0.7%,0.7%,0.8%,Tue
-24/04/2018,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=90532,1.77B,3.23B,3.08B,Tue
-24/04/2018,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=april.2018#detail=92852,102.1,102.7,103.3,Tue
-24/04/2018,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=april.2018#detail=88339,-0.3B,1.1B,-0.4B,Tue
-24/04/2018,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=april.2018#detail=88091,4,4,4,Tue
-24/04/2018,13:58,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=april.2018#detail=93562,1.0,-0.6,0.1,Tue
-24/04/2018,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87196,0.6%,0.5%,0.9%,Tue
-24/04/2018,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87221,6.8%,6.3%,6.4%,Tue
-24/04/2018,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=89496,-3,16,15,Tue
-24/04/2018,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=86877,128.7,126.0,127.0,Tue
-24/04/2018,,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=april.2018#detail=87302,694K,625K,667K,Tue
-24/04/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2018#detail=99198,,,,Tue
-24/04/2018,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=89877,,,,Tue
-24/04/2018,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=89852,,,,Tue
-25/04/2018,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91988,0.4%,0.6%,-1.1%,Wed
-25/04/2018,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=93026,,,,Wed
-25/04/2018,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=april.2018#detail=90415,7.2,,16.7,Wed
-25/04/2018,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90294,1.7%,,1.2%,Wed
-25/04/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2018#detail=86304,2.2M,-1.6M,-1.1M,Wed
-25/04/2018,21:15,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98003,,,,Wed
-26/04/2018,02:30,AUD,yellow,Import Prices q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=91636,2.1%,1.3%,2.0%,Thu
-26/04/2018,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=april.2018#detail=92876,10.8,10.9,10.9,Thu
-26/04/2018,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=85410,16.7%,16.3%,16.6%,Thu
-26/04/2018,09:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=april.2018#detail=88437,37.6K,37.1K,38.0K,Thu
-26/04/2018,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=april.2018#detail=88070,-2,-3,-8,Thu
-26/04/2018,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=86143,0.00%,0.00%,0.00%,Thu
-26/04/2018,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2018#detail=109176,,,,Thu
-26/04/2018,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=april.2018#detail=86142,,,,Thu
-26/04/2018,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89218,0.0%,0.5%,1.0%,Thu
-26/04/2018,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89219,2.6%,1.6%,3.0%,Thu
-26/04/2018,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2018#detail=86297,209K,230K,233K,Thu
-26/04/2018,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=89305,-68.0B,-74.8B,-75.9B,Thu
-26/04/2018,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89447,0.5%,0.6%,1.0%,Thu
-26/04/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2018#detail=86292,-18B,-11B,-36B,Thu
-26/04/2018,23:05,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=87808,-9,-7,-7,Thu
-26/04/2018,23:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=90776,-86M,270M,172M,Thu
-27/04/2018,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92358,0.6%,0.8%,0.8%,Fri
-27/04/2018,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=92293,2.5%,2.5%,2.5%,Fri
-27/04/2018,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92066,1.2%,0.5%,2.0%,Fri
-27/04/2018,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92111,1.0%,1.5%,1.7%,Fri
-27/04/2018,02:30,AUD,yellow,PPI q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=91648,0.5%,0.4%,0.6%,Fri
-27/04/2018,04:03,JPY,red,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=april.2018#detail=91830,,,,Fri
-27/04/2018,,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2018#detail=92401,,,,Fri
-27/04/2018,,JPY,orange,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=92400,-0.10%,-0.10%,-0.10%,Fri
-27/04/2018,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=91840,-8.3%,-5.1%,-2.6%,Fri
-27/04/2018,06:30,EUR,yellow,French Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=86130,0.3%,0.4%,0.7%,Fri
-27/04/2018,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92678,0.0%,0.1%,-0.6%,Fri
-27/04/2018,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=88414,0.2%,0.2%,-0.2%,Fri
-27/04/2018,07:29,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2018#detail=92404,,,,Fri
-27/04/2018,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=86061,0.1%,0.4%,2.5%,Fri
-27/04/2018,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=86084,0.1%,0.1%,1.0%,Fri
-27/04/2018,08:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=85414,1.1%,1.2%,1.2%,Fri
-27/04/2018,,EUR,orange,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=85412,0.7%,0.7%,0.7%,Fri
-27/04/2018,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=92677,-7K,-15K,-18K,Fri
-27/04/2018,09:00,CHF,red,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98004,,,,Fri
-27/04/2018,09:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=88275,0.1%,0.3%,0.4%,Fri
-27/04/2018,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2018#detail=88288,0.4%,0.6%,0.6%,Fri
-27/04/2018,10:15,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=85530,1.70|1.4,,1.83|1.3,Fri
-27/04/2018,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=93399,,,,Fri
-27/04/2018,13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=89635,2.3%,2.0%,2.9%,Fri
-27/04/2018,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=89632,2.0%,2.2%,2.3%,Fri
-27/04/2018,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=87473,0.8%,0.7%,0.6%,Fri
-27/04/2018,15:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98007,,,,Fri
-27/04/2018,,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=86537,98.8,98.0,97.8,Fri
-27/04/2018,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2018#detail=86540,2.7%,,2.7%,Fri
-30/04/2018,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92506,,,,Mon
-30/04/2018,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92547,,,,Mon
-30/04/2018,02:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91619,0.5%,,0.1%,Mon
-30/04/2018,,CNY,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89977,51.4,51.3,51.5,Mon
-30/04/2018,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89982,54.8,54.6,54.6,Mon
-30/04/2018,,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=90611,-23.4,,-20.0,Mon
-30/04/2018,02:15,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91574,-2.0%,,-0.7%,Mon
-30/04/2018,02:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91432,0.5%,0.4%,0.4%,Mon
-30/04/2018,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92684,-0.6%,0.8%,-0.2%,Mon
-30/04/2018,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92681,0.0%,-0.1%,0.4%,Mon
-30/04/2018,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=april.2018#detail=90586,105.3,105.9,105.1,Mon
-30/04/2018,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=93592,3.7%,4.1%,4.2%,Mon
-30/04/2018,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=93594,3.0%,2.9%,2.9%,Mon
-30/04/2018,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=85606,0.1%,0.2%,0.3%,Mon
-30/04/2018,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=93401,,,,Mon
-30/04/2018,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93133,2.1%,0.6%,-0.4%,Mon
-30/04/2018,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93132,0.8%,0.2%,0.3%,Mon
-30/04/2018,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89368,0.2%,0.2%,0.2%,Mon
-30/04/2018,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89367,0.4%,0.4%,0.0%,Mon
-30/04/2018,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89370,0.3%,0.4%,0.3%,Mon
-30/04/2018,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86879,57.6,58.2,57.4,Mon
-30/04/2018,15:00,USD,yellow,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89573,0.4%,0.6%,2.8%,Mon
-30/04/2018,19:30,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98030,,,,Mon
-30/04/2018,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91198,58.3,,63.1,Mon
-30/04/2018,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90779,14.7%,,6.4%,Mon
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/04/2018,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=89876,,,,Sun,Africa/Lagos
+01/04/2018,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=89850,,,,Sun,Africa/Lagos
+02/04/2018,00:50,JPY,yellow,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91778,24,25,25,Mon,Africa/Lagos
+02/04/2018,,JPY,yellow,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91775,23,24,23,Mon,Africa/Lagos
+02/04/2018,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=91728,53.1,53.2,53.2,Mon,Africa/Lagos
+02/04/2018,02:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91616,0.1%,,-0.1%,Mon,Africa/Lagos
+02/04/2018,02:45,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89932,51.0,51.8,51.6,Mon,Africa/Lagos
+02/04/2018,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92579,,,,Mon,Africa/Lagos
+02/04/2018,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92980,,,,Mon,Africa/Lagos
+02/04/2018,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92982,,,,Mon,Africa/Lagos
+02/04/2018,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92983,,,,Mon,Africa/Lagos
+02/04/2018,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=89906,,,,Mon,Africa/Lagos
+02/04/2018,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89779,55.7,,55.6,Mon,Africa/Lagos
+02/04/2018,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86706,55.6,55.7,55.7,Mon,Africa/Lagos
+02/04/2018,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86714,59.3,60.1,60.8,Mon,Africa/Lagos
+02/04/2018,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87169,0.1%,0.4%,0.0%,Mon,Africa/Lagos
+02/04/2018,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=april.2018#detail=86711,78.1,72.5,74.2,Mon,Africa/Lagos
+02/04/2018,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91195,63.1,,57.5,Mon,Africa/Lagos
+03/04/2018,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92376,9.1%,9.6%,9.4%,Tue,Africa/Lagos
+03/04/2018,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91304,0.0%,,-0.4%,Tue,Africa/Lagos
+03/04/2018,04:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=91670,0.03|4.2,,0.06|4.5,Tue,Africa/Lagos
+03/04/2018,05:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=april.2018#detail=91081,,,,Tue,Africa/Lagos
+03/04/2018,,AUD,orange,Cash Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=91078,1.50%,1.50%,1.50%,Tue,Africa/Lagos
+03/04/2018,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92662,-0.7%,0.7%,-0.3%,Tue,Africa/Lagos
+03/04/2018,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=91594,-2.1%,,-2.8%,Tue,Africa/Lagos
+03/04/2018,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=85409,-47.7K,-47.5K,-6.3K,Tue,Africa/Lagos
+03/04/2018,08:15,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90556,-0.2%,-0.7%,-0.4%,Tue,Africa/Lagos
+03/04/2018,,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85405,54.8,54.7,56.0,Tue,Africa/Lagos
+03/04/2018,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=90315,60.3,64.3,65.5,Tue,Africa/Lagos
+03/04/2018,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85527,55.1,55.6,56.8,Tue,Africa/Lagos
+03/04/2018,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85726,53.7,53.6,53.6,Tue,Africa/Lagos
+03/04/2018,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85727,58.2,58.4,58.4,Tue,Africa/Lagos
+03/04/2018,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85729,56.6,56.6,56.6,Tue,Africa/Lagos
+03/04/2018,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85730,55.1,54.8,55.0,Tue,Africa/Lagos
+03/04/2018,15:05,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=april.2018#detail=87121,52.6,55.2,55.6,Tue,Africa/Lagos
+03/04/2018,15:33,NZD,orange,GDT Price Index,https://www.forexfactory.com/calendar?month=april.2018#detail=90965,-0.6%,,-1.2%,Tue,Africa/Lagos
+03/04/2018,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2018#detail=87508,17.5M,16.9M,17.1M,Tue,Africa/Lagos
+03/04/2018,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2018#detail=110341,17.4M,16.9M,17.0M,Tue,Africa/Lagos
+03/04/2018,21:30,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94473,,,,Tue,Africa/Lagos
+03/04/2018,,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2018#detail=99193,,,,Tue,Africa/Lagos
+04/04/2018,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88220,-1.0%,,-0.8%,Wed,Africa/Lagos
+04/04/2018,02:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91457,0.6%,0.3%,0.2%,Wed,Africa/Lagos
+04/04/2018,,AUD,orange,Building Approvals m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91514,-6.2%,-5.1%,17.2%,Wed,Africa/Lagos
+04/04/2018,02:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89964,52.3,54.5,54.2,Wed,Africa/Lagos
+04/04/2018,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=85525,10.9%,11.0%,11.1%,Wed,Africa/Lagos
+04/04/2018,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=88042,47.0,50.9,51.4,Wed,Africa/Lagos
+04/04/2018,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88588,1.0%,1.1%,1.0%,Wed,Africa/Lagos
+04/04/2018,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88591,1.4%,1.4%,1.1%,Wed,Africa/Lagos
+04/04/2018,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=88593,8.5%,8.5%,8.6%,Wed,Africa/Lagos
+04/04/2018,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=86871,241K,208K,246K,Wed,Africa/Lagos
+04/04/2018,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86708,54.0,54.3,54.1,Wed,Africa/Lagos
+04/04/2018,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86717,58.8,59.0,59.5,Wed,Africa/Lagos
+04/04/2018,,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89191,1.2%,1.7%,-1.3%,Wed,Africa/Lagos
+04/04/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2018#detail=86301,-4.6M,1.4M,1.6M,Wed,Africa/Lagos
+04/04/2018,16:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94470,,,,Wed,Africa/Lagos
+04/04/2018,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91227,56.9,,54.0,Wed,Africa/Lagos
+05/04/2018,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92544,,,,Thu,Africa/Lagos
+05/04/2018,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90868,1.2%,,2.8%,Thu,Africa/Lagos
+05/04/2018,02:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=91486,0.83B,0.68B,0.95B,Thu,Africa/Lagos
+05/04/2018,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92665,0.3%,1.6%,-3.5%,Thu,Africa/Lagos
+05/04/2018,08:15,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90459,0.4%,0.2%,0.4%,Thu,Africa/Lagos
+05/04/2018,,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85406,56.2,56.2,57.3,Thu,Africa/Lagos
+05/04/2018,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85528,52.6,53.9,55.0,Thu,Africa/Lagos
+05/04/2018,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85733,56.9,56.8,56.8,Thu,Africa/Lagos
+05/04/2018,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85735,53.9,54.2,54.2,Thu,Africa/Lagos
+05/04/2018,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85731,54.9,55.0,55.0,Thu,Africa/Lagos
+05/04/2018,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85737,51.7,53.9,54.5,Thu,Africa/Lagos
+05/04/2018,09:57,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=85408,1.15|1.5,,1.36|1.3,Thu,Africa/Lagos
+05/04/2018,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=88596,0.1%,0.0%,0.4%,Thu,Africa/Lagos
+05/04/2018,,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=88597,0.1%,0.6%,-0.3%,Thu,Africa/Lagos
+05/04/2018,10:03,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=85940,0.74|1.9,,0.90|1.9,Thu,Africa/Lagos
+05/04/2018,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=86874,39.4%,,-4.3%,Thu,Africa/Lagos
+05/04/2018,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=93108,-2.7B,-2.1B,-1.9B,Thu,Africa/Lagos
+05/04/2018,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2018#detail=86293,242K,225K,218K,Thu,Africa/Lagos
+05/04/2018,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=89334,-57.6B,-56.9B,-56.7B,Thu,Africa/Lagos
+05/04/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2018#detail=86287,-29B,-29B,-63B,Thu,Africa/Lagos
+05/04/2018,17:00,CHF,orange,Gov Board Member Maechler Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94462,,,,Thu,Africa/Lagos
+05/04/2018,18:00,USD,orange,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94474,,,,Thu,Africa/Lagos
+06/04/2018,00:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92275,-0.9%,0.3%,1.9%,Fri,Africa/Lagos
+06/04/2018,01:00,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92180,1.3%,0.5%,1.2%,Fri,Africa/Lagos
+06/04/2018,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92546,,,,Fri,Africa/Lagos
+06/04/2018,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=april.2018#detail=92038,105.8%,105.5%,105.6%,Fri,Africa/Lagos
+06/04/2018,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92666,-1.6%,0.2%,0.1%,Fri,Africa/Lagos
+06/04/2018,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=85968,-28.5B,,-10.8B,Fri,Africa/Lagos
+06/04/2018,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=85976,-5.2B,-5.3B,-5.4B,Fri,Africa/Lagos
+06/04/2018,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=april.2018#detail=90345,738B,,732B,Fri,Africa/Lagos
+06/04/2018,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85920,50.1,,52.3,Fri,Africa/Lagos
+06/04/2018,09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=87938,-6.7B,-6.7B,-6.3B,Fri,Africa/Lagos
+06/04/2018,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=93110,32.3K,20.1K,15.4K,Fri,Africa/Lagos
+06/04/2018,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=93113,5.8%,5.8%,5.8%,Fri,Africa/Lagos
+06/04/2018,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=86534,0.3%,0.3%,0.1%,Fri,Africa/Lagos
+06/04/2018,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=86543,103K,188K,326K,Fri,Africa/Lagos
+06/04/2018,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=86545,4.1%,4.0%,4.1%,Fri,Africa/Lagos
+06/04/2018,15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89697,59.8,60.2,59.6,Fri,Africa/Lagos
+06/04/2018,16:15,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94465,,,,Fri,Africa/Lagos
+06/04/2018,18:30,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94469,,,,Fri,Africa/Lagos
+06/04/2018,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89161,10.6B,15.3B,15.6B,Fri,Africa/Lagos
+08/04/2018,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91236,57.2,,56.0,Sun,Africa/Lagos
+09/04/2018,00:50,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2018#detail=91927,1.02T,1.39T,2.02T,Mon,Africa/Lagos
+09/04/2018,06:03,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=91798,44.3,44.6,44.3,Mon,Africa/Lagos
+09/04/2018,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=90439,2.9%,2.9%,2.9%,Mon,Africa/Lagos
+09/04/2018,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=92669,19.2B,23.1B,21.5B,Mon,Africa/Lagos
+09/04/2018,,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=91813,48.9,48.1,48.6,Mon,Africa/Lagos
+09/04/2018,08:30,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87261,1.5%,0.1%,0.5%,Mon,Africa/Lagos
+09/04/2018,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=88802,19.6,21.2,24.0,Mon,Africa/Lagos
+09/04/2018,15:30,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=april.2018#detail=89683,,,,Mon,Africa/Lagos
+09/04/2018,23:00,NZD,orange,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=90656,-11,,-12,Mon,Africa/Lagos
+10/04/2018,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88250,1.4%,,0.6%,Tue,Africa/Lagos
+10/04/2018,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=91279,7,,9,Tue,Africa/Lagos
+10/04/2018,06:57,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=91860,28.1%,,39.5%,Tue,Africa/Lagos
+10/04/2018,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=86036,1.2%,1.5%,-1.8%,Tue,Africa/Lagos
+10/04/2018,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=85608,-0.5%,1.0%,-1.8%,Tue,Africa/Lagos
+10/04/2018,10:00,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94741,,,,Tue,Africa/Lagos
+10/04/2018,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=april.2018#detail=87527,104.7,107.0,107.6,Tue,Africa/Lagos
+10/04/2018,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=april.2018#detail=89811,225K,219K,231K,Tue,Africa/Lagos
+10/04/2018,13:30,CAD,orange,Building Permits m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93114,-2.6%,-1.5%,5.2%,Tue,Africa/Lagos
+10/04/2018,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87413,0.3%,0.1%,0.2%,Tue,Africa/Lagos
+10/04/2018,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87411,0.3%,0.2%,0.2%,Tue,Africa/Lagos
+10/04/2018,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89469,1.0%,0.8%,1.1%,Tue,Africa/Lagos
+10/04/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2018#detail=99195,,,,Tue,Africa/Lagos
+11/04/2018,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=91917,2.0%,2.1%,2.1%,Wed,Africa/Lagos
+11/04/2018,,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92028,2.1%,-2.6%,8.2%,Wed,Africa/Lagos
+11/04/2018,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92201,2.1%,2.1%,2.6%,Wed,Africa/Lagos
+11/04/2018,01:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=91173,-0.6%,,0.2%,Wed,Africa/Lagos
+11/04/2018,02:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90043,2.1%,2.6%,2.9%,Wed,Africa/Lagos
+11/04/2018,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90028,3.1%,3.2%,3.7%,Wed,Africa/Lagos
+11/04/2018,06:00,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94734,,,,Wed,Africa/Lagos
+11/04/2018,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=85607,0.4%,0.3%,-0.5%,Wed,Africa/Lagos
+11/04/2018,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87899,-0.2%,0.2%,0.0%,Wed,Africa/Lagos
+11/04/2018,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=88498,-10.2B,-12.0B,-12.2B,Wed,Africa/Lagos
+11/04/2018,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87949,-1.6%,0.7%,-3.1%,Wed,Africa/Lagos
+11/04/2018,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87896,0.1%,0.4%,1.3%,Wed,Africa/Lagos
+11/04/2018,10:34,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=94477,1.12|1.0,,1.27|1.1,Wed,Africa/Lagos
+11/04/2018,12:08,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=april.2018#detail=87834,0.2%,,0.1%,Wed,Africa/Lagos
+11/04/2018,12:10,EUR,orange,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94739,,,,Wed,Africa/Lagos
+11/04/2018,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87447,0.2%,0.2%,0.2%,Wed,Africa/Lagos
+11/04/2018,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87449,-0.1%,0.0%,0.2%,Wed,Africa/Lagos
+11/04/2018,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=128605,2.4%,2.4%,2.2%,Wed,Africa/Lagos
+11/04/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2018#detail=86298,3.3M,-0.6M,-4.6M,Wed,Africa/Lagos
+11/04/2018,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=87079,2.80|2.5,,2.89|2.5,Wed,Africa/Lagos
+11/04/2018,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2018#detail=87019,,,,Wed,Africa/Lagos
+11/04/2018,,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=87051,-208.7B,-191.0B,-215.2B,Wed,Africa/Lagos
+12/04/2018,00:00,NZD,orange,RBNZ Assist Gov McDermott Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95304,,,,Thu,Africa/Lagos
+12/04/2018,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=88375,0%,2%,0%,Thu,Africa/Lagos
+12/04/2018,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=91938,3.2%,3.2%,3.2%,Thu,Africa/Lagos
+12/04/2018,01:30,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94735,,,,Thu,Africa/Lagos
+12/04/2018,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2018#detail=91140,3.6%,,3.7%,Thu,Africa/Lagos
+12/04/2018,02:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91551,-0.2%,-0.3%,-1.0%,Thu,Africa/Lagos
+12/04/2018,03:00,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90170,0.5%,,0.5%,Thu,Africa/Lagos
+12/04/2018,04:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=91692,0.71|4.3,,0.75|4.2,Thu,Africa/Lagos
+12/04/2018,07:30,GBP,orange,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94743,,,,Thu,Africa/Lagos
+12/04/2018,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=86097,1.0%,1.0%,1.0%,Thu,Africa/Lagos
+12/04/2018,09:30,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=april.2018#detail=86195,,,,Thu,Africa/Lagos
+12/04/2018,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=88598,-0.8%,0.1%,-0.6%,Thu,Africa/Lagos
+12/04/2018,12:30,EUR,red,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=april.2018#detail=86166,,,,Thu,Africa/Lagos
+12/04/2018,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93116,-0.2%,0.1%,0.0%,Thu,Africa/Lagos
+12/04/2018,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2018#detail=86294,233K,231K,242K,Thu,Africa/Lagos
+12/04/2018,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87384,0.0%,0.2%,0.3%,Thu,Africa/Lagos
+12/04/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2018#detail=86288,-19B,-11B,-29B,Thu,Africa/Lagos
+12/04/2018,17:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94737,,,,Thu,Africa/Lagos
+12/04/2018,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=87082,3.04|2.4,,3.11|2.4,Thu,Africa/Lagos
+12/04/2018,20:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=94738,,,,Thu,Africa/Lagos
+12/04/2018,23:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=90636,52.2,,53.3,Thu,Africa/Lagos
+13/04/2018,02:30,AUD,orange,RBA Financial Stability Review,https://www.forexfactory.com/calendar?month=april.2018#detail=91048,,,,Fri,Africa/Lagos
+13/04/2018,04:09,CNY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=90081,-30B,179B,225B,Fri,Africa/Lagos
+13/04/2018,04:10,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=90091,-5.0B,27.1B,33.7B,Fri,Africa/Lagos
+13/04/2018,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92672,0.4%,0.4%,0.4%,Fri,Africa/Lagos
+13/04/2018,09:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90121,8.2%,8.9%,8.8%,Fri,Africa/Lagos
+13/04/2018,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=april.2018#detail=90132,1120B,1326B,839B,Fri,Africa/Lagos
+13/04/2018,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=88599,21.0B,20.2B,20.2B,Fri,Africa/Lagos
+13/04/2018,15:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=86535,97.8,100.6,101.4,Fri,Africa/Lagos
+13/04/2018,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=april.2018#detail=87147,6.05M,6.11M,6.23M,Fri,Africa/Lagos
+13/04/2018,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2018#detail=86538,2.7%,,2.8%,Fri,Africa/Lagos
+13/04/2018,22:00,USD,orange,Treasury Currency Report,https://www.forexfactory.com/calendar?month=april.2018#detail=87032,,,,Fri,Africa/Lagos
+15/04/2018,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=april.2018#detail=127192,58.8,,55.3,Sun,Africa/Lagos
+15/04/2018,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90773,1.0%,,-0.5%,Sun,Africa/Lagos
+16/04/2018,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=88371,0.4%,,1.5%,Mon,Africa/Lagos
+16/04/2018,06:52,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92675,0.0%,0.4%,-0.3%,Mon,Africa/Lagos
+16/04/2018,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90481,-0.2%,0.4%,0.3%,Mon,Africa/Lagos
+16/04/2018,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89265,0.2%,0.2%,0.2%,Mon,Africa/Lagos
+16/04/2018,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89263,0.6%,0.4%,-0.1%,Mon,Africa/Lagos
+16/04/2018,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=89545,15.8,19.8,22.5,Mon,Africa/Lagos
+16/04/2018,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93443,-0.4%,,0.0%,Mon,Africa/Lagos
+16/04/2018,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89129,0.6%,0.6%,0.6%,Mon,Africa/Lagos
+16/04/2018,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=april.2018#detail=87548,69,71,70,Mon,Africa/Lagos
+16/04/2018,18:15,USD,orange,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95310,,,,Mon,Africa/Lagos
+16/04/2018,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=april.2018#detail=89424,49.0B,52.3B,61.4B,Mon,Africa/Lagos
+17/04/2018,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2018#detail=91075,,,,Tue,Africa/Lagos
+17/04/2018,03:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90202,6.8%,6.8%,6.8%,Tue,Africa/Lagos
+17/04/2018,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90208,7.5%,7.7%,7.9%,Tue,Africa/Lagos
+17/04/2018,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90203,6.0%,6.4%,7.2%,Tue,Africa/Lagos
+17/04/2018,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=april.2018#detail=90209,,,,Tue,Africa/Lagos
+17/04/2018,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90206,10.1%,9.7%,9.7%,Tue,Africa/Lagos
+17/04/2018,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=98781,5.1%,,5.0%,Tue,Africa/Lagos
+17/04/2018,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92088,2.0%,4.0%,4.1%,Tue,Africa/Lagos
+17/04/2018,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87985,2.8%,3.0%,2.8%,Tue,Africa/Lagos
+17/04/2018,,GBP,orange,Claimant Count Change,https://www.forexfactory.com/calendar?month=april.2018#detail=87986,11.6K,13.3K,15.1K,Tue,Africa/Lagos
+17/04/2018,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=87989,4.2%,4.3%,4.3%,Tue,Africa/Lagos
+17/04/2018,10:00,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=88892,-8.2,-0.8,5.1,Tue,Africa/Lagos
+17/04/2018,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=85610,3.10B,2.23B,-0.09B,Tue,Africa/Lagos
+17/04/2018,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=88888,1.9,7.3,13.4,Tue,Africa/Lagos
+17/04/2018,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=april.2018#detail=93119,3.96B,7.24B,5.63B,Tue,Africa/Lagos
+17/04/2018,,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93120,1.9%,1.0%,-1.3%,Tue,Africa/Lagos
+17/04/2018,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=april.2018#detail=87300,1.35M,1.33M,1.32M,Tue,Africa/Lagos
+17/04/2018,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=april.2018#detail=87298,1.32M,1.27M,1.30M,Tue,Africa/Lagos
+17/04/2018,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=87348,78.0%,77.9%,78.1%,Tue,Africa/Lagos
+17/04/2018,,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95941,,,,Tue,Africa/Lagos
+17/04/2018,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87350,0.5%,0.3%,1.1%,Tue,Africa/Lagos
+17/04/2018,15:00,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95943,,,,Tue,Africa/Lagos
+17/04/2018,15:26,NZD,orange,GDT Price Index,https://www.forexfactory.com/calendar?month=april.2018#detail=90966,2.7%,,-0.6%,Tue,Africa/Lagos
+17/04/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2018#detail=99197,,,,Tue,Africa/Lagos
+17/04/2018,22:40,USD,orange,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95945,,,,Tue,Africa/Lagos
+18/04/2018,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=91889,0.12T,0.10T,-0.21T,Wed,Africa/Lagos
+18/04/2018,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91400,-0.2%,,0.4%,Wed,Africa/Lagos
+18/04/2018,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=136749,0.42%,,0.25%,Wed,Africa/Lagos
+18/04/2018,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87676,2.5%,2.7%,2.7%,Wed,Africa/Lagos
+18/04/2018,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87682,-0.1%,0.3%,-0.4%,Wed,Africa/Lagos
+18/04/2018,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87680,3.3%,3.5%,3.6%,Wed,Africa/Lagos
+18/04/2018,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87677,2.3%,2.5%,2.4%,Wed,Africa/Lagos
+18/04/2018,,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87685,4.4%,4.8%,4.7%,Wed,Africa/Lagos
+18/04/2018,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87683,0.2%,0.1%,0.0%,Wed,Africa/Lagos
+18/04/2018,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88601,1.3%,1.4%,1.4%,Wed,Africa/Lagos
+18/04/2018,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=88602,1.0%,1.0%,1.0%,Wed,Africa/Lagos
+18/04/2018,10:32,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=92922,0.51|1.4,,0.60|1.3,Wed,Africa/Lagos
+18/04/2018,15:00,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=april.2018#detail=89729,,,,Wed,Africa/Lagos
+18/04/2018,,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=april.2018#detail=89731,,,,Wed,Africa/Lagos
+18/04/2018,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=89734,1.25%,1.25%,1.25%,Wed,Africa/Lagos
+18/04/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2018#detail=86303,-1.1M,-0.5M,3.3M,Wed,Africa/Lagos
+18/04/2018,16:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=april.2018#detail=89766,,,,Wed,Africa/Lagos
+18/04/2018,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=april.2018#detail=87008,,,,Wed,Africa/Lagos
+18/04/2018,20:15,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95946,,,,Wed,Africa/Lagos
+18/04/2018,21:15,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95949,,,,Wed,Africa/Lagos
+18/04/2018,23:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=90921,0.5%,0.4%,0.1%,Wed,Africa/Lagos
+19/04/2018,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=91334,4.9K,20.3K,-6.3K,Thu,Africa/Lagos
+19/04/2018,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=91337,5.5%,5.5%,5.5%,Thu,Africa/Lagos
+19/04/2018,,AUD,yellow,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=91266,7,,7,Thu,Africa/Lagos
+19/04/2018,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2018#detail=88850,35.1B,32.3B,39.0B,Thu,Africa/Lagos
+19/04/2018,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87861,-1.2%,-0.5%,0.8%,Thu,Africa/Lagos
+19/04/2018,09:44,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=85416,1.24|1.3,,1.15|1.5,Thu,Africa/Lagos
+19/04/2018,10:36,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=95311,1.60|2.4,,1.58|2.6,Thu,Africa/Lagos
+19/04/2018,13:00,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95952,,,,Thu,Africa/Lagos
+19/04/2018,13:30,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=89058,42.8K,,16.2K,Thu,Africa/Lagos
+19/04/2018,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=89517,23.2,20.8,22.3,Thu,Africa/Lagos
+19/04/2018,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2018#detail=86295,232K,230K,233K,Thu,Africa/Lagos
+19/04/2018,14:30,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95955,,,,Thu,Africa/Lagos
+19/04/2018,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90273,0.3%,0.3%,0.7%,Thu,Africa/Lagos
+19/04/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2018#detail=86289,-36B,-23B,-19B,Thu,Africa/Lagos
+19/04/2018,17:30,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95960,,,,Thu,Africa/Lagos
+19/04/2018,23:45,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95957,,,,Thu,Africa/Lagos
+20/04/2018,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92349,0.9%,0.9%,1.0%,Fri,Africa/Lagos
+20/04/2018,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92151,0.0%,0.1%,-0.4%,Fri,Africa/Lagos
+20/04/2018,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92676,0.1%,0.2%,-0.1%,Fri,Africa/Lagos
+20/04/2018,All Day,All,orange,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=97891,,,,Fri,Africa/Lagos
+20/04/2018,10:30,GBP,orange,MPC Member Saunders Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95959,,,,Fri,Africa/Lagos
+20/04/2018,12:30,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95309,,,,Fri,Africa/Lagos
+20/04/2018,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93124,0.0%,0.4%,1.0%,Fri,Africa/Lagos
+20/04/2018,,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93126,0.3%,0.4%,0.6%,Fri,Africa/Lagos
+20/04/2018,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=93122,1.9%,,1.9%,Fri,Africa/Lagos
+20/04/2018,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=93129,2.1%,,2.1%,Fri,Africa/Lagos
+20/04/2018,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93127,0.4%,0.4%,0.1%,Fri,Africa/Lagos
+20/04/2018,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=93130,2.0%,,2.1%,Fri,Africa/Lagos
+20/04/2018,,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93123,0.2%,,0.7%,Fri,Africa/Lagos
+20/04/2018,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=88826,0,0,0,Fri,Africa/Lagos
+20/04/2018,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=93503,,,,Fri,Africa/Lagos
+20/04/2018,16:15,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=95961,,,,Fri,Africa/Lagos
+21/04/2018,Day 2,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=93504,,,,Sat,Africa/Lagos
+22/04/2018,Day 3,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=93507,,,,Sun,Africa/Lagos
+23/04/2018,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=91733,53.3,53.4,53.1,Mon,Africa/Lagos
+23/04/2018,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=90848,7.2%,,7.0%,Mon,Africa/Lagos
+23/04/2018,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85739,53.4,53.4,53.7,Mon,Africa/Lagos
+23/04/2018,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85740,57.4,56.6,56.9,Mon,Africa/Lagos
+23/04/2018,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85741,58.1,57.6,58.2,Mon,Africa/Lagos
+23/04/2018,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85742,54.1,53.9,53.9,Mon,Africa/Lagos
+23/04/2018,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85743,56.0,56.6,56.6,Mon,Africa/Lagos
+23/04/2018,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=85745,55.0,54.8,54.9,Mon,Africa/Lagos
+23/04/2018,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=april.2018#detail=88930,,,,Mon,Africa/Lagos
+23/04/2018,13:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93131,-0.8%,0.3%,0.3%,Mon,Africa/Lagos
+23/04/2018,14:45,USD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86719,56.5,55.2,55.6,Mon,Africa/Lagos
+23/04/2018,,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86721,54.4,54.3,54.0,Mon,Africa/Lagos
+23/04/2018,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=april.2018#detail=89572,5.60M,5.55M,5.54M,Mon,Africa/Lagos
+23/04/2018,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93465,0.3%,,-0.3%,Mon,Africa/Lagos
+23/04/2018,20:30,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98001,,,,Mon,Africa/Lagos
+23/04/2018,23:00,AUD,orange,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98000,,,,Mon,Africa/Lagos
+23/04/2018,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90775,-2.1%,,3.6%,Mon,Africa/Lagos
+24/04/2018,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=96624,0.5%,0.5%,0.7%,Tue,Africa/Lagos
+24/04/2018,02:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=91656,0.4%,0.5%,0.6%,Tue,Africa/Lagos
+24/04/2018,,AUD,red,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=91661,0.5%,0.5%,0.4%,Tue,Africa/Lagos
+24/04/2018,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92237,0.7%,0.7%,0.8%,Tue,Africa/Lagos
+24/04/2018,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=90532,1.77B,3.23B,3.08B,Tue,Africa/Lagos
+24/04/2018,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=april.2018#detail=92852,102.1,102.7,103.3,Tue,Africa/Lagos
+24/04/2018,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=april.2018#detail=88339,-0.3B,1.1B,-0.4B,Tue,Africa/Lagos
+24/04/2018,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=april.2018#detail=88091,4,4,4,Tue,Africa/Lagos
+24/04/2018,13:58,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=april.2018#detail=93562,1.0,-0.6,0.1,Tue,Africa/Lagos
+24/04/2018,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=87196,0.6%,0.5%,0.9%,Tue,Africa/Lagos
+24/04/2018,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=87221,6.8%,6.3%,6.4%,Tue,Africa/Lagos
+24/04/2018,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=89496,-3,16,15,Tue,Africa/Lagos
+24/04/2018,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=86877,128.7,126.0,127.0,Tue,Africa/Lagos
+24/04/2018,,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=april.2018#detail=87302,694K,625K,667K,Tue,Africa/Lagos
+24/04/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2018#detail=99198,,,,Tue,Africa/Lagos
+24/04/2018,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=89877,,,,Tue,Africa/Lagos
+24/04/2018,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=89852,,,,Tue,Africa/Lagos
+25/04/2018,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91988,0.4%,0.6%,-1.1%,Wed,Africa/Lagos
+25/04/2018,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=93026,,,,Wed,Africa/Lagos
+25/04/2018,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=april.2018#detail=90415,7.2,,16.7,Wed,Africa/Lagos
+25/04/2018,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90294,1.7%,,1.2%,Wed,Africa/Lagos
+25/04/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2018#detail=86304,2.2M,-1.6M,-1.1M,Wed,Africa/Lagos
+25/04/2018,21:15,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98003,,,,Wed,Africa/Lagos
+26/04/2018,02:30,AUD,yellow,Import Prices q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=91636,2.1%,1.3%,2.0%,Thu,Africa/Lagos
+26/04/2018,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=april.2018#detail=92876,10.8,10.9,10.9,Thu,Africa/Lagos
+26/04/2018,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=85410,16.7%,16.3%,16.6%,Thu,Africa/Lagos
+26/04/2018,09:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=april.2018#detail=88437,37.6K,37.1K,38.0K,Thu,Africa/Lagos
+26/04/2018,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=april.2018#detail=88070,-2,-3,-8,Thu,Africa/Lagos
+26/04/2018,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=86143,0.00%,0.00%,0.00%,Thu,Africa/Lagos
+26/04/2018,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2018#detail=109176,,,,Thu,Africa/Lagos
+26/04/2018,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=april.2018#detail=86142,,,,Thu,Africa/Lagos
+26/04/2018,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89218,0.0%,0.5%,1.0%,Thu,Africa/Lagos
+26/04/2018,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89219,2.6%,1.6%,3.0%,Thu,Africa/Lagos
+26/04/2018,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2018#detail=86297,209K,230K,233K,Thu,Africa/Lagos
+26/04/2018,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=89305,-68.0B,-74.8B,-75.9B,Thu,Africa/Lagos
+26/04/2018,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89447,0.5%,0.6%,1.0%,Thu,Africa/Lagos
+26/04/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2018#detail=86292,-18B,-11B,-36B,Thu,Africa/Lagos
+26/04/2018,23:05,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=87808,-9,-7,-7,Thu,Africa/Lagos
+26/04/2018,23:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2018#detail=90776,-86M,270M,172M,Thu,Africa/Lagos
+27/04/2018,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92358,0.6%,0.8%,0.8%,Fri,Africa/Lagos
+27/04/2018,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=92293,2.5%,2.5%,2.5%,Fri,Africa/Lagos
+27/04/2018,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92066,1.2%,0.5%,2.0%,Fri,Africa/Lagos
+27/04/2018,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=92111,1.0%,1.5%,1.7%,Fri,Africa/Lagos
+27/04/2018,02:30,AUD,yellow,PPI q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=91648,0.5%,0.4%,0.6%,Fri,Africa/Lagos
+27/04/2018,04:03,JPY,red,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=april.2018#detail=91830,,,,Fri,Africa/Lagos
+27/04/2018,,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2018#detail=92401,,,,Fri,Africa/Lagos
+27/04/2018,,JPY,orange,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=april.2018#detail=92400,-0.10%,-0.10%,-0.10%,Fri,Africa/Lagos
+27/04/2018,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=91840,-8.3%,-5.1%,-2.6%,Fri,Africa/Lagos
+27/04/2018,06:30,EUR,yellow,French Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=86130,0.3%,0.4%,0.7%,Fri,Africa/Lagos
+27/04/2018,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92678,0.0%,0.1%,-0.6%,Fri,Africa/Lagos
+27/04/2018,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=88414,0.2%,0.2%,-0.2%,Fri,Africa/Lagos
+27/04/2018,07:29,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2018#detail=92404,,,,Fri,Africa/Lagos
+27/04/2018,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=86061,0.1%,0.4%,2.5%,Fri,Africa/Lagos
+27/04/2018,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=86084,0.1%,0.1%,1.0%,Fri,Africa/Lagos
+27/04/2018,08:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=85414,1.1%,1.2%,1.2%,Fri,Africa/Lagos
+27/04/2018,,EUR,orange,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=85412,0.7%,0.7%,0.7%,Fri,Africa/Lagos
+27/04/2018,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=april.2018#detail=92677,-7K,-15K,-18K,Fri,Africa/Lagos
+27/04/2018,09:00,CHF,red,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98004,,,,Fri,Africa/Lagos
+27/04/2018,09:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=88275,0.1%,0.3%,0.4%,Fri,Africa/Lagos
+27/04/2018,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2018#detail=88288,0.4%,0.6%,0.6%,Fri,Africa/Lagos
+27/04/2018,10:15,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2018#detail=85530,1.70|1.4,,1.83|1.3,Fri,Africa/Lagos
+27/04/2018,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=93399,,,,Fri,Africa/Lagos
+27/04/2018,13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=89635,2.3%,2.0%,2.9%,Fri,Africa/Lagos
+27/04/2018,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=89632,2.0%,2.2%,2.3%,Fri,Africa/Lagos
+27/04/2018,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=april.2018#detail=87473,0.8%,0.7%,0.6%,Fri,Africa/Lagos
+27/04/2018,15:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98007,,,,Fri,Africa/Lagos
+27/04/2018,,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2018#detail=86537,98.8,98.0,97.8,Fri,Africa/Lagos
+27/04/2018,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2018#detail=86540,2.7%,,2.7%,Fri,Africa/Lagos
+30/04/2018,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92506,,,,Mon,Africa/Lagos
+30/04/2018,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2018#detail=92547,,,,Mon,Africa/Lagos
+30/04/2018,02:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91619,0.5%,,0.1%,Mon,Africa/Lagos
+30/04/2018,,CNY,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89977,51.4,51.3,51.5,Mon,Africa/Lagos
+30/04/2018,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=89982,54.8,54.6,54.6,Mon,Africa/Lagos
+30/04/2018,,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=april.2018#detail=90611,-23.4,,-20.0,Mon,Africa/Lagos
+30/04/2018,02:15,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91574,-2.0%,,-0.7%,Mon,Africa/Lagos
+30/04/2018,02:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=91432,0.5%,0.4%,0.4%,Mon,Africa/Lagos
+30/04/2018,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92684,-0.6%,0.8%,-0.2%,Mon,Africa/Lagos
+30/04/2018,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=92681,0.0%,-0.1%,0.4%,Mon,Africa/Lagos
+30/04/2018,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=april.2018#detail=90586,105.3,105.9,105.1,Mon,Africa/Lagos
+30/04/2018,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=93592,3.7%,4.1%,4.2%,Mon,Africa/Lagos
+30/04/2018,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=april.2018#detail=93594,3.0%,2.9%,2.9%,Mon,Africa/Lagos
+30/04/2018,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=85606,0.1%,0.2%,0.3%,Mon,Africa/Lagos
+30/04/2018,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=april.2018#detail=93401,,,,Mon,Africa/Lagos
+30/04/2018,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93133,2.1%,0.6%,-0.4%,Mon,Africa/Lagos
+30/04/2018,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=93132,0.8%,0.2%,0.3%,Mon,Africa/Lagos
+30/04/2018,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89368,0.2%,0.2%,0.2%,Mon,Africa/Lagos
+30/04/2018,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89367,0.4%,0.4%,0.0%,Mon,Africa/Lagos
+30/04/2018,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89370,0.3%,0.4%,0.3%,Mon,Africa/Lagos
+30/04/2018,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=april.2018#detail=86879,57.6,58.2,57.4,Mon,Africa/Lagos
+30/04/2018,15:00,USD,yellow,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=89573,0.4%,0.6%,2.8%,Mon,Africa/Lagos
+30/04/2018,19:30,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=april.2018#detail=98030,,,,Mon,Africa/Lagos
+30/04/2018,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2018#detail=91198,58.3,,63.1,Mon,Africa/Lagos
+30/04/2018,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=april.2018#detail=90779,14.7%,,6.4%,Mon,Africa/Lagos

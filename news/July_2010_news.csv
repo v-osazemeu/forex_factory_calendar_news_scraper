@@ -1,335 +1,335 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/07/2010,00:28,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=24590,52.9,,56.3,Thu
-01/07/2010,00:50,JPY,red,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=25337,1,-3,-14,Thu
-01/07/2010,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=25338,-5,-8,-14,Thu
-01/07/2010,02:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24870,52.1,53.2,53.9,Thu
-01/07/2010,02:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27437,-6.6%,0.0%,-11.4%,Thu
-01/07/2010,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27329,0.2%,0.3%,0.6%,Thu
-01/07/2010,03:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24871,50.4,,52.7,Thu
-01/07/2010,04:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27277,-1.2%,,2.8%,Thu
-01/07/2010,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25207,0.4%,0.5%,-0.5%,Thu
-01/07/2010,07:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27163,43.0%,,43.6%,Thu
-01/07/2010,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=43831,51.2,,51.5,Thu
-01/07/2010,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24671,65.7,65.7,66.4,Thu
-01/07/2010,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=43485,54.3,53.9,54.0,Thu
-01/07/2010,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=58927,54.8,54.9,54.9,Thu
-01/07/2010,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=58984,58.4,58.1,58.1,Thu
-01/07/2010,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24670,55.6,55.6,55.6,Thu
-01/07/2010,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24541,57.5,57.6,58.0,Thu
-01/07/2010,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=july.2010#detail=25822,,,,Thu
-01/07/2010,10:06,EUR,orange,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42385,3.04|3.5,,3.05|2.3,Thu
-01/07/2010,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27469,-47.1%,,-65.1%,Thu
-01/07/2010,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=july.2010#detail=28848,,,,Thu
-01/07/2010,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2010#detail=28895,472K,454K,459K,Thu
-01/07/2010,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24810,56.2,58.9,59.7,Thu
-01/07/2010,,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27381,-30.0%,-7.4%,6.0%,Thu
-01/07/2010,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25371,-0.2%,-0.7%,2.3%,Thu
-01/07/2010,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=july.2010#detail=24811,57.0,72.2,77.5,Thu
-01/07/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2010#detail=24740,60B,65B,81B,Thu
-01/07/2010,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=july.2010#detail=25328,11.1M,11.4M,11.6M,Thu
-02/07/2010,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25854,3.6%,3.8%,3.7%,Fri
-02/07/2010,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=july.2010#detail=44010,-83.8K,,-76.2K,Fri
-02/07/2010,09:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24542,58.4,58.6,58.5,Fri
-02/07/2010,10:00,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=27413,10.0%,10.1%,10.0%,Fri
-02/07/2010,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=29634,8.7%,8.9%,8.7%,Fri
-02/07/2010,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27242,0.3%,0.3%,1.0%,Fri
-02/07/2010,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=july.2010#detail=24218,-125K,-106K,433K,Fri
-02/07/2010,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24217,9.5%,9.8%,9.7%,Fri
-02/07/2010,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=24219,-0.1%,0.1%,0.2%,Fri
-02/07/2010,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26270,-1.4%,-0.5%,1.0%,Fri
-03/07/2010,02:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=42272,57.4,,62.7,Sat
-05/07/2010,00:30,AUD,orange,AIG Services Index,https://www.forexfactory.com/calendar?month=july.2010#detail=24591,48.8,,47.5,Mon
-05/07/2010,01:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=29042,0.3%,,0.5%,Mon
-05/07/2010,02:30,AUD,red,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28488,2.7%,,2.7%,Mon
-05/07/2010,08:15,CHF,red,Retail Sales y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25556,3.8%,2.7%,1.3%,Mon
-05/07/2010,,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=43927,51.8,,52.3,Mon
-05/07/2010,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=43545,51.5,53.6,53.7,Mon
-05/07/2010,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=59134,60.8,61.6,61.6,Mon
-05/07/2010,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=59146,54.8,54.6,54.6,Mon
-05/07/2010,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24672,55.5,55.4,55.4,Mon
-05/07/2010,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=25088,-1.3,-4.5,-4.1,Mon
-05/07/2010,,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24543,54.4,55.1,55.4,Mon
-05/07/2010,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27218,0.2%,0.1%,-0.9%,Mon
-05/07/2010,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=july.2010#detail=28939,,,,Mon
-05/07/2010,23:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=27560,18,,22,Mon
-06/07/2010,02:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=24633,1.65B,0.53B,1.12B,Tue
-06/07/2010,04:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=49016,1.12|2.8,,1.28|3.9,Tue
-06/07/2010,05:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24465,4.50%,4.50%,4.50%,Tue
-06/07/2010,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=july.2010#detail=24466,,,,Tue
-06/07/2010,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=july.2010#detail=29009,98.7%,99.7%,101.7%,Tue
-06/07/2010,08:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=july.2010#detail=42161,225B,,232B,Tue
-06/07/2010,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25528,-0.4%,0.1%,-0.1%,Tue
-06/07/2010,10:37,GBP,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42454,3.47|2.5,,3.63|1.9,Tue
-06/07/2010,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26953,-10.8%,-1.3%,5.9%,Tue
-06/07/2010,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=25382,53.8,55.1,55.4,Tue
-06/07/2010,15:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=july.2010#detail=56231,-14.0%,,-2.7%,Tue
-07/07/2010,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28178,1.5%,,1.8%,Wed
-07/07/2010,00:28,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=july.2010#detail=24592,46.4,,53.2,Wed
-07/07/2010,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26554,-5.5B,-3.9B,-4.3B,Wed
-07/07/2010,10:00,EUR,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=27429,0.2%,0.2%,0.2%,Wed
-07/07/2010,10:05,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42351,2.56|1.4,,2.67|1.6,Wed
-07/07/2010,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25195,-0.5%,0.5%,3.2%,Wed
-07/07/2010,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=25600,58.9,64.1,62.7,Wed
-08/07/2010,00:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28338,-9.1%,-3.0%,4.0%,Thu
-08/07/2010,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28463,-2.0%,,-2.0%,Thu
-08/07/2010,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=july.2010#detail=28326,0.90T,1.12T,1.38T,Thu
-08/07/2010,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28526,2.9%,3.1%,3.1%,Thu
-08/07/2010,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=july.2010#detail=26229,45.9K,15.3K,22.8K,Thu
-08/07/2010,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=26228,5.1%,5.2%,5.1%,Thu
-08/07/2010,04:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=49077,1.95|4.1,,2.04|2.3,Thu
-08/07/2010,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=26252,47.5,48.3,47.7,Thu
-08/07/2010,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=27789,3.9%,3.9%,4.0%,Thu
-08/07/2010,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=25100,10.6B,13.4B,12.8B,Thu
-08/07/2010,,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=26253,138.8%,,192.5%,Thu
-08/07/2010,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26622,-67.9B,,-56.2B,Thu
-08/07/2010,09:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=24544,-0.6%,0.6%,-0.5%,Thu
-08/07/2010,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27010,0.3%,0.4%,-0.8%,Thu
-08/07/2010,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27009,0.7%,0.4%,-0.7%,Thu
-08/07/2010,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25173,2.6%,0.8%,1.2%,Thu
-08/07/2010,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=july.2010#detail=25066,200B,200B,200B,Thu
-08/07/2010,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=25064,0.50%,0.50%,0.50%,Thu
-08/07/2010,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24170,1.00%,1.00%,1.00%,Thu
-08/07/2010,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26837,0.3%,0.3%,0.3%,Thu
-08/07/2010,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=july.2010#detail=24171,,,,Thu
-08/07/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2010#detail=28896,454K,461K,475K,Thu
-08/07/2010,15:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=july.2010#detail=26983,0.7%,,0.9%,Thu
-08/07/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2010#detail=24742,78B,71B,60B,Thu
-08/07/2010,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2010#detail=24741,-5.0M,-1.8M,-2.0M,Thu
-08/07/2010,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=24928,-9.1B,-1.9B,-14.9B,Thu
-08/07/2010,22:50,USD,orange,Treasury Currency Report,https://www.forexfactory.com/calendar?month=july.2010#detail=19767,,,,Thu
-09/07/2010,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25149,0.1%,0.1%,0.1%,Fri
-09/07/2010,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26566,1.7%,0.3%,-0.5%,Fri
-09/07/2010,07:50,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31805,,,,Fri
-09/07/2010,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26502,1.0%,0.7%,0.9%,Fri
-09/07/2010,09:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26704,-0.2%,0.1%,-0.2%,Fri
-09/07/2010,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26686,-8.1B,-7.1B,-7.4B,Fri
-09/07/2010,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26705,-0.3%,0.1%,0.1%,Fri
-09/07/2010,12:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=july.2010#detail=26729,93.2K,17.9K,24.7K,Fri
-09/07/2010,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=26728,7.9%,8.1%,8.1%,Fri
-09/07/2010,13:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=july.2010#detail=27921,189K,193K,195K,Fri
-09/07/2010,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27959,0.5%,0.4%,0.2%,Fri
-10/07/2010,03:34,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26397,20.0B,15.3B,19.5B,Sat
-11/07/2010,All Day,JPY,yellow,Upper House Elections,https://www.forexfactory.com/calendar?month=july.2010#detail=49393,,,,Sun
-11/07/2010,18:24,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=july.2010#detail=26399,603B,601B,639B,Sun
-11/07/2010,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=26398,18.5%,18.8%,21.0%,Sun
-12/07/2010,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28366,0.5%,0.6%,0.5%,Mon
-12/07/2010,02:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26161,1.9%,0.7%,-1.5%,Mon
-12/07/2010,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=july.2010#detail=44074,,,,Mon
-12/07/2010,09:30,GBP,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=26677,0.3%,0.3%,0.3%,Mon
-12/07/2010,,GBP,orange,Current Account,https://www.forexfactory.com/calendar?month=july.2010#detail=26055,-9.6B,-4.5B,0.5B,Mon
-12/07/2010,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=july.2010#detail=28293,0.6%,0.4%,0.3%,Mon
-12/07/2010,15:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31806,,,,Mon
-12/07/2010,15:30,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=july.2010#detail=28318,,,,Mon
-12/07/2010,22:15,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31807,,,,Mon
-12/07/2010,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27507,1.3%,,-0.7%,Mon
-13/07/2010,00:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28282,1.2%,,0.8%,Tue
-13/07/2010,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=28270,9%,20%,21%,Tue
-13/07/2010,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=31802,4,,5,Tue
-13/07/2010,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28778,0.1%,-0.1%,-0.1%,Tue
-13/07/2010,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=28389,43.5,42.4,42.8,Tue
-13/07/2010,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25112,-0.2%,0.3%,0.3%,Tue
-13/07/2010,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26578,0.0%,0.0%,0.1%,Tue
-13/07/2010,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25410,-0.4%,0.2%,0.3%,Tue
-13/07/2010,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=july.2010#detail=36365,,,,Tue
-13/07/2010,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25434,3.2%,3.2%,3.4%,Tue
-13/07/2010,,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25435,3.1%,2.7%,2.9%,Tue
-13/07/2010,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25436,5.0%,4.9%,5.1%,Tue
-13/07/2010,09:34,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25707,11.0%,10.3%,10.1%,Tue
-13/07/2010,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=27691,21.2,25.2,28.7,Tue
-13/07/2010,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=27692,10.7,16.8,18.8,Tue
-13/07/2010,,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28130,0.3%,,0.6%,Tue
-13/07/2010,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=july.2010#detail=48380,89.0,91.3,92.2,Tue
-13/07/2010,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26746,-0.5B,0.0B,-0.3B,Tue
-13/07/2010,,GBP,orange,MPC Member Sentance Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31808,,,,Tue
-13/07/2010,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=25903,-42.3B,-39.3B,-40.3B,Tue
-13/07/2010,15:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=july.2010#detail=49312,3.21M,,3.30M,Tue
-13/07/2010,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=july.2010#detail=28236,44.7,45.9,46.2,Tue
-13/07/2010,18:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42315,3.12|3.1,,3.24|3.2,Tue
-13/07/2010,19:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=25568,-68.4B,-70.0B,-135.9B,Tue
-13/07/2010,23:00,NZD,orange,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=37362,0.6%,,-1.4%,Tue
-13/07/2010,23:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26657,-0.2%,0.6%,-0.1%,Tue
-13/07/2010,,NZD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26656,0.4%,0.6%,-0.3%,Tue
-14/07/2010,00:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=26064,63,63,66,Wed
-14/07/2010,01:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=27180,11.1%,,-5.7%,Wed
-14/07/2010,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=july.2010#detail=29238,,,,Wed
-14/07/2010,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=july.2010#detail=24953,-20.8K,-20.1K,-31.1K,Wed
-14/07/2010,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24954,2.7%,3.1%,4.1%,Wed
-14/07/2010,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24952,7.8%,7.9%,8.0%,Wed
-14/07/2010,10:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27365,0.9%,0.9%,0.8%,Wed
-14/07/2010,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27363,1.4%,1.4%,1.4%,Wed
-14/07/2010,,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27206,0.9%,1.2%,0.9%,Wed
-14/07/2010,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25922,-0.1%,-0.1%,-1.2%,Wed
-14/07/2010,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25921,-0.5%,-0.2%,-1.1%,Wed
-14/07/2010,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26012,-1.3%,-0.3%,-0.5%,Wed
-14/07/2010,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27313,0.1%,0.3%,0.4%,Wed
-14/07/2010,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2010#detail=24743,-5.1M,-1.1M,-5.0M,Wed
-14/07/2010,18:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42925,4.08|2.9,,4.18|2.9,Wed
-14/07/2010,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=july.2010#detail=26640,,,,Wed
-14/07/2010,23:27,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=27301,56.2,,54.0,Wed
-15/07/2010,02:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=july.2010#detail=28447,3.3%,,3.4%,Thu
-15/07/2010,02:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26787,-1.2%,,-3.9%,Thu
-15/07/2010,03:00,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24873,2.9%,3.3%,3.1%,Thu
-15/07/2010,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24874,25.5%,25.2%,25.9%,Thu
-15/07/2010,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24872,13.7%,15.2%,16.5%,Thu
-15/07/2010,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=july.2010#detail=24876,,,,Thu
-15/07/2010,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24875,6.4%,6.8%,7.1%,Thu
-15/07/2010,,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=31170,0.8%,,0.0%,Thu
-15/07/2010,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24877,18.3%,18.8%,18.7%,Thu
-15/07/2010,03:26,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=july.2010#detail=26330,10.3%,10.5%,11.9%,Thu
-15/07/2010,04:46,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=july.2010#detail=28807,,,,Thu
-15/07/2010,,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=28806,0.10%,0.10%,0.10%,Thu
-15/07/2010,08:10,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=july.2010#detail=26396,19.6%,,14.3%,Thu
-15/07/2010,08:14,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=july.2010#detail=28808,,,,Thu
-15/07/2010,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=july.2010#detail=27289,,,,Thu
-15/07/2010,09:35,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=25259,-3.2B,-3.3B,-3.4B,Thu
-15/07/2010,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=july.2010#detail=28928,2.2,,17.5,Thu
-15/07/2010,11:00,GBP,orange,MPC Member Miles Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31809,,,,Thu
-15/07/2010,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26801,0.4%,0.3%,0.4%,Thu
-15/07/2010,,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26825,0.2%,-0.1%,-4.7%,Thu
-15/07/2010,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25994,-0.5%,-0.2%,-0.3%,Thu
-15/07/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2010#detail=28897,429K,448K,458K,Thu
-15/07/2010,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25995,0.1%,0.1%,0.2%,Thu
-15/07/2010,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=27088,5.1,18.3,19.6,Thu
-15/07/2010,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=26088,74.1%,74.2%,74.1%,Thu
-15/07/2010,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26087,0.1%,0.0%,1.3%,Thu
-15/07/2010,15:00,USD,red,Fed Gov Nomination Hearings,https://www.forexfactory.com/calendar?month=july.2010#detail=31804,,,,Thu
-15/07/2010,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=27580,5.1,10.2,8.0,Thu
-15/07/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2010#detail=31803,78B,74B,78B,Thu
-15/07/2010,23:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=27499,0.3%,0.5%,0.4%,Thu
-16/07/2010,00:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28742,-0.9%,-0.7%,2.4%,Fri
-16/07/2010,06:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=july.2010#detail=28861,,,,Fri
-16/07/2010,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26514,-1.96B,-0.75B,-0.86B,Fri
-16/07/2010,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=27401,-3.0B,0.8B,0.1B,Fri
-16/07/2010,13:30,CAD,orange,Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27934,1.0%,0.7%,1.1%,Fri
-16/07/2010,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26031,0.2%,0.1%,0.1%,Fri
-16/07/2010,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=128512,1.1%,1.2%,2.0%,Fri
-16/07/2010,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26030,-0.1%,0.0%,-0.2%,Fri
-16/07/2010,14:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=july.2010#detail=24495,35.4B,38.7B,81.5B,Fri
-16/07/2010,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=25298,66.5,74.2,76.0,Fri
-16/07/2010,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=july.2010#detail=25299,2.9%,,2.8%,Fri
-17/07/2010,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=july.2010#detail=127100,55.7,,52.3,Sat
-19/07/2010,00:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27976,-0.6%,,0.3%,Mon
-19/07/2010,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=july.2010#detail=28960,,,,Mon
-19/07/2010,09:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=july.2010#detail=27230,-5.8B,-3.0B,-5.6B,Mon
-19/07/2010,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=july.2010#detail=50166,,,,Mon
-19/07/2010,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=july.2010#detail=26813,23.16B,8.05B,12.36B,Mon
-19/07/2010,14:00,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31812,,,,Mon
-19/07/2010,15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=july.2010#detail=26858,14,16,16,Mon
-20/07/2010,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=july.2010#detail=24635,,,,Tue
-20/07/2010,04:05,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31810,,,,Tue
-20/07/2010,07:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25124,0.6%,0.2%,0.3%,Tue
-20/07/2010,07:15,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=25540,1.77B,1.05B,0.80B,Tue
-20/07/2010,09:30,GBP,orange,Prelim Mortgage Approvals,https://www.forexfactory.com/calendar?month=july.2010#detail=30391,48K,52K,51K,Tue
-20/07/2010,,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=july.2010#detail=25680,14.5B,13.2B,17.1B,Tue
-20/07/2010,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25681,0.0%,-0.1%,-0.1%,Tue
-20/07/2010,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=july.2010#detail=28190,-16,-24,-23,Tue
-20/07/2010,13:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=july.2010#detail=27760,0.59M,0.57M,0.57M,Tue
-20/07/2010,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=july.2010#detail=27759,0.55M,0.58M,0.58M,Tue
-20/07/2010,14:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=july.2010#detail=24191,,,,Tue
-20/07/2010,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24190,0.75%,0.75%,0.50%,Tue
-20/07/2010,15:00,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31813,,,,Tue
-21/07/2010,00:00,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27525,0.3%,,1.1%,Wed
-21/07/2010,00:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=july.2010#detail=29063,,,,Wed
-21/07/2010,01:30,AUD,orange,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=29043,0.2%,,0.0%,Wed
-21/07/2010,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28425,4.5%,,3.4%,Wed
-21/07/2010,09:30,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=july.2010#detail=49142,0-0-8,0-0-8,0-0-8,Wed
-21/07/2010,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=july.2010#detail=28258,1-0-7,1-0-7,1-0-7,Wed
-21/07/2010,10:05,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42899,3.33|1.2,,3.83|1.1,Wed
-21/07/2010,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27909,-0.1%,0.4%,-0.2%,Wed
-21/07/2010,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2010#detail=24744,0.4M,-1.1M,-5.1M,Wed
-21/07/2010,19:00,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=july.2010#detail=31811,,,,Wed
-21/07/2010,,USD,yellow,Fed Monetary Policy Report,https://www.forexfactory.com/calendar?month=july.2010#detail=64145,,,,Wed
-22/07/2010,02:30,AUD,orange,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=27171,3,,17,Thu
-22/07/2010,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28550,0.2%,-0.4%,1.9%,Thu
-22/07/2010,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26456,53.7,54.1,54.8,Thu
-22/07/2010,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26457,61.3,60.0,60.8,Thu
-22/07/2010,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26458,61.2,58.0,58.4,Thu
-22/07/2010,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26459,57.3,54.6,54.8,Thu
-22/07/2010,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26460,56.5,55.2,55.6,Thu
-22/07/2010,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26461,56.0,55.0,55.5,Thu
-22/07/2010,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26048,0.7%,0.5%,0.8%,Thu
-22/07/2010,10:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27255,3.8%,-0.1%,0.6%,Thu
-22/07/2010,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26877,-0.1%,0.5%,-1.4%,Thu
-22/07/2010,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26876,-0.2%,0.5%,-2.2%,Thu
-22/07/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2010#detail=28898,464K,449K,427K,Thu
-22/07/2010,14:30,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=july.2010#detail=31814,,,,Thu
-22/07/2010,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=27674,-14,-17,-17,Thu
-22/07/2010,,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=july.2010#detail=27384,5.37M,5.18M,5.66M,Thu
-22/07/2010,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28115,-0.2%,-0.3%,0.5%,Thu
-22/07/2010,,USD,yellow,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31818,,,,Thu
-22/07/2010,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26894,0.5%,-0.3%,0.9%,Thu
-22/07/2010,15:30,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=july.2010#detail=28435,,,,Thu
-22/07/2010,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2010#detail=24745,51B,53B,78B,Thu
-22/07/2010,16:30,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=july.2010#detail=28436,,,,Thu
-23/07/2010,02:30,AUD,orange,Import Prices q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=26939,1.9%,1.0%,0.3%,Fri
-23/07/2010,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26598,-1.4%,0.3%,0.6%,Fri
-23/07/2010,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=july.2010#detail=27801,106.2,101.5,101.8,Fri
-23/07/2010,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26526,-0.3%,0.2%,-0.5%,Fri
-23/07/2010,09:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=26670,1.1%,0.6%,0.3%,Fri
-23/07/2010,,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=july.2010#detail=29080,34.8K,37.0K,36.4K,Fri
-23/07/2010,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=july.2010#detail=28294,0.8%,0.7%,0.6%,Fri
-23/07/2010,12:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26914,-0.1%,0.1%,0.3%,Fri
-23/07/2010,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26913,-0.1%,0.0%,0.3%,Fri
-23/07/2010,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=july.2010#detail=27813,-6.5,-7.9,-7.7,Fri
-23/07/2010,17:00,EUR,red,EBA Bank Stress Test Results,https://www.forexfactory.com/calendar?month=july.2010#detail=31817,,,,Fri
-26/07/2010,00:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=28538,0.46T,0.54T,0.32T,Mon
-26/07/2010,02:30,AUD,red,PPI q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=26974,0.3%,1.2%,1.0%,Mon
-26/07/2010,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=july.2010#detail=26282,330K,317K,267K,Mon
-27/07/2010,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28354,-1.0%,-0.9%,-0.8%,Tue
-27/07/2010,01:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28142,0.3%,,0.1%,Tue
-27/07/2010,07:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=july.2010#detail=24468,1.81,,1.71,Tue
-27/07/2010,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=july.2010#detail=27946,3.9,3.6,3.6,Tue
-27/07/2010,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25161,0.9%,0.7%,0.6%,Tue
-27/07/2010,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27735,0.2%,-0.1%,-0.1%,Tue
-27/07/2010,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27736,0.3%,0.3%,0.2%,Tue
-27/07/2010,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=july.2010#detail=28207,33,2,-5,Tue
-27/07/2010,14:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27777,4.6%,3.9%,3.8%,Tue
-27/07/2010,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=24467,50.4,51.3,54.3,Tue
-27/07/2010,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=27027,16,14,23,Tue
-28/07/2010,02:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=27479,0.6%,1.0%,0.9%,Wed
-28/07/2010,,AUD,orange,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=27480,0.5%,0.8%,0.8%,Wed
-28/07/2010,04:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=28504,27.9,,40.2,Wed
-28/07/2010,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25137,0.2%,0.2%,0.1%,Wed
-28/07/2010,09:45,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31898,,,,Wed
-28/07/2010,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25947,-0.6%,0.6%,1.2%,Wed
-28/07/2010,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25946,-1.0%,0.9%,-0.8%,Wed
-28/07/2010,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2010#detail=24746,7.3M,-1.4M,0.4M,Wed
-28/07/2010,19:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=july.2010#detail=26612,,,,Wed
-28/07/2010,22:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24098,3.00%,3.00%,2.75%,Wed
-28/07/2010,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=july.2010#detail=24106,,,,Wed
-28/07/2010,23:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=27549,276M,359M,768M,Wed
-29/07/2010,00:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28754,3.2%,3.3%,2.9%,Thu
-29/07/2010,07:00,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=24545,-0.5%,-0.2%,0.0%,Thu
-29/07/2010,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=july.2010#detail=28225,-20K,-18K,-20K,Thu
-29/07/2010,09:00,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=43618,52.4,,50.4,Thu
-29/07/2010,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28163,0.6B,1.3B,1.1B,Thu
-29/07/2010,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=july.2010#detail=28162,48K,48K,49K,Thu
-29/07/2010,10:27,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42418,3.92|1.3,,4.09|1.3,Thu
-29/07/2010,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26771,-0.3%,1.1%,-7.3%,Thu
-29/07/2010,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26770,-0.9%,0.3%,0.4%,Thu
-29/07/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2010#detail=28899,457K,457K,468K,Thu
-29/07/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2010#detail=24747,28B,31B,51B,Thu
-29/07/2010,23:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27536,3.5%,,-9.5%,Thu
-30/07/2010,00:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=27073,-22,-21,-19,Fri
-30/07/2010,00:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=28997,52.8,,53.9,Fri
-30/07/2010,00:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25855,0.5%,-0.8%,-0.7%,Fri
-30/07/2010,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25858,-1.3%,-1.2%,-1.3%,Fri
-30/07/2010,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25857,-1.0%,-1.0%,-1.2%,Fri
-30/07/2010,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=25856,5.3%,5.2%,5.2%,Fri
-30/07/2010,00:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28766,-1.5%,0.2%,0.1%,Fri
-30/07/2010,02:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28413,0.2%,0.4%,0.5%,Fri
-30/07/2010,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28401,0.6%,1.7%,-4.6%,Fri
-30/07/2010,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25208,-0.9%,0.0%,3.0%,Fri
-30/07/2010,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=43875,20.1%,20.0%,20.1%,Fri
-30/07/2010,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27342,1.7%,1.8%,1.4%,Fri
-30/07/2010,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=27415,10.0%,10.0%,10.0%,Fri
-30/07/2010,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26538,0.4%,0.2%,0.0%,Fri
-30/07/2010,10:30,CHF,red,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=july.2010#detail=25394,2.23,2.32,2.23,Fri
-30/07/2010,11:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=29635,8.5%,8.8%,8.6%,Fri
-30/07/2010,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26931,0.1%,0.1%,0.0%,Fri
-30/07/2010,,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=25970,2.4%,2.5%,2.7%,Fri
-30/07/2010,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=25971,1.8%,1.1%,1.1%,Fri
-30/07/2010,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=26101,0.5%,0.5%,0.6%,Fri
-30/07/2010,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=25268,62.3,56.3,59.1,Fri
-30/07/2010,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=25300,67.8,67.3,66.5,Fri
-30/07/2010,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=july.2010#detail=25301,2.7%,,2.9%,Fri
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/07/2010,00:28,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=24590,52.9,,56.3,Thu,Africa/Lagos
+01/07/2010,00:50,JPY,red,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=25337,1,-3,-14,Thu,Africa/Lagos
+01/07/2010,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=25338,-5,-8,-14,Thu,Africa/Lagos
+01/07/2010,02:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24870,52.1,53.2,53.9,Thu,Africa/Lagos
+01/07/2010,02:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27437,-6.6%,0.0%,-11.4%,Thu,Africa/Lagos
+01/07/2010,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27329,0.2%,0.3%,0.6%,Thu,Africa/Lagos
+01/07/2010,03:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24871,50.4,,52.7,Thu,Africa/Lagos
+01/07/2010,04:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27277,-1.2%,,2.8%,Thu,Africa/Lagos
+01/07/2010,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25207,0.4%,0.5%,-0.5%,Thu,Africa/Lagos
+01/07/2010,07:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27163,43.0%,,43.6%,Thu,Africa/Lagos
+01/07/2010,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=43831,51.2,,51.5,Thu,Africa/Lagos
+01/07/2010,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24671,65.7,65.7,66.4,Thu,Africa/Lagos
+01/07/2010,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=43485,54.3,53.9,54.0,Thu,Africa/Lagos
+01/07/2010,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=58927,54.8,54.9,54.9,Thu,Africa/Lagos
+01/07/2010,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=58984,58.4,58.1,58.1,Thu,Africa/Lagos
+01/07/2010,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24670,55.6,55.6,55.6,Thu,Africa/Lagos
+01/07/2010,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24541,57.5,57.6,58.0,Thu,Africa/Lagos
+01/07/2010,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=july.2010#detail=25822,,,,Thu,Africa/Lagos
+01/07/2010,10:06,EUR,orange,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42385,3.04|3.5,,3.05|2.3,Thu,Africa/Lagos
+01/07/2010,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27469,-47.1%,,-65.1%,Thu,Africa/Lagos
+01/07/2010,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=july.2010#detail=28848,,,,Thu,Africa/Lagos
+01/07/2010,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2010#detail=28895,472K,454K,459K,Thu,Africa/Lagos
+01/07/2010,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24810,56.2,58.9,59.7,Thu,Africa/Lagos
+01/07/2010,,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27381,-30.0%,-7.4%,6.0%,Thu,Africa/Lagos
+01/07/2010,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25371,-0.2%,-0.7%,2.3%,Thu,Africa/Lagos
+01/07/2010,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=july.2010#detail=24811,57.0,72.2,77.5,Thu,Africa/Lagos
+01/07/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2010#detail=24740,60B,65B,81B,Thu,Africa/Lagos
+01/07/2010,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=july.2010#detail=25328,11.1M,11.4M,11.6M,Thu,Africa/Lagos
+02/07/2010,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25854,3.6%,3.8%,3.7%,Fri,Africa/Lagos
+02/07/2010,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=july.2010#detail=44010,-83.8K,,-76.2K,Fri,Africa/Lagos
+02/07/2010,09:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24542,58.4,58.6,58.5,Fri,Africa/Lagos
+02/07/2010,10:00,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=27413,10.0%,10.1%,10.0%,Fri,Africa/Lagos
+02/07/2010,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=29634,8.7%,8.9%,8.7%,Fri,Africa/Lagos
+02/07/2010,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27242,0.3%,0.3%,1.0%,Fri,Africa/Lagos
+02/07/2010,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=july.2010#detail=24218,-125K,-106K,433K,Fri,Africa/Lagos
+02/07/2010,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24217,9.5%,9.8%,9.7%,Fri,Africa/Lagos
+02/07/2010,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=24219,-0.1%,0.1%,0.2%,Fri,Africa/Lagos
+02/07/2010,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26270,-1.4%,-0.5%,1.0%,Fri,Africa/Lagos
+03/07/2010,02:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=42272,57.4,,62.7,Sat,Africa/Lagos
+05/07/2010,00:30,AUD,orange,AIG Services Index,https://www.forexfactory.com/calendar?month=july.2010#detail=24591,48.8,,47.5,Mon,Africa/Lagos
+05/07/2010,01:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=29042,0.3%,,0.5%,Mon,Africa/Lagos
+05/07/2010,02:30,AUD,red,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28488,2.7%,,2.7%,Mon,Africa/Lagos
+05/07/2010,08:15,CHF,red,Retail Sales y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25556,3.8%,2.7%,1.3%,Mon,Africa/Lagos
+05/07/2010,,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=43927,51.8,,52.3,Mon,Africa/Lagos
+05/07/2010,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=43545,51.5,53.6,53.7,Mon,Africa/Lagos
+05/07/2010,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=59134,60.8,61.6,61.6,Mon,Africa/Lagos
+05/07/2010,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=59146,54.8,54.6,54.6,Mon,Africa/Lagos
+05/07/2010,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24672,55.5,55.4,55.4,Mon,Africa/Lagos
+05/07/2010,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=25088,-1.3,-4.5,-4.1,Mon,Africa/Lagos
+05/07/2010,,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=24543,54.4,55.1,55.4,Mon,Africa/Lagos
+05/07/2010,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27218,0.2%,0.1%,-0.9%,Mon,Africa/Lagos
+05/07/2010,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=july.2010#detail=28939,,,,Mon,Africa/Lagos
+05/07/2010,23:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=27560,18,,22,Mon,Africa/Lagos
+06/07/2010,02:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=24633,1.65B,0.53B,1.12B,Tue,Africa/Lagos
+06/07/2010,04:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=49016,1.12|2.8,,1.28|3.9,Tue,Africa/Lagos
+06/07/2010,05:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24465,4.50%,4.50%,4.50%,Tue,Africa/Lagos
+06/07/2010,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=july.2010#detail=24466,,,,Tue,Africa/Lagos
+06/07/2010,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=july.2010#detail=29009,98.7%,99.7%,101.7%,Tue,Africa/Lagos
+06/07/2010,08:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=july.2010#detail=42161,225B,,232B,Tue,Africa/Lagos
+06/07/2010,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25528,-0.4%,0.1%,-0.1%,Tue,Africa/Lagos
+06/07/2010,10:37,GBP,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42454,3.47|2.5,,3.63|1.9,Tue,Africa/Lagos
+06/07/2010,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26953,-10.8%,-1.3%,5.9%,Tue,Africa/Lagos
+06/07/2010,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=25382,53.8,55.1,55.4,Tue,Africa/Lagos
+06/07/2010,15:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=july.2010#detail=56231,-14.0%,,-2.7%,Tue,Africa/Lagos
+07/07/2010,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28178,1.5%,,1.8%,Wed,Africa/Lagos
+07/07/2010,00:28,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=july.2010#detail=24592,46.4,,53.2,Wed,Africa/Lagos
+07/07/2010,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26554,-5.5B,-3.9B,-4.3B,Wed,Africa/Lagos
+07/07/2010,10:00,EUR,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=27429,0.2%,0.2%,0.2%,Wed,Africa/Lagos
+07/07/2010,10:05,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42351,2.56|1.4,,2.67|1.6,Wed,Africa/Lagos
+07/07/2010,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25195,-0.5%,0.5%,3.2%,Wed,Africa/Lagos
+07/07/2010,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=25600,58.9,64.1,62.7,Wed,Africa/Lagos
+08/07/2010,00:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28338,-9.1%,-3.0%,4.0%,Thu,Africa/Lagos
+08/07/2010,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28463,-2.0%,,-2.0%,Thu,Africa/Lagos
+08/07/2010,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=july.2010#detail=28326,0.90T,1.12T,1.38T,Thu,Africa/Lagos
+08/07/2010,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28526,2.9%,3.1%,3.1%,Thu,Africa/Lagos
+08/07/2010,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=july.2010#detail=26229,45.9K,15.3K,22.8K,Thu,Africa/Lagos
+08/07/2010,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=26228,5.1%,5.2%,5.1%,Thu,Africa/Lagos
+08/07/2010,04:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=49077,1.95|4.1,,2.04|2.3,Thu,Africa/Lagos
+08/07/2010,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=26252,47.5,48.3,47.7,Thu,Africa/Lagos
+08/07/2010,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=27789,3.9%,3.9%,4.0%,Thu,Africa/Lagos
+08/07/2010,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=25100,10.6B,13.4B,12.8B,Thu,Africa/Lagos
+08/07/2010,,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=26253,138.8%,,192.5%,Thu,Africa/Lagos
+08/07/2010,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26622,-67.9B,,-56.2B,Thu,Africa/Lagos
+08/07/2010,09:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=24544,-0.6%,0.6%,-0.5%,Thu,Africa/Lagos
+08/07/2010,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27010,0.3%,0.4%,-0.8%,Thu,Africa/Lagos
+08/07/2010,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27009,0.7%,0.4%,-0.7%,Thu,Africa/Lagos
+08/07/2010,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25173,2.6%,0.8%,1.2%,Thu,Africa/Lagos
+08/07/2010,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=july.2010#detail=25066,200B,200B,200B,Thu,Africa/Lagos
+08/07/2010,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=25064,0.50%,0.50%,0.50%,Thu,Africa/Lagos
+08/07/2010,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24170,1.00%,1.00%,1.00%,Thu,Africa/Lagos
+08/07/2010,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26837,0.3%,0.3%,0.3%,Thu,Africa/Lagos
+08/07/2010,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=july.2010#detail=24171,,,,Thu,Africa/Lagos
+08/07/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2010#detail=28896,454K,461K,475K,Thu,Africa/Lagos
+08/07/2010,15:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=july.2010#detail=26983,0.7%,,0.9%,Thu,Africa/Lagos
+08/07/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2010#detail=24742,78B,71B,60B,Thu,Africa/Lagos
+08/07/2010,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2010#detail=24741,-5.0M,-1.8M,-2.0M,Thu,Africa/Lagos
+08/07/2010,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=24928,-9.1B,-1.9B,-14.9B,Thu,Africa/Lagos
+08/07/2010,22:50,USD,orange,Treasury Currency Report,https://www.forexfactory.com/calendar?month=july.2010#detail=19767,,,,Thu,Africa/Lagos
+09/07/2010,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25149,0.1%,0.1%,0.1%,Fri,Africa/Lagos
+09/07/2010,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26566,1.7%,0.3%,-0.5%,Fri,Africa/Lagos
+09/07/2010,07:50,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31805,,,,Fri,Africa/Lagos
+09/07/2010,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26502,1.0%,0.7%,0.9%,Fri,Africa/Lagos
+09/07/2010,09:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26704,-0.2%,0.1%,-0.2%,Fri,Africa/Lagos
+09/07/2010,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26686,-8.1B,-7.1B,-7.4B,Fri,Africa/Lagos
+09/07/2010,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26705,-0.3%,0.1%,0.1%,Fri,Africa/Lagos
+09/07/2010,12:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=july.2010#detail=26729,93.2K,17.9K,24.7K,Fri,Africa/Lagos
+09/07/2010,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=26728,7.9%,8.1%,8.1%,Fri,Africa/Lagos
+09/07/2010,13:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=july.2010#detail=27921,189K,193K,195K,Fri,Africa/Lagos
+09/07/2010,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27959,0.5%,0.4%,0.2%,Fri,Africa/Lagos
+10/07/2010,03:34,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26397,20.0B,15.3B,19.5B,Sat,Africa/Lagos
+11/07/2010,All Day,JPY,yellow,Upper House Elections,https://www.forexfactory.com/calendar?month=july.2010#detail=49393,,,,Sun,Africa/Lagos
+11/07/2010,18:24,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=july.2010#detail=26399,603B,601B,639B,Sun,Africa/Lagos
+11/07/2010,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=26398,18.5%,18.8%,21.0%,Sun,Africa/Lagos
+12/07/2010,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28366,0.5%,0.6%,0.5%,Mon,Africa/Lagos
+12/07/2010,02:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26161,1.9%,0.7%,-1.5%,Mon,Africa/Lagos
+12/07/2010,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=july.2010#detail=44074,,,,Mon,Africa/Lagos
+12/07/2010,09:30,GBP,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=26677,0.3%,0.3%,0.3%,Mon,Africa/Lagos
+12/07/2010,,GBP,orange,Current Account,https://www.forexfactory.com/calendar?month=july.2010#detail=26055,-9.6B,-4.5B,0.5B,Mon,Africa/Lagos
+12/07/2010,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=july.2010#detail=28293,0.6%,0.4%,0.3%,Mon,Africa/Lagos
+12/07/2010,15:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31806,,,,Mon,Africa/Lagos
+12/07/2010,15:30,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=july.2010#detail=28318,,,,Mon,Africa/Lagos
+12/07/2010,22:15,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31807,,,,Mon,Africa/Lagos
+12/07/2010,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27507,1.3%,,-0.7%,Mon,Africa/Lagos
+13/07/2010,00:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28282,1.2%,,0.8%,Tue,Africa/Lagos
+13/07/2010,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=28270,9%,20%,21%,Tue,Africa/Lagos
+13/07/2010,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=31802,4,,5,Tue,Africa/Lagos
+13/07/2010,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28778,0.1%,-0.1%,-0.1%,Tue,Africa/Lagos
+13/07/2010,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=28389,43.5,42.4,42.8,Tue,Africa/Lagos
+13/07/2010,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25112,-0.2%,0.3%,0.3%,Tue,Africa/Lagos
+13/07/2010,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26578,0.0%,0.0%,0.1%,Tue,Africa/Lagos
+13/07/2010,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25410,-0.4%,0.2%,0.3%,Tue,Africa/Lagos
+13/07/2010,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=july.2010#detail=36365,,,,Tue,Africa/Lagos
+13/07/2010,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25434,3.2%,3.2%,3.4%,Tue,Africa/Lagos
+13/07/2010,,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25435,3.1%,2.7%,2.9%,Tue,Africa/Lagos
+13/07/2010,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25436,5.0%,4.9%,5.1%,Tue,Africa/Lagos
+13/07/2010,09:34,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25707,11.0%,10.3%,10.1%,Tue,Africa/Lagos
+13/07/2010,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=27691,21.2,25.2,28.7,Tue,Africa/Lagos
+13/07/2010,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=27692,10.7,16.8,18.8,Tue,Africa/Lagos
+13/07/2010,,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28130,0.3%,,0.6%,Tue,Africa/Lagos
+13/07/2010,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=july.2010#detail=48380,89.0,91.3,92.2,Tue,Africa/Lagos
+13/07/2010,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26746,-0.5B,0.0B,-0.3B,Tue,Africa/Lagos
+13/07/2010,,GBP,orange,MPC Member Sentance Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31808,,,,Tue,Africa/Lagos
+13/07/2010,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=25903,-42.3B,-39.3B,-40.3B,Tue,Africa/Lagos
+13/07/2010,15:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=july.2010#detail=49312,3.21M,,3.30M,Tue,Africa/Lagos
+13/07/2010,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=july.2010#detail=28236,44.7,45.9,46.2,Tue,Africa/Lagos
+13/07/2010,18:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42315,3.12|3.1,,3.24|3.2,Tue,Africa/Lagos
+13/07/2010,19:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=25568,-68.4B,-70.0B,-135.9B,Tue,Africa/Lagos
+13/07/2010,23:00,NZD,orange,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=37362,0.6%,,-1.4%,Tue,Africa/Lagos
+13/07/2010,23:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26657,-0.2%,0.6%,-0.1%,Tue,Africa/Lagos
+13/07/2010,,NZD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26656,0.4%,0.6%,-0.3%,Tue,Africa/Lagos
+14/07/2010,00:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=26064,63,63,66,Wed,Africa/Lagos
+14/07/2010,01:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=27180,11.1%,,-5.7%,Wed,Africa/Lagos
+14/07/2010,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=july.2010#detail=29238,,,,Wed,Africa/Lagos
+14/07/2010,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=july.2010#detail=24953,-20.8K,-20.1K,-31.1K,Wed,Africa/Lagos
+14/07/2010,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24954,2.7%,3.1%,4.1%,Wed,Africa/Lagos
+14/07/2010,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24952,7.8%,7.9%,8.0%,Wed,Africa/Lagos
+14/07/2010,10:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27365,0.9%,0.9%,0.8%,Wed,Africa/Lagos
+14/07/2010,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27363,1.4%,1.4%,1.4%,Wed,Africa/Lagos
+14/07/2010,,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27206,0.9%,1.2%,0.9%,Wed,Africa/Lagos
+14/07/2010,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25922,-0.1%,-0.1%,-1.2%,Wed,Africa/Lagos
+14/07/2010,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25921,-0.5%,-0.2%,-1.1%,Wed,Africa/Lagos
+14/07/2010,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26012,-1.3%,-0.3%,-0.5%,Wed,Africa/Lagos
+14/07/2010,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27313,0.1%,0.3%,0.4%,Wed,Africa/Lagos
+14/07/2010,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2010#detail=24743,-5.1M,-1.1M,-5.0M,Wed,Africa/Lagos
+14/07/2010,18:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42925,4.08|2.9,,4.18|2.9,Wed,Africa/Lagos
+14/07/2010,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=july.2010#detail=26640,,,,Wed,Africa/Lagos
+14/07/2010,23:27,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=27301,56.2,,54.0,Wed,Africa/Lagos
+15/07/2010,02:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=july.2010#detail=28447,3.3%,,3.4%,Thu,Africa/Lagos
+15/07/2010,02:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26787,-1.2%,,-3.9%,Thu,Africa/Lagos
+15/07/2010,03:00,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24873,2.9%,3.3%,3.1%,Thu,Africa/Lagos
+15/07/2010,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24874,25.5%,25.2%,25.9%,Thu,Africa/Lagos
+15/07/2010,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24872,13.7%,15.2%,16.5%,Thu,Africa/Lagos
+15/07/2010,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=july.2010#detail=24876,,,,Thu,Africa/Lagos
+15/07/2010,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24875,6.4%,6.8%,7.1%,Thu,Africa/Lagos
+15/07/2010,,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=31170,0.8%,,0.0%,Thu,Africa/Lagos
+15/07/2010,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=24877,18.3%,18.8%,18.7%,Thu,Africa/Lagos
+15/07/2010,03:26,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=july.2010#detail=26330,10.3%,10.5%,11.9%,Thu,Africa/Lagos
+15/07/2010,04:46,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=july.2010#detail=28807,,,,Thu,Africa/Lagos
+15/07/2010,,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=28806,0.10%,0.10%,0.10%,Thu,Africa/Lagos
+15/07/2010,08:10,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=july.2010#detail=26396,19.6%,,14.3%,Thu,Africa/Lagos
+15/07/2010,08:14,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=july.2010#detail=28808,,,,Thu,Africa/Lagos
+15/07/2010,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=july.2010#detail=27289,,,,Thu,Africa/Lagos
+15/07/2010,09:35,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=25259,-3.2B,-3.3B,-3.4B,Thu,Africa/Lagos
+15/07/2010,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=july.2010#detail=28928,2.2,,17.5,Thu,Africa/Lagos
+15/07/2010,11:00,GBP,orange,MPC Member Miles Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31809,,,,Thu,Africa/Lagos
+15/07/2010,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26801,0.4%,0.3%,0.4%,Thu,Africa/Lagos
+15/07/2010,,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26825,0.2%,-0.1%,-4.7%,Thu,Africa/Lagos
+15/07/2010,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25994,-0.5%,-0.2%,-0.3%,Thu,Africa/Lagos
+15/07/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2010#detail=28897,429K,448K,458K,Thu,Africa/Lagos
+15/07/2010,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25995,0.1%,0.1%,0.2%,Thu,Africa/Lagos
+15/07/2010,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=27088,5.1,18.3,19.6,Thu,Africa/Lagos
+15/07/2010,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=26088,74.1%,74.2%,74.1%,Thu,Africa/Lagos
+15/07/2010,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26087,0.1%,0.0%,1.3%,Thu,Africa/Lagos
+15/07/2010,15:00,USD,red,Fed Gov Nomination Hearings,https://www.forexfactory.com/calendar?month=july.2010#detail=31804,,,,Thu,Africa/Lagos
+15/07/2010,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=27580,5.1,10.2,8.0,Thu,Africa/Lagos
+15/07/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2010#detail=31803,78B,74B,78B,Thu,Africa/Lagos
+15/07/2010,23:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=27499,0.3%,0.5%,0.4%,Thu,Africa/Lagos
+16/07/2010,00:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28742,-0.9%,-0.7%,2.4%,Fri,Africa/Lagos
+16/07/2010,06:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=july.2010#detail=28861,,,,Fri,Africa/Lagos
+16/07/2010,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=26514,-1.96B,-0.75B,-0.86B,Fri,Africa/Lagos
+16/07/2010,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=27401,-3.0B,0.8B,0.1B,Fri,Africa/Lagos
+16/07/2010,13:30,CAD,orange,Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27934,1.0%,0.7%,1.1%,Fri,Africa/Lagos
+16/07/2010,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26031,0.2%,0.1%,0.1%,Fri,Africa/Lagos
+16/07/2010,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=128512,1.1%,1.2%,2.0%,Fri,Africa/Lagos
+16/07/2010,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26030,-0.1%,0.0%,-0.2%,Fri,Africa/Lagos
+16/07/2010,14:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=july.2010#detail=24495,35.4B,38.7B,81.5B,Fri,Africa/Lagos
+16/07/2010,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=25298,66.5,74.2,76.0,Fri,Africa/Lagos
+16/07/2010,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=july.2010#detail=25299,2.9%,,2.8%,Fri,Africa/Lagos
+17/07/2010,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=july.2010#detail=127100,55.7,,52.3,Sat,Africa/Lagos
+19/07/2010,00:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27976,-0.6%,,0.3%,Mon,Africa/Lagos
+19/07/2010,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=july.2010#detail=28960,,,,Mon,Africa/Lagos
+19/07/2010,09:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=july.2010#detail=27230,-5.8B,-3.0B,-5.6B,Mon,Africa/Lagos
+19/07/2010,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=july.2010#detail=50166,,,,Mon,Africa/Lagos
+19/07/2010,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=july.2010#detail=26813,23.16B,8.05B,12.36B,Mon,Africa/Lagos
+19/07/2010,14:00,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31812,,,,Mon,Africa/Lagos
+19/07/2010,15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=july.2010#detail=26858,14,16,16,Mon,Africa/Lagos
+20/07/2010,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=july.2010#detail=24635,,,,Tue,Africa/Lagos
+20/07/2010,04:05,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31810,,,,Tue,Africa/Lagos
+20/07/2010,07:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25124,0.6%,0.2%,0.3%,Tue,Africa/Lagos
+20/07/2010,07:15,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=25540,1.77B,1.05B,0.80B,Tue,Africa/Lagos
+20/07/2010,09:30,GBP,orange,Prelim Mortgage Approvals,https://www.forexfactory.com/calendar?month=july.2010#detail=30391,48K,52K,51K,Tue,Africa/Lagos
+20/07/2010,,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=july.2010#detail=25680,14.5B,13.2B,17.1B,Tue,Africa/Lagos
+20/07/2010,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25681,0.0%,-0.1%,-0.1%,Tue,Africa/Lagos
+20/07/2010,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=july.2010#detail=28190,-16,-24,-23,Tue,Africa/Lagos
+20/07/2010,13:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=july.2010#detail=27760,0.59M,0.57M,0.57M,Tue,Africa/Lagos
+20/07/2010,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=july.2010#detail=27759,0.55M,0.58M,0.58M,Tue,Africa/Lagos
+20/07/2010,14:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=july.2010#detail=24191,,,,Tue,Africa/Lagos
+20/07/2010,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24190,0.75%,0.75%,0.50%,Tue,Africa/Lagos
+20/07/2010,15:00,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31813,,,,Tue,Africa/Lagos
+21/07/2010,00:00,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27525,0.3%,,1.1%,Wed,Africa/Lagos
+21/07/2010,00:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=july.2010#detail=29063,,,,Wed,Africa/Lagos
+21/07/2010,01:30,AUD,orange,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=29043,0.2%,,0.0%,Wed,Africa/Lagos
+21/07/2010,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28425,4.5%,,3.4%,Wed,Africa/Lagos
+21/07/2010,09:30,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=july.2010#detail=49142,0-0-8,0-0-8,0-0-8,Wed,Africa/Lagos
+21/07/2010,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=july.2010#detail=28258,1-0-7,1-0-7,1-0-7,Wed,Africa/Lagos
+21/07/2010,10:05,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42899,3.33|1.2,,3.83|1.1,Wed,Africa/Lagos
+21/07/2010,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27909,-0.1%,0.4%,-0.2%,Wed,Africa/Lagos
+21/07/2010,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2010#detail=24744,0.4M,-1.1M,-5.1M,Wed,Africa/Lagos
+21/07/2010,19:00,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=july.2010#detail=31811,,,,Wed,Africa/Lagos
+21/07/2010,,USD,yellow,Fed Monetary Policy Report,https://www.forexfactory.com/calendar?month=july.2010#detail=64145,,,,Wed,Africa/Lagos
+22/07/2010,02:30,AUD,orange,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=27171,3,,17,Thu,Africa/Lagos
+22/07/2010,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28550,0.2%,-0.4%,1.9%,Thu,Africa/Lagos
+22/07/2010,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26456,53.7,54.1,54.8,Thu,Africa/Lagos
+22/07/2010,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26457,61.3,60.0,60.8,Thu,Africa/Lagos
+22/07/2010,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26458,61.2,58.0,58.4,Thu,Africa/Lagos
+22/07/2010,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26459,57.3,54.6,54.8,Thu,Africa/Lagos
+22/07/2010,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26460,56.5,55.2,55.6,Thu,Africa/Lagos
+22/07/2010,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=26461,56.0,55.0,55.5,Thu,Africa/Lagos
+22/07/2010,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26048,0.7%,0.5%,0.8%,Thu,Africa/Lagos
+22/07/2010,10:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27255,3.8%,-0.1%,0.6%,Thu,Africa/Lagos
+22/07/2010,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26877,-0.1%,0.5%,-1.4%,Thu,Africa/Lagos
+22/07/2010,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26876,-0.2%,0.5%,-2.2%,Thu,Africa/Lagos
+22/07/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2010#detail=28898,464K,449K,427K,Thu,Africa/Lagos
+22/07/2010,14:30,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=july.2010#detail=31814,,,,Thu,Africa/Lagos
+22/07/2010,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=27674,-14,-17,-17,Thu,Africa/Lagos
+22/07/2010,,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=july.2010#detail=27384,5.37M,5.18M,5.66M,Thu,Africa/Lagos
+22/07/2010,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28115,-0.2%,-0.3%,0.5%,Thu,Africa/Lagos
+22/07/2010,,USD,yellow,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31818,,,,Thu,Africa/Lagos
+22/07/2010,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26894,0.5%,-0.3%,0.9%,Thu,Africa/Lagos
+22/07/2010,15:30,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=july.2010#detail=28435,,,,Thu,Africa/Lagos
+22/07/2010,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2010#detail=24745,51B,53B,78B,Thu,Africa/Lagos
+22/07/2010,16:30,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=july.2010#detail=28436,,,,Thu,Africa/Lagos
+23/07/2010,02:30,AUD,orange,Import Prices q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=26939,1.9%,1.0%,0.3%,Fri,Africa/Lagos
+23/07/2010,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26598,-1.4%,0.3%,0.6%,Fri,Africa/Lagos
+23/07/2010,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=july.2010#detail=27801,106.2,101.5,101.8,Fri,Africa/Lagos
+23/07/2010,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26526,-0.3%,0.2%,-0.5%,Fri,Africa/Lagos
+23/07/2010,09:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=26670,1.1%,0.6%,0.3%,Fri,Africa/Lagos
+23/07/2010,,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=july.2010#detail=29080,34.8K,37.0K,36.4K,Fri,Africa/Lagos
+23/07/2010,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=july.2010#detail=28294,0.8%,0.7%,0.6%,Fri,Africa/Lagos
+23/07/2010,12:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26914,-0.1%,0.1%,0.3%,Fri,Africa/Lagos
+23/07/2010,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26913,-0.1%,0.0%,0.3%,Fri,Africa/Lagos
+23/07/2010,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=july.2010#detail=27813,-6.5,-7.9,-7.7,Fri,Africa/Lagos
+23/07/2010,17:00,EUR,red,EBA Bank Stress Test Results,https://www.forexfactory.com/calendar?month=july.2010#detail=31817,,,,Fri,Africa/Lagos
+26/07/2010,00:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=28538,0.46T,0.54T,0.32T,Mon,Africa/Lagos
+26/07/2010,02:30,AUD,red,PPI q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=26974,0.3%,1.2%,1.0%,Mon,Africa/Lagos
+26/07/2010,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=july.2010#detail=26282,330K,317K,267K,Mon,Africa/Lagos
+27/07/2010,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28354,-1.0%,-0.9%,-0.8%,Tue,Africa/Lagos
+27/07/2010,01:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28142,0.3%,,0.1%,Tue,Africa/Lagos
+27/07/2010,07:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=july.2010#detail=24468,1.81,,1.71,Tue,Africa/Lagos
+27/07/2010,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=july.2010#detail=27946,3.9,3.6,3.6,Tue,Africa/Lagos
+27/07/2010,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25161,0.9%,0.7%,0.6%,Tue,Africa/Lagos
+27/07/2010,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27735,0.2%,-0.1%,-0.1%,Tue,Africa/Lagos
+27/07/2010,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27736,0.3%,0.3%,0.2%,Tue,Africa/Lagos
+27/07/2010,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=july.2010#detail=28207,33,2,-5,Tue,Africa/Lagos
+27/07/2010,14:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27777,4.6%,3.9%,3.8%,Tue,Africa/Lagos
+27/07/2010,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=24467,50.4,51.3,54.3,Tue,Africa/Lagos
+27/07/2010,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=july.2010#detail=27027,16,14,23,Tue,Africa/Lagos
+28/07/2010,02:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=27479,0.6%,1.0%,0.9%,Wed,Africa/Lagos
+28/07/2010,,AUD,orange,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=27480,0.5%,0.8%,0.8%,Wed,Africa/Lagos
+28/07/2010,04:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=28504,27.9,,40.2,Wed,Africa/Lagos
+28/07/2010,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25137,0.2%,0.2%,0.1%,Wed,Africa/Lagos
+28/07/2010,09:45,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=july.2010#detail=31898,,,,Wed,Africa/Lagos
+28/07/2010,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25947,-0.6%,0.6%,1.2%,Wed,Africa/Lagos
+28/07/2010,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25946,-1.0%,0.9%,-0.8%,Wed,Africa/Lagos
+28/07/2010,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=july.2010#detail=24746,7.3M,-1.4M,0.4M,Wed,Africa/Lagos
+28/07/2010,19:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=july.2010#detail=26612,,,,Wed,Africa/Lagos
+28/07/2010,22:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=24098,3.00%,3.00%,2.75%,Wed,Africa/Lagos
+28/07/2010,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=july.2010#detail=24106,,,,Wed,Africa/Lagos
+28/07/2010,23:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=july.2010#detail=27549,276M,359M,768M,Wed,Africa/Lagos
+29/07/2010,00:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28754,3.2%,3.3%,2.9%,Thu,Africa/Lagos
+29/07/2010,07:00,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=24545,-0.5%,-0.2%,0.0%,Thu,Africa/Lagos
+29/07/2010,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=july.2010#detail=28225,-20K,-18K,-20K,Thu,Africa/Lagos
+29/07/2010,09:00,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=43618,52.4,,50.4,Thu,Africa/Lagos
+29/07/2010,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28163,0.6B,1.3B,1.1B,Thu,Africa/Lagos
+29/07/2010,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=july.2010#detail=28162,48K,48K,49K,Thu,Africa/Lagos
+29/07/2010,10:27,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=july.2010#detail=42418,3.92|1.3,,4.09|1.3,Thu,Africa/Lagos
+29/07/2010,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26771,-0.3%,1.1%,-7.3%,Thu,Africa/Lagos
+29/07/2010,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26770,-0.9%,0.3%,0.4%,Thu,Africa/Lagos
+29/07/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=july.2010#detail=28899,457K,457K,468K,Thu,Africa/Lagos
+29/07/2010,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=july.2010#detail=24747,28B,31B,51B,Thu,Africa/Lagos
+29/07/2010,23:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=27536,3.5%,,-9.5%,Thu,Africa/Lagos
+30/07/2010,00:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=july.2010#detail=27073,-22,-21,-19,Fri,Africa/Lagos
+30/07/2010,00:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=28997,52.8,,53.9,Fri,Africa/Lagos
+30/07/2010,00:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25855,0.5%,-0.8%,-0.7%,Fri,Africa/Lagos
+30/07/2010,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25858,-1.3%,-1.2%,-1.3%,Fri,Africa/Lagos
+30/07/2010,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=25857,-1.0%,-1.0%,-1.2%,Fri,Africa/Lagos
+30/07/2010,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=25856,5.3%,5.2%,5.2%,Fri,Africa/Lagos
+30/07/2010,00:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28766,-1.5%,0.2%,0.1%,Fri,Africa/Lagos
+30/07/2010,02:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=28413,0.2%,0.4%,0.5%,Fri,Africa/Lagos
+30/07/2010,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=28401,0.6%,1.7%,-4.6%,Fri,Africa/Lagos
+30/07/2010,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=25208,-0.9%,0.0%,3.0%,Fri,Africa/Lagos
+30/07/2010,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=43875,20.1%,20.0%,20.1%,Fri,Africa/Lagos
+30/07/2010,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=july.2010#detail=27342,1.7%,1.8%,1.4%,Fri,Africa/Lagos
+30/07/2010,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=27415,10.0%,10.0%,10.0%,Fri,Africa/Lagos
+30/07/2010,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26538,0.4%,0.2%,0.0%,Fri,Africa/Lagos
+30/07/2010,10:30,CHF,red,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=july.2010#detail=25394,2.23,2.32,2.23,Fri,Africa/Lagos
+30/07/2010,11:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=july.2010#detail=29635,8.5%,8.8%,8.6%,Fri,Africa/Lagos
+30/07/2010,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=july.2010#detail=26931,0.1%,0.1%,0.0%,Fri,Africa/Lagos
+30/07/2010,,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=25970,2.4%,2.5%,2.7%,Fri,Africa/Lagos
+30/07/2010,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=25971,1.8%,1.1%,1.1%,Fri,Africa/Lagos
+30/07/2010,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=july.2010#detail=26101,0.5%,0.5%,0.6%,Fri,Africa/Lagos
+30/07/2010,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=july.2010#detail=25268,62.3,56.3,59.1,Fri,Africa/Lagos
+30/07/2010,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=july.2010#detail=25300,67.8,67.3,66.5,Fri,Africa/Lagos
+30/07/2010,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=july.2010#detail=25301,2.7%,,2.9%,Fri,Africa/Lagos

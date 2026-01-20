@@ -1,423 +1,423 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/06/2021,00:50,JPY,yellow,Capital Spending q/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120987,-7.8%,-6.7%,-4.8%,Tue
-01/06/2021,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=120768,53.0,52.5,52.5,Tue
-01/06/2021,02:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119213,-8.6%,-9.9%,18.9%,Tue
-01/06/2021,,AUD,yellow,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119145,-0.3%,3.6%,-4.8%,Tue
-01/06/2021,,AUD,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=119149,18.3B,17.8B,16.0B,Tue
-01/06/2021,02:45,CNY,yellow,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116556,52.0,52.1,51.9,Tue
-01/06/2021,05:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=june.2021#detail=119030,,,,Tue
-01/06/2021,,AUD,orange,Cash Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119019,0.10%,0.10%,0.10%,Tue
-01/06/2021,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119973,1.8%,0.7%,2.3%,Tue
-01/06/2021,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=117682,39.7%,,33.6%,Tue
-01/06/2021,,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=119748,35.7%,15.4%,23.1%,Tue
-01/06/2021,08:00,CHF,yellow,GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119729,-0.5%,-0.4%,0.1%,Tue
-01/06/2021,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116759,59.4,59.3,57.7,Tue
-01/06/2021,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116806,69.9,70.0,69.5,Tue
-01/06/2021,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116760,62.3,62.0,60.7,Tue
-01/06/2021,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116761,59.4,59.2,59.2,Tue
-01/06/2021,08:55,EUR,orange,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116762,64.4,64.0,64.0,Tue
-01/06/2021,,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=120613,-15K,-9K,8K,Tue
-01/06/2021,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116763,63.1,62.8,62.8,Tue
-01/06/2021,09:02,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=116959,10.7%,10.1%,10.4%,Tue
-01/06/2021,09:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116764,65.6,66.1,66.1,Tue
-01/06/2021,10:00,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120318,0.9%,0.9%,0.7%,Tue
-01/06/2021,,EUR,yellow,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120319,2.0%,1.9%,1.6%,Tue
-01/06/2021,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=120320,8.0%,8.1%,8.1%,Tue
-01/06/2021,All Day,All,red,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=119649,,,,Tue
-01/06/2021,13:30,CAD,orange,GDP m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117835,1.1%,1.0%,0.4%,Tue
-01/06/2021,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117658,57.0,,57.2,Tue
-01/06/2021,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117561,62.1,61.5,61.5,Tue
-01/06/2021,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117315,61.2,60.8,60.7,Tue
-01/06/2021,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117298,0.2%,0.5%,1.0%,Tue
-01/06/2021,,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121817,,,,Tue
-01/06/2021,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=june.2021#detail=117316,88.0,88.9,89.6,Tue
-01/06/2021,15:09,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=june.2021#detail=119425,-0.9%,,-0.2%,Tue
-01/06/2021,16:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121805,,,,Tue
-01/06/2021,19:00,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121818,,,,Tue
-01/06/2021,23:45,NZD,yellow,Overseas Trade Index q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119444,0.1%,-0.2%,1.5%,Tue
-02/06/2021,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120022,-0.6%,,-1.3%,Wed
-02/06/2021,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120942,22.4%,25.2%,24.3%,Wed
-02/06/2021,02:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119153,1.8%,1.5%,3.2%,Wed
-02/06/2021,07:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120548,-5.5%,-2.4%,7.7%,Wed
-02/06/2021,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=117064,-91.4B,,-60.1B,Wed
-02/06/2021,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=116892,-129.4K,-115.2K,-39.0K,Wed
-02/06/2021,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=june.2021#detail=121249,,,,Wed
-02/06/2021,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119471,0.1%,0.7%,0.7%,Wed
-02/06/2021,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=june.2021#detail=119472,87K,80K,83K,Wed
-02/06/2021,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119473,2.9B,7.4B,11.1B,Wed
-02/06/2021,10:00,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121816,,,,Wed
-02/06/2021,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120321,1.0%,0.9%,1.1%,Wed
-02/06/2021,10:24,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=119805,0.94|2.6,,0.92|2.7,Wed
-02/06/2021,13:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117871,-0.5%,-5.2%,7.6%,Wed
-02/06/2021,14:45,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=june.2021#detail=118105,56.4,55.8,54.4,Wed
-02/06/2021,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=june.2021#detail=117405,17.0M,17.4M,18.5M,Wed
-02/06/2021,16:45,EUR,yellow,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121815,,,,Wed
-02/06/2021,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=june.2021#detail=118072,,,,Wed
-02/06/2021,,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121807,,,,Wed
-02/06/2021,,USD,yellow,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121806,,,,Wed
-02/06/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=118555,,,,Wed
-02/06/2021,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=june.2021#detail=116500,58.3,,59.1,Wed
-03/06/2021,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119392,1.3%,,2.3%,Thu
-03/06/2021,02:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=119201,8.03B,8.35B,5.57B,Thu
-03/06/2021,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116577,55.1,56.3,56.3,Thu
-03/06/2021,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=120742,0.08|2.9,,0.07|3.0,Thu
-03/06/2021,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116847,59.4,57.8,54.6,Thu
-03/06/2021,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116846,53.1,52.4,47.3,Thu
-03/06/2021,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116848,56.6,56.6,56.6,Thu
-03/06/2021,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116845,52.8,52.8,52.8,Thu
-03/06/2021,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116843,55.2,55.2,55.1,Thu
-03/06/2021,09:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116844,62.9,61.8,61.8,Thu
-03/06/2021,10:00,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=116934,0.16|2.0,,0.13|1.7,Thu
-03/06/2021,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=117417,-93.8%,,-96.6%,Thu
-03/06/2021,13:15,USD,orange,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=117609,978K,645K,654K,Thu
-03/06/2021,13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2021#detail=117445,385K,400K,405K,Thu
-03/06/2021,,USD,yellow,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=118524,5.4%,5.5%,5.4%,Thu
-03/06/2021,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=118525,1.7%,-0.4%,-0.3%,Thu
-03/06/2021,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=121553,70.4,70.1,70.1,Thu
-03/06/2021,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117536,64.0,63.0,62.7,Thu
-03/06/2021,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2021#detail=118667,98B,95B,115B,Thu
-03/06/2021,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2021#detail=118758,-5.1M,-1.0M,-1.7M,Thu
-03/06/2021,17:00,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121808,,,,Thu
-03/06/2021,17:30,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121809,,,,Thu
-03/06/2021,20:05,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121810,,,,Thu
-04/06/2021,00:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=121007,13.0%,8.6%,6.2%,Fri
-04/06/2021,08:00,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121814,,,,Fri
-04/06/2021,,NZD,orange,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121813,,,,Fri
-04/06/2021,09:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=119822,64.2,61.9,61.6,Fri
-04/06/2021,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120322,-3.1%,-1.4%,3.3%,Fri
-04/06/2021,Day 1,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121799,,,,Fri
-04/06/2021,12:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121812,,,,Fri
-04/06/2021,,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121811,,,,Fri
-04/06/2021,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=117627,-68.0K,-23.5K,-207.1K,Fri
-04/06/2021,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=117628,8.2%,8.2%,8.1%,Fri
-04/06/2021,,CAD,yellow,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=117942,-1.7%,-1.0%,-2.1%,Fri
-04/06/2021,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117387,0.5%,0.2%,0.7%,Fri
-04/06/2021,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=117369,559K,645K,278K,Fri
-04/06/2021,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=117386,5.8%,5.9%,6.1%,Fri
-04/06/2021,15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117670,64.7,62.3,60.6,Fri
-04/06/2021,,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118257,-0.6%,-0.3%,1.4%,Fri
-04/06/2021,15:38,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121819,,,,Fri
-05/06/2021,Day 2,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121800,,,,Sat
-06/06/2021,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2021#detail=117264,,,,Sun
-06/06/2021,23:39,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=june.2021#detail=116488,61.2,,61.0,Sun
-07/06/2021,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119089,7.9%,,4.9%,Mon
-07/06/2021,04:00,CNY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=116608,296B,266B,277B,Mon
-07/06/2021,04:02,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=116609,45.5B,50.5B,42.9B,Mon
-07/06/2021,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=june.2021#detail=121019,103.0%,103.0%,102.5%,Mon
-07/06/2021,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119721,3.0%,3.1%,3.2%,Mon
-07/06/2021,06:58,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120614,-0.2%,0.4%,3.9%,Mon
-07/06/2021,07:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119773,0.3%,0.3%,0.2%,Mon
-07/06/2021,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=june.2021#detail=119674,902B,,914B,Mon
-07/06/2021,08:30,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119497,1.3%,1.0%,1.5%,Mon
-07/06/2021,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=120430,28.1,25.5,21.0,Mon
-07/06/2021,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118217,18.6B,19.5B,18.6B,Mon
-08/06/2021,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120011,18.5%,29.5%,39.6%,Tue
-08/06/2021,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=121371,1.6%,0.8%,0.6%,Tue
-08/06/2021,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120972,2.9%,5.6%,4.8%,Tue
-08/06/2021,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=120973,1.55T,1.60T,1.70T,Tue
-08/06/2021,,JPY,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=121100,-1.0%,-1.2%,-1.3%,Tue
-08/06/2021,00:54,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=121101,-0.1%,-0.2%,-0.2%,Tue
-08/06/2021,02:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=116434,20,,23,Tue
-08/06/2021,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=120743,0.69|3.4,,0.65|3.1,Tue
-08/06/2021,05:59,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=120803,38.1,33.9,39.1,Tue
-08/06/2021,06:55,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120615,-1.0%,0.3%,2.2%,Tue
-08/06/2021,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=117077,-6.2B,-5.3B,-6.1B,Tue
-08/06/2021,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117000,-0.4%,0.2%,0.0%,Tue
-08/06/2021,10:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=120442,81.3,85.5,84.0,Tue
-08/06/2021,,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=120454,79.8,86.0,84.4,Tue
-08/06/2021,,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=120398,-0.3%,-0.3%,-0.3%,Tue
-08/06/2021,,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=120390,-0.3%,-0.6%,-0.6%,Tue
-08/06/2021,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=june.2021#detail=118022,99.6,101.2,99.8,Tue
-08/06/2021,13:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=117696,0.6B,-0.9B,-1.3B,Tue
-08/06/2021,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=117481,-68.9B,-68.5B,-75.0B,Tue
-08/06/2021,14:00,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121822,,,,Tue
-08/06/2021,15:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=june.2021#detail=118173,9.29M,8.18M,8.29M,Tue
-08/06/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=118559,,,,Tue
-08/06/2021,23:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119346,2.1%,,-0.2%,Tue
-09/06/2021,00:30,AUD,orange,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121821,,,,Wed
-09/06/2021,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120954,7.9%,8.5%,9.2%,Wed
-09/06/2021,01:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=119077,-5.2%,,-4.8%,Wed
-09/06/2021,02:00,NZD,orange,Prelim ANZ Business Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=121403,-0.4,,1.8,Wed
-09/06/2021,02:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116656,1.3%,1.6%,0.9%,Wed
-09/06/2021,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116657,9.0%,8.5%,6.8%,Wed
-09/06/2021,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=120616,15.9B,15.7B,14.0B,Wed
-09/06/2021,07:02,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=121057,140.7%,,120.8%,Wed
-09/06/2021,10:35,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=120470,0.31|1.3,,0.22|1.3,Wed
-09/06/2021,15:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=june.2021#detail=117920,,,,Wed
-09/06/2021,,CAD,orange,Overnight Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=117921,0.25%,0.25%,0.25%,Wed
-09/06/2021,,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118286,0.8%,0.8%,0.8%,Wed
-09/06/2021,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2021#detail=118761,-5.2M,-3.3M,-5.1M,Wed
-09/06/2021,18:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=117708,1.50|2.6,,1.68|2.5,Wed
-10/06/2021,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=119999,83%,77%,76%,Thu
-10/06/2021,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120912,4.9%,4.5%,3.8%,Thu
-10/06/2021,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=119065,4.4%,,3.5%,Thu
-10/06/2021,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=117195,0.5%,0.3%,0.3%,Thu
-10/06/2021,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117024,-0.1%,0.5%,1.0%,Thu
-10/06/2021,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117012,1.8%,0.3%,0.3%,Thu
-10/06/2021,09:01,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116637,8.3%,8.1%,8.1%,Thu
-10/06/2021,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=june.2021#detail=116638,1500B,1400B,1470B,Thu
-10/06/2021,12:45,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=june.2021#detail=120225,,,,Thu
-10/06/2021,,EUR,orange,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=120224,0.00%,0.00%,0.00%,Thu
-10/06/2021,13:05,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121823,,,,Thu
-10/06/2021,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=june.2021#detail=120223,,,,Thu
-10/06/2021,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117501,0.7%,0.5%,0.9%,Thu
-10/06/2021,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117502,0.6%,0.4%,0.8%,Thu
-10/06/2021,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=128643,5.0%,4.7%,4.2%,Thu
-10/06/2021,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2021#detail=117446,376K,370K,385K,Thu
-10/06/2021,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2021#detail=118666,98B,99B,98B,Thu
-10/06/2021,18:00,CAD,yellow,Gov Council Member Lane Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121820,,,,Thu
-10/06/2021,18:01,USD,orange,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=117720,2.17|2.3,,2.40|2.2,Thu
-10/06/2021,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=118091,-132.0B,-245.0B,-225.6B,Thu
-10/06/2021,23:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=119261,58.6,,58.3,Thu
-11/06/2021,00:50,JPY,yellow,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=120775,-1.4,1.9,1.6,Fri
-11/06/2021,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120560,1.7%,0.9%,1.1%,Fri
-11/06/2021,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120159,-2.0%,1.0%,5.8%,Fri
-11/06/2021,,GBP,yellow,GDP m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120156,2.3%,2.4%,2.1%,Fri
-11/06/2021,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=120158,-11.0B,-11.8B,-11.7B,Fri
-11/06/2021,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=june.2021#detail=120160,1.4%,1.3%,-2.0%,Fri
-11/06/2021,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120157,-1.3%,1.2%,1.8%,Fri
-11/06/2021,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120161,-0.3%,1.5%,2.1%,Fri
-11/06/2021,09:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=116968,10.4%,10.5%,10.0%,Fri
-11/06/2021,09:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121824,,,,Fri
-11/06/2021,Day 1,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121689,,,,Fri
-11/06/2021,13:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=117938,81.7%,80.5%,79.7%,Fri
-11/06/2021,13:32,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=june.2021#detail=120203,3.8%,,1.5%,Fri
-11/06/2021,15:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=118132,86.4,84.1,82.9,Fri
-11/06/2021,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=118133,4.0%,,4.6%,Fri
-11/06/2021,16:00,CAD,yellow,Gov Council Member Beaudry Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121825,,,,Fri
-12/06/2021,08:00,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116639,35.4%,,38.6%,Sat
-12/06/2021,Day 2,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121690,,,,Sat
-13/06/2021,Day 3,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121798,,,,Sun
-13/06/2021,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2021#detail=117250,,,,Sun
-13/06/2021,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=june.2021#detail=127229,56.1,,61.2,Sun
-13/06/2021,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119366,588.3%,,-12.4%,Sun
-14/06/2021,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2021#detail=121266,,,,Mon
-14/06/2021,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121046,2.9%,2.5%,2.5%,Mon
-14/06/2021,07:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119785,0.8%,0.4%,0.7%,Mon
-14/06/2021,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120323,0.8%,0.4%,0.4%,Mon
-14/06/2021,13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117848,-2.1%,1.1%,4.0%,Mon
-14/06/2021,14:00,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121827,,,,Mon
-14/06/2021,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121232,0.3%,,0.1%,Mon
-14/06/2021,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119408,0.4%,,1.1%,Mon
-15/06/2021,02:30,AUD,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=june.2021#detail=119053,,,,Tue
-15/06/2021,,AUD,yellow,HPI q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119225,5.4%,4.8%,3.0%,Tue
-15/06/2021,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121034,-0.7%,-0.7%,2.4%,Tue
-15/06/2021,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120617,0.5%,0.5%,0.5%,Tue
-15/06/2021,,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=june.2021#detail=119947,5.6%,4.9%,4.3%,Tue
-15/06/2021,,GBP,yellow,Claimant Count Change,https://www.forexfactory.com/calendar?month=june.2021#detail=119949,-92.6K,25.0K,-55.8K,Tue
-15/06/2021,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119948,4.7%,4.7%,4.8%,Tue
-15/06/2021,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117046,0.3%,0.3%,0.3%,Tue
-15/06/2021,08:00,CHF,yellow,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=june.2021#detail=119682,,,,Tue
-15/06/2021,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=120324,9.4B,14.9B,18.3B,Tue
-15/06/2021,11:30,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=119810,1.27|2.2,,1.30|2.2,Tue
-15/06/2021,13:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=june.2021#detail=117886,276K,279K,267K,Tue
-15/06/2021,,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121828,,,,Tue
-15/06/2021,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117590,-0.7%,0.4%,0.0%,Tue
-15/06/2021,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118487,0.8%,0.5%,0.6%,Tue
-15/06/2021,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117591,-1.3%,-0.6%,0.9%,Tue
-15/06/2021,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118488,0.7%,0.5%,0.7%,Tue
-15/06/2021,,USD,yellow,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=117974,17.4,22.2,24.3,Tue
-15/06/2021,14:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118315,0.8%,0.6%,0.1%,Tue
-15/06/2021,,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=118316,75.2%,75.2%,74.6%,Tue
-15/06/2021,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118193,-0.2%,-0.1%,0.2%,Tue
-15/06/2021,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=june.2021#detail=118010,81,83,83,Tue
-15/06/2021,15:37,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=june.2021#detail=119426,-1.3%,,-0.9%,Tue
-15/06/2021,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=june.2021#detail=118370,100.7B,119.5B,262.4B,Tue
-15/06/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=118558,,,,Tue
-15/06/2021,23:45,NZD,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=119338,-2.90B,-2.49B,-2.59B,Tue
-16/06/2021,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120995,0.6%,2.6%,3.7%,Wed
-16/06/2021,,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=121091,0.04T,0.24T,0.08T,Wed
-16/06/2021,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119161,-0.1%,,0.2%,Wed
-16/06/2021,07:00,GBP,orange,CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120060,2.1%,1.8%,1.5%,Wed
-16/06/2021,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120061,2.0%,1.5%,1.3%,Wed
-16/06/2021,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120063,1.1%,1.0%,1.2%,Wed
-16/06/2021,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120064,0.5%,0.4%,0.4%,Wed
-16/06/2021,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120062,3.3%,3.3%,2.9%,Wed
-16/06/2021,08:00,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116698,8.8%,9.2%,9.8%,Wed
-16/06/2021,,CNY,yellow,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116697,15.4%,17.0%,19.9%,Wed
-16/06/2021,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116699,12.4%,14.0%,17.7%,Wed
-16/06/2021,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=116700,5.0%,5.1%,5.1%,Wed
-16/06/2021,09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120065,8.9%,12.1%,9.9%,Wed
-16/06/2021,10:33,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=120475,-0.19|1.3,,-0.09|1.3,Wed
-16/06/2021,13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117732,0.5%,0.4%,0.5%,Wed
-16/06/2021,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=117759,1.8%,1.8%,1.7%,Wed
-16/06/2021,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=117761,2.4%,2.4%,2.3%,Wed
-16/06/2021,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=117762,2.7%,2.4%,2.3%,Wed
-16/06/2021,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117860,0.4%,-1.0%,3.2%,Wed
-16/06/2021,,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=june.2021#detail=118387,1.68M,1.73M,1.73M,Wed
-16/06/2021,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=june.2021#detail=118388,1.57M,1.64M,1.52M,Wed
-16/06/2021,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118510,1.1%,0.8%,0.8%,Wed
-16/06/2021,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117760,0.4%,,0.5%,Wed
-16/06/2021,15:00,USD,red,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121831,,,,Wed
-16/06/2021,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2021#detail=118764,-7.4M,-2.1M,-5.2M,Wed
-16/06/2021,19:00,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=june.2021#detail=118053,,,,Wed
-16/06/2021,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=june.2021#detail=118051,,,,Wed
-16/06/2021,,USD,orange,Federal Funds Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=118054,<0.25%,<0.25%,<0.25%,Wed
-16/06/2021,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=june.2021#detail=118052,,,,Wed
-16/06/2021,23:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121829,,,,Wed
-16/06/2021,23:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119342,1.6%,0.5%,-1.0%,Wed
-17/06/2021,01:10,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121826,,,,Thu
-17/06/2021,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=119118,115.2K,30.5K,-30.7K,Thu
-17/06/2021,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119119,5.1%,5.5%,5.5%,Thu
-17/06/2021,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=119042,,,,Thu
-17/06/2021,,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=136787,0.52%,,0.48%,Thu
-17/06/2021,05:30,CHF,yellow,SNB Financial Stability Report,https://www.forexfactory.com/calendar?month=june.2021#detail=119689,,,,Thu
-17/06/2021,07:02,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=119761,4.95B,4.23B,3.77B,Thu
-17/06/2021,08:30,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=june.2021#detail=119692,,,,Thu
-17/06/2021,,CHF,orange,SNB Policy Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119693,-0.75%,-0.75%,-0.75%,Thu
-17/06/2021,09:00,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=june.2021#detail=119694,,,,Thu
-17/06/2021,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=116988,5.87B,6.23B,5.19B,Thu
-17/06/2021,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120326,1.0%,0.9%,0.9%,Thu
-17/06/2021,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120325,2.0%,2.0%,2.0%,Thu
-17/06/2021,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121186,,,,Thu
-17/06/2021,13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=june.2021#detail=117824,9.95B,4.35B,4.12B,Thu
-17/06/2021,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=118034,30.7,30.3,31.5,Thu
-17/06/2021,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2021#detail=117447,412K,360K,375k,Thu
-17/06/2021,13:32,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=117646,101.6K,,101.3K,Thu
-17/06/2021,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118205,1.3%,1.3%,1.3%,Thu
-17/06/2021,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2021#detail=118665,16B,71B,98B,Thu
-18/06/2021,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120930,0.1%,0.0%,-0.1%,Fri
-18/06/2021,04:30,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=june.2021#detail=120867,,,,Fri
-18/06/2021,,JPY,yellow,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=120866,-0.10%,-0.10%,-0.10%,Fri
-18/06/2021,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120618,1.5%,0.7%,0.8%,Fri
-18/06/2021,,GBP,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120107,-1.4%,1.5%,9.2%,Fri
-18/06/2021,07:30,JPY,orange,BOJ Press Conference,https://www.forexfactory.com/calendar?month=june.2021#detail=120896,,,,Fri
-18/06/2021,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=120406,22.8B,20.3B,17.8B,Fri
-18/06/2021,09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=119918,2.4%,,2.7%,Fri
-18/06/2021,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121187,,,,Fri
-18/06/2021,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117895,1.4%,1.5%,1.9%,Fri
-21/06/2021,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119986,0.8%,,1.8%,Mon
-21/06/2021,02:30,AUD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121830,0.1%,0.4%,1.1%,Mon
-21/06/2021,,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=134379,3.85%,3.85%,3.85%,Mon
-21/06/2021,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=134327,4.65%,4.65%,4.65%,Mon
-21/06/2021,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=june.2021#detail=120502,,,,Mon
-21/06/2021,13:30,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121841,,,,Mon
-21/06/2021,15:15,EUR,red,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121834,,,,Mon
-21/06/2021,20:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121832,,,,Mon
-21/06/2021,22:00,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=119302,107.1,,105.2,Mon
-22/06/2021,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=119330,27.2%,,87.5%,Tue
-22/06/2021,05:59,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120851,0.0%,0.0%,-0.1%,Tue
-22/06/2021,07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=june.2021#detail=120119,23.6B,24.5B,28.3B,Tue
-22/06/2021,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=119846,19,16,17,Tue
-22/06/2021,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=117573,22,18,18,Tue
-22/06/2021,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=120418,-3,-3,-5,Tue
-22/06/2021,,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=june.2021#detail=118406,5.80M,5.71M,5.85M,Tue
-22/06/2021,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119137,0.8%,,0.9%,Tue
-22/06/2021,16:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121835,,,,Tue
-22/06/2021,19:00,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=june.2021#detail=121836,,,,Tue
-22/06/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=118557,,,,Tue
-23/06/2021,00:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116455,58.4,,60.4,Wed
-23/06/2021,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116456,56.0,,58.0,Wed
-23/06/2021,00:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=june.2021#detail=120883,,,,Wed
-23/06/2021,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=120756,51.5,53.2,53.0,Wed
-23/06/2021,02:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=121540,13.32B,,9.67B,Wed
-23/06/2021,04:15,AUD,orange,RBA Assist Gov Ellis Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121837,,,,Wed
-23/06/2021,08:15,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117138,58.6,59.0,59.4,Wed
-23/06/2021,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117139,57.4,59.6,56.6,Wed
-23/06/2021,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117140,64.9,63.0,64.4,Wed
-23/06/2021,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117141,58.1,55.8,52.8,Wed
-23/06/2021,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117136,63.1,62.4,63.1,Wed
-23/06/2021,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117137,58.0,58.1,55.2,Wed
-23/06/2021,09:30,GBP,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117142,64.2,64.1,65.6,Wed
-23/06/2021,,GBP,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117143,61.7,62.9,62.9,Wed
-23/06/2021,13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117797,-7.2%,-4.4%,5.4%,Wed
-23/06/2021,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117798,-5.7%,-5.1%,4.5%,Wed
-23/06/2021,,USD,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=118249,-196B,-205B,-175B,Wed
-23/06/2021,14:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=119701,,,,Wed
-23/06/2021,,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121838,,,,Wed
-23/06/2021,14:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117991,62.6,61.5,62.1,Wed
-23/06/2021,,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117992,64.8,70.0,70.4,Wed
-23/06/2021,15:00,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=june.2021#detail=118434,769K,864K,817K,Wed
-23/06/2021,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2021#detail=118767,-7.6M,-3.6M,-7.4M,Wed
-23/06/2021,16:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121839,,,,Wed
-23/06/2021,17:00,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121842,,,,Wed
-24/06/2021,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120906,1.5%,1.4%,1.1%,Thu
-24/06/2021,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=june.2021#detail=120490,101.8,100.8,99.2,Thu
-24/06/2021,,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=117230,,,,Thu
-24/06/2021,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=june.2021#detail=119880,875B,875B,875B,Thu
-24/06/2021,,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=june.2021#detail=119883,,,,Thu
-24/06/2021,,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=june.2021#detail=119884,0-1-8,0-1-8,0-1-8,Thu
-24/06/2021,,GBP,orange,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=june.2021#detail=119881,0-0-9,0-0-9,0-0-9,Thu
-24/06/2021,,GBP,orange,Official Bank Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119882,0.10%,0.10%,0.10%,Thu
-24/06/2021,13:30,USD,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=118266,6.4%,6.4%,6.4%,Thu
-24/06/2021,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2021#detail=117448,411K,382K,418K,Thu
-24/06/2021,,USD,yellow,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118234,0.3%,0.8%,1.7%,Thu
-24/06/2021,,USD,yellow,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118235,2.3%,2.9%,-0.8%,Thu
-24/06/2021,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=118298,-88.1B,-87.4B,-85.7B,Thu
-24/06/2021,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118358,1.1%,0.8%,1.0%,Thu
-24/06/2021,13:36,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=118267,4.3%,4.3%,4.3%,Thu
-24/06/2021,13:56,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=june.2021#detail=121149,9.8,8.5,6.5,Thu
-24/06/2021,14:30,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121840,,,,Thu
-24/06/2021,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2021#detail=118664,55B,64B,16B,Thu
-24/06/2021,16:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121833,,,,Thu
-24/06/2021,21:30,USD,yellow,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=june.2021#detail=118639,,,,Thu
-24/06/2021,23:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=119354,469M,205M,414M,Thu
-25/06/2021,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=119925,-9,-7,-9,Fri
-25/06/2021,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120820,0.0%,-0.1%,-0.2%,Fri
-25/06/2021,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=june.2021#detail=120513,-0.3,-3.9,-6.9,Fri
-25/06/2021,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120259,8.4%,8.6%,9.2%,Fri
-25/06/2021,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120260,3.9%,3.7%,3.8%,Fri
-25/06/2021,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=june.2021#detail=119834,25,12,18,Fri
-25/06/2021,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118472,0.5%,0.6%,0.7%,Fri
-25/06/2021,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118340,-2.0%,-2.5%,-13.1%,Fri
-25/06/2021,,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118339,0.0%,0.4%,0.9%,Fri
-25/06/2021,14:15,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121166,0.9%,,1.1%,Fri
-25/06/2021,15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=118134,85.5,86.5,86.4,Fri
-25/06/2021,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=118135,4.2%,,4.0%,Fri
-28/06/2021,00:50,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=june.2021#detail=120884,,,,Mon
-28/06/2021,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120572,1.7%,1.3%,1.4%,Mon
-28/06/2021,13:00,EUR,yellow,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121845,,,,Mon
-28/06/2021,,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121852,,,,Mon
-28/06/2021,14:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121846,,,,Mon
-28/06/2021,17:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121858,,,,Mon
-28/06/2021,18:10,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121854,,,,Mon
-29/06/2021,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=120821,3.0%,2.9%,2.8%,Tue
-29/06/2021,00:50,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=121074,8.2%,8.2%,11.9%,Tue
-29/06/2021,03:00,NZD,orange,RBNZ Statement of Intent,https://www.forexfactory.com/calendar?month=june.2021#detail=121910,,,,Tue
-29/06/2021,05:10,NZD,red,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121855,,,,Tue
-29/06/2021,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119974,0.7%,0.7%,1.7%,Tue
-29/06/2021,All Day,EUR,yellow,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120619,0.4%,0.4%,0.5%,Tue
-29/06/2021,08:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116908,2.6%,2.7%,2.7%,Tue
-29/06/2021,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=june.2021#detail=121250,,,,Tue
-29/06/2021,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119476,0.4%,0.2%,0.1%,Tue
-29/06/2021,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=june.2021#detail=119475,88K,86K,87K,Tue
-29/06/2021,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119474,6.9B,4.6B,2.8B,Tue
-29/06/2021,14:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121847,,,,Tue
-29/06/2021,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118418,1.8%,1.5%,1.6%,Tue
-29/06/2021,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=118458,14.9%,14.8%,13.4%,Tue
-29/06/2021,14:40,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121856,,,,Tue
-29/06/2021,15:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=121593,127.3,118.9,120.0,Tue
-29/06/2021,17:00,EUR,yellow,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121848,,,,Tue
-29/06/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=118556,,,,Tue
-30/06/2021,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120023,-0.7%,,-0.6%,Wed
-30/06/2021,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121072,-5.9%,-2.1%,2.9%,Wed
-30/06/2021,02:00,CNY,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116579,50.9,50.9,51.0,Wed
-30/06/2021,,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116578,53.5,55.3,55.2,Wed
-30/06/2021,,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=121120,-0.6,,-0.4,Wed
-30/06/2021,02:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119177,0.4%,0.3%,0.3%,Wed
-30/06/2021,05:59,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=120786,37.4,34.8,34.1,Wed
-30/06/2021,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120840,9.9%,8.4%,7.1%,Wed
-30/06/2021,07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=120526,-12.8B,-13.9B,-26.3B,Wed
-30/06/2021,,GBP,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=120528,-1.6%,-1.5%,-1.5%,Wed
-30/06/2021,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=120527,-10.7%,-11.9%,-11.9%,Wed
-30/06/2021,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117089,10.4%,7.4%,-8.7%,Wed
-30/06/2021,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117047,0.2%,0.2%,0.3%,Wed
-30/06/2021,08:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=june.2021#detail=119738,133.4,144.9,143.7,Wed
-30/06/2021,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=120620,-38K,-20K,-19K,Wed
-30/06/2021,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=119709,51.3,,72.2,Wed
-30/06/2021,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120328,1.9%,1.9%,2.0%,Wed
-30/06/2021,,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120327,0.9%,0.9%,1.0%,Wed
-30/06/2021,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=116976,0.1%,0.2%,0.0%,Wed
-30/06/2021,10:15,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=116954,0.74|1.6,,0.94|1.3,Wed
-30/06/2021,12:00,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121844,,,,Wed
-30/06/2021,13:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121859,,,,Wed
-30/06/2021,13:15,USD,orange,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=117610,692K,555K,886K,Wed
-30/06/2021,13:30,CAD,orange,GDP m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117836,-0.3%,-0.8%,1.3%,Wed
-30/06/2021,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117957,2.7%,3.0%,1.8%,Wed
-30/06/2021,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117958,3.2%,2.1%,1.0%,Wed
-30/06/2021,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117548,66.1,70.2,75.2,Wed
-30/06/2021,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118446,8.0%,-1.1%,-4.4%,Wed
-30/06/2021,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2021#detail=118770,-6.7M,-4.2M,-7.6M,Wed
-30/06/2021,18:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121860,,,,Wed
-30/06/2021,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=116477,63.2,,61.8,Wed
-30/06/2021,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119380,-2.8%,,5.1%,Wed
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/06/2021,00:50,JPY,yellow,Capital Spending q/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120987,-7.8%,-6.7%,-4.8%,Tue,Africa/Lagos
+01/06/2021,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=120768,53.0,52.5,52.5,Tue,Africa/Lagos
+01/06/2021,02:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119213,-8.6%,-9.9%,18.9%,Tue,Africa/Lagos
+01/06/2021,,AUD,yellow,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119145,-0.3%,3.6%,-4.8%,Tue,Africa/Lagos
+01/06/2021,,AUD,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=119149,18.3B,17.8B,16.0B,Tue,Africa/Lagos
+01/06/2021,02:45,CNY,yellow,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116556,52.0,52.1,51.9,Tue,Africa/Lagos
+01/06/2021,05:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=june.2021#detail=119030,,,,Tue,Africa/Lagos
+01/06/2021,,AUD,orange,Cash Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119019,0.10%,0.10%,0.10%,Tue,Africa/Lagos
+01/06/2021,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119973,1.8%,0.7%,2.3%,Tue,Africa/Lagos
+01/06/2021,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=117682,39.7%,,33.6%,Tue,Africa/Lagos
+01/06/2021,,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=119748,35.7%,15.4%,23.1%,Tue,Africa/Lagos
+01/06/2021,08:00,CHF,yellow,GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119729,-0.5%,-0.4%,0.1%,Tue,Africa/Lagos
+01/06/2021,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116759,59.4,59.3,57.7,Tue,Africa/Lagos
+01/06/2021,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116806,69.9,70.0,69.5,Tue,Africa/Lagos
+01/06/2021,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116760,62.3,62.0,60.7,Tue,Africa/Lagos
+01/06/2021,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116761,59.4,59.2,59.2,Tue,Africa/Lagos
+01/06/2021,08:55,EUR,orange,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116762,64.4,64.0,64.0,Tue,Africa/Lagos
+01/06/2021,,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=120613,-15K,-9K,8K,Tue,Africa/Lagos
+01/06/2021,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116763,63.1,62.8,62.8,Tue,Africa/Lagos
+01/06/2021,09:02,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=116959,10.7%,10.1%,10.4%,Tue,Africa/Lagos
+01/06/2021,09:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116764,65.6,66.1,66.1,Tue,Africa/Lagos
+01/06/2021,10:00,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120318,0.9%,0.9%,0.7%,Tue,Africa/Lagos
+01/06/2021,,EUR,yellow,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120319,2.0%,1.9%,1.6%,Tue,Africa/Lagos
+01/06/2021,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=120320,8.0%,8.1%,8.1%,Tue,Africa/Lagos
+01/06/2021,All Day,All,red,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=119649,,,,Tue,Africa/Lagos
+01/06/2021,13:30,CAD,orange,GDP m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117835,1.1%,1.0%,0.4%,Tue,Africa/Lagos
+01/06/2021,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117658,57.0,,57.2,Tue,Africa/Lagos
+01/06/2021,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117561,62.1,61.5,61.5,Tue,Africa/Lagos
+01/06/2021,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117315,61.2,60.8,60.7,Tue,Africa/Lagos
+01/06/2021,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117298,0.2%,0.5%,1.0%,Tue,Africa/Lagos
+01/06/2021,,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121817,,,,Tue,Africa/Lagos
+01/06/2021,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=june.2021#detail=117316,88.0,88.9,89.6,Tue,Africa/Lagos
+01/06/2021,15:09,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=june.2021#detail=119425,-0.9%,,-0.2%,Tue,Africa/Lagos
+01/06/2021,16:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121805,,,,Tue,Africa/Lagos
+01/06/2021,19:00,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121818,,,,Tue,Africa/Lagos
+01/06/2021,23:45,NZD,yellow,Overseas Trade Index q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119444,0.1%,-0.2%,1.5%,Tue,Africa/Lagos
+02/06/2021,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120022,-0.6%,,-1.3%,Wed,Africa/Lagos
+02/06/2021,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120942,22.4%,25.2%,24.3%,Wed,Africa/Lagos
+02/06/2021,02:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119153,1.8%,1.5%,3.2%,Wed,Africa/Lagos
+02/06/2021,07:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120548,-5.5%,-2.4%,7.7%,Wed,Africa/Lagos
+02/06/2021,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=117064,-91.4B,,-60.1B,Wed,Africa/Lagos
+02/06/2021,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=116892,-129.4K,-115.2K,-39.0K,Wed,Africa/Lagos
+02/06/2021,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=june.2021#detail=121249,,,,Wed,Africa/Lagos
+02/06/2021,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119471,0.1%,0.7%,0.7%,Wed,Africa/Lagos
+02/06/2021,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=june.2021#detail=119472,87K,80K,83K,Wed,Africa/Lagos
+02/06/2021,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119473,2.9B,7.4B,11.1B,Wed,Africa/Lagos
+02/06/2021,10:00,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121816,,,,Wed,Africa/Lagos
+02/06/2021,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120321,1.0%,0.9%,1.1%,Wed,Africa/Lagos
+02/06/2021,10:24,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=119805,0.94|2.6,,0.92|2.7,Wed,Africa/Lagos
+02/06/2021,13:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117871,-0.5%,-5.2%,7.6%,Wed,Africa/Lagos
+02/06/2021,14:45,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=june.2021#detail=118105,56.4,55.8,54.4,Wed,Africa/Lagos
+02/06/2021,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=june.2021#detail=117405,17.0M,17.4M,18.5M,Wed,Africa/Lagos
+02/06/2021,16:45,EUR,yellow,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121815,,,,Wed,Africa/Lagos
+02/06/2021,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=june.2021#detail=118072,,,,Wed,Africa/Lagos
+02/06/2021,,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121807,,,,Wed,Africa/Lagos
+02/06/2021,,USD,yellow,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121806,,,,Wed,Africa/Lagos
+02/06/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=118555,,,,Wed,Africa/Lagos
+02/06/2021,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=june.2021#detail=116500,58.3,,59.1,Wed,Africa/Lagos
+03/06/2021,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119392,1.3%,,2.3%,Thu,Africa/Lagos
+03/06/2021,02:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=119201,8.03B,8.35B,5.57B,Thu,Africa/Lagos
+03/06/2021,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116577,55.1,56.3,56.3,Thu,Africa/Lagos
+03/06/2021,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=120742,0.08|2.9,,0.07|3.0,Thu,Africa/Lagos
+03/06/2021,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116847,59.4,57.8,54.6,Thu,Africa/Lagos
+03/06/2021,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116846,53.1,52.4,47.3,Thu,Africa/Lagos
+03/06/2021,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116848,56.6,56.6,56.6,Thu,Africa/Lagos
+03/06/2021,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116845,52.8,52.8,52.8,Thu,Africa/Lagos
+03/06/2021,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116843,55.2,55.2,55.1,Thu,Africa/Lagos
+03/06/2021,09:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116844,62.9,61.8,61.8,Thu,Africa/Lagos
+03/06/2021,10:00,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=116934,0.16|2.0,,0.13|1.7,Thu,Africa/Lagos
+03/06/2021,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=117417,-93.8%,,-96.6%,Thu,Africa/Lagos
+03/06/2021,13:15,USD,orange,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=117609,978K,645K,654K,Thu,Africa/Lagos
+03/06/2021,13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2021#detail=117445,385K,400K,405K,Thu,Africa/Lagos
+03/06/2021,,USD,yellow,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=118524,5.4%,5.5%,5.4%,Thu,Africa/Lagos
+03/06/2021,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=118525,1.7%,-0.4%,-0.3%,Thu,Africa/Lagos
+03/06/2021,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=121553,70.4,70.1,70.1,Thu,Africa/Lagos
+03/06/2021,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117536,64.0,63.0,62.7,Thu,Africa/Lagos
+03/06/2021,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2021#detail=118667,98B,95B,115B,Thu,Africa/Lagos
+03/06/2021,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2021#detail=118758,-5.1M,-1.0M,-1.7M,Thu,Africa/Lagos
+03/06/2021,17:00,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121808,,,,Thu,Africa/Lagos
+03/06/2021,17:30,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121809,,,,Thu,Africa/Lagos
+03/06/2021,20:05,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121810,,,,Thu,Africa/Lagos
+04/06/2021,00:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=121007,13.0%,8.6%,6.2%,Fri,Africa/Lagos
+04/06/2021,08:00,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121814,,,,Fri,Africa/Lagos
+04/06/2021,,NZD,orange,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121813,,,,Fri,Africa/Lagos
+04/06/2021,09:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=119822,64.2,61.9,61.6,Fri,Africa/Lagos
+04/06/2021,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120322,-3.1%,-1.4%,3.3%,Fri,Africa/Lagos
+04/06/2021,Day 1,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121799,,,,Fri,Africa/Lagos
+04/06/2021,12:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121812,,,,Fri,Africa/Lagos
+04/06/2021,,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121811,,,,Fri,Africa/Lagos
+04/06/2021,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=117627,-68.0K,-23.5K,-207.1K,Fri,Africa/Lagos
+04/06/2021,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=117628,8.2%,8.2%,8.1%,Fri,Africa/Lagos
+04/06/2021,,CAD,yellow,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=117942,-1.7%,-1.0%,-2.1%,Fri,Africa/Lagos
+04/06/2021,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117387,0.5%,0.2%,0.7%,Fri,Africa/Lagos
+04/06/2021,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=117369,559K,645K,278K,Fri,Africa/Lagos
+04/06/2021,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=117386,5.8%,5.9%,6.1%,Fri,Africa/Lagos
+04/06/2021,15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117670,64.7,62.3,60.6,Fri,Africa/Lagos
+04/06/2021,,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118257,-0.6%,-0.3%,1.4%,Fri,Africa/Lagos
+04/06/2021,15:38,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121819,,,,Fri,Africa/Lagos
+05/06/2021,Day 2,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121800,,,,Sat,Africa/Lagos
+06/06/2021,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2021#detail=117264,,,,Sun,Africa/Lagos
+06/06/2021,23:39,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=june.2021#detail=116488,61.2,,61.0,Sun,Africa/Lagos
+07/06/2021,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119089,7.9%,,4.9%,Mon,Africa/Lagos
+07/06/2021,04:00,CNY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=116608,296B,266B,277B,Mon,Africa/Lagos
+07/06/2021,04:02,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=116609,45.5B,50.5B,42.9B,Mon,Africa/Lagos
+07/06/2021,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=june.2021#detail=121019,103.0%,103.0%,102.5%,Mon,Africa/Lagos
+07/06/2021,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119721,3.0%,3.1%,3.2%,Mon,Africa/Lagos
+07/06/2021,06:58,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120614,-0.2%,0.4%,3.9%,Mon,Africa/Lagos
+07/06/2021,07:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119773,0.3%,0.3%,0.2%,Mon,Africa/Lagos
+07/06/2021,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=june.2021#detail=119674,902B,,914B,Mon,Africa/Lagos
+07/06/2021,08:30,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119497,1.3%,1.0%,1.5%,Mon,Africa/Lagos
+07/06/2021,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=120430,28.1,25.5,21.0,Mon,Africa/Lagos
+07/06/2021,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118217,18.6B,19.5B,18.6B,Mon,Africa/Lagos
+08/06/2021,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120011,18.5%,29.5%,39.6%,Tue,Africa/Lagos
+08/06/2021,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=121371,1.6%,0.8%,0.6%,Tue,Africa/Lagos
+08/06/2021,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120972,2.9%,5.6%,4.8%,Tue,Africa/Lagos
+08/06/2021,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=120973,1.55T,1.60T,1.70T,Tue,Africa/Lagos
+08/06/2021,,JPY,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=121100,-1.0%,-1.2%,-1.3%,Tue,Africa/Lagos
+08/06/2021,00:54,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=121101,-0.1%,-0.2%,-0.2%,Tue,Africa/Lagos
+08/06/2021,02:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=116434,20,,23,Tue,Africa/Lagos
+08/06/2021,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=120743,0.69|3.4,,0.65|3.1,Tue,Africa/Lagos
+08/06/2021,05:59,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=120803,38.1,33.9,39.1,Tue,Africa/Lagos
+08/06/2021,06:55,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120615,-1.0%,0.3%,2.2%,Tue,Africa/Lagos
+08/06/2021,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=117077,-6.2B,-5.3B,-6.1B,Tue,Africa/Lagos
+08/06/2021,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117000,-0.4%,0.2%,0.0%,Tue,Africa/Lagos
+08/06/2021,10:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=120442,81.3,85.5,84.0,Tue,Africa/Lagos
+08/06/2021,,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=120454,79.8,86.0,84.4,Tue,Africa/Lagos
+08/06/2021,,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=120398,-0.3%,-0.3%,-0.3%,Tue,Africa/Lagos
+08/06/2021,,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=120390,-0.3%,-0.6%,-0.6%,Tue,Africa/Lagos
+08/06/2021,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=june.2021#detail=118022,99.6,101.2,99.8,Tue,Africa/Lagos
+08/06/2021,13:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=117696,0.6B,-0.9B,-1.3B,Tue,Africa/Lagos
+08/06/2021,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=117481,-68.9B,-68.5B,-75.0B,Tue,Africa/Lagos
+08/06/2021,14:00,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121822,,,,Tue,Africa/Lagos
+08/06/2021,15:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=june.2021#detail=118173,9.29M,8.18M,8.29M,Tue,Africa/Lagos
+08/06/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=118559,,,,Tue,Africa/Lagos
+08/06/2021,23:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119346,2.1%,,-0.2%,Tue,Africa/Lagos
+09/06/2021,00:30,AUD,orange,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121821,,,,Wed,Africa/Lagos
+09/06/2021,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120954,7.9%,8.5%,9.2%,Wed,Africa/Lagos
+09/06/2021,01:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=119077,-5.2%,,-4.8%,Wed,Africa/Lagos
+09/06/2021,02:00,NZD,orange,Prelim ANZ Business Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=121403,-0.4,,1.8,Wed,Africa/Lagos
+09/06/2021,02:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116656,1.3%,1.6%,0.9%,Wed,Africa/Lagos
+09/06/2021,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116657,9.0%,8.5%,6.8%,Wed,Africa/Lagos
+09/06/2021,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=120616,15.9B,15.7B,14.0B,Wed,Africa/Lagos
+09/06/2021,07:02,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=121057,140.7%,,120.8%,Wed,Africa/Lagos
+09/06/2021,10:35,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=120470,0.31|1.3,,0.22|1.3,Wed,Africa/Lagos
+09/06/2021,15:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=june.2021#detail=117920,,,,Wed,Africa/Lagos
+09/06/2021,,CAD,orange,Overnight Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=117921,0.25%,0.25%,0.25%,Wed,Africa/Lagos
+09/06/2021,,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118286,0.8%,0.8%,0.8%,Wed,Africa/Lagos
+09/06/2021,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2021#detail=118761,-5.2M,-3.3M,-5.1M,Wed,Africa/Lagos
+09/06/2021,18:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=117708,1.50|2.6,,1.68|2.5,Wed,Africa/Lagos
+10/06/2021,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=119999,83%,77%,76%,Thu,Africa/Lagos
+10/06/2021,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120912,4.9%,4.5%,3.8%,Thu,Africa/Lagos
+10/06/2021,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=119065,4.4%,,3.5%,Thu,Africa/Lagos
+10/06/2021,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=117195,0.5%,0.3%,0.3%,Thu,Africa/Lagos
+10/06/2021,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117024,-0.1%,0.5%,1.0%,Thu,Africa/Lagos
+10/06/2021,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117012,1.8%,0.3%,0.3%,Thu,Africa/Lagos
+10/06/2021,09:01,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116637,8.3%,8.1%,8.1%,Thu,Africa/Lagos
+10/06/2021,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=june.2021#detail=116638,1500B,1400B,1470B,Thu,Africa/Lagos
+10/06/2021,12:45,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=june.2021#detail=120225,,,,Thu,Africa/Lagos
+10/06/2021,,EUR,orange,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=120224,0.00%,0.00%,0.00%,Thu,Africa/Lagos
+10/06/2021,13:05,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121823,,,,Thu,Africa/Lagos
+10/06/2021,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=june.2021#detail=120223,,,,Thu,Africa/Lagos
+10/06/2021,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117501,0.7%,0.5%,0.9%,Thu,Africa/Lagos
+10/06/2021,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117502,0.6%,0.4%,0.8%,Thu,Africa/Lagos
+10/06/2021,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=128643,5.0%,4.7%,4.2%,Thu,Africa/Lagos
+10/06/2021,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2021#detail=117446,376K,370K,385K,Thu,Africa/Lagos
+10/06/2021,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2021#detail=118666,98B,99B,98B,Thu,Africa/Lagos
+10/06/2021,18:00,CAD,yellow,Gov Council Member Lane Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121820,,,,Thu,Africa/Lagos
+10/06/2021,18:01,USD,orange,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=117720,2.17|2.3,,2.40|2.2,Thu,Africa/Lagos
+10/06/2021,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=118091,-132.0B,-245.0B,-225.6B,Thu,Africa/Lagos
+10/06/2021,23:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=119261,58.6,,58.3,Thu,Africa/Lagos
+11/06/2021,00:50,JPY,yellow,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=120775,-1.4,1.9,1.6,Fri,Africa/Lagos
+11/06/2021,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120560,1.7%,0.9%,1.1%,Fri,Africa/Lagos
+11/06/2021,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120159,-2.0%,1.0%,5.8%,Fri,Africa/Lagos
+11/06/2021,,GBP,yellow,GDP m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120156,2.3%,2.4%,2.1%,Fri,Africa/Lagos
+11/06/2021,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=120158,-11.0B,-11.8B,-11.7B,Fri,Africa/Lagos
+11/06/2021,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=june.2021#detail=120160,1.4%,1.3%,-2.0%,Fri,Africa/Lagos
+11/06/2021,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120157,-1.3%,1.2%,1.8%,Fri,Africa/Lagos
+11/06/2021,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120161,-0.3%,1.5%,2.1%,Fri,Africa/Lagos
+11/06/2021,09:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=116968,10.4%,10.5%,10.0%,Fri,Africa/Lagos
+11/06/2021,09:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121824,,,,Fri,Africa/Lagos
+11/06/2021,Day 1,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121689,,,,Fri,Africa/Lagos
+11/06/2021,13:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=117938,81.7%,80.5%,79.7%,Fri,Africa/Lagos
+11/06/2021,13:32,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=june.2021#detail=120203,3.8%,,1.5%,Fri,Africa/Lagos
+11/06/2021,15:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=118132,86.4,84.1,82.9,Fri,Africa/Lagos
+11/06/2021,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=118133,4.0%,,4.6%,Fri,Africa/Lagos
+11/06/2021,16:00,CAD,yellow,Gov Council Member Beaudry Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121825,,,,Fri,Africa/Lagos
+12/06/2021,08:00,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116639,35.4%,,38.6%,Sat,Africa/Lagos
+12/06/2021,Day 2,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121690,,,,Sat,Africa/Lagos
+13/06/2021,Day 3,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121798,,,,Sun,Africa/Lagos
+13/06/2021,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2021#detail=117250,,,,Sun,Africa/Lagos
+13/06/2021,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=june.2021#detail=127229,56.1,,61.2,Sun,Africa/Lagos
+13/06/2021,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119366,588.3%,,-12.4%,Sun,Africa/Lagos
+14/06/2021,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2021#detail=121266,,,,Mon,Africa/Lagos
+14/06/2021,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121046,2.9%,2.5%,2.5%,Mon,Africa/Lagos
+14/06/2021,07:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119785,0.8%,0.4%,0.7%,Mon,Africa/Lagos
+14/06/2021,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120323,0.8%,0.4%,0.4%,Mon,Africa/Lagos
+14/06/2021,13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117848,-2.1%,1.1%,4.0%,Mon,Africa/Lagos
+14/06/2021,14:00,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121827,,,,Mon,Africa/Lagos
+14/06/2021,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121232,0.3%,,0.1%,Mon,Africa/Lagos
+14/06/2021,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119408,0.4%,,1.1%,Mon,Africa/Lagos
+15/06/2021,02:30,AUD,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=june.2021#detail=119053,,,,Tue,Africa/Lagos
+15/06/2021,,AUD,yellow,HPI q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119225,5.4%,4.8%,3.0%,Tue,Africa/Lagos
+15/06/2021,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121034,-0.7%,-0.7%,2.4%,Tue,Africa/Lagos
+15/06/2021,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120617,0.5%,0.5%,0.5%,Tue,Africa/Lagos
+15/06/2021,,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=june.2021#detail=119947,5.6%,4.9%,4.3%,Tue,Africa/Lagos
+15/06/2021,,GBP,yellow,Claimant Count Change,https://www.forexfactory.com/calendar?month=june.2021#detail=119949,-92.6K,25.0K,-55.8K,Tue,Africa/Lagos
+15/06/2021,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119948,4.7%,4.7%,4.8%,Tue,Africa/Lagos
+15/06/2021,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117046,0.3%,0.3%,0.3%,Tue,Africa/Lagos
+15/06/2021,08:00,CHF,yellow,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=june.2021#detail=119682,,,,Tue,Africa/Lagos
+15/06/2021,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=120324,9.4B,14.9B,18.3B,Tue,Africa/Lagos
+15/06/2021,11:30,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=119810,1.27|2.2,,1.30|2.2,Tue,Africa/Lagos
+15/06/2021,13:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=june.2021#detail=117886,276K,279K,267K,Tue,Africa/Lagos
+15/06/2021,,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121828,,,,Tue,Africa/Lagos
+15/06/2021,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117590,-0.7%,0.4%,0.0%,Tue,Africa/Lagos
+15/06/2021,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118487,0.8%,0.5%,0.6%,Tue,Africa/Lagos
+15/06/2021,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117591,-1.3%,-0.6%,0.9%,Tue,Africa/Lagos
+15/06/2021,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118488,0.7%,0.5%,0.7%,Tue,Africa/Lagos
+15/06/2021,,USD,yellow,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=117974,17.4,22.2,24.3,Tue,Africa/Lagos
+15/06/2021,14:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118315,0.8%,0.6%,0.1%,Tue,Africa/Lagos
+15/06/2021,,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=118316,75.2%,75.2%,74.6%,Tue,Africa/Lagos
+15/06/2021,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118193,-0.2%,-0.1%,0.2%,Tue,Africa/Lagos
+15/06/2021,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=june.2021#detail=118010,81,83,83,Tue,Africa/Lagos
+15/06/2021,15:37,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=june.2021#detail=119426,-1.3%,,-0.9%,Tue,Africa/Lagos
+15/06/2021,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=june.2021#detail=118370,100.7B,119.5B,262.4B,Tue,Africa/Lagos
+15/06/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=118558,,,,Tue,Africa/Lagos
+15/06/2021,23:45,NZD,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=119338,-2.90B,-2.49B,-2.59B,Tue,Africa/Lagos
+16/06/2021,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120995,0.6%,2.6%,3.7%,Wed,Africa/Lagos
+16/06/2021,,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=121091,0.04T,0.24T,0.08T,Wed,Africa/Lagos
+16/06/2021,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119161,-0.1%,,0.2%,Wed,Africa/Lagos
+16/06/2021,07:00,GBP,orange,CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120060,2.1%,1.8%,1.5%,Wed,Africa/Lagos
+16/06/2021,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120061,2.0%,1.5%,1.3%,Wed,Africa/Lagos
+16/06/2021,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120063,1.1%,1.0%,1.2%,Wed,Africa/Lagos
+16/06/2021,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120064,0.5%,0.4%,0.4%,Wed,Africa/Lagos
+16/06/2021,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120062,3.3%,3.3%,2.9%,Wed,Africa/Lagos
+16/06/2021,08:00,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116698,8.8%,9.2%,9.8%,Wed,Africa/Lagos
+16/06/2021,,CNY,yellow,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116697,15.4%,17.0%,19.9%,Wed,Africa/Lagos
+16/06/2021,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116699,12.4%,14.0%,17.7%,Wed,Africa/Lagos
+16/06/2021,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=116700,5.0%,5.1%,5.1%,Wed,Africa/Lagos
+16/06/2021,09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120065,8.9%,12.1%,9.9%,Wed,Africa/Lagos
+16/06/2021,10:33,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=120475,-0.19|1.3,,-0.09|1.3,Wed,Africa/Lagos
+16/06/2021,13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117732,0.5%,0.4%,0.5%,Wed,Africa/Lagos
+16/06/2021,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=117759,1.8%,1.8%,1.7%,Wed,Africa/Lagos
+16/06/2021,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=117761,2.4%,2.4%,2.3%,Wed,Africa/Lagos
+16/06/2021,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=117762,2.7%,2.4%,2.3%,Wed,Africa/Lagos
+16/06/2021,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117860,0.4%,-1.0%,3.2%,Wed,Africa/Lagos
+16/06/2021,,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=june.2021#detail=118387,1.68M,1.73M,1.73M,Wed,Africa/Lagos
+16/06/2021,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=june.2021#detail=118388,1.57M,1.64M,1.52M,Wed,Africa/Lagos
+16/06/2021,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118510,1.1%,0.8%,0.8%,Wed,Africa/Lagos
+16/06/2021,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117760,0.4%,,0.5%,Wed,Africa/Lagos
+16/06/2021,15:00,USD,red,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121831,,,,Wed,Africa/Lagos
+16/06/2021,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2021#detail=118764,-7.4M,-2.1M,-5.2M,Wed,Africa/Lagos
+16/06/2021,19:00,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=june.2021#detail=118053,,,,Wed,Africa/Lagos
+16/06/2021,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=june.2021#detail=118051,,,,Wed,Africa/Lagos
+16/06/2021,,USD,orange,Federal Funds Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=118054,<0.25%,<0.25%,<0.25%,Wed,Africa/Lagos
+16/06/2021,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=june.2021#detail=118052,,,,Wed,Africa/Lagos
+16/06/2021,23:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121829,,,,Wed,Africa/Lagos
+16/06/2021,23:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=119342,1.6%,0.5%,-1.0%,Wed,Africa/Lagos
+17/06/2021,01:10,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121826,,,,Thu,Africa/Lagos
+17/06/2021,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=119118,115.2K,30.5K,-30.7K,Thu,Africa/Lagos
+17/06/2021,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119119,5.1%,5.5%,5.5%,Thu,Africa/Lagos
+17/06/2021,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=119042,,,,Thu,Africa/Lagos
+17/06/2021,,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=136787,0.52%,,0.48%,Thu,Africa/Lagos
+17/06/2021,05:30,CHF,yellow,SNB Financial Stability Report,https://www.forexfactory.com/calendar?month=june.2021#detail=119689,,,,Thu,Africa/Lagos
+17/06/2021,07:02,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=119761,4.95B,4.23B,3.77B,Thu,Africa/Lagos
+17/06/2021,08:30,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=june.2021#detail=119692,,,,Thu,Africa/Lagos
+17/06/2021,,CHF,orange,SNB Policy Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119693,-0.75%,-0.75%,-0.75%,Thu,Africa/Lagos
+17/06/2021,09:00,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=june.2021#detail=119694,,,,Thu,Africa/Lagos
+17/06/2021,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=116988,5.87B,6.23B,5.19B,Thu,Africa/Lagos
+17/06/2021,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120326,1.0%,0.9%,0.9%,Thu,Africa/Lagos
+17/06/2021,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120325,2.0%,2.0%,2.0%,Thu,Africa/Lagos
+17/06/2021,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121186,,,,Thu,Africa/Lagos
+17/06/2021,13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=june.2021#detail=117824,9.95B,4.35B,4.12B,Thu,Africa/Lagos
+17/06/2021,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=118034,30.7,30.3,31.5,Thu,Africa/Lagos
+17/06/2021,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2021#detail=117447,412K,360K,375k,Thu,Africa/Lagos
+17/06/2021,13:32,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=117646,101.6K,,101.3K,Thu,Africa/Lagos
+17/06/2021,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118205,1.3%,1.3%,1.3%,Thu,Africa/Lagos
+17/06/2021,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2021#detail=118665,16B,71B,98B,Thu,Africa/Lagos
+18/06/2021,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120930,0.1%,0.0%,-0.1%,Fri,Africa/Lagos
+18/06/2021,04:30,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=june.2021#detail=120867,,,,Fri,Africa/Lagos
+18/06/2021,,JPY,yellow,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=120866,-0.10%,-0.10%,-0.10%,Fri,Africa/Lagos
+18/06/2021,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120618,1.5%,0.7%,0.8%,Fri,Africa/Lagos
+18/06/2021,,GBP,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120107,-1.4%,1.5%,9.2%,Fri,Africa/Lagos
+18/06/2021,07:30,JPY,orange,BOJ Press Conference,https://www.forexfactory.com/calendar?month=june.2021#detail=120896,,,,Fri,Africa/Lagos
+18/06/2021,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=120406,22.8B,20.3B,17.8B,Fri,Africa/Lagos
+18/06/2021,09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=119918,2.4%,,2.7%,Fri,Africa/Lagos
+18/06/2021,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=june.2021#detail=121187,,,,Fri,Africa/Lagos
+18/06/2021,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117895,1.4%,1.5%,1.9%,Fri,Africa/Lagos
+21/06/2021,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119986,0.8%,,1.8%,Mon,Africa/Lagos
+21/06/2021,02:30,AUD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121830,0.1%,0.4%,1.1%,Mon,Africa/Lagos
+21/06/2021,,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=134379,3.85%,3.85%,3.85%,Mon,Africa/Lagos
+21/06/2021,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=134327,4.65%,4.65%,4.65%,Mon,Africa/Lagos
+21/06/2021,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=june.2021#detail=120502,,,,Mon,Africa/Lagos
+21/06/2021,13:30,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121841,,,,Mon,Africa/Lagos
+21/06/2021,15:15,EUR,red,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121834,,,,Mon,Africa/Lagos
+21/06/2021,20:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121832,,,,Mon,Africa/Lagos
+21/06/2021,22:00,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=119302,107.1,,105.2,Mon,Africa/Lagos
+22/06/2021,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=119330,27.2%,,87.5%,Tue,Africa/Lagos
+22/06/2021,05:59,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120851,0.0%,0.0%,-0.1%,Tue,Africa/Lagos
+22/06/2021,07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=june.2021#detail=120119,23.6B,24.5B,28.3B,Tue,Africa/Lagos
+22/06/2021,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=119846,19,16,17,Tue,Africa/Lagos
+22/06/2021,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=117573,22,18,18,Tue,Africa/Lagos
+22/06/2021,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=120418,-3,-3,-5,Tue,Africa/Lagos
+22/06/2021,,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=june.2021#detail=118406,5.80M,5.71M,5.85M,Tue,Africa/Lagos
+22/06/2021,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119137,0.8%,,0.9%,Tue,Africa/Lagos
+22/06/2021,16:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121835,,,,Tue,Africa/Lagos
+22/06/2021,19:00,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=june.2021#detail=121836,,,,Tue,Africa/Lagos
+22/06/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=118557,,,,Tue,Africa/Lagos
+23/06/2021,00:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116455,58.4,,60.4,Wed,Africa/Lagos
+23/06/2021,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116456,56.0,,58.0,Wed,Africa/Lagos
+23/06/2021,00:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=june.2021#detail=120883,,,,Wed,Africa/Lagos
+23/06/2021,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=120756,51.5,53.2,53.0,Wed,Africa/Lagos
+23/06/2021,02:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=121540,13.32B,,9.67B,Wed,Africa/Lagos
+23/06/2021,04:15,AUD,orange,RBA Assist Gov Ellis Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121837,,,,Wed,Africa/Lagos
+23/06/2021,08:15,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117138,58.6,59.0,59.4,Wed,Africa/Lagos
+23/06/2021,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117139,57.4,59.6,56.6,Wed,Africa/Lagos
+23/06/2021,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117140,64.9,63.0,64.4,Wed,Africa/Lagos
+23/06/2021,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117141,58.1,55.8,52.8,Wed,Africa/Lagos
+23/06/2021,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117136,63.1,62.4,63.1,Wed,Africa/Lagos
+23/06/2021,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117137,58.0,58.1,55.2,Wed,Africa/Lagos
+23/06/2021,09:30,GBP,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117142,64.2,64.1,65.6,Wed,Africa/Lagos
+23/06/2021,,GBP,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117143,61.7,62.9,62.9,Wed,Africa/Lagos
+23/06/2021,13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117797,-7.2%,-4.4%,5.4%,Wed,Africa/Lagos
+23/06/2021,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117798,-5.7%,-5.1%,4.5%,Wed,Africa/Lagos
+23/06/2021,,USD,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=118249,-196B,-205B,-175B,Wed,Africa/Lagos
+23/06/2021,14:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=119701,,,,Wed,Africa/Lagos
+23/06/2021,,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121838,,,,Wed,Africa/Lagos
+23/06/2021,14:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117991,62.6,61.5,62.1,Wed,Africa/Lagos
+23/06/2021,,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117992,64.8,70.0,70.4,Wed,Africa/Lagos
+23/06/2021,15:00,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=june.2021#detail=118434,769K,864K,817K,Wed,Africa/Lagos
+23/06/2021,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2021#detail=118767,-7.6M,-3.6M,-7.4M,Wed,Africa/Lagos
+23/06/2021,16:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121839,,,,Wed,Africa/Lagos
+23/06/2021,17:00,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121842,,,,Wed,Africa/Lagos
+24/06/2021,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120906,1.5%,1.4%,1.1%,Thu,Africa/Lagos
+24/06/2021,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=june.2021#detail=120490,101.8,100.8,99.2,Thu,Africa/Lagos
+24/06/2021,,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=117230,,,,Thu,Africa/Lagos
+24/06/2021,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=june.2021#detail=119880,875B,875B,875B,Thu,Africa/Lagos
+24/06/2021,,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=june.2021#detail=119883,,,,Thu,Africa/Lagos
+24/06/2021,,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=june.2021#detail=119884,0-1-8,0-1-8,0-1-8,Thu,Africa/Lagos
+24/06/2021,,GBP,orange,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=june.2021#detail=119881,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+24/06/2021,,GBP,orange,Official Bank Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=119882,0.10%,0.10%,0.10%,Thu,Africa/Lagos
+24/06/2021,13:30,USD,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=118266,6.4%,6.4%,6.4%,Thu,Africa/Lagos
+24/06/2021,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2021#detail=117448,411K,382K,418K,Thu,Africa/Lagos
+24/06/2021,,USD,yellow,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118234,0.3%,0.8%,1.7%,Thu,Africa/Lagos
+24/06/2021,,USD,yellow,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118235,2.3%,2.9%,-0.8%,Thu,Africa/Lagos
+24/06/2021,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=118298,-88.1B,-87.4B,-85.7B,Thu,Africa/Lagos
+24/06/2021,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118358,1.1%,0.8%,1.0%,Thu,Africa/Lagos
+24/06/2021,13:36,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=118267,4.3%,4.3%,4.3%,Thu,Africa/Lagos
+24/06/2021,13:56,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=june.2021#detail=121149,9.8,8.5,6.5,Thu,Africa/Lagos
+24/06/2021,14:30,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121840,,,,Thu,Africa/Lagos
+24/06/2021,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2021#detail=118664,55B,64B,16B,Thu,Africa/Lagos
+24/06/2021,16:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121833,,,,Thu,Africa/Lagos
+24/06/2021,21:30,USD,yellow,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=june.2021#detail=118639,,,,Thu,Africa/Lagos
+24/06/2021,23:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2021#detail=119354,469M,205M,414M,Thu,Africa/Lagos
+25/06/2021,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=119925,-9,-7,-9,Fri,Africa/Lagos
+25/06/2021,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120820,0.0%,-0.1%,-0.2%,Fri,Africa/Lagos
+25/06/2021,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=june.2021#detail=120513,-0.3,-3.9,-6.9,Fri,Africa/Lagos
+25/06/2021,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120259,8.4%,8.6%,9.2%,Fri,Africa/Lagos
+25/06/2021,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120260,3.9%,3.7%,3.8%,Fri,Africa/Lagos
+25/06/2021,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=june.2021#detail=119834,25,12,18,Fri,Africa/Lagos
+25/06/2021,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118472,0.5%,0.6%,0.7%,Fri,Africa/Lagos
+25/06/2021,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118340,-2.0%,-2.5%,-13.1%,Fri,Africa/Lagos
+25/06/2021,,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118339,0.0%,0.4%,0.9%,Fri,Africa/Lagos
+25/06/2021,14:15,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121166,0.9%,,1.1%,Fri,Africa/Lagos
+25/06/2021,15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2021#detail=118134,85.5,86.5,86.4,Fri,Africa/Lagos
+25/06/2021,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=118135,4.2%,,4.0%,Fri,Africa/Lagos
+28/06/2021,00:50,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=june.2021#detail=120884,,,,Mon,Africa/Lagos
+28/06/2021,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120572,1.7%,1.3%,1.4%,Mon,Africa/Lagos
+28/06/2021,13:00,EUR,yellow,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121845,,,,Mon,Africa/Lagos
+28/06/2021,,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121852,,,,Mon,Africa/Lagos
+28/06/2021,14:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121846,,,,Mon,Africa/Lagos
+28/06/2021,17:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121858,,,,Mon,Africa/Lagos
+28/06/2021,18:10,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121854,,,,Mon,Africa/Lagos
+29/06/2021,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2021#detail=120821,3.0%,2.9%,2.8%,Tue,Africa/Lagos
+29/06/2021,00:50,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=121074,8.2%,8.2%,11.9%,Tue,Africa/Lagos
+29/06/2021,03:00,NZD,orange,RBNZ Statement of Intent,https://www.forexfactory.com/calendar?month=june.2021#detail=121910,,,,Tue,Africa/Lagos
+29/06/2021,05:10,NZD,red,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121855,,,,Tue,Africa/Lagos
+29/06/2021,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119974,0.7%,0.7%,1.7%,Tue,Africa/Lagos
+29/06/2021,All Day,EUR,yellow,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=120619,0.4%,0.4%,0.5%,Tue,Africa/Lagos
+29/06/2021,08:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=116908,2.6%,2.7%,2.7%,Tue,Africa/Lagos
+29/06/2021,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=june.2021#detail=121250,,,,Tue,Africa/Lagos
+29/06/2021,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119476,0.4%,0.2%,0.1%,Tue,Africa/Lagos
+29/06/2021,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=june.2021#detail=119475,88K,86K,87K,Tue,Africa/Lagos
+29/06/2021,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119474,6.9B,4.6B,2.8B,Tue,Africa/Lagos
+29/06/2021,14:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121847,,,,Tue,Africa/Lagos
+29/06/2021,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118418,1.8%,1.5%,1.6%,Tue,Africa/Lagos
+29/06/2021,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=118458,14.9%,14.8%,13.4%,Tue,Africa/Lagos
+29/06/2021,14:40,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121856,,,,Tue,Africa/Lagos
+29/06/2021,15:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=121593,127.3,118.9,120.0,Tue,Africa/Lagos
+29/06/2021,17:00,EUR,yellow,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121848,,,,Tue,Africa/Lagos
+29/06/2021,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2021#detail=118556,,,,Tue,Africa/Lagos
+30/06/2021,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120023,-0.7%,,-0.6%,Wed,Africa/Lagos
+30/06/2021,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=121072,-5.9%,-2.1%,2.9%,Wed,Africa/Lagos
+30/06/2021,02:00,CNY,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116579,50.9,50.9,51.0,Wed,Africa/Lagos
+30/06/2021,,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=116578,53.5,55.3,55.2,Wed,Africa/Lagos
+30/06/2021,,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=121120,-0.6,,-0.4,Wed,Africa/Lagos
+30/06/2021,02:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119177,0.4%,0.3%,0.3%,Wed,Africa/Lagos
+30/06/2021,05:59,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2021#detail=120786,37.4,34.8,34.1,Wed,Africa/Lagos
+30/06/2021,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120840,9.9%,8.4%,7.1%,Wed,Africa/Lagos
+30/06/2021,07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2021#detail=120526,-12.8B,-13.9B,-26.3B,Wed,Africa/Lagos
+30/06/2021,,GBP,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=120528,-1.6%,-1.5%,-1.5%,Wed,Africa/Lagos
+30/06/2021,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=june.2021#detail=120527,-10.7%,-11.9%,-11.9%,Wed,Africa/Lagos
+30/06/2021,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117089,10.4%,7.4%,-8.7%,Wed,Africa/Lagos
+30/06/2021,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117047,0.2%,0.2%,0.3%,Wed,Africa/Lagos
+30/06/2021,08:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=june.2021#detail=119738,133.4,144.9,143.7,Wed,Africa/Lagos
+30/06/2021,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=120620,-38K,-20K,-19K,Wed,Africa/Lagos
+30/06/2021,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=june.2021#detail=119709,51.3,,72.2,Wed,Africa/Lagos
+30/06/2021,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120328,1.9%,1.9%,2.0%,Wed,Africa/Lagos
+30/06/2021,,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2021#detail=120327,0.9%,0.9%,1.0%,Wed,Africa/Lagos
+30/06/2021,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=116976,0.1%,0.2%,0.0%,Wed,Africa/Lagos
+30/06/2021,10:15,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2021#detail=116954,0.74|1.6,,0.94|1.3,Wed,Africa/Lagos
+30/06/2021,12:00,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121844,,,,Wed,Africa/Lagos
+30/06/2021,13:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121859,,,,Wed,Africa/Lagos
+30/06/2021,13:15,USD,orange,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2021#detail=117610,692K,555K,886K,Wed,Africa/Lagos
+30/06/2021,13:30,CAD,orange,GDP m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117836,-0.3%,-0.8%,1.3%,Wed,Africa/Lagos
+30/06/2021,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117957,2.7%,3.0%,1.8%,Wed,Africa/Lagos
+30/06/2021,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=117958,3.2%,2.1%,1.0%,Wed,Africa/Lagos
+30/06/2021,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=june.2021#detail=117548,66.1,70.2,75.2,Wed,Africa/Lagos
+30/06/2021,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=118446,8.0%,-1.1%,-4.4%,Wed,Africa/Lagos
+30/06/2021,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2021#detail=118770,-6.7M,-4.2M,-7.6M,Wed,Africa/Lagos
+30/06/2021,18:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=june.2021#detail=121860,,,,Wed,Africa/Lagos
+30/06/2021,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2021#detail=116477,63.2,,61.8,Wed,Africa/Lagos
+30/06/2021,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=june.2021#detail=119380,-2.8%,,5.1%,Wed,Africa/Lagos

@@ -1,377 +1,377 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/04/2010,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=24626,-1.92B,-1.34B,-1.12B,Thu
-01/04/2010,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24846,55.1,55.2,52.0,Thu
-01/04/2010,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24847,57.0,,55.8,Thu
-01/04/2010,03:34,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30459,,,,Thu
-01/04/2010,05:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27160,1.4%,,-7.0%,Thu
-01/04/2010,06:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25204,-0.4%,0.0%,-0.5%,Thu
-01/04/2010,07:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=43828,51.8,,49.1,Thu
-01/04/2010,07:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24662,65.5,58.7,57.4,Thu
-01/04/2010,07:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=43482,53.7,52.7,51.6,Thu
-01/04/2010,07:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=58924,56.5,56.3,56.3,Thu
-01/04/2010,07:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=58981,60.2,59.6,59.6,Thu
-01/04/2010,08:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24661,56.6,56.3,56.3,Thu
-01/04/2010,08:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24526,57.2,56.8,56.5,Thu
-01/04/2010,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=april.2010#detail=25821,,,,Thu
-01/04/2010,10:10,EUR,orange,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42382,3.41|1.9,,3.45|1.8,Thu
-01/04/2010,11:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27466,-55.0%,,-77.4%,Thu
-01/04/2010,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2010#detail=28882,439K,440K,445K,Thu
-01/04/2010,14:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24804,59.6,57.0,56.5,Thu
-01/04/2010,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25368,-1.3%,-1.1%,-1.4%,Thu
-01/04/2010,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=april.2010#detail=24805,75.0,67.2,67.0,Thu
-01/04/2010,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2010#detail=24714,12B,20B,11B,Thu
-01/04/2010,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2010#detail=25325,11.8M,11.5M,10.4M,Thu
-01/04/2010,20:00,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30455,,,,Thu
-01/04/2010,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28842,,,,Thu
-01/04/2010,21:00,USD,yellow,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30456,,,,Thu
-01/04/2010,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28829,,,,Thu
-01/04/2010,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25839,2.1%,2.3%,2.2%,Thu
-02/04/2010,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28971,,,,Fri
-02/04/2010,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=29228,,,,Fri
-02/04/2010,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28946,,,,Fri
-02/04/2010,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28845,,,,Fri
-02/04/2010,12:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2010#detail=24213,162K,185K,-14K,Fri
-02/04/2010,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24207,9.7%,9.7%,9.7%,Fri
-02/04/2010,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=24209,-0.1%,0.2%,0.2%,Fri
-03/04/2010,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=42269,58.4,,46.4,Sat
-03/04/2010,14:00,NZD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=april.2010#detail=24376,,,,Sat
-03/04/2010,16:00,AUD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=april.2010#detail=24378,,,,Sat
-04/04/2010,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28843,,,,Sun
-04/04/2010,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28830,,,,Sun
-05/04/2010,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=29272,,,,Mon
-05/04/2010,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28972,,,,Mon
-05/04/2010,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=29230,,,,Mon
-05/04/2010,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=29231,,,,Mon
-05/04/2010,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=29232,,,,Mon
-05/04/2010,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28947,,,,Mon
-05/04/2010,14:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=25379,55.4,54.1,53.0,Mon
-05/04/2010,,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27370,8.2%,-0.5%,-7.8%,Mon
-05/04/2010,22:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=27559,22,,31,Mon
-06/04/2010,01:30,AUD,red,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28485,1.8%,,19.1%,Tue
-06/04/2010,03:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27274,1.8%,,3.8%,Tue
-06/04/2010,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=49013,1.40|2.5,,1.33|3.4,Tue
-06/04/2010,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24453,4.25%,4.25%,4.00%,Tue
-06/04/2010,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=24454,,,,Tue
-06/04/2010,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=april.2010#detail=29006,97.9%,97.9%,96.9%,Tue
-06/04/2010,07:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=april.2010#detail=42158,125B,,109B,Tue
-06/04/2010,,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=april.2010#detail=44007,36.0K,,82.1K,Tue
-06/04/2010,07:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25525,0.1%,0.1%,0.1%,Tue
-06/04/2010,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=25085,2.5,-5.9,-7.5,Tue
-06/04/2010,,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24527,53.1,48.8,48.5,Tue
-06/04/2010,,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=25258,-4.0B,-2.9B,-5.1B,Tue
-06/04/2010,14:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=april.2010#detail=49308,2.72M,,2.85M,Tue
-06/04/2010,14:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=april.2010#detail=56228,22.6%,,0.1%,Tue
-06/04/2010,18:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2010#detail=26638,,,,Tue
-06/04/2010,23:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28175,1.2%,,1.7%,Tue
-06/04/2010,23:30,AUD,orange,AIG Services Index,https://www.forexfactory.com/calendar?month=april.2010#detail=24582,48.4,,48.3,Tue
-07/04/2010,03:03,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=28795,,,,Wed
-07/04/2010,,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=28794,0.10%,0.10%,0.10%,Wed
-07/04/2010,07:15,CHF,red,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25553,3.1%,3.8%,3.7%,Wed
-07/04/2010,,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=43924,51.3,,47.1,Wed
-07/04/2010,07:22,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2010#detail=28796,,,,Wed
-07/04/2010,07:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=43542,55.3,52.3,50.8,Wed
-07/04/2010,07:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=59131,53.8,53.0,53.0,Wed
-07/04/2010,07:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=59143,54.9,54.7,54.7,Wed
-07/04/2010,08:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24663,54.1,53.7,53.7,Wed
-07/04/2010,08:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24528,56.5,58.1,58.4,Wed
-07/04/2010,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2010#detail=28290,0.6%,0.7%,0.5%,Wed
-07/04/2010,09:00,EUR,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=27428,0.0%,0.1%,0.1%,Wed
-07/04/2010,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27239,0.1%,0.2%,0.7%,Wed
-07/04/2010,,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30502,,,,Wed
-07/04/2010,10:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25192,0.0%,-0.8%,5.1%,Wed
-07/04/2010,12:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26950,-0.5%,2.1%,-4.7%,Wed
-07/04/2010,14:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=25597,57.8,55.1,51.9,Wed
-07/04/2010,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2010#detail=24715,2.0M,1.0M,2.9M,Wed
-07/04/2010,16:15,USD,yellow,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30485,,,,Wed
-07/04/2010,17:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42312,3.90|3.7,,3.74|3.5,Wed
-07/04/2010,17:30,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30486,,,,Wed
-07/04/2010,18:00,USD,orange,FOMC Member Hoenig Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30487,,,,Wed
-07/04/2010,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=24925,-11.5B,-0.1B,10.6B,Wed
-07/04/2010,20:00,CAD,orange,Gov Council Member Murray Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30497,,,,Wed
-07/04/2010,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28335,-5.4%,3.8%,-3.7%,Wed
-07/04/2010,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2010#detail=28323,1.12T,1.25T,1.71T,Wed
-08/04/2010,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2010#detail=26223,19.6K,20.1K,-4.7K,Thu
-08/04/2010,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=26222,5.3%,5.3%,5.3%,Thu
-08/04/2010,05:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=april.2010#detail=28858,,,,Thu
-08/04/2010,,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=26247,47.4,45.2,42.1,Thu
-08/04/2010,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=27786,4.1%,4.1%,4.1%,Thu
-08/04/2010,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=26246,262.1%,,217.4%,Thu
-08/04/2010,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26619,-21.8B,,-9.2B,Thu
-08/04/2010,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26551,-3.6B,-3.6B,-3.5B,Thu
-08/04/2010,08:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=24529,1.1%,0.6%,-1.6%,Thu
-08/04/2010,08:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27004,1.3%,0.7%,-1.0%,Thu
-08/04/2010,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27003,1.0%,0.5%,-0.5%,Thu
-08/04/2010,09:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27215,-0.6%,0.0%,-0.2%,Thu
-08/04/2010,10:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25170,0.0%,0.7%,0.1%,Thu
-08/04/2010,11:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=april.2010#detail=25057,200B,200B,200B,Thu
-08/04/2010,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=25055,0.50%,0.50%,0.50%,Thu
-08/04/2010,11:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24164,1.00%,1.00%,1.00%,Thu
-08/04/2010,12:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=april.2010#detail=24165,,,,Thu
-08/04/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2010#detail=28883,460K,434K,442K,Thu
-08/04/2010,,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30488,,,,Thu
-08/04/2010,14:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=april.2010#detail=26980,0.4%,,0.4%,Thu
-08/04/2010,14:30,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30489,,,,Thu
-08/04/2010,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2010#detail=24716,31B,29B,12B,Thu
-08/04/2010,17:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42922,4.77|2.7,,4.68|2.9,Thu
-08/04/2010,20:00,USD,orange,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30490,,,,Thu
-08/04/2010,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=april.2010#detail=24583,48.7,,52.8,Thu
-09/04/2010,00:30,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30491,,,,Fri
-09/04/2010,06:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=25097,12.1B,11.4B,8.7B,Fri
-09/04/2010,06:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26563,0.0%,0.2%,1.1%,Fri
-09/04/2010,08:30,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26698,3.6%,1.3%,0.6%,Fri
-09/04/2010,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26699,0.9%,0.4%,0.3%,Fri
-09/04/2010,11:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2010#detail=26723,17.9K,25.9K,20.9K,Fri
-09/04/2010,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=26722,8.2%,8.1%,8.2%,Fri
-09/04/2010,13:00,CHF,yellow,Gov Board Member Danthine Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30500,,,,Fri
-09/04/2010,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27955,0.6%,0.4%,0.1%,Fri
-09/04/2010,15:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30498,,,,Fri
-10/04/2010,02:55,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26385,-7.2B,-0.4B,7.6B,Sat
-10/04/2010,07:45,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30499,,,,Sat
-11/04/2010,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2010#detail=29059,,,,Sun
-11/04/2010,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28460,-1.8%,,-1.5%,Sun
-11/04/2010,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28523,2.6%,2.7%,2.7%,Sun
-12/04/2010,01:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26158,-1.8%,-0.9%,-7.3%,Mon
-12/04/2010,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26499,0.0%,0.1%,1.9%,Mon
-12/04/2010,08:32,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=april.2010#detail=26386,511B,,700B,Mon
-12/04/2010,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=26387,22.5%,22.2%,25.5%,Mon
-12/04/2010,09:00,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28127,0.6%,,0.8%,Mon
-12/04/2010,12:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=april.2010#detail=27918,197K,201K,200K,Mon
-12/04/2010,14:30,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=april.2010#detail=28317,,,,Mon
-12/04/2010,18:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=25565,-65.4B,-64.0B,-220.9B,Mon
-12/04/2010,23:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28279,4.4%,,2.2%,Mon
-12/04/2010,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=28267,9%,18%,18%,Mon
-12/04/2010,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28363,-1.3%,-1.1%,-1.6%,Mon
-13/04/2010,01:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=29022,16,,19,Tue
-13/04/2010,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=49075,2.20|3.7,,2.30|3.9,Tue
-13/04/2010,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25146,0.5%,0.5%,0.5%,Tue
-13/04/2010,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25109,1.3%,0.5%,0.1%,Tue
-13/04/2010,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26575,0.5%,0.5%,0.6%,Tue
-13/04/2010,08:30,GBP,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26683,-6.2B,-7.3B,-8.1B,Tue
-13/04/2010,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25704,7.4%,7.9%,6.2%,Tue
-13/04/2010,09:40,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42909,4.60|2.0,,4.59|1.9,Tue
-13/04/2010,11:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=april.2010#detail=48377,86.8,,88.0,Tue
-13/04/2010,12:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26743,1.4B,0.7B,0.8B,Tue
-13/04/2010,,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26834,0.1%,0.5%,0.4%,Tue
-13/04/2010,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=25900,-39.7B,-38.5B,-37.0B,Tue
-13/04/2010,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26009,0.7%,0.9%,-0.2%,Tue
-13/04/2010,14:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=april.2010#detail=28233,48.4,47.8,45.4,Tue
-13/04/2010,14:45,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30492,,,,Tue
-13/04/2010,16:45,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30596,,,,Tue
-13/04/2010,22:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26651,-0.9%,0.3%,0.3%,Tue
-13/04/2010,,NZD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26647,-0.6%,0.2%,0.7%,Tue
-13/04/2010,23:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30591,,,,Tue
-14/04/2010,00:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=27177,-1.0%,,0.2%,Wed
-14/04/2010,06:30,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30593,,,,Wed
-14/04/2010,06:42,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2010#detail=26384,7.7%,,4.9%,Wed
-14/04/2010,09:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27203,0.9%,0.2%,1.6%,Wed
-14/04/2010,12:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26025,0.0%,0.1%,0.1%,Wed
-14/04/2010,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25915,0.6%,0.5%,1.0%,Wed
-14/04/2010,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=128509,2.3%,2.4%,2.1%,Wed
-14/04/2010,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25916,1.6%,1.1%,0.5%,Wed
-14/04/2010,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26024,0.1%,0.1%,0.0%,Wed
-14/04/2010,13:30,USD,orange,FOMC Member Pianalto Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30493,,,,Wed
-14/04/2010,14:00,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=april.2010#detail=30494,,,,Wed
-14/04/2010,,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27310,0.5%,0.3%,0.2%,Wed
-14/04/2010,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2010#detail=24717,-2.2M,1.4M,2.0M,Wed
-14/04/2010,18:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=april.2010#detail=26610,,,,Wed
-14/04/2010,22:33,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2010#detail=27298,56.3,,53.6,Wed
-14/04/2010,23:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=26061,72,81,81,Wed
-15/04/2010,01:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2010#detail=28444,4.1%,,3.2%,Thu
-15/04/2010,02:00,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24849,2.4%,2.6%,2.7%,Thu
-15/04/2010,,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=april.2010#detail=26329,11.9%,11.8%,10.7%,Thu
-15/04/2010,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24852,26.4%,26.1%,26.6%,Thu
-15/04/2010,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24848,18.1%,18.2%,20.7%,Thu
-15/04/2010,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=april.2010#detail=24851,,,,Thu
-15/04/2010,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24850,5.9%,6.5%,5.4%,Thu
-15/04/2010,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24853,18.0%,18.1%,17.9%,Thu
-15/04/2010,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28775,-0.6%,-0.9%,-0.9%,Thu
-15/04/2010,08:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=april.2010#detail=27286,,,,Thu
-15/04/2010,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26511,-2.33B,-2.37B,-3.40B,Thu
-15/04/2010,12:29,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2010#detail=27085,31.9,24.0,22.9,Thu
-15/04/2010,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2010#detail=28884,484K,439K,460K,Thu
-15/04/2010,13:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=april.2010#detail=24492,47.1B,34.2B,15.0B,Thu
-15/04/2010,13:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=26082,73.2%,73.3%,73.0%,Thu
-15/04/2010,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26081,0.1%,0.6%,0.3%,Thu
-15/04/2010,14:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2010#detail=27577,20.2,19.8,18.9,Thu
-15/04/2010,All Day,All,orange,BRICS Summit,https://www.forexfactory.com/calendar?month=april.2010#detail=134274,,,,Thu
-15/04/2010,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2010#detail=24718,87B,81B,31B,Thu
-15/04/2010,16:15,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30495,,,,Thu
-15/04/2010,17:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=april.2010#detail=26855,19,16,15,Thu
-15/04/2010,17:30,CHF,orange,Gov Board Member Jordan Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30595,,,,Thu
-15/04/2010,22:00,NZD,orange,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=37359,1.7%,,0.4%,Thu
-16/04/2010,07:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25407,0.5%,0.2%,-0.3%,Fri
-16/04/2010,09:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27354,1.0%,0.9%,0.8%,Fri
-16/04/2010,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27353,1.4%,1.5%,1.5%,Fri
-16/04/2010,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=27397,1.8B,5.1B,7.0B,Fri
-16/04/2010,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=27398,3.3B,3.1B,1.9B,Fri
-16/04/2010,12:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26798,0.1%,1.0%,1.8%,Fri
-16/04/2010,,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26822,8.1%,7.1%,-1.0%,Fri
-16/04/2010,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=april.2010#detail=27754,0.69M,0.63M,0.64M,Fri
-16/04/2010,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=april.2010#detail=27753,0.63M,0.60M,0.62M,Fri
-16/04/2010,13:00,USD,orange,FOMC Member Warsh Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30590,,,,Fri
-16/04/2010,13:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=25286,69.5,74.7,73.6,Fri
-16/04/2010,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2010#detail=25287,2.9%,,2.7%,Fri
-16/04/2010,17:00,USD,orange,FOMC Member Hoenig Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30592,,,,Fri
-18/04/2010,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=april.2010#detail=127097,57.3,,53.7,Sun
-18/04/2010,23:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27972,2.6%,,0.1%,Sun
-19/04/2010,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=28386,40.9,40.2,39.8,Mon
-19/04/2010,10:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=april.2010#detail=50163,,,,Mon
-19/04/2010,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=april.2010#detail=26810,6.72B,8.95B,11.84B,Mon
-19/04/2010,13:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30749,,,,Mon
-19/04/2010,14:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28112,1.4%,1.0%,0.4%,Mon
-19/04/2010,20:00,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30750,,,,Mon
-19/04/2010,22:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=27498,0.4%,0.6%,-0.2%,Mon
-19/04/2010,,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27504,0.2%,,-1.3%,Mon
-19/04/2010,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28739,-0.2%,-0.9%,2.9%,Mon
-20/04/2010,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2010#detail=24625,,,,Tue
-20/04/2010,06:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25121,0.7%,0.5%,0.0%,Tue
-20/04/2010,08:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=april.2010#detail=27227,-3.9B,-5.3B,-1.7B,Tue
-20/04/2010,08:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25425,3.4%,3.2%,3.0%,Tue
-20/04/2010,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25427,4.4%,4.1%,3.7%,Tue
-20/04/2010,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25426,3.0%,2.8%,2.9%,Tue
-20/04/2010,09:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=27685,53.0,45.2,44.5,Tue
-20/04/2010,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=27686,46.0,38.9,37.9,Tue
-20/04/2010,13:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=24187,,,,Tue
-20/04/2010,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24186,0.25%,0.25%,0.25%,Tue
-20/04/2010,15:00,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=april.2010#detail=30756,,,,Tue
-20/04/2010,16:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30594,,,,Tue
-21/04/2010,00:30,AUD,orange,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=29038,0.5%,,0.4%,Wed
-21/04/2010,08:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=april.2010#detail=24944,-32.9K,-7.6K,-40.1K,Wed
-21/04/2010,,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=april.2010#detail=49139,0-0-9,0-0-9,0-0-9,Wed
-21/04/2010,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=april.2010#detail=28255,0-0-9,0-0-9,0-0-9,Wed
-21/04/2010,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24945,2.3%,2.5%,0.8%,Wed
-21/04/2010,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24943,8.0%,7.8%,7.8%,Wed
-21/04/2010,09:05,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42898,3.83|1.1,,3.96|1.5,Wed
-21/04/2010,12:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27906,-1.2%,1.0%,2.4%,Wed
-21/04/2010,14:15,USD,orange,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30757,,,,Wed
-21/04/2010,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2010#detail=24719,1.9M,0.1M,-2.2M,Wed
-21/04/2010,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=28535,0.67T,0.66T,0.47T,Wed
-22/04/2010,01:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26784,-2.7%,,-1.9%,Thu
-22/04/2010,06:15,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=25537,2.01B,1.79B,1.29B,Thu
-22/04/2010,07:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26438,56.7,56.8,56.5,Thu
-22/04/2010,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26439,57.8,54.3,53.8,Thu
-22/04/2010,07:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26440,61.3,60.2,60.2,Thu
-22/04/2010,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26441,55.0,55.2,54.9,Thu
-22/04/2010,08:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26442,57.5,56.8,56.6,Thu
-22/04/2010,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26443,55.5,54.4,54.1,Thu
-22/04/2010,08:30,GBP,red,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=april.2010#detail=25674,23.5B,24.1B,9.7B,Thu
-22/04/2010,,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26045,0.4%,0.7%,2.5%,Thu
-22/04/2010,,GBP,orange,Prelim Mortgage Approvals,https://www.forexfactory.com/calendar?month=april.2010#detail=30388,52K,51K,48K,Thu
-22/04/2010,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25675,0.1%,0.3%,0.2%,Thu
-22/04/2010,09:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=april.2010#detail=28925,53.4,,53.8,Thu
-22/04/2010,10:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=april.2010#detail=28187,-36,-32,-37,Thu
-22/04/2010,10:39,GBP,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42451,4.08|1.9,,3.99|2.1,Thu
-22/04/2010,11:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30755,,,,Thu
-22/04/2010,12:30,CAD,orange,Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27931,1.0%,0.8%,0.9%,Thu
-22/04/2010,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25988,0.7%,0.4%,-0.6%,Thu
-22/04/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2010#detail=28885,456K,452K,480K,Thu
-22/04/2010,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25989,0.1%,0.1%,0.1%,Thu
-22/04/2010,14:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=27671,-15,-17,-17,Thu
-22/04/2010,,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=april.2010#detail=27368,5.35M,5.28M,5.01M,Thu
-22/04/2010,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26891,-0.2%,-0.1%,-0.6%,Thu
-22/04/2010,Day 1,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=april.2010#detail=29088,,,,Thu
-22/04/2010,14:30,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=april.2010#detail=28433,,,,Thu
-22/04/2010,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2010#detail=24720,73B,77B,87B,Thu
-22/04/2010,15:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=april.2010#detail=28434,,,,Thu
-22/04/2010,15:55,USD,orange,President Obama Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30759,,,,Thu
-22/04/2010,16:15,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30753,,,,Thu
-22/04/2010,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27522,1.1%,,-1.9%,Thu
-23/04/2010,01:30,AUD,orange,Import Prices q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=26938,0.3%,-1.4%,-4.3%,Fri
-23/04/2010,02:50,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30754,,,,Fri
-23/04/2010,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28422,6.3%,,1.2%,Fri
-23/04/2010,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28547,-2.3%,-1.3%,3.4%,Fri
-23/04/2010,06:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26595,1.2%,0.4%,-1.4%,Fri
-23/04/2010,08:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=april.2010#detail=27798,101.6,98.8,98.2,Fri
-23/04/2010,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26523,0.1%,0.3%,-0.5%,Fri
-23/04/2010,08:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=26669,0.2%,0.4%,0.4%,Fri
-23/04/2010,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2010#detail=28291,0.4%,0.6%,0.6%,Fri
-23/04/2010,09:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27252,1.5%,0.9%,-1.6%,Fri
-23/04/2010,11:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26908,-0.2%,0.1%,0.7%,Fri
-23/04/2010,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26907,0.0%,0.2%,0.4%,Fri
-23/04/2010,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26871,-0.1%,0.7%,2.0%,Fri
-23/04/2010,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26870,0.5%,0.9%,0.9%,Fri
-23/04/2010,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25940,2.8%,0.7%,1.7%,Fri
-23/04/2010,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25939,-1.3%,0.2%,1.1%,Fri
-23/04/2010,13:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=april.2010#detail=27810,-2.4,-2.5,-3.6,Fri
-23/04/2010,14:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=april.2010#detail=26279,411K,326K,324K,Fri
-23/04/2010,Day 2,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=april.2010#detail=29089,,,,Fri
-23/04/2010,22:00,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30758,,,,Fri
-24/04/2010,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2010#detail=29249,,,,Sat
-25/04/2010,Day 2,All,orange,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2010#detail=29250,,,,Sun
-25/04/2010,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28831,,,,Sun
-25/04/2010,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28351,-1.1%,-1.3%,-1.2%,Sun
-26/04/2010,16:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30762,,,,Mon
-27/04/2010,01:30,AUD,red,PPI q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=26973,1.0%,0.7%,-0.4%,Tue
-27/04/2010,,AUD,orange,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=27170,17,,18,Tue
-27/04/2010,06:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=april.2010#detail=24456,1.71,,1.20,Tue
-27/04/2010,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=april.2010#detail=27943,3.8,3.4,3.4,Tue
-27/04/2010,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25158,1.7%,1.2%,1.0%,Tue
-27/04/2010,08:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=april.2010#detail=29077,34.9K,39.3K,33.4K,Tue
-27/04/2010,10:00,GBP,red,CBI Realized Sales,https://www.forexfactory.com/calendar?month=april.2010#detail=28204,13,16,13,Tue
-27/04/2010,13:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27774,0.6%,1.4%,-0.7%,Tue
-27/04/2010,13:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2010#detail=27024,30,7,6,Tue
-27/04/2010,14:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=24455,57.9,53.6,52.3,Tue
-27/04/2010,,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=april.2010#detail=30763,,,,Tue
-27/04/2010,14:15,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30764,,,,Tue
-27/04/2010,16:30,USD,yellow,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30787,,,,Tue
-27/04/2010,17:15,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30765,,,,Tue
-27/04/2010,19:30,CAD,red,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30770,,,,Tue
-27/04/2010,22:30,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30769,,,,Tue
-27/04/2010,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28751,4.7%,3.7%,4.2%,Tue
-28/04/2010,01:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=27477,0.9%,0.9%,0.5%,Wed
-28/04/2010,,AUD,orange,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=27478,0.8%,0.7%,0.5%,Wed
-28/04/2010,02:56,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=28501,49.5,,42.5,Wed
-28/04/2010,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25134,-0.1%,0.1%,0.5%,Wed
-28/04/2010,08:30,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30790,,,,Wed
-28/04/2010,09:06,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42348,2.97|1.7,,3.13|2.0,Wed
-28/04/2010,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2010#detail=24721,1.9M,0.9M,1.9M,Wed
-28/04/2010,18:14,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24146,<0.25%,<0.25%,<0.25%,Wed
-28/04/2010,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=24147,,,,Wed
-28/04/2010,21:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24096,2.50%,2.50%,2.50%,Wed
-28/04/2010,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=24104,,,,Wed
-28/04/2010,22:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=27546,567M,375M,335M,Wed
-29/04/2010,00:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28139,-0.3%,,-0.2%,Thu
-29/04/2010,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28964,,,,Thu
-29/04/2010,06:00,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=24530,1.0%,0.4%,1.0%,Thu
-29/04/2010,07:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=april.2010#detail=28222,-68K,-11K,-42K,Thu
-29/04/2010,08:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27729,-0.1%,-0.1%,-0.3%,Thu
-29/04/2010,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27730,-0.2%,-0.1%,-0.4%,Thu
-29/04/2010,,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=43615,47.2,,46.9,Thu
-29/04/2010,10:31,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42415,4.09|1.4,,3.96|1.3,Thu
-29/04/2010,11:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30767,,,,Thu
-29/04/2010,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2010#detail=28886,448K,442K,459K,Thu
-29/04/2010,14:30,CAD,red,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30771,,,,Thu
-29/04/2010,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2010#detail=24722,83B,70B,73B,Thu
-29/04/2010,18:30,USD,yellow,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30788,,,,Thu
-29/04/2010,22:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27533,-0.4%,,5.8%,Thu
-29/04/2010,23:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=27070,-16,-14,-15,Thu
-29/04/2010,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=28994,53.5,,52.4,Thu
-29/04/2010,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25841,4.4%,0.7%,-0.5%,Thu
-29/04/2010,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25843,-1.9%,-2.0%,-1.8%,Thu
-29/04/2010,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25842,-1.2%,-1.2%,-1.2%,Thu
-29/04/2010,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=25840,5.0%,4.9%,4.9%,Thu
-29/04/2010,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28763,0.3%,0.9%,-0.6%,Thu
-30/04/2010,01:17,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28982,0.9%,,-5.2%,Fri
-30/04/2010,01:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28410,0.5%,0.4%,0.4%,Fri
-30/04/2010,,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28375,0.8%,-0.2%,-0.6%,Fri
-30/04/2010,04:18,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=28798,,,,Fri
-30/04/2010,,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=28797,0.10%,0.10%,0.10%,Fri
-30/04/2010,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28398,-2.4%,-5.6%,-9.3%,Fri
-30/04/2010,06:00,JPY,orange,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=april.2010#detail=28868,,,,Fri
-30/04/2010,07:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=43874,20.1%,19.7%,18.8%,Fri
-30/04/2010,07:25,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2010#detail=28799,,,,Fri
-30/04/2010,08:00,CHF,red,SNB Chairman Hildebrand Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30768,,,,Fri
-30/04/2010,09:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27339,1.5%,1.4%,1.4%,Fri
-30/04/2010,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=27411,10.0%,10.0%,10.0%,Fri
-30/04/2010,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26535,0.4%,0.2%,0.3%,Fri
-30/04/2010,09:30,CHF,red,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=april.2010#detail=25391,1.99,1.99,1.96,Fri
-30/04/2010,10:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=29632,8.8%,8.6%,8.6%,Fri
-30/04/2010,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26928,0.3%,0.5%,0.6%,Fri
-30/04/2010,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26765,0.8%,0.9%,0.4%,Fri
-30/04/2010,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26764,-0.4%,0.2%,0.1%,Fri
-30/04/2010,,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=25964,3.2%,3.4%,5.6%,Fri
-30/04/2010,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=25965,0.9%,0.9%,0.5%,Fri
-30/04/2010,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=26100,0.6%,0.6%,0.5%,Fri
-30/04/2010,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=25265,63.8,60.0,58.8,Fri
-30/04/2010,13:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=25288,72.2,71.2,69.5,Fri
-30/04/2010,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2010#detail=25289,2.9%,,2.9%,Fri
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/04/2010,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=24626,-1.92B,-1.34B,-1.12B,Thu,Africa/Lagos
+01/04/2010,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24846,55.1,55.2,52.0,Thu,Africa/Lagos
+01/04/2010,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24847,57.0,,55.8,Thu,Africa/Lagos
+01/04/2010,03:34,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30459,,,,Thu,Africa/Lagos
+01/04/2010,05:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27160,1.4%,,-7.0%,Thu,Africa/Lagos
+01/04/2010,06:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25204,-0.4%,0.0%,-0.5%,Thu,Africa/Lagos
+01/04/2010,07:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=43828,51.8,,49.1,Thu,Africa/Lagos
+01/04/2010,07:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24662,65.5,58.7,57.4,Thu,Africa/Lagos
+01/04/2010,07:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=43482,53.7,52.7,51.6,Thu,Africa/Lagos
+01/04/2010,07:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=58924,56.5,56.3,56.3,Thu,Africa/Lagos
+01/04/2010,07:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=58981,60.2,59.6,59.6,Thu,Africa/Lagos
+01/04/2010,08:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24661,56.6,56.3,56.3,Thu,Africa/Lagos
+01/04/2010,08:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24526,57.2,56.8,56.5,Thu,Africa/Lagos
+01/04/2010,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=april.2010#detail=25821,,,,Thu,Africa/Lagos
+01/04/2010,10:10,EUR,orange,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42382,3.41|1.9,,3.45|1.8,Thu,Africa/Lagos
+01/04/2010,11:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27466,-55.0%,,-77.4%,Thu,Africa/Lagos
+01/04/2010,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2010#detail=28882,439K,440K,445K,Thu,Africa/Lagos
+01/04/2010,14:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24804,59.6,57.0,56.5,Thu,Africa/Lagos
+01/04/2010,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25368,-1.3%,-1.1%,-1.4%,Thu,Africa/Lagos
+01/04/2010,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=april.2010#detail=24805,75.0,67.2,67.0,Thu,Africa/Lagos
+01/04/2010,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2010#detail=24714,12B,20B,11B,Thu,Africa/Lagos
+01/04/2010,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2010#detail=25325,11.8M,11.5M,10.4M,Thu,Africa/Lagos
+01/04/2010,20:00,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30455,,,,Thu,Africa/Lagos
+01/04/2010,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28842,,,,Thu,Africa/Lagos
+01/04/2010,21:00,USD,yellow,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30456,,,,Thu,Africa/Lagos
+01/04/2010,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28829,,,,Thu,Africa/Lagos
+01/04/2010,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25839,2.1%,2.3%,2.2%,Thu,Africa/Lagos
+02/04/2010,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28971,,,,Fri,Africa/Lagos
+02/04/2010,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=29228,,,,Fri,Africa/Lagos
+02/04/2010,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28946,,,,Fri,Africa/Lagos
+02/04/2010,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28845,,,,Fri,Africa/Lagos
+02/04/2010,12:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2010#detail=24213,162K,185K,-14K,Fri,Africa/Lagos
+02/04/2010,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24207,9.7%,9.7%,9.7%,Fri,Africa/Lagos
+02/04/2010,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=24209,-0.1%,0.2%,0.2%,Fri,Africa/Lagos
+03/04/2010,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=42269,58.4,,46.4,Sat,Africa/Lagos
+03/04/2010,14:00,NZD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=april.2010#detail=24376,,,,Sat,Africa/Lagos
+03/04/2010,16:00,AUD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=april.2010#detail=24378,,,,Sat,Africa/Lagos
+04/04/2010,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28843,,,,Sun,Africa/Lagos
+04/04/2010,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28830,,,,Sun,Africa/Lagos
+05/04/2010,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=29272,,,,Mon,Africa/Lagos
+05/04/2010,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28972,,,,Mon,Africa/Lagos
+05/04/2010,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=29230,,,,Mon,Africa/Lagos
+05/04/2010,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=29231,,,,Mon,Africa/Lagos
+05/04/2010,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=29232,,,,Mon,Africa/Lagos
+05/04/2010,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28947,,,,Mon,Africa/Lagos
+05/04/2010,14:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=25379,55.4,54.1,53.0,Mon,Africa/Lagos
+05/04/2010,,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27370,8.2%,-0.5%,-7.8%,Mon,Africa/Lagos
+05/04/2010,22:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=27559,22,,31,Mon,Africa/Lagos
+06/04/2010,01:30,AUD,red,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28485,1.8%,,19.1%,Tue,Africa/Lagos
+06/04/2010,03:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27274,1.8%,,3.8%,Tue,Africa/Lagos
+06/04/2010,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=49013,1.40|2.5,,1.33|3.4,Tue,Africa/Lagos
+06/04/2010,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24453,4.25%,4.25%,4.00%,Tue,Africa/Lagos
+06/04/2010,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=24454,,,,Tue,Africa/Lagos
+06/04/2010,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=april.2010#detail=29006,97.9%,97.9%,96.9%,Tue,Africa/Lagos
+06/04/2010,07:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=april.2010#detail=42158,125B,,109B,Tue,Africa/Lagos
+06/04/2010,,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=april.2010#detail=44007,36.0K,,82.1K,Tue,Africa/Lagos
+06/04/2010,07:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25525,0.1%,0.1%,0.1%,Tue,Africa/Lagos
+06/04/2010,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=25085,2.5,-5.9,-7.5,Tue,Africa/Lagos
+06/04/2010,,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24527,53.1,48.8,48.5,Tue,Africa/Lagos
+06/04/2010,,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=25258,-4.0B,-2.9B,-5.1B,Tue,Africa/Lagos
+06/04/2010,14:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=april.2010#detail=49308,2.72M,,2.85M,Tue,Africa/Lagos
+06/04/2010,14:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=april.2010#detail=56228,22.6%,,0.1%,Tue,Africa/Lagos
+06/04/2010,18:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2010#detail=26638,,,,Tue,Africa/Lagos
+06/04/2010,23:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28175,1.2%,,1.7%,Tue,Africa/Lagos
+06/04/2010,23:30,AUD,orange,AIG Services Index,https://www.forexfactory.com/calendar?month=april.2010#detail=24582,48.4,,48.3,Tue,Africa/Lagos
+07/04/2010,03:03,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=28795,,,,Wed,Africa/Lagos
+07/04/2010,,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=28794,0.10%,0.10%,0.10%,Wed,Africa/Lagos
+07/04/2010,07:15,CHF,red,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25553,3.1%,3.8%,3.7%,Wed,Africa/Lagos
+07/04/2010,,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=43924,51.3,,47.1,Wed,Africa/Lagos
+07/04/2010,07:22,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2010#detail=28796,,,,Wed,Africa/Lagos
+07/04/2010,07:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=43542,55.3,52.3,50.8,Wed,Africa/Lagos
+07/04/2010,07:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=59131,53.8,53.0,53.0,Wed,Africa/Lagos
+07/04/2010,07:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=59143,54.9,54.7,54.7,Wed,Africa/Lagos
+07/04/2010,08:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24663,54.1,53.7,53.7,Wed,Africa/Lagos
+07/04/2010,08:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=24528,56.5,58.1,58.4,Wed,Africa/Lagos
+07/04/2010,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2010#detail=28290,0.6%,0.7%,0.5%,Wed,Africa/Lagos
+07/04/2010,09:00,EUR,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=27428,0.0%,0.1%,0.1%,Wed,Africa/Lagos
+07/04/2010,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27239,0.1%,0.2%,0.7%,Wed,Africa/Lagos
+07/04/2010,,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30502,,,,Wed,Africa/Lagos
+07/04/2010,10:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25192,0.0%,-0.8%,5.1%,Wed,Africa/Lagos
+07/04/2010,12:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26950,-0.5%,2.1%,-4.7%,Wed,Africa/Lagos
+07/04/2010,14:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=25597,57.8,55.1,51.9,Wed,Africa/Lagos
+07/04/2010,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2010#detail=24715,2.0M,1.0M,2.9M,Wed,Africa/Lagos
+07/04/2010,16:15,USD,yellow,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30485,,,,Wed,Africa/Lagos
+07/04/2010,17:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42312,3.90|3.7,,3.74|3.5,Wed,Africa/Lagos
+07/04/2010,17:30,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30486,,,,Wed,Africa/Lagos
+07/04/2010,18:00,USD,orange,FOMC Member Hoenig Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30487,,,,Wed,Africa/Lagos
+07/04/2010,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=24925,-11.5B,-0.1B,10.6B,Wed,Africa/Lagos
+07/04/2010,20:00,CAD,orange,Gov Council Member Murray Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30497,,,,Wed,Africa/Lagos
+07/04/2010,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28335,-5.4%,3.8%,-3.7%,Wed,Africa/Lagos
+07/04/2010,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2010#detail=28323,1.12T,1.25T,1.71T,Wed,Africa/Lagos
+08/04/2010,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2010#detail=26223,19.6K,20.1K,-4.7K,Thu,Africa/Lagos
+08/04/2010,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=26222,5.3%,5.3%,5.3%,Thu,Africa/Lagos
+08/04/2010,05:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=april.2010#detail=28858,,,,Thu,Africa/Lagos
+08/04/2010,,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=26247,47.4,45.2,42.1,Thu,Africa/Lagos
+08/04/2010,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=27786,4.1%,4.1%,4.1%,Thu,Africa/Lagos
+08/04/2010,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=26246,262.1%,,217.4%,Thu,Africa/Lagos
+08/04/2010,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26619,-21.8B,,-9.2B,Thu,Africa/Lagos
+08/04/2010,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26551,-3.6B,-3.6B,-3.5B,Thu,Africa/Lagos
+08/04/2010,08:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=24529,1.1%,0.6%,-1.6%,Thu,Africa/Lagos
+08/04/2010,08:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27004,1.3%,0.7%,-1.0%,Thu,Africa/Lagos
+08/04/2010,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27003,1.0%,0.5%,-0.5%,Thu,Africa/Lagos
+08/04/2010,09:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27215,-0.6%,0.0%,-0.2%,Thu,Africa/Lagos
+08/04/2010,10:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25170,0.0%,0.7%,0.1%,Thu,Africa/Lagos
+08/04/2010,11:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=april.2010#detail=25057,200B,200B,200B,Thu,Africa/Lagos
+08/04/2010,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=25055,0.50%,0.50%,0.50%,Thu,Africa/Lagos
+08/04/2010,11:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24164,1.00%,1.00%,1.00%,Thu,Africa/Lagos
+08/04/2010,12:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=april.2010#detail=24165,,,,Thu,Africa/Lagos
+08/04/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2010#detail=28883,460K,434K,442K,Thu,Africa/Lagos
+08/04/2010,,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30488,,,,Thu,Africa/Lagos
+08/04/2010,14:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=april.2010#detail=26980,0.4%,,0.4%,Thu,Africa/Lagos
+08/04/2010,14:30,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30489,,,,Thu,Africa/Lagos
+08/04/2010,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2010#detail=24716,31B,29B,12B,Thu,Africa/Lagos
+08/04/2010,17:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42922,4.77|2.7,,4.68|2.9,Thu,Africa/Lagos
+08/04/2010,20:00,USD,orange,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30490,,,,Thu,Africa/Lagos
+08/04/2010,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=april.2010#detail=24583,48.7,,52.8,Thu,Africa/Lagos
+09/04/2010,00:30,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30491,,,,Fri,Africa/Lagos
+09/04/2010,06:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=25097,12.1B,11.4B,8.7B,Fri,Africa/Lagos
+09/04/2010,06:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26563,0.0%,0.2%,1.1%,Fri,Africa/Lagos
+09/04/2010,08:30,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26698,3.6%,1.3%,0.6%,Fri,Africa/Lagos
+09/04/2010,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26699,0.9%,0.4%,0.3%,Fri,Africa/Lagos
+09/04/2010,11:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2010#detail=26723,17.9K,25.9K,20.9K,Fri,Africa/Lagos
+09/04/2010,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=26722,8.2%,8.1%,8.2%,Fri,Africa/Lagos
+09/04/2010,13:00,CHF,yellow,Gov Board Member Danthine Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30500,,,,Fri,Africa/Lagos
+09/04/2010,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27955,0.6%,0.4%,0.1%,Fri,Africa/Lagos
+09/04/2010,15:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30498,,,,Fri,Africa/Lagos
+10/04/2010,02:55,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26385,-7.2B,-0.4B,7.6B,Sat,Africa/Lagos
+10/04/2010,07:45,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30499,,,,Sat,Africa/Lagos
+11/04/2010,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2010#detail=29059,,,,Sun,Africa/Lagos
+11/04/2010,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28460,-1.8%,,-1.5%,Sun,Africa/Lagos
+11/04/2010,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28523,2.6%,2.7%,2.7%,Sun,Africa/Lagos
+12/04/2010,01:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26158,-1.8%,-0.9%,-7.3%,Mon,Africa/Lagos
+12/04/2010,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26499,0.0%,0.1%,1.9%,Mon,Africa/Lagos
+12/04/2010,08:32,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=april.2010#detail=26386,511B,,700B,Mon,Africa/Lagos
+12/04/2010,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=26387,22.5%,22.2%,25.5%,Mon,Africa/Lagos
+12/04/2010,09:00,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28127,0.6%,,0.8%,Mon,Africa/Lagos
+12/04/2010,12:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=april.2010#detail=27918,197K,201K,200K,Mon,Africa/Lagos
+12/04/2010,14:30,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=april.2010#detail=28317,,,,Mon,Africa/Lagos
+12/04/2010,18:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=25565,-65.4B,-64.0B,-220.9B,Mon,Africa/Lagos
+12/04/2010,23:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28279,4.4%,,2.2%,Mon,Africa/Lagos
+12/04/2010,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=28267,9%,18%,18%,Mon,Africa/Lagos
+12/04/2010,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28363,-1.3%,-1.1%,-1.6%,Mon,Africa/Lagos
+13/04/2010,01:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=29022,16,,19,Tue,Africa/Lagos
+13/04/2010,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=49075,2.20|3.7,,2.30|3.9,Tue,Africa/Lagos
+13/04/2010,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25146,0.5%,0.5%,0.5%,Tue,Africa/Lagos
+13/04/2010,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25109,1.3%,0.5%,0.1%,Tue,Africa/Lagos
+13/04/2010,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26575,0.5%,0.5%,0.6%,Tue,Africa/Lagos
+13/04/2010,08:30,GBP,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26683,-6.2B,-7.3B,-8.1B,Tue,Africa/Lagos
+13/04/2010,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25704,7.4%,7.9%,6.2%,Tue,Africa/Lagos
+13/04/2010,09:40,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42909,4.60|2.0,,4.59|1.9,Tue,Africa/Lagos
+13/04/2010,11:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=april.2010#detail=48377,86.8,,88.0,Tue,Africa/Lagos
+13/04/2010,12:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26743,1.4B,0.7B,0.8B,Tue,Africa/Lagos
+13/04/2010,,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26834,0.1%,0.5%,0.4%,Tue,Africa/Lagos
+13/04/2010,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=25900,-39.7B,-38.5B,-37.0B,Tue,Africa/Lagos
+13/04/2010,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26009,0.7%,0.9%,-0.2%,Tue,Africa/Lagos
+13/04/2010,14:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=april.2010#detail=28233,48.4,47.8,45.4,Tue,Africa/Lagos
+13/04/2010,14:45,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30492,,,,Tue,Africa/Lagos
+13/04/2010,16:45,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30596,,,,Tue,Africa/Lagos
+13/04/2010,22:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26651,-0.9%,0.3%,0.3%,Tue,Africa/Lagos
+13/04/2010,,NZD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26647,-0.6%,0.2%,0.7%,Tue,Africa/Lagos
+13/04/2010,23:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30591,,,,Tue,Africa/Lagos
+14/04/2010,00:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=27177,-1.0%,,0.2%,Wed,Africa/Lagos
+14/04/2010,06:30,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30593,,,,Wed,Africa/Lagos
+14/04/2010,06:42,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2010#detail=26384,7.7%,,4.9%,Wed,Africa/Lagos
+14/04/2010,09:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27203,0.9%,0.2%,1.6%,Wed,Africa/Lagos
+14/04/2010,12:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26025,0.0%,0.1%,0.1%,Wed,Africa/Lagos
+14/04/2010,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25915,0.6%,0.5%,1.0%,Wed,Africa/Lagos
+14/04/2010,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=128509,2.3%,2.4%,2.1%,Wed,Africa/Lagos
+14/04/2010,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25916,1.6%,1.1%,0.5%,Wed,Africa/Lagos
+14/04/2010,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26024,0.1%,0.1%,0.0%,Wed,Africa/Lagos
+14/04/2010,13:30,USD,orange,FOMC Member Pianalto Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30493,,,,Wed,Africa/Lagos
+14/04/2010,14:00,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=april.2010#detail=30494,,,,Wed,Africa/Lagos
+14/04/2010,,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27310,0.5%,0.3%,0.2%,Wed,Africa/Lagos
+14/04/2010,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2010#detail=24717,-2.2M,1.4M,2.0M,Wed,Africa/Lagos
+14/04/2010,18:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=april.2010#detail=26610,,,,Wed,Africa/Lagos
+14/04/2010,22:33,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2010#detail=27298,56.3,,53.6,Wed,Africa/Lagos
+14/04/2010,23:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=26061,72,81,81,Wed,Africa/Lagos
+15/04/2010,01:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2010#detail=28444,4.1%,,3.2%,Thu,Africa/Lagos
+15/04/2010,02:00,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24849,2.4%,2.6%,2.7%,Thu,Africa/Lagos
+15/04/2010,,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=april.2010#detail=26329,11.9%,11.8%,10.7%,Thu,Africa/Lagos
+15/04/2010,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24852,26.4%,26.1%,26.6%,Thu,Africa/Lagos
+15/04/2010,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24848,18.1%,18.2%,20.7%,Thu,Africa/Lagos
+15/04/2010,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=april.2010#detail=24851,,,,Thu,Africa/Lagos
+15/04/2010,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24850,5.9%,6.5%,5.4%,Thu,Africa/Lagos
+15/04/2010,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24853,18.0%,18.1%,17.9%,Thu,Africa/Lagos
+15/04/2010,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28775,-0.6%,-0.9%,-0.9%,Thu,Africa/Lagos
+15/04/2010,08:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=april.2010#detail=27286,,,,Thu,Africa/Lagos
+15/04/2010,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=26511,-2.33B,-2.37B,-3.40B,Thu,Africa/Lagos
+15/04/2010,12:29,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2010#detail=27085,31.9,24.0,22.9,Thu,Africa/Lagos
+15/04/2010,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2010#detail=28884,484K,439K,460K,Thu,Africa/Lagos
+15/04/2010,13:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=april.2010#detail=24492,47.1B,34.2B,15.0B,Thu,Africa/Lagos
+15/04/2010,13:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=26082,73.2%,73.3%,73.0%,Thu,Africa/Lagos
+15/04/2010,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26081,0.1%,0.6%,0.3%,Thu,Africa/Lagos
+15/04/2010,14:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2010#detail=27577,20.2,19.8,18.9,Thu,Africa/Lagos
+15/04/2010,All Day,All,orange,BRICS Summit,https://www.forexfactory.com/calendar?month=april.2010#detail=134274,,,,Thu,Africa/Lagos
+15/04/2010,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2010#detail=24718,87B,81B,31B,Thu,Africa/Lagos
+15/04/2010,16:15,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30495,,,,Thu,Africa/Lagos
+15/04/2010,17:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=april.2010#detail=26855,19,16,15,Thu,Africa/Lagos
+15/04/2010,17:30,CHF,orange,Gov Board Member Jordan Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30595,,,,Thu,Africa/Lagos
+15/04/2010,22:00,NZD,orange,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=37359,1.7%,,0.4%,Thu,Africa/Lagos
+16/04/2010,07:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25407,0.5%,0.2%,-0.3%,Fri,Africa/Lagos
+16/04/2010,09:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27354,1.0%,0.9%,0.8%,Fri,Africa/Lagos
+16/04/2010,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27353,1.4%,1.5%,1.5%,Fri,Africa/Lagos
+16/04/2010,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=27397,1.8B,5.1B,7.0B,Fri,Africa/Lagos
+16/04/2010,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=27398,3.3B,3.1B,1.9B,Fri,Africa/Lagos
+16/04/2010,12:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26798,0.1%,1.0%,1.8%,Fri,Africa/Lagos
+16/04/2010,,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26822,8.1%,7.1%,-1.0%,Fri,Africa/Lagos
+16/04/2010,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=april.2010#detail=27754,0.69M,0.63M,0.64M,Fri,Africa/Lagos
+16/04/2010,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=april.2010#detail=27753,0.63M,0.60M,0.62M,Fri,Africa/Lagos
+16/04/2010,13:00,USD,orange,FOMC Member Warsh Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30590,,,,Fri,Africa/Lagos
+16/04/2010,13:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=25286,69.5,74.7,73.6,Fri,Africa/Lagos
+16/04/2010,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2010#detail=25287,2.9%,,2.7%,Fri,Africa/Lagos
+16/04/2010,17:00,USD,orange,FOMC Member Hoenig Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30592,,,,Fri,Africa/Lagos
+18/04/2010,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=april.2010#detail=127097,57.3,,53.7,Sun,Africa/Lagos
+18/04/2010,23:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27972,2.6%,,0.1%,Sun,Africa/Lagos
+19/04/2010,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=28386,40.9,40.2,39.8,Mon,Africa/Lagos
+19/04/2010,10:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=april.2010#detail=50163,,,,Mon,Africa/Lagos
+19/04/2010,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=april.2010#detail=26810,6.72B,8.95B,11.84B,Mon,Africa/Lagos
+19/04/2010,13:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30749,,,,Mon,Africa/Lagos
+19/04/2010,14:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28112,1.4%,1.0%,0.4%,Mon,Africa/Lagos
+19/04/2010,20:00,USD,yellow,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30750,,,,Mon,Africa/Lagos
+19/04/2010,22:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=27498,0.4%,0.6%,-0.2%,Mon,Africa/Lagos
+19/04/2010,,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27504,0.2%,,-1.3%,Mon,Africa/Lagos
+19/04/2010,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28739,-0.2%,-0.9%,2.9%,Mon,Africa/Lagos
+20/04/2010,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2010#detail=24625,,,,Tue,Africa/Lagos
+20/04/2010,06:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25121,0.7%,0.5%,0.0%,Tue,Africa/Lagos
+20/04/2010,08:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=april.2010#detail=27227,-3.9B,-5.3B,-1.7B,Tue,Africa/Lagos
+20/04/2010,08:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25425,3.4%,3.2%,3.0%,Tue,Africa/Lagos
+20/04/2010,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25427,4.4%,4.1%,3.7%,Tue,Africa/Lagos
+20/04/2010,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25426,3.0%,2.8%,2.9%,Tue,Africa/Lagos
+20/04/2010,09:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=27685,53.0,45.2,44.5,Tue,Africa/Lagos
+20/04/2010,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=27686,46.0,38.9,37.9,Tue,Africa/Lagos
+20/04/2010,13:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=24187,,,,Tue,Africa/Lagos
+20/04/2010,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24186,0.25%,0.25%,0.25%,Tue,Africa/Lagos
+20/04/2010,15:00,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=april.2010#detail=30756,,,,Tue,Africa/Lagos
+20/04/2010,16:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30594,,,,Tue,Africa/Lagos
+21/04/2010,00:30,AUD,orange,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=29038,0.5%,,0.4%,Wed,Africa/Lagos
+21/04/2010,08:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=april.2010#detail=24944,-32.9K,-7.6K,-40.1K,Wed,Africa/Lagos
+21/04/2010,,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=april.2010#detail=49139,0-0-9,0-0-9,0-0-9,Wed,Africa/Lagos
+21/04/2010,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=april.2010#detail=28255,0-0-9,0-0-9,0-0-9,Wed,Africa/Lagos
+21/04/2010,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=april.2010#detail=24945,2.3%,2.5%,0.8%,Wed,Africa/Lagos
+21/04/2010,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24943,8.0%,7.8%,7.8%,Wed,Africa/Lagos
+21/04/2010,09:05,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42898,3.83|1.1,,3.96|1.5,Wed,Africa/Lagos
+21/04/2010,12:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27906,-1.2%,1.0%,2.4%,Wed,Africa/Lagos
+21/04/2010,14:15,USD,orange,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30757,,,,Wed,Africa/Lagos
+21/04/2010,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2010#detail=24719,1.9M,0.1M,-2.2M,Wed,Africa/Lagos
+21/04/2010,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=28535,0.67T,0.66T,0.47T,Wed,Africa/Lagos
+22/04/2010,01:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26784,-2.7%,,-1.9%,Thu,Africa/Lagos
+22/04/2010,06:15,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=25537,2.01B,1.79B,1.29B,Thu,Africa/Lagos
+22/04/2010,07:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26438,56.7,56.8,56.5,Thu,Africa/Lagos
+22/04/2010,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26439,57.8,54.3,53.8,Thu,Africa/Lagos
+22/04/2010,07:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26440,61.3,60.2,60.2,Thu,Africa/Lagos
+22/04/2010,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26441,55.0,55.2,54.9,Thu,Africa/Lagos
+22/04/2010,08:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26442,57.5,56.8,56.6,Thu,Africa/Lagos
+22/04/2010,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=26443,55.5,54.4,54.1,Thu,Africa/Lagos
+22/04/2010,08:30,GBP,red,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=april.2010#detail=25674,23.5B,24.1B,9.7B,Thu,Africa/Lagos
+22/04/2010,,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26045,0.4%,0.7%,2.5%,Thu,Africa/Lagos
+22/04/2010,,GBP,orange,Prelim Mortgage Approvals,https://www.forexfactory.com/calendar?month=april.2010#detail=30388,52K,51K,48K,Thu,Africa/Lagos
+22/04/2010,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25675,0.1%,0.3%,0.2%,Thu,Africa/Lagos
+22/04/2010,09:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=april.2010#detail=28925,53.4,,53.8,Thu,Africa/Lagos
+22/04/2010,10:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=april.2010#detail=28187,-36,-32,-37,Thu,Africa/Lagos
+22/04/2010,10:39,GBP,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42451,4.08|1.9,,3.99|2.1,Thu,Africa/Lagos
+22/04/2010,11:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30755,,,,Thu,Africa/Lagos
+22/04/2010,12:30,CAD,orange,Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27931,1.0%,0.8%,0.9%,Thu,Africa/Lagos
+22/04/2010,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25988,0.7%,0.4%,-0.6%,Thu,Africa/Lagos
+22/04/2010,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2010#detail=28885,456K,452K,480K,Thu,Africa/Lagos
+22/04/2010,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25989,0.1%,0.1%,0.1%,Thu,Africa/Lagos
+22/04/2010,14:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=27671,-15,-17,-17,Thu,Africa/Lagos
+22/04/2010,,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=april.2010#detail=27368,5.35M,5.28M,5.01M,Thu,Africa/Lagos
+22/04/2010,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26891,-0.2%,-0.1%,-0.6%,Thu,Africa/Lagos
+22/04/2010,Day 1,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=april.2010#detail=29088,,,,Thu,Africa/Lagos
+22/04/2010,14:30,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=april.2010#detail=28433,,,,Thu,Africa/Lagos
+22/04/2010,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2010#detail=24720,73B,77B,87B,Thu,Africa/Lagos
+22/04/2010,15:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=april.2010#detail=28434,,,,Thu,Africa/Lagos
+22/04/2010,15:55,USD,orange,President Obama Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30759,,,,Thu,Africa/Lagos
+22/04/2010,16:15,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30753,,,,Thu,Africa/Lagos
+22/04/2010,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27522,1.1%,,-1.9%,Thu,Africa/Lagos
+23/04/2010,01:30,AUD,orange,Import Prices q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=26938,0.3%,-1.4%,-4.3%,Fri,Africa/Lagos
+23/04/2010,02:50,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30754,,,,Fri,Africa/Lagos
+23/04/2010,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28422,6.3%,,1.2%,Fri,Africa/Lagos
+23/04/2010,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28547,-2.3%,-1.3%,3.4%,Fri,Africa/Lagos
+23/04/2010,06:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26595,1.2%,0.4%,-1.4%,Fri,Africa/Lagos
+23/04/2010,08:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=april.2010#detail=27798,101.6,98.8,98.2,Fri,Africa/Lagos
+23/04/2010,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26523,0.1%,0.3%,-0.5%,Fri,Africa/Lagos
+23/04/2010,08:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=26669,0.2%,0.4%,0.4%,Fri,Africa/Lagos
+23/04/2010,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2010#detail=28291,0.4%,0.6%,0.6%,Fri,Africa/Lagos
+23/04/2010,09:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27252,1.5%,0.9%,-1.6%,Fri,Africa/Lagos
+23/04/2010,11:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26908,-0.2%,0.1%,0.7%,Fri,Africa/Lagos
+23/04/2010,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26907,0.0%,0.2%,0.4%,Fri,Africa/Lagos
+23/04/2010,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26871,-0.1%,0.7%,2.0%,Fri,Africa/Lagos
+23/04/2010,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26870,0.5%,0.9%,0.9%,Fri,Africa/Lagos
+23/04/2010,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25940,2.8%,0.7%,1.7%,Fri,Africa/Lagos
+23/04/2010,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25939,-1.3%,0.2%,1.1%,Fri,Africa/Lagos
+23/04/2010,13:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=april.2010#detail=27810,-2.4,-2.5,-3.6,Fri,Africa/Lagos
+23/04/2010,14:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=april.2010#detail=26279,411K,326K,324K,Fri,Africa/Lagos
+23/04/2010,Day 2,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=april.2010#detail=29089,,,,Fri,Africa/Lagos
+23/04/2010,22:00,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30758,,,,Fri,Africa/Lagos
+24/04/2010,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2010#detail=29249,,,,Sat,Africa/Lagos
+25/04/2010,Day 2,All,orange,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2010#detail=29250,,,,Sun,Africa/Lagos
+25/04/2010,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28831,,,,Sun,Africa/Lagos
+25/04/2010,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28351,-1.1%,-1.3%,-1.2%,Sun,Africa/Lagos
+26/04/2010,16:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30762,,,,Mon,Africa/Lagos
+27/04/2010,01:30,AUD,red,PPI q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=26973,1.0%,0.7%,-0.4%,Tue,Africa/Lagos
+27/04/2010,,AUD,orange,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=27170,17,,18,Tue,Africa/Lagos
+27/04/2010,06:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=april.2010#detail=24456,1.71,,1.20,Tue,Africa/Lagos
+27/04/2010,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=april.2010#detail=27943,3.8,3.4,3.4,Tue,Africa/Lagos
+27/04/2010,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25158,1.7%,1.2%,1.0%,Tue,Africa/Lagos
+27/04/2010,08:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=april.2010#detail=29077,34.9K,39.3K,33.4K,Tue,Africa/Lagos
+27/04/2010,10:00,GBP,red,CBI Realized Sales,https://www.forexfactory.com/calendar?month=april.2010#detail=28204,13,16,13,Tue,Africa/Lagos
+27/04/2010,13:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27774,0.6%,1.4%,-0.7%,Tue,Africa/Lagos
+27/04/2010,13:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2010#detail=27024,30,7,6,Tue,Africa/Lagos
+27/04/2010,14:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=24455,57.9,53.6,52.3,Tue,Africa/Lagos
+27/04/2010,,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=april.2010#detail=30763,,,,Tue,Africa/Lagos
+27/04/2010,14:15,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30764,,,,Tue,Africa/Lagos
+27/04/2010,16:30,USD,yellow,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30787,,,,Tue,Africa/Lagos
+27/04/2010,17:15,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30765,,,,Tue,Africa/Lagos
+27/04/2010,19:30,CAD,red,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30770,,,,Tue,Africa/Lagos
+27/04/2010,22:30,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30769,,,,Tue,Africa/Lagos
+27/04/2010,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28751,4.7%,3.7%,4.2%,Tue,Africa/Lagos
+28/04/2010,01:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=27477,0.9%,0.9%,0.5%,Wed,Africa/Lagos
+28/04/2010,,AUD,orange,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=27478,0.8%,0.7%,0.5%,Wed,Africa/Lagos
+28/04/2010,02:56,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=28501,49.5,,42.5,Wed,Africa/Lagos
+28/04/2010,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=25134,-0.1%,0.1%,0.5%,Wed,Africa/Lagos
+28/04/2010,08:30,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30790,,,,Wed,Africa/Lagos
+28/04/2010,09:06,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42348,2.97|1.7,,3.13|2.0,Wed,Africa/Lagos
+28/04/2010,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2010#detail=24721,1.9M,0.9M,1.9M,Wed,Africa/Lagos
+28/04/2010,18:14,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24146,<0.25%,<0.25%,<0.25%,Wed,Africa/Lagos
+28/04/2010,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=24147,,,,Wed,Africa/Lagos
+28/04/2010,21:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=24096,2.50%,2.50%,2.50%,Wed,Africa/Lagos
+28/04/2010,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=24104,,,,Wed,Africa/Lagos
+28/04/2010,22:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2010#detail=27546,567M,375M,335M,Wed,Africa/Lagos
+29/04/2010,00:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28139,-0.3%,,-0.2%,Thu,Africa/Lagos
+29/04/2010,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2010#detail=28964,,,,Thu,Africa/Lagos
+29/04/2010,06:00,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=24530,1.0%,0.4%,1.0%,Thu,Africa/Lagos
+29/04/2010,07:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=april.2010#detail=28222,-68K,-11K,-42K,Thu,Africa/Lagos
+29/04/2010,08:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27729,-0.1%,-0.1%,-0.3%,Thu,Africa/Lagos
+29/04/2010,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27730,-0.2%,-0.1%,-0.4%,Thu,Africa/Lagos
+29/04/2010,,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=43615,47.2,,46.9,Thu,Africa/Lagos
+29/04/2010,10:31,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2010#detail=42415,4.09|1.4,,3.96|1.3,Thu,Africa/Lagos
+29/04/2010,11:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30767,,,,Thu,Africa/Lagos
+29/04/2010,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2010#detail=28886,448K,442K,459K,Thu,Africa/Lagos
+29/04/2010,14:30,CAD,red,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30771,,,,Thu,Africa/Lagos
+29/04/2010,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2010#detail=24722,83B,70B,73B,Thu,Africa/Lagos
+29/04/2010,18:30,USD,yellow,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30788,,,,Thu,Africa/Lagos
+29/04/2010,22:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=27533,-0.4%,,5.8%,Thu,Africa/Lagos
+29/04/2010,23:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2010#detail=27070,-16,-14,-15,Thu,Africa/Lagos
+29/04/2010,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=28994,53.5,,52.4,Thu,Africa/Lagos
+29/04/2010,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25841,4.4%,0.7%,-0.5%,Thu,Africa/Lagos
+29/04/2010,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25843,-1.9%,-2.0%,-1.8%,Thu,Africa/Lagos
+29/04/2010,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=25842,-1.2%,-1.2%,-1.2%,Thu,Africa/Lagos
+29/04/2010,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=25840,5.0%,4.9%,4.9%,Thu,Africa/Lagos
+29/04/2010,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28763,0.3%,0.9%,-0.6%,Thu,Africa/Lagos
+30/04/2010,01:17,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28982,0.9%,,-5.2%,Fri,Africa/Lagos
+30/04/2010,01:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=28410,0.5%,0.4%,0.4%,Fri,Africa/Lagos
+30/04/2010,,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28375,0.8%,-0.2%,-0.6%,Fri,Africa/Lagos
+30/04/2010,04:18,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2010#detail=28798,,,,Fri,Africa/Lagos
+30/04/2010,,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=28797,0.10%,0.10%,0.10%,Fri,Africa/Lagos
+30/04/2010,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=28398,-2.4%,-5.6%,-9.3%,Fri,Africa/Lagos
+30/04/2010,06:00,JPY,orange,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=april.2010#detail=28868,,,,Fri,Africa/Lagos
+30/04/2010,07:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=43874,20.1%,19.7%,18.8%,Fri,Africa/Lagos
+30/04/2010,07:25,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2010#detail=28799,,,,Fri,Africa/Lagos
+30/04/2010,08:00,CHF,red,SNB Chairman Hildebrand Speaks,https://www.forexfactory.com/calendar?month=april.2010#detail=30768,,,,Fri,Africa/Lagos
+30/04/2010,09:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2010#detail=27339,1.5%,1.4%,1.4%,Fri,Africa/Lagos
+30/04/2010,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=27411,10.0%,10.0%,10.0%,Fri,Africa/Lagos
+30/04/2010,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26535,0.4%,0.2%,0.3%,Fri,Africa/Lagos
+30/04/2010,09:30,CHF,red,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=april.2010#detail=25391,1.99,1.99,1.96,Fri,Africa/Lagos
+30/04/2010,10:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2010#detail=29632,8.8%,8.6%,8.6%,Fri,Africa/Lagos
+30/04/2010,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26928,0.3%,0.5%,0.6%,Fri,Africa/Lagos
+30/04/2010,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26765,0.8%,0.9%,0.4%,Fri,Africa/Lagos
+30/04/2010,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=april.2010#detail=26764,-0.4%,0.2%,0.1%,Fri,Africa/Lagos
+30/04/2010,,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=25964,3.2%,3.4%,5.6%,Fri,Africa/Lagos
+30/04/2010,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=25965,0.9%,0.9%,0.5%,Fri,Africa/Lagos
+30/04/2010,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=april.2010#detail=26100,0.6%,0.6%,0.5%,Fri,Africa/Lagos
+30/04/2010,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=april.2010#detail=25265,63.8,60.0,58.8,Fri,Africa/Lagos
+30/04/2010,13:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2010#detail=25288,72.2,71.2,69.5,Fri,Africa/Lagos
+30/04/2010,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2010#detail=25289,2.9%,,2.9%,Fri,Africa/Lagos

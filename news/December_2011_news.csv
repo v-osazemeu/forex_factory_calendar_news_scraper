@@ -1,357 +1,357 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/12/2011,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34331,-1.0%,,-3.5%,Thu
-01/12/2011,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34492,-10.7%,3.6%,-14.2%,Thu
-01/12/2011,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34431,0.2%,0.4%,0.4%,Thu
-01/12/2011,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=35066,49.0,49.8,50.4,Thu
-01/12/2011,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=35065,47.7,,48.0,Thu
-01/12/2011,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=49033,1.09|2.5,,1.03|3.3,Thu
-01/12/2011,05:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36121,18.1%,,19.6%,Thu
-01/12/2011,06:45,CHF,orange,GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35311,0.2%,0.2%,0.5%,Thu
-01/12/2011,08:00,EUR,orange,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41782,,,,Thu
-01/12/2011,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=43848,43.8,,43.9,Thu
-01/12/2011,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=35078,44.8,46.6,46.9,Thu
-01/12/2011,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=43502,44.0,42.8,43.3,Thu
-01/12/2011,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=58942,47.3,47.6,47.6,Thu
-01/12/2011,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=59001,47.9,48.0,47.9,Thu
-01/12/2011,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33221,46.4,46.4,46.4,Thu
-01/12/2011,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33165,47.6,47.1,47.8,Thu
-01/12/2011,,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=57061,,,,Thu
-01/12/2011,10:01,EUR,orange,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42399,3.18|3.1,,3.22|2.2,Thu
-01/12/2011,10:30,GBP,orange,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=december.2011#detail=35087,,,,Thu
-01/12/2011,10:36,GBP,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42468,2.38|1.6,,2.24|1.8,Thu
-01/12/2011,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2011#detail=35449,402K,390K,396K,Thu
-01/12/2011,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=59514,53.3,,53.7,Thu
-01/12/2011,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=32997,52.7,51.6,50.8,Thu
-01/12/2011,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34116,0.8%,0.4%,0.2%,Thu
-01/12/2011,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=december.2011#detail=32998,45.0,45.2,41.0,Thu
-01/12/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2011#detail=35448,-1B,11B,9B,Thu
-01/12/2011,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=december.2011#detail=33416,13.6M,13.4M,13.3M,Thu
-01/12/2011,23:50,JPY,orange,Capital Spending q/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36516,-9.8%,-4.1%,-7.8%,Thu
-01/12/2011,,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36772,19.5%,17.7%,17.0%,Thu
-02/12/2011,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=december.2011#detail=44027,59.5K,,134.2K,Fri
-02/12/2011,08:15,CHF,red,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36664,-0.2%,1.2%,-1.4%,Fri
-02/12/2011,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33177,52.3,52.1,53.9,Fri
-02/12/2011,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35270,0.1%,0.2%,0.3%,Fri
-02/12/2011,12:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=december.2011#detail=34229,-18.6K,18.1K,-54.0K,Fri
-02/12/2011,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=34228,7.4%,7.3%,7.3%,Fri
-02/12/2011,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=december.2011#detail=32893,120K,126K,100K,Fri
-02/12/2011,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32892,8.6%,9.0%,9.0%,Fri
-02/12/2011,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=32894,-0.1%,0.2%,0.3%,Fri
-02/12/2011,14:00,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41990,,,,Fri
-02/12/2011,15:00,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41989,,,,Fri
-03/12/2011,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=42251,49.7,,57.7,Sat
-04/12/2011,22:22,AUD,orange,AIG Services Index,https://www.forexfactory.com/calendar?month=december.2011#detail=33033,47.7,,48.8,Sun
-04/12/2011,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34516,-0.1%,,0.1%,Sun
-05/12/2011,00:30,AUD,red,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=37140,0.0%,,-0.6%,Mon
-05/12/2011,,AUD,orange,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=33323,4.8%,3.1%,7.3%,Mon
-05/12/2011,02:30,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=54021,52.5,,54.1,Mon
-05/12/2011,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=43944,36.8,,41.8,Mon
-05/12/2011,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=43562,45.8,44.1,43.9,Mon
-05/12/2011,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=59163,49.6,49.3,49.3,Mon
-05/12/2011,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=59175,50.3,51.4,51.4,Mon
-05/12/2011,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=35633,47.5,47.8,47.8,Mon
-05/12/2011,09:30,EUR,orange,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=33618,-24.0,-21.4,-21.2,Mon
-05/12/2011,,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33189,52.1,50.6,51.3,Mon
-05/12/2011,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35271,0.4%,0.2%,-0.6%,Mon
-05/12/2011,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=32996,52.0,53.6,52.9,Mon
-05/12/2011,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34018,-0.4%,-0.2%,-0.1%,Mon
-05/12/2011,17:10,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41992,,,,Mon
-06/12/2011,00:00,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35989,-1.6%,,-0.6%,Tue
-06/12/2011,00:30,AUD,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=33307,-5.6B,-5.5B,-6.7B,Tue
-06/12/2011,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32685,4.25%,4.25%,4.50%,Tue
-06/12/2011,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=32686,,,,Tue
-06/12/2011,08:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=december.2011#detail=41362,229B,,245B,Tue
-06/12/2011,,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36604,-0.9%,-0.6%,1.2%,Tue
-06/12/2011,08:15,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36440,-0.2%,0.1%,-0.1%,Tue
-06/12/2011,09:30,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2011#detail=57077,,,,Tue
-06/12/2011,10:00,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35130,0.2%,0.2%,0.2%,Tue
-06/12/2011,10:39,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42914,3.29|2.0,,4.18|2.0,Tue
-06/12/2011,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33510,5.2%,0.9%,-4.6%,Tue
-06/12/2011,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33886,11.9%,2.3%,-4.1%,Tue
-06/12/2011,,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=december.2011#detail=56264,3.5%,,3.2%,Tue
-06/12/2011,14:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=32854,,,,Tue
-06/12/2011,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32853,1.00%,1.00%,1.00%,Tue
-06/12/2011,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33598,59.9,55.2,54.4,Tue
-06/12/2011,,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41993,,,,Tue
-06/12/2011,22:21,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=december.2011#detail=33034,39.6,,34.7,Tue
-07/12/2011,00:00,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36884,2.0%,,2.1%,Wed
-07/12/2011,00:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=32858,1.0%,1.0%,1.4%,Wed
-07/12/2011,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=december.2011#detail=36926,91.5%,91.8%,91.6%,Wed
-07/12/2011,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=36211,3.0%,3.1%,3.0%,Wed
-07/12/2011,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=35921,-6.2B,-5.9B,-6.6B,Wed
-07/12/2011,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36511,-0.9%,-0.3%,-4.6%,Wed
-07/12/2011,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33072,-0.7%,-0.1%,0.1%,Wed
-07/12/2011,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33071,-0.7%,-0.3%,0.0%,Wed
-07/12/2011,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33474,0.8%,0.3%,-2.8%,Wed
-07/12/2011,13:30,USD,yellow,FOMC Member Raskin Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42066,,,,Wed
-07/12/2011,15:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=december.2011#detail=35420,0.3%,,0.4%,Wed
-07/12/2011,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2011#detail=36987,1.3M,-0.8M,3.9M,Wed
-07/12/2011,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32819,2.50%,2.50%,2.50%,Wed
-07/12/2011,,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=december.2011#detail=40121,,,,Wed
-07/12/2011,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=32820,,,,Wed
-07/12/2011,,NZD,orange,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=40120,,,,Wed
-07/12/2011,,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35500,7.6B,7.0B,6.9B,Wed
-07/12/2011,21:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=34313,0.0%,,1.6%,Wed
-07/12/2011,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35898,-6.9%,0.2%,-8.2%,Wed
-07/12/2011,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35804,0.2%,,0.0%,Wed
-07/12/2011,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=35803,0.52T,0.54T,1.19T,Wed
-08/12/2011,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=december.2011#detail=34468,-6.3K,10.3K,16.8K,Thu
-08/12/2011,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=34467,5.3%,5.2%,5.2%,Thu
-08/12/2011,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=49088,1.96|3.0,,1.94|3.3,Thu
-08/12/2011,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=39105,45.0,47.1,45.9,Thu
-08/12/2011,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35303,0.0%,0.2%,0.0%,Thu
-08/12/2011,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37015,,,,Thu
-08/12/2011,07:20,AUD,orange,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41994,,,,Thu
-08/12/2011,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=december.2011#detail=32774,275B,275B,275B,Thu
-08/12/2011,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32772,0.50%,0.50%,0.50%,Thu
-08/12/2011,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32797,1.00%,1.00%,1.25%,Thu
-08/12/2011,13:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=december.2011#detail=36464,181K,203K,209K,Thu
-08/12/2011,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34354,0.2%,0.3%,0.2%,Thu
-08/12/2011,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=december.2011#detail=32798,,,,Thu
-08/12/2011,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2011#detail=35450,381K,397K,404K,Thu
-08/12/2011,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33983,1.6%,0.4%,0.0%,Thu
-08/12/2011,15:30,CAD,yellow,BOC Financial System Review,https://www.forexfactory.com/calendar?month=december.2011#detail=58704,,,,Thu
-08/12/2011,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2011#detail=35451,-20B,-10B,-1B,Thu
-08/12/2011,17:00,EUR,orange,EBA Bank Stress Test Results,https://www.forexfactory.com/calendar?month=december.2011#detail=42108,,,,Thu
-08/12/2011,23:00,NZD,orange,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=37418,1.1%,,-0.3%,Thu
-08/12/2011,23:50,JPY,orange,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=35295,-6.1,11.4,10.3,Thu
-08/12/2011,,JPY,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35290,1.4%,1.3%,1.5%,Thu
-08/12/2011,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35805,3.0%,2.7%,2.8%,Thu
-09/12/2011,00:04,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35291,-2.2%,-1.9%,-1.9%,Fri
-09/12/2011,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33296,4.2%,4.6%,5.5%,Fri
-09/12/2011,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33299,2.7%,3.3%,5.0%,Fri
-09/12/2011,05:29,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33297,24.5%,24.8%,24.9%,Fri
-09/12/2011,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33295,12.4%,12.8%,13.2%,Fri
-09/12/2011,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33300,17.3%,16.9%,17.2%,Fri
-09/12/2011,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33498,0.0%,0.0%,0.0%,Fri
-09/12/2011,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=33462,12.6B,14.5B,15.1B,Fri
-09/12/2011,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36510,0.0%,-0.1%,-2.1%,Fri
-09/12/2011,,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=35922,-99.4B,,-92.7B,Fri
-09/12/2011,All Day,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=december.2011#detail=41991,,,,Fri
-09/12/2011,09:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33144,0.1%,0.3%,-0.8%,Fri
-09/12/2011,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=34545,-7.6B,-9.5B,-10.2B,Fri
-09/12/2011,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33145,0.2%,0.2%,0.0%,Fri
-09/12/2011,10:00,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35645,-0.4%,,-0.4%,Fri
-09/12/2011,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=34378,-0.9B,0.7B,1.0B,Fri
-09/12/2011,,CAD,orange,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=34179,0.4%,0.4%,-1.0%,Fri
-09/12/2011,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=33959,-43.5B,-43.5B,-44.2B,Fri
-09/12/2011,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=33575,67.7,65.6,64.1,Fri
-09/12/2011,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=33576,3.1%,,3.2%,Fri
-10/12/2011,02:56,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=33301,14.5B,15.4B,17.0B,Sat
-12/12/2011,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=34443,1.60B,2.03B,2.25B,Mon
-12/12/2011,,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34480,0.7%,0.1%,1.9%,Mon
-12/12/2011,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=36833,38.1,38.5,38.6,Mon
-12/12/2011,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36806,15.9%,,26.0%,Mon
-12/12/2011,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36628,0.7%,0.2%,-1.0%,Mon
-12/12/2011,Q2 Data,CHF,yellow,Employment Level,https://www.forexfactory.com/calendar?month=december.2011#detail=35322,4.02M,4.11M,4.11M,Mon
-12/12/2011,08:15,CHF,orange,Employment Level,https://www.forexfactory.com/calendar?month=december.2011#detail=35323,4.05M,4.03M,4.02M,Mon
-12/12/2011,13:00,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42115,,,,Mon
-12/12/2011,18:10,CAD,orange,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42109,,,,Mon
-12/12/2011,19:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=36476,-137.3B,-138.5B,-98.5B,Mon
-12/12/2011,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34297,0.2%,,-1.3%,Mon
-12/12/2011,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35869,0.6%,0.5%,-0.7%,Mon
-13/12/2011,00:01,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=35990,-17%,-25%,-24%,Tue
-13/12/2011,00:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=34528,2,,2,Tue
-13/12/2011,,AUD,yellow,Housing Starts q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=33315,-6.8%,-1.0%,-4.1%,Tue
-13/12/2011,06:30,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35934,0.3%,0.3%,0.2%,Tue
-13/12/2011,06:45,CHF,orange,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=december.2011#detail=35740,,,,Tue
-13/12/2011,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33119,4.8%,4.8%,5.0%,Tue
-13/12/2011,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33121,5.2%,5.1%,5.4%,Tue
-13/12/2011,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33120,3.2%,3.3%,3.4%,Tue
-13/12/2011,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35100,-0.4%,-0.9%,-1.4%,Tue
-13/12/2011,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=34721,-53.8,-56.1,-55.2,Tue
-13/12/2011,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=34722,-54.1,-60.3,-59.1,Tue
-13/12/2011,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=december.2011#detail=48397,92.0,91.6,90.2,Tue
-13/12/2011,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34140,0.2%,0.5%,0.6%,Tue
-13/12/2011,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34139,0.2%,0.6%,0.6%,Tue
-13/12/2011,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33995,0.8%,0.7%,0.0%,Tue
-13/12/2011,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=december.2011#detail=49329,3.27M,,3.38M,Tue
-13/12/2011,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=december.2011#detail=36156,42.8,42.5,40.6,Tue
-13/12/2011,18:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42332,2.02|3.5,,2.03|2.6,Tue
-13/12/2011,19:13,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=32645,,,,Tue
-13/12/2011,,USD,orange,Federal Funds Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32644,<0.25%,<0.25%,<0.25%,Tue
-13/12/2011,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=36133,-8.3%,,6.3%,Tue
-14/12/2011,01:30,AUD,orange,RBA Deputy Gov Battellino Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42112,,,,Wed
-14/12/2011,02:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=37102,-0.1%,,0.4%,Wed
-14/12/2011,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35856,2.2%,2.4%,2.4%,Wed
-14/12/2011,07:05,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=december.2011#detail=37128,562B,552B,587B,Wed
-14/12/2011,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=37127,12.7%,12.7%,12.9%,Wed
-14/12/2011,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36663,-0.8%,-0.2%,-0.2%,Wed
-14/12/2011,All Day,All,yellow,OPEC Meetings,https://www.forexfactory.com/calendar?month=december.2011#detail=41439,,,,Wed
-14/12/2011,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=december.2011#detail=34413,3.0K,16.1K,2.5K,Wed
-14/12/2011,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=34412,8.3%,8.4%,8.3%,Wed
-14/12/2011,,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=december.2011#detail=34414,2.0%,2.0%,2.3%,Wed
-14/12/2011,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=36181,-72.0,,-64.3,Wed
-14/12/2011,,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35272,-0.1%,0.1%,-2.0%,Wed
-14/12/2011,10:36,GBP,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42469,2.21|1.8,,2.38|1.6,Wed
-14/12/2011,13:30,CAD,orange,Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33850,0.8%,0.3%,0.3%,Wed
-14/12/2011,,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34250,-0.8%,0.0%,2.6%,Wed
-14/12/2011,,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34174,3.3%,1.8%,1.5%,Wed
-14/12/2011,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36677,0.7%,1.0%,-0.5%,Wed
-14/12/2011,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2011#detail=36988,-1.9M,-2.2M,1.3M,Wed
-14/12/2011,18:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42942,2.93|3.0,,3.20|2.4,Wed
-14/12/2011,21:20,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=36896,45.7,,46.6,Wed
-14/12/2011,23:50,JPY,orange,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=33605,-4,-2,2,Wed
-14/12/2011,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=33606,4,1,1,Wed
-14/12/2011,23:58,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=34589,2.4%,,2.5%,Wed
-15/12/2011,00:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34504,-0.7%,,1.0%,Thu
-15/12/2011,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=december.2011#detail=32649,,,,Thu
-15/12/2011,02:00,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36105,13.2%,,15.9%,Thu
-15/12/2011,02:30,CNY,red,Caixin Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=37562,49.0,,47.7,Thu
-15/12/2011,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33398,48.7,47.1,47.3,Thu
-15/12/2011,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33399,50.2,49.1,49.6,Thu
-15/12/2011,08:15,CHF,orange,Industrial Production q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35315,-1.4%,-0.7%,2.9%,Thu
-15/12/2011,08:30,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32829,<0.25%,<0.25%,<0.25%,Thu
-15/12/2011,,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=december.2011#detail=32830,,,,Thu
-15/12/2011,,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=december.2011#detail=32831,,,,Thu
-15/12/2011,,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33400,48.1,47.6,47.9,Thu
-15/12/2011,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33401,52.7,50.1,50.3,Thu
-15/12/2011,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=december.2011#detail=36011,,,,Thu
-15/12/2011,,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33402,46.9,46.1,46.4,Thu
-15/12/2011,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33403,48.3,47.1,47.5,Thu
-15/12/2011,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33084,-0.4%,-0.3%,1.0%,Thu
-15/12/2011,,GBP,orange,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=35621,4.1%,,4.2%,Thu
-15/12/2011,10:00,EUR,orange,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42497,5.55|2.2,,6.98|1.5,Thu
-15/12/2011,,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35274,1.6%,1.7%,1.6%,Thu
-15/12/2011,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35273,3.0%,3.0%,3.0%,Thu
-15/12/2011,,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35115,-0.1%,0.2%,0.2%,Thu
-15/12/2011,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=35954,-23,-20,-19,Thu
-15/12/2011,11:25,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42113,,,,Thu
-15/12/2011,13:30,CAD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=34254,81.3%,79.2%,79.9%,Thu
-15/12/2011,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36427,0.3%,0.3%,-0.3%,Thu
-15/12/2011,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2011#detail=35452,366K,389K,385K,Thu
-15/12/2011,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36428,0.1%,0.2%,0.0%,Thu
-15/12/2011,,USD,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=34750,-110B,-108B,-125B,Thu
-15/12/2011,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=35569,9.5,3.1,0.6,Thu
-15/12/2011,14:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=december.2011#detail=35768,4.8B,53.4B,68.3B,Thu
-15/12/2011,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=34810,77.8%,77.9%,78.0%,Thu
-15/12/2011,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34809,-0.2%,0.3%,0.7%,Thu
-15/12/2011,15:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=37185,10.3,5.1,3.6,Thu
-15/12/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2011#detail=35453,-102B,-89B,-20B,Thu
-16/12/2011,08:30,EUR,orange,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42114,,,,Fri
-16/12/2011,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=35275,0.3B,1.3B,2.2B,Fri
-16/12/2011,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=december.2011#detail=35042,2.03B,8.23B,7.35B,Fri
-16/12/2011,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36426,0.2%,0.1%,0.1%,Fri
-16/12/2011,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=128529,3.4%,3.5%,3.5%,Fri
-16/12/2011,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36425,0.0%,0.1%,-0.1%,Fri
-16/12/2011,16:15,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42110,,,,Fri
-16/12/2011,17:00,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42111,,,,Fri
-18/12/2011,21:00,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=34341,101.3,,112.0,Sun
-18/12/2011,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=december.2011#detail=127116,56.6,,50.6,Sun
-18/12/2011,23:47,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36701,-2.7%,,-3.1%,Sun
-19/12/2011,00:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=36452,16.9,,18.3,Mon
-19/12/2011,09:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=36565,-7.5B,-2.1B,2.2B,Mon
-19/12/2011,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=36758,-1.08B,-0.97B,-1.88B,Mon
-19/12/2011,11:00,EUR,yellow,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=december.2011#detail=58836,,,,Mon
-19/12/2011,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34366,0.9%,0.3%,0.5%,Mon
-19/12/2011,15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=december.2011#detail=36689,21,21,19,Mon
-19/12/2011,15:30,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42118,,,,Mon
-19/12/2011,23:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=37209,0.6%,,0.6%,Mon
-20/12/2011,00:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=34866,40,34,36,Tue
-20/12/2011,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2011#detail=32664,,,,Tue
-20/12/2011,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35881,0.8%,1.2%,-0.7%,Tue
-20/12/2011,07:00,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=36223,3.00B,2.47B,2.16B,Tue
-20/12/2011,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=december.2011#detail=36723,5.6,5.5,5.6,Tue
-20/12/2011,,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33530,0.1%,0.1%,0.2%,Tue
-20/12/2011,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=december.2011#detail=35730,107.2,106.2,106.6,Tue
-20/12/2011,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=december.2011#detail=35966,9,-14,-19,Tue
-20/12/2011,12:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34075,0.1%,0.2%,0.3%,Tue
-20/12/2011,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34073,0.1%,0.2%,0.2%,Tue
-20/12/2011,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=december.2011#detail=56265,-1.4%,,3.5%,Tue
-20/12/2011,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=december.2011#detail=34043,0.68M,0.63M,0.64M,Tue
-20/12/2011,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=december.2011#detail=34042,0.69M,0.64M,0.63M,Tue
-20/12/2011,21:45,NZD,red,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=34306,-4.60B,-3.62B,-0.84B,Tue
-20/12/2011,21:49,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34300,-11.6%,,-8.2%,Tue
-20/12/2011,23:30,AUD,orange,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34572,0.1%,,-0.3%,Tue
-20/12/2011,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=37254,-0.54T,-0.28T,-0.50T,Tue
-21/12/2011,00:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=35372,-33,-31,-31,Wed
-21/12/2011,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36169,3.2%,,7.8%,Wed
-21/12/2011,03:16,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=36872,,,,Wed
-21/12/2011,,JPY,red,Overnight Call Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=36870,<0.10%,<0.10%,<0.10%,Wed
-21/12/2011,07:11,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=december.2011#detail=36871,,,,Wed
-21/12/2011,07:19,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36629,0.4%,0.6%,-0.3%,Wed
-21/12/2011,09:00,EUR,yellow,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35148,-0.2%,0.0%,0.3%,Wed
-21/12/2011,09:30,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=december.2011#detail=49159,0-0-9,0-0-9,0-0-9,Wed
-21/12/2011,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=december.2011#detail=32771,0-0-9,0-0-9,0-0-9,Wed
-21/12/2011,,GBP,red,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=december.2011#detail=35113,15.2B,15.5B,3.0B,Wed
-21/12/2011,10:15,EUR,red,Long Term Refinancing Operation,https://www.forexfactory.com/calendar?month=december.2011#detail=42980,489B,,,Wed
-21/12/2011,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33868,0.7%,0.3%,0.4%,Wed
-21/12/2011,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33867,1.0%,0.4%,1.0%,Wed
-21/12/2011,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=december.2011#detail=35729,-10.6,-11.8,-12.2,Wed
-21/12/2011,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=36724,-21,-21,-20,Wed
-21/12/2011,,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=december.2011#detail=34842,4.42M,5.04M,4.25M,Wed
-21/12/2011,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2011#detail=36989,-10.6M,-2.8M,-1.9M,Wed
-21/12/2011,21:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=34264,0.8%,0.6%,0.1%,Wed
-22/12/2011,04:30,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42119,,,,Thu
-22/12/2011,05:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=december.2011#detail=36528,,,,Thu
-22/12/2011,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36759,0.1%,-0.2%,-0.3%,Thu
-22/12/2011,09:30,GBP,red,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=33197,-15.2B,-5.6B,-7.4B,Thu
-22/12/2011,,GBP,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=33196,0.6%,0.5%,0.5%,Thu
-22/12/2011,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=33153,0.3%,-1.3%,-1.4%,Thu
-22/12/2011,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2011#detail=35458,364K,376K,368K,Thu
-22/12/2011,,USD,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=34745,1.8%,2.0%,2.0%,Thu
-22/12/2011,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=34746,2.6%,2.5%,2.5%,Thu
-22/12/2011,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=33577,69.9,68.1,67.7,Thu
-22/12/2011,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=33578,3.1%,,3.1%,Thu
-22/12/2011,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35537,0.5%,0.3%,0.9%,Thu
-22/12/2011,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36099,-0.2%,0.3%,0.4%,Thu
-22/12/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2011#detail=35455,-100B,-103B,-102B,Thu
-22/12/2011,16:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42125,,,,Thu
-22/12/2011,18:00,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42129,,,,Thu
-23/12/2011,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37035,,,,Fri
-23/12/2011,08:30,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=december.2011#detail=35736,,,,Fri
-23/12/2011,09:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=december.2011#detail=37063,34.7K,36.3K,35.2K,Fri
-23/12/2011,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=december.2011#detail=34579,0.2%,0.3%,0.7%,Fri
-23/12/2011,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33834,0.0%,0.1%,0.2%,Fri
-23/12/2011,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34019,0.3%,0.5%,1.5%,Fri
-23/12/2011,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34786,0.1%,0.1%,0.1%,Fri
-23/12/2011,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34081,3.8%,2.2%,0.0%,Fri
-23/12/2011,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34785,0.1%,0.3%,0.1%,Fri
-23/12/2011,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34784,0.1%,0.3%,0.4%,Fri
-23/12/2011,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=december.2011#detail=33971,315K,314K,310K,Fri
-23/12/2011,17:15,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42130,,,,Fri
-25/12/2011,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35688,,,,Sun
-25/12/2011,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35697,,,,Sun
-26/12/2011,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37050,,,,Mon
-26/12/2011,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37016,,,,Mon
-26/12/2011,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37018,,,,Mon
-26/12/2011,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35706,,,,Mon
-26/12/2011,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37043,,,,Mon
-26/12/2011,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35679,,,,Mon
-26/12/2011,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35686,,,,Mon
-26/12/2011,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35698,,,,Mon
-26/12/2011,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2011#detail=36541,,,,Mon
-26/12/2011,,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35817,-0.2%,0.1%,0.1%,Mon
-27/12/2011,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=37223,-0.3%,-4.8%,-5.8%,Tue
-27/12/2011,07:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=december.2011#detail=35769,0.81,,0.90,Tue
-27/12/2011,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35705,,,,Tue
-27/12/2011,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37210,,,,Tue
-27/12/2011,14:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36553,-3.4%,-3.2%,-3.5%,Tue
-27/12/2011,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=33428,3,6,0,Tue
-27/12/2011,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=35488,64.5,58.5,55.2,Tue
-27/12/2011,21:00,USD,orange,Treasury Currency Report,https://www.forexfactory.com/calendar?month=december.2011#detail=37146,,,,Tue
-27/12/2011,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35614,-3.2%,-1.1%,-0.4%,Tue
-27/12/2011,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35616,-0.3%,-0.4%,-0.5%,Tue
-27/12/2011,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35615,-0.2%,-0.2%,-0.1%,Tue
-27/12/2011,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=35617,4.5%,4.5%,4.5%,Tue
-27/12/2011,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35857,-2.6%,-0.7%,2.2%,Tue
-27/12/2011,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36832,-2.3%,0.1%,1.9%,Tue
-28/12/2011,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36808,-1.0%,0.1%,0.0%,Wed
-28/12/2011,10:30,CHF,red,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=december.2011#detail=36665,0.01,0.25,0.34,Wed
-29/12/2011,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33486,0.7%,0.8%,0.0%,Thu
-29/12/2011,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35524,2.0%,2.5%,2.6%,Thu
-29/12/2011,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35523,1.7%,2.7%,2.7%,Thu
-29/12/2011,10:32,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42435,6.98|1.4,,7.56|1.3,Thu
-29/12/2011,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2011#detail=35456,381K,372K,366K,Thu
-29/12/2011,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=35557,62.5,60.4,62.6,Thu
-29/12/2011,15:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34854,7.3%,1.7%,10.4%,Thu
-29/12/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2011#detail=35459,-81B,-88B,-100B,Thu
-29/12/2011,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2011#detail=36990,3.9M,-2.9M,-10.6M,Thu
-29/12/2011,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=36194,50.2,,49.1,Thu
-30/12/2011,00:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36157,0.3%,0.3%,0.2%,Fri
-30/12/2011,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=38638,48.7,,49.0,Fri
-30/12/2011,07:00,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36605,-0.2%,0.2%,0.4%,Fri
-30/12/2011,08:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=54151,2.4%,2.5%,2.9%,Fri
-30/12/2011,09:00,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=43635,43.9,,46.0,Fri
-30/12/2011,09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35460,-8.6B,-7.3B,-9.6B,Fri
-30/12/2011,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=december.2011#detail=50183,,,,Fri
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/12/2011,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34331,-1.0%,,-3.5%,Thu,Africa/Lagos
+01/12/2011,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34492,-10.7%,3.6%,-14.2%,Thu,Africa/Lagos
+01/12/2011,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34431,0.2%,0.4%,0.4%,Thu,Africa/Lagos
+01/12/2011,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=35066,49.0,49.8,50.4,Thu,Africa/Lagos
+01/12/2011,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=35065,47.7,,48.0,Thu,Africa/Lagos
+01/12/2011,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=49033,1.09|2.5,,1.03|3.3,Thu,Africa/Lagos
+01/12/2011,05:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36121,18.1%,,19.6%,Thu,Africa/Lagos
+01/12/2011,06:45,CHF,orange,GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35311,0.2%,0.2%,0.5%,Thu,Africa/Lagos
+01/12/2011,08:00,EUR,orange,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41782,,,,Thu,Africa/Lagos
+01/12/2011,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=43848,43.8,,43.9,Thu,Africa/Lagos
+01/12/2011,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=35078,44.8,46.6,46.9,Thu,Africa/Lagos
+01/12/2011,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=43502,44.0,42.8,43.3,Thu,Africa/Lagos
+01/12/2011,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=58942,47.3,47.6,47.6,Thu,Africa/Lagos
+01/12/2011,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=59001,47.9,48.0,47.9,Thu,Africa/Lagos
+01/12/2011,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33221,46.4,46.4,46.4,Thu,Africa/Lagos
+01/12/2011,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33165,47.6,47.1,47.8,Thu,Africa/Lagos
+01/12/2011,,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=57061,,,,Thu,Africa/Lagos
+01/12/2011,10:01,EUR,orange,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42399,3.18|3.1,,3.22|2.2,Thu,Africa/Lagos
+01/12/2011,10:30,GBP,orange,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=december.2011#detail=35087,,,,Thu,Africa/Lagos
+01/12/2011,10:36,GBP,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42468,2.38|1.6,,2.24|1.8,Thu,Africa/Lagos
+01/12/2011,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2011#detail=35449,402K,390K,396K,Thu,Africa/Lagos
+01/12/2011,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=59514,53.3,,53.7,Thu,Africa/Lagos
+01/12/2011,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=32997,52.7,51.6,50.8,Thu,Africa/Lagos
+01/12/2011,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34116,0.8%,0.4%,0.2%,Thu,Africa/Lagos
+01/12/2011,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=december.2011#detail=32998,45.0,45.2,41.0,Thu,Africa/Lagos
+01/12/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2011#detail=35448,-1B,11B,9B,Thu,Africa/Lagos
+01/12/2011,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=december.2011#detail=33416,13.6M,13.4M,13.3M,Thu,Africa/Lagos
+01/12/2011,23:50,JPY,orange,Capital Spending q/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36516,-9.8%,-4.1%,-7.8%,Thu,Africa/Lagos
+01/12/2011,,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36772,19.5%,17.7%,17.0%,Thu,Africa/Lagos
+02/12/2011,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=december.2011#detail=44027,59.5K,,134.2K,Fri,Africa/Lagos
+02/12/2011,08:15,CHF,red,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36664,-0.2%,1.2%,-1.4%,Fri,Africa/Lagos
+02/12/2011,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33177,52.3,52.1,53.9,Fri,Africa/Lagos
+02/12/2011,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35270,0.1%,0.2%,0.3%,Fri,Africa/Lagos
+02/12/2011,12:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=december.2011#detail=34229,-18.6K,18.1K,-54.0K,Fri,Africa/Lagos
+02/12/2011,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=34228,7.4%,7.3%,7.3%,Fri,Africa/Lagos
+02/12/2011,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=december.2011#detail=32893,120K,126K,100K,Fri,Africa/Lagos
+02/12/2011,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32892,8.6%,9.0%,9.0%,Fri,Africa/Lagos
+02/12/2011,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=32894,-0.1%,0.2%,0.3%,Fri,Africa/Lagos
+02/12/2011,14:00,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41990,,,,Fri,Africa/Lagos
+02/12/2011,15:00,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41989,,,,Fri,Africa/Lagos
+03/12/2011,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=42251,49.7,,57.7,Sat,Africa/Lagos
+04/12/2011,22:22,AUD,orange,AIG Services Index,https://www.forexfactory.com/calendar?month=december.2011#detail=33033,47.7,,48.8,Sun,Africa/Lagos
+04/12/2011,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34516,-0.1%,,0.1%,Sun,Africa/Lagos
+05/12/2011,00:30,AUD,red,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=37140,0.0%,,-0.6%,Mon,Africa/Lagos
+05/12/2011,,AUD,orange,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=33323,4.8%,3.1%,7.3%,Mon,Africa/Lagos
+05/12/2011,02:30,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=54021,52.5,,54.1,Mon,Africa/Lagos
+05/12/2011,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=43944,36.8,,41.8,Mon,Africa/Lagos
+05/12/2011,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=43562,45.8,44.1,43.9,Mon,Africa/Lagos
+05/12/2011,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=59163,49.6,49.3,49.3,Mon,Africa/Lagos
+05/12/2011,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=59175,50.3,51.4,51.4,Mon,Africa/Lagos
+05/12/2011,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=35633,47.5,47.8,47.8,Mon,Africa/Lagos
+05/12/2011,09:30,EUR,orange,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=33618,-24.0,-21.4,-21.2,Mon,Africa/Lagos
+05/12/2011,,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33189,52.1,50.6,51.3,Mon,Africa/Lagos
+05/12/2011,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35271,0.4%,0.2%,-0.6%,Mon,Africa/Lagos
+05/12/2011,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=32996,52.0,53.6,52.9,Mon,Africa/Lagos
+05/12/2011,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34018,-0.4%,-0.2%,-0.1%,Mon,Africa/Lagos
+05/12/2011,17:10,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41992,,,,Mon,Africa/Lagos
+06/12/2011,00:00,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35989,-1.6%,,-0.6%,Tue,Africa/Lagos
+06/12/2011,00:30,AUD,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=33307,-5.6B,-5.5B,-6.7B,Tue,Africa/Lagos
+06/12/2011,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32685,4.25%,4.25%,4.50%,Tue,Africa/Lagos
+06/12/2011,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=32686,,,,Tue,Africa/Lagos
+06/12/2011,08:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=december.2011#detail=41362,229B,,245B,Tue,Africa/Lagos
+06/12/2011,,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36604,-0.9%,-0.6%,1.2%,Tue,Africa/Lagos
+06/12/2011,08:15,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36440,-0.2%,0.1%,-0.1%,Tue,Africa/Lagos
+06/12/2011,09:30,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2011#detail=57077,,,,Tue,Africa/Lagos
+06/12/2011,10:00,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35130,0.2%,0.2%,0.2%,Tue,Africa/Lagos
+06/12/2011,10:39,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42914,3.29|2.0,,4.18|2.0,Tue,Africa/Lagos
+06/12/2011,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33510,5.2%,0.9%,-4.6%,Tue,Africa/Lagos
+06/12/2011,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33886,11.9%,2.3%,-4.1%,Tue,Africa/Lagos
+06/12/2011,,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=december.2011#detail=56264,3.5%,,3.2%,Tue,Africa/Lagos
+06/12/2011,14:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=32854,,,,Tue,Africa/Lagos
+06/12/2011,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32853,1.00%,1.00%,1.00%,Tue,Africa/Lagos
+06/12/2011,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33598,59.9,55.2,54.4,Tue,Africa/Lagos
+06/12/2011,,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41993,,,,Tue,Africa/Lagos
+06/12/2011,22:21,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=december.2011#detail=33034,39.6,,34.7,Tue,Africa/Lagos
+07/12/2011,00:00,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36884,2.0%,,2.1%,Wed,Africa/Lagos
+07/12/2011,00:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=32858,1.0%,1.0%,1.4%,Wed,Africa/Lagos
+07/12/2011,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=december.2011#detail=36926,91.5%,91.8%,91.6%,Wed,Africa/Lagos
+07/12/2011,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=36211,3.0%,3.1%,3.0%,Wed,Africa/Lagos
+07/12/2011,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=35921,-6.2B,-5.9B,-6.6B,Wed,Africa/Lagos
+07/12/2011,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36511,-0.9%,-0.3%,-4.6%,Wed,Africa/Lagos
+07/12/2011,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33072,-0.7%,-0.1%,0.1%,Wed,Africa/Lagos
+07/12/2011,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33071,-0.7%,-0.3%,0.0%,Wed,Africa/Lagos
+07/12/2011,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33474,0.8%,0.3%,-2.8%,Wed,Africa/Lagos
+07/12/2011,13:30,USD,yellow,FOMC Member Raskin Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42066,,,,Wed,Africa/Lagos
+07/12/2011,15:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=december.2011#detail=35420,0.3%,,0.4%,Wed,Africa/Lagos
+07/12/2011,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2011#detail=36987,1.3M,-0.8M,3.9M,Wed,Africa/Lagos
+07/12/2011,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32819,2.50%,2.50%,2.50%,Wed,Africa/Lagos
+07/12/2011,,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=december.2011#detail=40121,,,,Wed,Africa/Lagos
+07/12/2011,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=32820,,,,Wed,Africa/Lagos
+07/12/2011,,NZD,orange,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=40120,,,,Wed,Africa/Lagos
+07/12/2011,,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35500,7.6B,7.0B,6.9B,Wed,Africa/Lagos
+07/12/2011,21:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=34313,0.0%,,1.6%,Wed,Africa/Lagos
+07/12/2011,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35898,-6.9%,0.2%,-8.2%,Wed,Africa/Lagos
+07/12/2011,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35804,0.2%,,0.0%,Wed,Africa/Lagos
+07/12/2011,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=35803,0.52T,0.54T,1.19T,Wed,Africa/Lagos
+08/12/2011,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=december.2011#detail=34468,-6.3K,10.3K,16.8K,Thu,Africa/Lagos
+08/12/2011,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=34467,5.3%,5.2%,5.2%,Thu,Africa/Lagos
+08/12/2011,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=49088,1.96|3.0,,1.94|3.3,Thu,Africa/Lagos
+08/12/2011,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=39105,45.0,47.1,45.9,Thu,Africa/Lagos
+08/12/2011,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35303,0.0%,0.2%,0.0%,Thu,Africa/Lagos
+08/12/2011,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37015,,,,Thu,Africa/Lagos
+08/12/2011,07:20,AUD,orange,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=41994,,,,Thu,Africa/Lagos
+08/12/2011,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=december.2011#detail=32774,275B,275B,275B,Thu,Africa/Lagos
+08/12/2011,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32772,0.50%,0.50%,0.50%,Thu,Africa/Lagos
+08/12/2011,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32797,1.00%,1.00%,1.25%,Thu,Africa/Lagos
+08/12/2011,13:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=december.2011#detail=36464,181K,203K,209K,Thu,Africa/Lagos
+08/12/2011,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34354,0.2%,0.3%,0.2%,Thu,Africa/Lagos
+08/12/2011,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=december.2011#detail=32798,,,,Thu,Africa/Lagos
+08/12/2011,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2011#detail=35450,381K,397K,404K,Thu,Africa/Lagos
+08/12/2011,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33983,1.6%,0.4%,0.0%,Thu,Africa/Lagos
+08/12/2011,15:30,CAD,yellow,BOC Financial System Review,https://www.forexfactory.com/calendar?month=december.2011#detail=58704,,,,Thu,Africa/Lagos
+08/12/2011,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2011#detail=35451,-20B,-10B,-1B,Thu,Africa/Lagos
+08/12/2011,17:00,EUR,orange,EBA Bank Stress Test Results,https://www.forexfactory.com/calendar?month=december.2011#detail=42108,,,,Thu,Africa/Lagos
+08/12/2011,23:00,NZD,orange,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=37418,1.1%,,-0.3%,Thu,Africa/Lagos
+08/12/2011,23:50,JPY,orange,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=35295,-6.1,11.4,10.3,Thu,Africa/Lagos
+08/12/2011,,JPY,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35290,1.4%,1.3%,1.5%,Thu,Africa/Lagos
+08/12/2011,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35805,3.0%,2.7%,2.8%,Thu,Africa/Lagos
+09/12/2011,00:04,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35291,-2.2%,-1.9%,-1.9%,Fri,Africa/Lagos
+09/12/2011,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33296,4.2%,4.6%,5.5%,Fri,Africa/Lagos
+09/12/2011,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33299,2.7%,3.3%,5.0%,Fri,Africa/Lagos
+09/12/2011,05:29,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33297,24.5%,24.8%,24.9%,Fri,Africa/Lagos
+09/12/2011,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33295,12.4%,12.8%,13.2%,Fri,Africa/Lagos
+09/12/2011,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33300,17.3%,16.9%,17.2%,Fri,Africa/Lagos
+09/12/2011,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33498,0.0%,0.0%,0.0%,Fri,Africa/Lagos
+09/12/2011,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=33462,12.6B,14.5B,15.1B,Fri,Africa/Lagos
+09/12/2011,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36510,0.0%,-0.1%,-2.1%,Fri,Africa/Lagos
+09/12/2011,,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=35922,-99.4B,,-92.7B,Fri,Africa/Lagos
+09/12/2011,All Day,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=december.2011#detail=41991,,,,Fri,Africa/Lagos
+09/12/2011,09:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33144,0.1%,0.3%,-0.8%,Fri,Africa/Lagos
+09/12/2011,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=34545,-7.6B,-9.5B,-10.2B,Fri,Africa/Lagos
+09/12/2011,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33145,0.2%,0.2%,0.0%,Fri,Africa/Lagos
+09/12/2011,10:00,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35645,-0.4%,,-0.4%,Fri,Africa/Lagos
+09/12/2011,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=34378,-0.9B,0.7B,1.0B,Fri,Africa/Lagos
+09/12/2011,,CAD,orange,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=34179,0.4%,0.4%,-1.0%,Fri,Africa/Lagos
+09/12/2011,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=33959,-43.5B,-43.5B,-44.2B,Fri,Africa/Lagos
+09/12/2011,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=33575,67.7,65.6,64.1,Fri,Africa/Lagos
+09/12/2011,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=33576,3.1%,,3.2%,Fri,Africa/Lagos
+10/12/2011,02:56,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=33301,14.5B,15.4B,17.0B,Sat,Africa/Lagos
+12/12/2011,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=34443,1.60B,2.03B,2.25B,Mon,Africa/Lagos
+12/12/2011,,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34480,0.7%,0.1%,1.9%,Mon,Africa/Lagos
+12/12/2011,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=36833,38.1,38.5,38.6,Mon,Africa/Lagos
+12/12/2011,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36806,15.9%,,26.0%,Mon,Africa/Lagos
+12/12/2011,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36628,0.7%,0.2%,-1.0%,Mon,Africa/Lagos
+12/12/2011,Q2 Data,CHF,yellow,Employment Level,https://www.forexfactory.com/calendar?month=december.2011#detail=35322,4.02M,4.11M,4.11M,Mon,Africa/Lagos
+12/12/2011,08:15,CHF,orange,Employment Level,https://www.forexfactory.com/calendar?month=december.2011#detail=35323,4.05M,4.03M,4.02M,Mon,Africa/Lagos
+12/12/2011,13:00,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42115,,,,Mon,Africa/Lagos
+12/12/2011,18:10,CAD,orange,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42109,,,,Mon,Africa/Lagos
+12/12/2011,19:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=36476,-137.3B,-138.5B,-98.5B,Mon,Africa/Lagos
+12/12/2011,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34297,0.2%,,-1.3%,Mon,Africa/Lagos
+12/12/2011,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35869,0.6%,0.5%,-0.7%,Mon,Africa/Lagos
+13/12/2011,00:01,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=35990,-17%,-25%,-24%,Tue,Africa/Lagos
+13/12/2011,00:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=34528,2,,2,Tue,Africa/Lagos
+13/12/2011,,AUD,yellow,Housing Starts q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=33315,-6.8%,-1.0%,-4.1%,Tue,Africa/Lagos
+13/12/2011,06:30,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35934,0.3%,0.3%,0.2%,Tue,Africa/Lagos
+13/12/2011,06:45,CHF,orange,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=december.2011#detail=35740,,,,Tue,Africa/Lagos
+13/12/2011,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33119,4.8%,4.8%,5.0%,Tue,Africa/Lagos
+13/12/2011,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33121,5.2%,5.1%,5.4%,Tue,Africa/Lagos
+13/12/2011,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=33120,3.2%,3.3%,3.4%,Tue,Africa/Lagos
+13/12/2011,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35100,-0.4%,-0.9%,-1.4%,Tue,Africa/Lagos
+13/12/2011,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=34721,-53.8,-56.1,-55.2,Tue,Africa/Lagos
+13/12/2011,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=34722,-54.1,-60.3,-59.1,Tue,Africa/Lagos
+13/12/2011,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=december.2011#detail=48397,92.0,91.6,90.2,Tue,Africa/Lagos
+13/12/2011,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34140,0.2%,0.5%,0.6%,Tue,Africa/Lagos
+13/12/2011,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34139,0.2%,0.6%,0.6%,Tue,Africa/Lagos
+13/12/2011,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33995,0.8%,0.7%,0.0%,Tue,Africa/Lagos
+13/12/2011,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=december.2011#detail=49329,3.27M,,3.38M,Tue,Africa/Lagos
+13/12/2011,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=december.2011#detail=36156,42.8,42.5,40.6,Tue,Africa/Lagos
+13/12/2011,18:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42332,2.02|3.5,,2.03|2.6,Tue,Africa/Lagos
+13/12/2011,19:13,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=32645,,,,Tue,Africa/Lagos
+13/12/2011,,USD,orange,Federal Funds Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32644,<0.25%,<0.25%,<0.25%,Tue,Africa/Lagos
+13/12/2011,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=36133,-8.3%,,6.3%,Tue,Africa/Lagos
+14/12/2011,01:30,AUD,orange,RBA Deputy Gov Battellino Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42112,,,,Wed,Africa/Lagos
+14/12/2011,02:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=37102,-0.1%,,0.4%,Wed,Africa/Lagos
+14/12/2011,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35856,2.2%,2.4%,2.4%,Wed,Africa/Lagos
+14/12/2011,07:05,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=december.2011#detail=37128,562B,552B,587B,Wed,Africa/Lagos
+14/12/2011,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=37127,12.7%,12.7%,12.9%,Wed,Africa/Lagos
+14/12/2011,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36663,-0.8%,-0.2%,-0.2%,Wed,Africa/Lagos
+14/12/2011,All Day,All,yellow,OPEC Meetings,https://www.forexfactory.com/calendar?month=december.2011#detail=41439,,,,Wed,Africa/Lagos
+14/12/2011,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=december.2011#detail=34413,3.0K,16.1K,2.5K,Wed,Africa/Lagos
+14/12/2011,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=34412,8.3%,8.4%,8.3%,Wed,Africa/Lagos
+14/12/2011,,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=december.2011#detail=34414,2.0%,2.0%,2.3%,Wed,Africa/Lagos
+14/12/2011,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=36181,-72.0,,-64.3,Wed,Africa/Lagos
+14/12/2011,,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35272,-0.1%,0.1%,-2.0%,Wed,Africa/Lagos
+14/12/2011,10:36,GBP,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42469,2.21|1.8,,2.38|1.6,Wed,Africa/Lagos
+14/12/2011,13:30,CAD,orange,Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33850,0.8%,0.3%,0.3%,Wed,Africa/Lagos
+14/12/2011,,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34250,-0.8%,0.0%,2.6%,Wed,Africa/Lagos
+14/12/2011,,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34174,3.3%,1.8%,1.5%,Wed,Africa/Lagos
+14/12/2011,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36677,0.7%,1.0%,-0.5%,Wed,Africa/Lagos
+14/12/2011,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2011#detail=36988,-1.9M,-2.2M,1.3M,Wed,Africa/Lagos
+14/12/2011,18:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42942,2.93|3.0,,3.20|2.4,Wed,Africa/Lagos
+14/12/2011,21:20,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=36896,45.7,,46.6,Wed,Africa/Lagos
+14/12/2011,23:50,JPY,orange,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=33605,-4,-2,2,Wed,Africa/Lagos
+14/12/2011,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=33606,4,1,1,Wed,Africa/Lagos
+14/12/2011,23:58,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=34589,2.4%,,2.5%,Wed,Africa/Lagos
+15/12/2011,00:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34504,-0.7%,,1.0%,Thu,Africa/Lagos
+15/12/2011,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=december.2011#detail=32649,,,,Thu,Africa/Lagos
+15/12/2011,02:00,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36105,13.2%,,15.9%,Thu,Africa/Lagos
+15/12/2011,02:30,CNY,red,Caixin Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=37562,49.0,,47.7,Thu,Africa/Lagos
+15/12/2011,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33398,48.7,47.1,47.3,Thu,Africa/Lagos
+15/12/2011,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33399,50.2,49.1,49.6,Thu,Africa/Lagos
+15/12/2011,08:15,CHF,orange,Industrial Production q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35315,-1.4%,-0.7%,2.9%,Thu,Africa/Lagos
+15/12/2011,08:30,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=32829,<0.25%,<0.25%,<0.25%,Thu,Africa/Lagos
+15/12/2011,,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=december.2011#detail=32830,,,,Thu,Africa/Lagos
+15/12/2011,,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=december.2011#detail=32831,,,,Thu,Africa/Lagos
+15/12/2011,,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33400,48.1,47.6,47.9,Thu,Africa/Lagos
+15/12/2011,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33401,52.7,50.1,50.3,Thu,Africa/Lagos
+15/12/2011,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=december.2011#detail=36011,,,,Thu,Africa/Lagos
+15/12/2011,,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33402,46.9,46.1,46.4,Thu,Africa/Lagos
+15/12/2011,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=33403,48.3,47.1,47.5,Thu,Africa/Lagos
+15/12/2011,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33084,-0.4%,-0.3%,1.0%,Thu,Africa/Lagos
+15/12/2011,,GBP,orange,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=35621,4.1%,,4.2%,Thu,Africa/Lagos
+15/12/2011,10:00,EUR,orange,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42497,5.55|2.2,,6.98|1.5,Thu,Africa/Lagos
+15/12/2011,,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35274,1.6%,1.7%,1.6%,Thu,Africa/Lagos
+15/12/2011,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35273,3.0%,3.0%,3.0%,Thu,Africa/Lagos
+15/12/2011,,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35115,-0.1%,0.2%,0.2%,Thu,Africa/Lagos
+15/12/2011,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=35954,-23,-20,-19,Thu,Africa/Lagos
+15/12/2011,11:25,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42113,,,,Thu,Africa/Lagos
+15/12/2011,13:30,CAD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=34254,81.3%,79.2%,79.9%,Thu,Africa/Lagos
+15/12/2011,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36427,0.3%,0.3%,-0.3%,Thu,Africa/Lagos
+15/12/2011,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2011#detail=35452,366K,389K,385K,Thu,Africa/Lagos
+15/12/2011,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36428,0.1%,0.2%,0.0%,Thu,Africa/Lagos
+15/12/2011,,USD,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=34750,-110B,-108B,-125B,Thu,Africa/Lagos
+15/12/2011,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=35569,9.5,3.1,0.6,Thu,Africa/Lagos
+15/12/2011,14:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=december.2011#detail=35768,4.8B,53.4B,68.3B,Thu,Africa/Lagos
+15/12/2011,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=34810,77.8%,77.9%,78.0%,Thu,Africa/Lagos
+15/12/2011,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34809,-0.2%,0.3%,0.7%,Thu,Africa/Lagos
+15/12/2011,15:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=37185,10.3,5.1,3.6,Thu,Africa/Lagos
+15/12/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2011#detail=35453,-102B,-89B,-20B,Thu,Africa/Lagos
+16/12/2011,08:30,EUR,orange,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42114,,,,Fri,Africa/Lagos
+16/12/2011,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=35275,0.3B,1.3B,2.2B,Fri,Africa/Lagos
+16/12/2011,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=december.2011#detail=35042,2.03B,8.23B,7.35B,Fri,Africa/Lagos
+16/12/2011,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36426,0.2%,0.1%,0.1%,Fri,Africa/Lagos
+16/12/2011,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=128529,3.4%,3.5%,3.5%,Fri,Africa/Lagos
+16/12/2011,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36425,0.0%,0.1%,-0.1%,Fri,Africa/Lagos
+16/12/2011,16:15,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42110,,,,Fri,Africa/Lagos
+16/12/2011,17:00,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42111,,,,Fri,Africa/Lagos
+18/12/2011,21:00,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=34341,101.3,,112.0,Sun,Africa/Lagos
+18/12/2011,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=december.2011#detail=127116,56.6,,50.6,Sun,Africa/Lagos
+18/12/2011,23:47,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36701,-2.7%,,-3.1%,Sun,Africa/Lagos
+19/12/2011,00:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=36452,16.9,,18.3,Mon,Africa/Lagos
+19/12/2011,09:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=36565,-7.5B,-2.1B,2.2B,Mon,Africa/Lagos
+19/12/2011,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=36758,-1.08B,-0.97B,-1.88B,Mon,Africa/Lagos
+19/12/2011,11:00,EUR,yellow,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=december.2011#detail=58836,,,,Mon,Africa/Lagos
+19/12/2011,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34366,0.9%,0.3%,0.5%,Mon,Africa/Lagos
+19/12/2011,15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=december.2011#detail=36689,21,21,19,Mon,Africa/Lagos
+19/12/2011,15:30,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42118,,,,Mon,Africa/Lagos
+19/12/2011,23:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=37209,0.6%,,0.6%,Mon,Africa/Lagos
+20/12/2011,00:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=34866,40,34,36,Tue,Africa/Lagos
+20/12/2011,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2011#detail=32664,,,,Tue,Africa/Lagos
+20/12/2011,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35881,0.8%,1.2%,-0.7%,Tue,Africa/Lagos
+20/12/2011,07:00,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=36223,3.00B,2.47B,2.16B,Tue,Africa/Lagos
+20/12/2011,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=december.2011#detail=36723,5.6,5.5,5.6,Tue,Africa/Lagos
+20/12/2011,,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33530,0.1%,0.1%,0.2%,Tue,Africa/Lagos
+20/12/2011,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=december.2011#detail=35730,107.2,106.2,106.6,Tue,Africa/Lagos
+20/12/2011,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=december.2011#detail=35966,9,-14,-19,Tue,Africa/Lagos
+20/12/2011,12:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34075,0.1%,0.2%,0.3%,Tue,Africa/Lagos
+20/12/2011,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34073,0.1%,0.2%,0.2%,Tue,Africa/Lagos
+20/12/2011,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=december.2011#detail=56265,-1.4%,,3.5%,Tue,Africa/Lagos
+20/12/2011,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=december.2011#detail=34043,0.68M,0.63M,0.64M,Tue,Africa/Lagos
+20/12/2011,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=december.2011#detail=34042,0.69M,0.64M,0.63M,Tue,Africa/Lagos
+20/12/2011,21:45,NZD,red,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=34306,-4.60B,-3.62B,-0.84B,Tue,Africa/Lagos
+20/12/2011,21:49,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34300,-11.6%,,-8.2%,Tue,Africa/Lagos
+20/12/2011,23:30,AUD,orange,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34572,0.1%,,-0.3%,Tue,Africa/Lagos
+20/12/2011,23:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=december.2011#detail=37254,-0.54T,-0.28T,-0.50T,Tue,Africa/Lagos
+21/12/2011,00:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=35372,-33,-31,-31,Wed,Africa/Lagos
+21/12/2011,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36169,3.2%,,7.8%,Wed,Africa/Lagos
+21/12/2011,03:16,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=december.2011#detail=36872,,,,Wed,Africa/Lagos
+21/12/2011,,JPY,red,Overnight Call Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=36870,<0.10%,<0.10%,<0.10%,Wed,Africa/Lagos
+21/12/2011,07:11,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=december.2011#detail=36871,,,,Wed,Africa/Lagos
+21/12/2011,07:19,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36629,0.4%,0.6%,-0.3%,Wed,Africa/Lagos
+21/12/2011,09:00,EUR,yellow,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35148,-0.2%,0.0%,0.3%,Wed,Africa/Lagos
+21/12/2011,09:30,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=december.2011#detail=49159,0-0-9,0-0-9,0-0-9,Wed,Africa/Lagos
+21/12/2011,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=december.2011#detail=32771,0-0-9,0-0-9,0-0-9,Wed,Africa/Lagos
+21/12/2011,,GBP,red,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=december.2011#detail=35113,15.2B,15.5B,3.0B,Wed,Africa/Lagos
+21/12/2011,10:15,EUR,red,Long Term Refinancing Operation,https://www.forexfactory.com/calendar?month=december.2011#detail=42980,489B,,,Wed,Africa/Lagos
+21/12/2011,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33868,0.7%,0.3%,0.4%,Wed,Africa/Lagos
+21/12/2011,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33867,1.0%,0.4%,1.0%,Wed,Africa/Lagos
+21/12/2011,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=december.2011#detail=35729,-10.6,-11.8,-12.2,Wed,Africa/Lagos
+21/12/2011,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=36724,-21,-21,-20,Wed,Africa/Lagos
+21/12/2011,,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=december.2011#detail=34842,4.42M,5.04M,4.25M,Wed,Africa/Lagos
+21/12/2011,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2011#detail=36989,-10.6M,-2.8M,-1.9M,Wed,Africa/Lagos
+21/12/2011,21:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=34264,0.8%,0.6%,0.1%,Wed,Africa/Lagos
+22/12/2011,04:30,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42119,,,,Thu,Africa/Lagos
+22/12/2011,05:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=december.2011#detail=36528,,,,Thu,Africa/Lagos
+22/12/2011,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36759,0.1%,-0.2%,-0.3%,Thu,Africa/Lagos
+22/12/2011,09:30,GBP,red,Current Account,https://www.forexfactory.com/calendar?month=december.2011#detail=33197,-15.2B,-5.6B,-7.4B,Thu,Africa/Lagos
+22/12/2011,,GBP,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=33196,0.6%,0.5%,0.5%,Thu,Africa/Lagos
+22/12/2011,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=33153,0.3%,-1.3%,-1.4%,Thu,Africa/Lagos
+22/12/2011,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2011#detail=35458,364K,376K,368K,Thu,Africa/Lagos
+22/12/2011,,USD,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=34745,1.8%,2.0%,2.0%,Thu,Africa/Lagos
+22/12/2011,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=34746,2.6%,2.5%,2.5%,Thu,Africa/Lagos
+22/12/2011,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=december.2011#detail=33577,69.9,68.1,67.7,Thu,Africa/Lagos
+22/12/2011,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=december.2011#detail=33578,3.1%,,3.1%,Thu,Africa/Lagos
+22/12/2011,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35537,0.5%,0.3%,0.9%,Thu,Africa/Lagos
+22/12/2011,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36099,-0.2%,0.3%,0.4%,Thu,Africa/Lagos
+22/12/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2011#detail=35455,-100B,-103B,-102B,Thu,Africa/Lagos
+22/12/2011,16:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42125,,,,Thu,Africa/Lagos
+22/12/2011,18:00,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42129,,,,Thu,Africa/Lagos
+23/12/2011,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37035,,,,Fri,Africa/Lagos
+23/12/2011,08:30,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=december.2011#detail=35736,,,,Fri,Africa/Lagos
+23/12/2011,09:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=december.2011#detail=37063,34.7K,36.3K,35.2K,Fri,Africa/Lagos
+23/12/2011,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=december.2011#detail=34579,0.2%,0.3%,0.7%,Fri,Africa/Lagos
+23/12/2011,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33834,0.0%,0.1%,0.2%,Fri,Africa/Lagos
+23/12/2011,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34019,0.3%,0.5%,1.5%,Fri,Africa/Lagos
+23/12/2011,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34786,0.1%,0.1%,0.1%,Fri,Africa/Lagos
+23/12/2011,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34081,3.8%,2.2%,0.0%,Fri,Africa/Lagos
+23/12/2011,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34785,0.1%,0.3%,0.1%,Fri,Africa/Lagos
+23/12/2011,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34784,0.1%,0.3%,0.4%,Fri,Africa/Lagos
+23/12/2011,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=december.2011#detail=33971,315K,314K,310K,Fri,Africa/Lagos
+23/12/2011,17:15,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=december.2011#detail=42130,,,,Fri,Africa/Lagos
+25/12/2011,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35688,,,,Sun,Africa/Lagos
+25/12/2011,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35697,,,,Sun,Africa/Lagos
+26/12/2011,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37050,,,,Mon,Africa/Lagos
+26/12/2011,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37016,,,,Mon,Africa/Lagos
+26/12/2011,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37018,,,,Mon,Africa/Lagos
+26/12/2011,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35706,,,,Mon,Africa/Lagos
+26/12/2011,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37043,,,,Mon,Africa/Lagos
+26/12/2011,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35679,,,,Mon,Africa/Lagos
+26/12/2011,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35686,,,,Mon,Africa/Lagos
+26/12/2011,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35698,,,,Mon,Africa/Lagos
+26/12/2011,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=december.2011#detail=36541,,,,Mon,Africa/Lagos
+26/12/2011,,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35817,-0.2%,0.1%,0.1%,Mon,Africa/Lagos
+27/12/2011,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=37223,-0.3%,-4.8%,-5.8%,Tue,Africa/Lagos
+27/12/2011,07:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=december.2011#detail=35769,0.81,,0.90,Tue,Africa/Lagos
+27/12/2011,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=35705,,,,Tue,Africa/Lagos
+27/12/2011,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=december.2011#detail=37210,,,,Tue,Africa/Lagos
+27/12/2011,14:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36553,-3.4%,-3.2%,-3.5%,Tue,Africa/Lagos
+27/12/2011,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=december.2011#detail=33428,3,6,0,Tue,Africa/Lagos
+27/12/2011,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=december.2011#detail=35488,64.5,58.5,55.2,Tue,Africa/Lagos
+27/12/2011,21:00,USD,orange,Treasury Currency Report,https://www.forexfactory.com/calendar?month=december.2011#detail=37146,,,,Tue,Africa/Lagos
+27/12/2011,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35614,-3.2%,-1.1%,-0.4%,Tue,Africa/Lagos
+27/12/2011,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35616,-0.3%,-0.4%,-0.5%,Tue,Africa/Lagos
+27/12/2011,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35615,-0.2%,-0.2%,-0.1%,Tue,Africa/Lagos
+27/12/2011,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=december.2011#detail=35617,4.5%,4.5%,4.5%,Tue,Africa/Lagos
+27/12/2011,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=35857,-2.6%,-0.7%,2.2%,Tue,Africa/Lagos
+27/12/2011,,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36832,-2.3%,0.1%,1.9%,Tue,Africa/Lagos
+28/12/2011,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=36808,-1.0%,0.1%,0.0%,Wed,Africa/Lagos
+28/12/2011,10:30,CHF,red,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=december.2011#detail=36665,0.01,0.25,0.34,Wed,Africa/Lagos
+29/12/2011,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=33486,0.7%,0.8%,0.0%,Thu,Africa/Lagos
+29/12/2011,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35524,2.0%,2.5%,2.6%,Thu,Africa/Lagos
+29/12/2011,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=35523,1.7%,2.7%,2.7%,Thu,Africa/Lagos
+29/12/2011,10:32,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=december.2011#detail=42435,6.98|1.4,,7.56|1.3,Thu,Africa/Lagos
+29/12/2011,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=december.2011#detail=35456,381K,372K,366K,Thu,Africa/Lagos
+29/12/2011,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=35557,62.5,60.4,62.6,Thu,Africa/Lagos
+29/12/2011,15:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=34854,7.3%,1.7%,10.4%,Thu,Africa/Lagos
+29/12/2011,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=december.2011#detail=35459,-81B,-88B,-100B,Thu,Africa/Lagos
+29/12/2011,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=december.2011#detail=36990,3.9M,-2.9M,-10.6M,Thu,Africa/Lagos
+29/12/2011,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=36194,50.2,,49.1,Thu,Africa/Lagos
+30/12/2011,00:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36157,0.3%,0.3%,0.2%,Fri,Africa/Lagos
+30/12/2011,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=38638,48.7,,49.0,Fri,Africa/Lagos
+30/12/2011,07:00,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=december.2011#detail=36605,-0.2%,0.2%,0.4%,Fri,Africa/Lagos
+30/12/2011,08:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=december.2011#detail=54151,2.4%,2.5%,2.9%,Fri,Africa/Lagos
+30/12/2011,09:00,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=december.2011#detail=43635,43.9,,46.0,Fri,Africa/Lagos
+30/12/2011,09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=december.2011#detail=35460,-8.6B,-7.3B,-9.6B,Fri,Africa/Lagos
+30/12/2011,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=december.2011#detail=50183,,,,Fri,Africa/Lagos

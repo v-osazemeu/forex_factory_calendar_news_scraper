@@ -1,397 +1,397 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/06/2016,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62875,-1.8%,,-1.7%,Wed
-01/06/2016,00:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=60629,51.0,,53.4,Wed
-01/06/2016,00:50,JPY,yellow,Capital Spending q/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63685,4.2%,1.9%,8.5%,Wed
-01/06/2016,02:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=62792,50.1,50.0,50.1,Wed
-01/06/2016,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=62793,53.1,,53.5,Wed
-01/06/2016,02:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=60560,1.1%,0.6%,0.7%,Wed
-01/06/2016,02:45,CNY,red,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=63103,49.2,49.3,49.4,Wed
-01/06/2016,03:00,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=63788,47.7,47.6,47.6,Wed
-01/06/2016,06:45,CHF,yellow,GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61801,0.1%,0.3%,0.4%,Wed
-01/06/2016,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60331,0.2%,0.3%,0.2%,Wed
-01/06/2016,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=60754,-10.0%,,-9.4%,Wed
-01/06/2016,08:15,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62192,-1.9%,-0.8%,-1.6%,Wed
-01/06/2016,,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60030,51.8,52.6,53.5,Wed
-01/06/2016,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=62220,55.8,54.2,54.7,Wed
-01/06/2016,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60029,52.4,53.5,53.9,Wed
-01/06/2016,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60027,48.4,48.3,48.3,Wed
-01/06/2016,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60028,52.1,52.5,52.4,Wed
-01/06/2016,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60026,51.5,51.5,51.5,Wed
-01/06/2016,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60031,50.1,49.6,49.4,Wed
-01/06/2016,,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59748,1.6B,5.3B,9.2B,Wed
-01/06/2016,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59750,-0.1%,0.2%,-0.4%,Wed
-01/06/2016,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=june.2016#detail=59749,66K,68K,70K,Wed
-01/06/2016,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60182,52.1,,52.2,Wed
-01/06/2016,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60157,50.7,50.5,50.5,Wed
-01/06/2016,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=61752,51.3,50.5,50.8,Wed
-01/06/2016,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61754,-1.8%,0.5%,1.5%,Wed
-01/06/2016,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=june.2016#detail=61753,63.5,58.0,59.0,Wed
-01/06/2016,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=june.2016#detail=110319,17.4M,17.3M,17.5M,Wed
-01/06/2016,15:43,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=june.2016#detail=61331,3.4%,,2.6%,Wed
-01/06/2016,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=june.2016#detail=62084,17.4M,17.2M,17.4M,Wed
-01/06/2016,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=june.2016#detail=59623,,,,Wed
-01/06/2016,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=98989,,,,Wed
-02/06/2016,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63474,25.5%,27.2%,26.8%,Thu
-02/06/2016,02:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=60486,-1.58B,-2.11B,-1.97B,Thu
-02/06/2016,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60495,0.2%,0.3%,0.4%,Thu
-02/06/2016,04:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=63661,-0.09|4.1,,-0.10|3.4,Thu
-02/06/2016,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=63525,40.9,40.4,40.8,Thu
-02/06/2016,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=62496,,,,Thu
-02/06/2016,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=60909,-119.8K,-110.0K,-83.6K,Thu
-02/06/2016,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60165,51.2,51.9,52.0,Thu
-02/06/2016,09:47,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=64055,1.50|1.5,,1.59|4.3,Thu
-02/06/2016,09:58,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=64022,0.49|1.8,,0.57|1.7,Thu
-02/06/2016,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61058,-0.3%,0.1%,0.3%,Thu
-02/06/2016,All Day,All,red,OPEC Meetings,https://www.forexfactory.com/calendar?month=june.2016#detail=62840,,,,Thu
-02/06/2016,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=64001,-26.5%,,5.8%,Thu
-02/06/2016,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=62850,0.00%,0.00%,0.00%,Thu
-02/06/2016,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=109148,,,,Thu
-02/06/2016,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=62232,173K,174K,166K,Thu
-02/06/2016,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=june.2016#detail=62851,,,,Thu
-02/06/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2016#detail=62577,267K,270K,268K,Thu
-02/06/2016,13:35,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64050,,,,Thu
-02/06/2016,14:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64051,,,,Thu
-02/06/2016,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2016#detail=61959,82B,83B,71B,Thu
-02/06/2016,16:00,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2016#detail=62572,-1.4M,-2.7M,-4.2M,Thu
-02/06/2016,16:45,CAD,orange,Gov Council Member Schembri Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64053,,,,Thu
-03/06/2016,00:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=june.2016#detail=60641,51.5,,49.7,Fri
-03/06/2016,01:00,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63716,0.3%,0.9%,1.5%,Fri
-03/06/2016,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61302,1.0%,,-0.8%,Fri
-03/06/2016,02:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=63156,51.2,52.0,51.8,Fri
-03/06/2016,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60100,55.4,55.6,55.1,Fri
-03/06/2016,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60101,49.8,52.3,52.1,Fri
-03/06/2016,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60099,51.6,51.8,51.8,Fri
-03/06/2016,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60098,55.2,55.2,55.2,Fri
-03/06/2016,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60097,53.3,53.1,53.1,Fri
-03/06/2016,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60102,53.5,52.5,52.3,Fri
-03/06/2016,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61059,0.0%,0.4%,-0.6%,Fri
-03/06/2016,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=63392,-2.9B,-2.5B,-3.2B,Fri
-03/06/2016,,CAD,orange,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=63289,0.4%,0.4%,0.0%,Fri
-03/06/2016,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61756,0.2%,0.2%,0.4%,Fri
-03/06/2016,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=61757,38K,159K,123K,Fri
-03/06/2016,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=61758,4.7%,4.9%,5.0%,Fri
-03/06/2016,,USD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61588,-37.4B,-41.2B,-35.5B,Fri
-03/06/2016,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60145,51.3,51.2,51.2,Fri
-03/06/2016,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=61755,52.9,55.4,55.7,Fri
-03/06/2016,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62652,1.9%,1.8%,1.5%,Fri
-03/06/2016,17:30,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64052,,,,Fri
-04/06/2016,08:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64064,,,,Sat
-04/06/2016,17:55,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64058,,,,Sat
-05/06/2016,All Day,CHF,orange,Unconditional Basic Income Vote,https://www.forexfactory.com/calendar?month=june.2016#detail=64018,Reject,Reject,,Sun
-05/06/2016,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=61293,,,,Sun
-06/06/2016,01:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60691,-0.2%,,0.1%,Mon
-06/06/2016,01:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60987,2.4%,,-0.6%,Mon
-06/06/2016,06:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62671,-2.0%,-0.4%,2.6%,Mon
-06/06/2016,08:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60840,50.6,,47.9,Mon
-06/06/2016,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=60768,9.9,7.1,6.2,Mon
-06/06/2016,14:00,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62244,-4.8,,-3.4,Mon
-06/06/2016,16:30,USD,red,Fed Chair Yellen Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64057,,,,Mon
-06/06/2016,23:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62992,0.5%,,-0.9%,Mon
-06/06/2016,23:29,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=june.2016#detail=60653,46.7,,50.8,Mon
-07/06/2016,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=63673,0.31|3.4,,0.32|3.0,Tue
-07/06/2016,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=60737,1.75%,1.75%,1.75%,Tue
-07/06/2016,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=60736,,,,Tue
-07/06/2016,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=june.2016#detail=63577,100.5%,100.8%,99.3%,Tue
-07/06/2016,06:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62681,0.8%,0.8%,-1.1%,Tue
-07/06/2016,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61215,-56.5B,,-27.5B,Tue
-07/06/2016,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61221,-5.2B,-4.2B,-4.2B,Tue
-07/06/2016,07:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=june.2016#detail=62432,602B,,588B,Tue
-07/06/2016,07:30,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60332,0.6%,0.3%,-0.8%,Tue
-07/06/2016,09:00,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61060,0.6%,0.5%,0.5%,Tue
-07/06/2016,09:35,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=64063,2.10|1.4,,2.35|2.1,Tue
-07/06/2016,12:30,USD,orange,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61923,-0.6%,-0.6%,-1.0%,Tue
-07/06/2016,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61925,4.5%,4.0%,4.1%,Tue
-07/06/2016,13:59,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=june.2016#detail=62288,48.2,49.1,48.7,Tue
-07/06/2016,14:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=63184,49.4,54.2,53.1,Tue
-07/06/2016,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61870,13.4B,19.1B,28.4B,Tue
-07/06/2016,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=98992,,,,Tue
-07/06/2016,22:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61480,-2.6%,,-2.3%,Tue
-07/06/2016,23:50,JPY,orange,Current Account,https://www.forexfactory.com/calendar?month=june.2016#detail=63693,1.63T,2.04T,1.89T,Tue
-07/06/2016,,JPY,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=63559,0.5%,0.5%,0.4%,Tue
-07/06/2016,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63430,2.2%,,2.2%,Tue
-07/06/2016,,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63558,0.9%,0.9%,0.9%,Tue
-08/06/2016,01:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60568,1.7%,2.6%,-0.7%,Wed
-08/06/2016,03:08,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=62819,50.0B,55.8B,45.6B,Wed
-08/06/2016,03:13,CNY,red,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=62818,325B,358B,298B,Wed
-08/06/2016,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=63549,43.0,43.4,43.5,Wed
-08/06/2016,07:15,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61538,0.1%,0.2%,0.3%,Wed
-08/06/2016,08:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59933,2.3%,0.0%,0.1%,Wed
-08/06/2016,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59932,2.0%,0.0%,0.3%,Wed
-08/06/2016,12:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=june.2016#detail=63196,189K,190K,191K,Wed
-08/06/2016,12:30,CAD,orange,Building Permits m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63320,-0.3%,1.6%,-6.3%,Wed
-08/06/2016,13:49,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=june.2016#detail=62863,0.5%,,0.4%,Wed
-08/06/2016,14:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=june.2016#detail=62251,5.79M,5.67M,5.67M,Wed
-08/06/2016,14:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2016#detail=62582,-3.2M,-3.2M,-1.4M,Wed
-08/06/2016,17:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=60446,1.70|2.7,,1.71|2.7,Wed
-08/06/2016,21:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=61406,2.25%,2.25%,2.25%,Wed
-08/06/2016,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=61407,,,,Wed
-08/06/2016,,NZD,orange,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=61409,,,,Wed
-08/06/2016,23:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=june.2016#detail=61408,,,,Wed
-08/06/2016,23:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=60333,19%,36%,39%,Wed
-08/06/2016,23:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63537,-11.0%,-3.2%,5.5%,Wed
-08/06/2016,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63462,3.4%,3.3%,3.4%,Wed
-09/06/2016,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=63136,,,,Thu
-09/06/2016,01:10,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64059,,,,Thu
-09/06/2016,01:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62892,2.0%,2.3%,2.3%,Thu
-09/06/2016,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62893,-2.8%,-3.1%,-3.4%,Thu
-09/06/2016,05:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=60868,0.3%,0.2%,0.2%,Thu
-09/06/2016,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=62420,3.5%,3.5%,3.5%,Thu
-09/06/2016,05:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63589,-25.0%,,-26.3%,Thu
-09/06/2016,06:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=62692,24.0B,21.4B,23.7B,Thu
-09/06/2016,07:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64060,,,,Thu
-09/06/2016,08:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=60885,11.6%,11.6%,11.6%,Thu
-09/06/2016,08:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=59774,-10.5B,-11.1B,-10.6B,Thu
-09/06/2016,12:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63332,0.3%,0.3%,0.2%,Thu
-09/06/2016,,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=63284,81.4%,81.4%,80.9%,Thu
-09/06/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2016#detail=62578,264K,269K,268K,Thu
-09/06/2016,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62096,0.6%,0.1%,0.2%,Thu
-09/06/2016,14:30,CAD,yellow,BOC Financial System Review,https://www.forexfactory.com/calendar?month=june.2016#detail=62780,,,,Thu
-09/06/2016,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2016#detail=61960,65B,80B,82B,Thu
-09/06/2016,15:15,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64061,,,,Thu
-09/06/2016,17:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=60452,2.48|2.4,,2.62|2.2,Thu
-09/06/2016,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63493,-4.2%,-4.2%,-4.2%,Thu
-10/06/2016,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=63137,,,,Fri
-10/06/2016,04:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63649,1.4%,0.7%,-0.5%,Fri
-10/06/2016,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62730,0.3%,0.3%,0.3%,Fri
-10/06/2016,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61371,0.9%,0.2%,0.3%,Fri
-10/06/2016,06:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61227,1.2%,0.5%,-0.4%,Fri
-10/06/2016,07:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64062,,,,Fri
-10/06/2016,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61171,0.5%,0.3%,0.0%,Fri
-10/06/2016,08:30,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59915,2.5%,1.5%,-3.6%,Fri
-10/06/2016,,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=62984,2.0%,,1.8%,Fri
-10/06/2016,12:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=63349,13.8K,3.1K,-2.1K,Fri
-10/06/2016,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=63350,6.9%,7.1%,7.1%,Fri
-10/06/2016,14:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=61687,94.3,94.1,94.7,Fri
-10/06/2016,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=61689,2.4%,,2.4%,Fri
-10/06/2016,18:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=62276,-52.5B,-56.2B,106.5B,Fri
-12/06/2016,08:33,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62952,3.8%,,4.8%,Sun
-12/06/2016,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=60619,,,,Sun
-12/06/2016,23:50,JPY,yellow,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=63681,-11.1,-2.1,-7.9,Sun
-13/06/2016,02:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62931,6.0%,6.1%,6.0%,Mon
-13/06/2016,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62930,9.6%,10.5%,10.5%,Mon
-13/06/2016,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62929,10.0%,10.1%,10.1%,Mon
-13/06/2016,07:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64072,,,,Mon
-13/06/2016,13:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63812,0.0%,,0.0%,Mon
-13/06/2016,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61464,-0.5%,,0.3%,Mon
-14/06/2016,01:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=60715,3,,5,Tue
-14/06/2016,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63637,0.5%,0.4%,0.3%,Tue
-14/06/2016,07:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61550,0.4%,0.1%,0.3%,Tue
-14/06/2016,08:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=59812,0.3%,0.4%,0.3%,Tue
-14/06/2016,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59814,2.6%,0.9%,0.9%,Tue
-14/06/2016,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=59813,1.4%,1.5%,1.3%,Tue
-14/06/2016,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=59811,1.2%,1.3%,1.2%,Tue
-14/06/2016,,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=64096,8.2%,,8.5%,Tue
-14/06/2016,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59816,0.1%,0.3%,0.3%,Tue
-14/06/2016,09:00,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=60860,0.3%,0.2%,0.3%,Tue
-14/06/2016,,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61061,1.1%,0.7%,-0.7%,Tue
-14/06/2016,09:55,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=june.2016#detail=62388,93.8,93.8,93.6,Tue
-14/06/2016,12:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62038,0.4%,0.4%,0.8%,Tue
-14/06/2016,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62035,0.5%,0.4%,1.3%,Tue
-14/06/2016,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61910,1.4%,0.8%,0.7%,Tue
-14/06/2016,14:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61858,0.1%,0.2%,0.3%,Tue
-14/06/2016,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=98995,,,,Tue
-14/06/2016,22:45,NZD,orange,Current Account,https://www.forexfactory.com/calendar?month=june.2016#detail=61448,1.31B,0.97B,-2.89B,Tue
-15/06/2016,00:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=60975,-1.0%,,8.5%,Wed
-15/06/2016,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63892,0.4%,0.4%,0.4%,Wed
-15/06/2016,08:02,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63084,11.8%,12.6%,12.8%,Wed
-15/06/2016,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=june.2016#detail=63083,986B,750B,556B,Wed
-15/06/2016,08:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=june.2016#detail=59868,2.0%,1.7%,2.0%,Wed
-15/06/2016,,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=june.2016#detail=59870,-0.4K,-0.1K,6.4K,Wed
-15/06/2016,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=59869,5.0%,5.1%,5.1%,Wed
-15/06/2016,09:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61062,28.0B,21.6B,23.7B,Wed
-15/06/2016,09:33,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=60411,0.01|1.1,,0.14|1.3,Wed
-15/06/2016,12:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63276,1.0%,0.7%,-0.9%,Wed
-15/06/2016,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62135,0.4%,0.3%,0.2%,Wed
-15/06/2016,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62138,0.3%,0.1%,0.1%,Wed
-15/06/2016,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=62364,6.0,-3.4,-9.0,Wed
-15/06/2016,13:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=61885,74.9%,75.2%,75.3%,Wed
-15/06/2016,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61888,-0.4%,-0.2%,0.6%,Wed
-15/06/2016,14:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64073,,,,Wed
-15/06/2016,14:12,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=june.2016#detail=61332,0.0%,,3.4%,Wed
-15/06/2016,14:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2016#detail=62583,-0.9M,0.3M,-3.2M,Wed
-15/06/2016,18:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=59605,0.50%,0.50%,0.50%,Wed
-15/06/2016,,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=june.2016#detail=59607,,,,Wed
-15/06/2016,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=59604,,,,Wed
-15/06/2016,18:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=june.2016#detail=59606,,,,Wed
-15/06/2016,20:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=june.2016#detail=62072,-79.6B,30.2B,78.1B,Wed
-15/06/2016,22:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61472,0.7%,0.5%,0.9%,Wed
-15/06/2016,23:55,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64069,,,,Wed
-16/06/2016,01:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=60679,3.5%,,3.2%,Thu
-16/06/2016,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=60540,17.9K,14.9K,0.8K,Thu
-16/06/2016,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=60552,5.7%,5.7%,5.7%,Thu
-16/06/2016,,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60589,-1.1%,,-2.8%,Thu
-16/06/2016,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=60960,,,,Thu
-16/06/2016,02:45,JPY,red,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=65253,-0.10%,,-0.10%,Thu
-16/06/2016,,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=63444,,,,Thu
-16/06/2016,04:30,CHF,orange,SNB Financial Stability Report,https://www.forexfactory.com/calendar?month=june.2016#detail=62443,,,,Thu
-16/06/2016,05:45,CHF,yellow,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=june.2016#detail=62412,,,,Thu
-16/06/2016,06:30,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=june.2016#detail=63452,,,,Thu
-16/06/2016,07:30,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=62440,-0.75%,-0.75%,-0.75%,Thu
-16/06/2016,,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=june.2016#detail=62445,,,,Thu
-16/06/2016,08:00,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=june.2016#detail=62448,,,,Thu
-16/06/2016,,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=63011,,,,Thu
-16/06/2016,08:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59891,0.9%,0.3%,1.9%,Thu
-16/06/2016,08:43,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=64076,1.59|1.6,,1.50|1.5,Thu
-16/06/2016,09:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61064,-0.1%,-0.1%,-0.1%,Thu
-16/06/2016,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61063,0.8%,0.8%,0.8%,Thu
-16/06/2016,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=june.2016#detail=64068,,,,Thu
-16/06/2016,11:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=june.2016#detail=59679,,,,Thu
-16/06/2016,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=june.2016#detail=59681,0-0-9,0-0-9,0-0-9,Thu
-16/06/2016,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=59678,0.50%,0.50%,0.50%,Thu
-16/06/2016,,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=june.2016#detail=59677,375B,375B,375B,Thu
-16/06/2016,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=june.2016#detail=59680,0-0-9,0-0-9,0-0-9,Thu
-16/06/2016,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=june.2016#detail=63253,15.52B,14.70B,17.05B,Thu
-16/06/2016,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62114,0.2%,0.2%,0.2%,Thu
-16/06/2016,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62111,0.2%,0.3%,0.4%,Thu
-16/06/2016,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=128583,1.0%,1.0%,1.1%,Thu
-16/06/2016,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=61994,4.7,1.1,-1.8,Thu
-16/06/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2016#detail=62579,277K,267K,264K,Thu
-16/06/2016,,USD,orange,Current Account,https://www.forexfactory.com/calendar?month=june.2016#detail=62052,-125B,-125B,-113B,Thu
-16/06/2016,14:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=june.2016#detail=62376,60,59,58,Thu
-16/06/2016,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2016#detail=61961,69B,66B,65B,Thu
-16/06/2016,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=61314,57.1,,56.6,Thu
-17/06/2016,08:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2016#detail=61065,36.2B,24.7B,26.3B,Fri
-17/06/2016,08:04,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61129,4.52B,5.95B,5.23B,Fri
-17/06/2016,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=june.2016#detail=64067,,,,Fri
-17/06/2016,12:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63301,0.3%,0.3%,0.2%,Fri
-17/06/2016,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63302,0.4%,0.5%,0.3%,Fri
-17/06/2016,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=june.2016#detail=62162,1.14M,1.15M,1.13M,Fri
-17/06/2016,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=june.2016#detail=62159,1.16M,1.15M,1.17M,Fri
-17/06/2016,15:00,EUR,orange,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64070,,,,Fri
-17/06/2016,17:10,CAD,orange,Gov Council Member Wilkins Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64071,,,,Fri
-19/06/2016,21:57,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=61521,106.0,,109.6,Sun
-19/06/2016,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=june.2016#detail=127170,56.9,,58.1,Sun
-19/06/2016,23:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60334,0.8%,,0.4%,Sun
-19/06/2016,23:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=63705,0.27T,0.13T,0.40T,Sun
-20/06/2016,06:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62742,0.4%,0.4%,0.1%,Mon
-20/06/2016,10:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=june.2016#detail=61267,,,,Mon
-20/06/2016,12:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63263,0.1%,0.2%,-0.8%,Mon
-20/06/2016,14:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60999,0.5%,,0.1%,Mon
-20/06/2016,23:25,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64077,,,,Mon
-20/06/2016,23:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=june.2016#detail=63483,,,,Mon
-21/06/2016,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=june.2016#detail=60940,,,,Tue
-21/06/2016,,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=60577,-0.2%,0.8%,0.2%,Tue
-21/06/2016,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63601,1.3%,1.3%,0.2%,Tue
-21/06/2016,06:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61562,3.79B,2.88B,2.51B,Tue
-21/06/2016,08:10,EUR,red,German Constitutional Court Ruling,https://www.forexfactory.com/calendar?month=june.2016#detail=63843,,,,Tue
-21/06/2016,08:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=june.2016#detail=59951,9.1B,9.5B,7.6B,Tue
-21/06/2016,09:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=60781,19.2,5.1,6.4,Tue
-21/06/2016,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=60786,20.2,15.3,16.8,Tue
-21/06/2016,10:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=60299,-2,-10,-8,Tue
-21/06/2016,13:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64082,,,,Tue
-21/06/2016,14:00,USD,red,Fed Chair Yellen Testifies,https://www.forexfactory.com/calendar?month=june.2016#detail=64078,,,,Tue
-21/06/2016,,USD,yellow,Fed Monetary Policy Report,https://www.forexfactory.com/calendar?month=june.2016#detail=64133,,,,Tue
-21/06/2016,18:30,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64083,,,,Tue
-21/06/2016,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=98997,,,,Tue
-21/06/2016,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61512,0.1%,,-1.1%,Tue
-22/06/2016,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60703,0.2%,,0.1%,Wed
-22/06/2016,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61358,5.9%,,9.1%,Wed
-22/06/2016,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=62515,19.4,,17.5,Wed
-22/06/2016,09:36,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=64081,0.65|2.0,,0.88|1.4,Wed
-22/06/2016,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63213,1.3%,0.7%,-0.1%,Wed
-22/06/2016,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63214,0.9%,0.8%,-0.8%,Wed
-22/06/2016,13:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=62451,,,,Wed
-22/06/2016,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62352,0.2%,0.6%,0.7%,Wed
-22/06/2016,13:16,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63168,0.2%,,-0.1%,Wed
-22/06/2016,14:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=60816,-7,-7,-7,Wed
-22/06/2016,,USD,red,Fed Chair Yellen Testifies,https://www.forexfactory.com/calendar?month=june.2016#detail=64079,,,,Wed
-22/06/2016,,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=june.2016#detail=62333,5.53M,5.53M,5.43M,Wed
-22/06/2016,14:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2016#detail=62584,-0.9M,-1.3M,-0.9M,Wed
-23/06/2016,02:00,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=63801,47.8,48.2,47.7,Thu
-23/06/2016,07:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60230,47.9,48.8,48.4,Thu
-23/06/2016,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60231,49.9,51.5,51.6,Thu
-23/06/2016,07:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60232,54.4,52.1,52.1,Thu
-23/06/2016,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60233,53.2,55.0,55.2,Thu
-23/06/2016,08:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60228,52.6,51.4,51.5,Thu
-23/06/2016,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60229,52.4,53.2,53.3,Thu
-23/06/2016,08:15,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64080,,,,Thu
-23/06/2016,All Day,GBP,red,EU Membership Vote,https://www.forexfactory.com/calendar?month=june.2016#detail=63907,Leave,,,Thu
-23/06/2016,09:30,EUR,orange,Long Term Refinancing Operation,https://www.forexfactory.com/calendar?month=june.2016#detail=64056,6.7B,,7.3B,Thu
-23/06/2016,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2016#detail=62580,259K,271K,277K,Thu
-23/06/2016,13:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=june.2016#detail=60852,0.7,-2.9,-2.8,Thu
-23/06/2016,13:45,USD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60234,51.4,50.5,50.7,Thu
-23/06/2016,14:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=june.2016#detail=62179,551K,561K,586K,Thu
-23/06/2016,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63404,-0.2%,0.2%,0.6%,Thu
-23/06/2016,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2016#detail=61962,62B,59B,69B,Thu
-23/06/2016,23:50,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=june.2016#detail=63822,,,,Thu
-23/06/2016,,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63505,0.2%,0.1%,0.3%,Thu
-24/06/2016,07:46,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64085,,,,Fri
-24/06/2016,08:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=june.2016#detail=60828,108.7,107.6,107.8,Fri
-24/06/2016,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61143,0.1%,0.2%,-0.6%,Fri
-24/06/2016,08:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=june.2016#detail=62969,42.2K,37.9K,40.0K,Fri
-24/06/2016,09:30,EUR,orange,Long Term Refinancing Operation,https://www.forexfactory.com/calendar?month=june.2016#detail=63054,399.3B,,6.7B,Fri
-24/06/2016,All Day,All,red,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2016#detail=64086,,,,Fri
-24/06/2016,12:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62014,-0.3%,0.1%,0.5%,Fri
-24/06/2016,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62011,-2.2%,-0.5%,-0.8%,Fri
-24/06/2016,14:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=61688,93.5,94.2,94.3,Fri
-24/06/2016,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=61690,2.6%,,2.4%,Fri
-26/06/2016,All Day,EUR,red,Spanish Parliamentary Election,https://www.forexfactory.com/calendar?month=june.2016#detail=64009,,,,Sun
-26/06/2016,22:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61500,358M,185M,326M,Sun
-27/06/2016,08:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63036,4.9%,4.8%,4.6%,Mon
-27/06/2016,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63037,1.6%,1.6%,1.5%,Mon
-27/06/2016,12:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=62060,-60.6B,-59.5B,-57.5B,Mon
-27/06/2016,13:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60235,51.3,52.0,51.3,Mon
-28/06/2016,06:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61383,0.9%,0.6%,-0.1%,Tue
-28/06/2016,10:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=june.2016#detail=60289,4,9,7,Tue
-28/06/2016,Day 1,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=june.2016#detail=64092,,,,Tue
-28/06/2016,12:30,USD,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61649,1.1%,1.0%,0.8%,Tue
-28/06/2016,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61650,0.4%,0.6%,0.6%,Tue
-28/06/2016,13:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62316,5.4%,5.5%,5.5%,Tue
-28/06/2016,13:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=62400,-7,2,-1,Tue
-28/06/2016,14:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=62299,98.0,93.2,92.4,Tue
-28/06/2016,16:00,CHF,orange,Gov Board Member Zurbrugg Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64084,,,,Tue
-28/06/2016,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=98999,,,,Tue
-28/06/2016,23:00,USD,red,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64089,,,,Tue
-28/06/2016,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63625,-1.9%,-1.6%,-0.9%,Tue
-29/06/2016,01:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60665,-4.4%,,-4.7%,Wed
-29/06/2016,02:00,NZD,orange,RBNZ Statement of Intent,https://www.forexfactory.com/calendar?month=june.2016#detail=121906,,,,Wed
-29/06/2016,06:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=june.2016#detail=62527,1.35,,1.24,Wed
-29/06/2016,,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=june.2016#detail=60804,10.1,9.8,9.8,Wed
-29/06/2016,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60335,0.2%,0.1%,0.2%,Wed
-29/06/2016,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=62497,,,,Wed
-29/06/2016,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62718,0.1%,0.1%,0.3%,Wed
-29/06/2016,07:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61255,-0.8%,-1.0%,-1.0%,Wed
-29/06/2016,08:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59751,4.3B,2.9B,1.6B,Wed
-29/06/2016,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59752,1.2%,0.1%,-0.1%,Wed
-29/06/2016,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=june.2016#detail=59753,67K,65K,66K,Wed
-29/06/2016,Day 2,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=june.2016#detail=64093,,,,Wed
-29/06/2016,12:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61610,0.2%,0.2%,0.2%,Wed
-29/06/2016,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61612,0.4%,0.4%,1.1%,Wed
-29/06/2016,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61611,0.2%,0.3%,0.5%,Wed
-29/06/2016,14:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62334,-3.7%,-0.9%,3.9%,Wed
-29/06/2016,14:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2016#detail=62585,-4.1M,-2.3M,-0.9M,Wed
-29/06/2016,20:30,USD,orange,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=june.2016#detail=64065,,,,Wed
-29/06/2016,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61429,-0.9%,,6.8%,Wed
-29/06/2016,23:05,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=62970,-1,-2,-1,Wed
-29/06/2016,23:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63613,-2.3%,-0.1%,0.5%,Wed
-30/06/2016,01:00,NZD,orange,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=61279,20.2,,11.3,Thu
-30/06/2016,01:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60952,0.4%,0.5%,0.5%,Thu
-30/06/2016,05:06,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63728,9.8%,4.9%,9.0%,Thu
-30/06/2016,06:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62706,0.9%,0.7%,-0.3%,Thu
-30/06/2016,06:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61195,-0.7%,-0.1%,-0.1%,Thu
-30/06/2016,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61183,0.2%,0.2%,0.4%,Thu
-30/06/2016,07:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=june.2016#detail=62208,102.4,102.7,101.8,Thu
-30/06/2016,07:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=60876,-6K,-5K,-11K,Thu
-30/06/2016,08:30,GBP,red,Current Account,https://www.forexfactory.com/calendar?month=june.2016#detail=59978,-32.6B,-27.3B,-34.0B,Thu
-30/06/2016,,GBP,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=59977,0.4%,0.4%,0.4%,Thu
-30/06/2016,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=june.2016#detail=59903,0.5%,0.4%,0.6%,Thu
-30/06/2016,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=59993,-0.6%,-0.4%,-0.5%,Thu
-30/06/2016,09:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61066,0.9%,0.8%,0.8%,Thu
-30/06/2016,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61067,0.1%,0.0%,-0.1%,Thu
-30/06/2016,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61159,0.1%,0.2%,0.3%,Thu
-30/06/2016,09:22,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=60414,1.35|1.5,,1.42|1.4,Thu
-30/06/2016,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63240,0.1%,0.1%,-0.2%,Thu
-30/06/2016,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63375,6.7%,4.9%,0.7%,Thu
-30/06/2016,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63376,1.1%,0.4%,-0.5%,Thu
-30/06/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2016#detail=62581,268K,267K,258K,Thu
-30/06/2016,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=61660,56.8,50.6,49.3,Thu
-30/06/2016,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2016#detail=61963,37B,48B,62B,Thu
-30/06/2016,15:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64104,,,,Thu
-30/06/2016,17:30,USD,red,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64103,,,,Thu
-30/06/2016,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=60630,51.8,,51.0,Thu
-30/06/2016,,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63740,-1.1%,-1.3%,-0.4%,Thu
-30/06/2016,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63770,-0.5%,-0.5%,-0.5%,Thu
-30/06/2016,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63769,-0.4%,-0.4%,-0.3%,Thu
-30/06/2016,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=63752,3.2%,3.2%,3.2%,Thu
-30/06/2016,23:50,JPY,orange,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=63514,6,4,6,Thu
-30/06/2016,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=63515,19,19,22,Thu
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/06/2016,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62875,-1.8%,,-1.7%,Wed,Africa/Lagos
+01/06/2016,00:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=60629,51.0,,53.4,Wed,Africa/Lagos
+01/06/2016,00:50,JPY,yellow,Capital Spending q/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63685,4.2%,1.9%,8.5%,Wed,Africa/Lagos
+01/06/2016,02:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=62792,50.1,50.0,50.1,Wed,Africa/Lagos
+01/06/2016,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=62793,53.1,,53.5,Wed,Africa/Lagos
+01/06/2016,02:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=60560,1.1%,0.6%,0.7%,Wed,Africa/Lagos
+01/06/2016,02:45,CNY,red,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=63103,49.2,49.3,49.4,Wed,Africa/Lagos
+01/06/2016,03:00,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=63788,47.7,47.6,47.6,Wed,Africa/Lagos
+01/06/2016,06:45,CHF,yellow,GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61801,0.1%,0.3%,0.4%,Wed,Africa/Lagos
+01/06/2016,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60331,0.2%,0.3%,0.2%,Wed,Africa/Lagos
+01/06/2016,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=60754,-10.0%,,-9.4%,Wed,Africa/Lagos
+01/06/2016,08:15,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62192,-1.9%,-0.8%,-1.6%,Wed,Africa/Lagos
+01/06/2016,,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60030,51.8,52.6,53.5,Wed,Africa/Lagos
+01/06/2016,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=62220,55.8,54.2,54.7,Wed,Africa/Lagos
+01/06/2016,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60029,52.4,53.5,53.9,Wed,Africa/Lagos
+01/06/2016,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60027,48.4,48.3,48.3,Wed,Africa/Lagos
+01/06/2016,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60028,52.1,52.5,52.4,Wed,Africa/Lagos
+01/06/2016,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60026,51.5,51.5,51.5,Wed,Africa/Lagos
+01/06/2016,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60031,50.1,49.6,49.4,Wed,Africa/Lagos
+01/06/2016,,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59748,1.6B,5.3B,9.2B,Wed,Africa/Lagos
+01/06/2016,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59750,-0.1%,0.2%,-0.4%,Wed,Africa/Lagos
+01/06/2016,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=june.2016#detail=59749,66K,68K,70K,Wed,Africa/Lagos
+01/06/2016,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60182,52.1,,52.2,Wed,Africa/Lagos
+01/06/2016,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60157,50.7,50.5,50.5,Wed,Africa/Lagos
+01/06/2016,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=61752,51.3,50.5,50.8,Wed,Africa/Lagos
+01/06/2016,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61754,-1.8%,0.5%,1.5%,Wed,Africa/Lagos
+01/06/2016,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=june.2016#detail=61753,63.5,58.0,59.0,Wed,Africa/Lagos
+01/06/2016,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=june.2016#detail=110319,17.4M,17.3M,17.5M,Wed,Africa/Lagos
+01/06/2016,15:43,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=june.2016#detail=61331,3.4%,,2.6%,Wed,Africa/Lagos
+01/06/2016,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=june.2016#detail=62084,17.4M,17.2M,17.4M,Wed,Africa/Lagos
+01/06/2016,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=june.2016#detail=59623,,,,Wed,Africa/Lagos
+01/06/2016,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=98989,,,,Wed,Africa/Lagos
+02/06/2016,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63474,25.5%,27.2%,26.8%,Thu,Africa/Lagos
+02/06/2016,02:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=60486,-1.58B,-2.11B,-1.97B,Thu,Africa/Lagos
+02/06/2016,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60495,0.2%,0.3%,0.4%,Thu,Africa/Lagos
+02/06/2016,04:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=63661,-0.09|4.1,,-0.10|3.4,Thu,Africa/Lagos
+02/06/2016,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=63525,40.9,40.4,40.8,Thu,Africa/Lagos
+02/06/2016,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=62496,,,,Thu,Africa/Lagos
+02/06/2016,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=60909,-119.8K,-110.0K,-83.6K,Thu,Africa/Lagos
+02/06/2016,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60165,51.2,51.9,52.0,Thu,Africa/Lagos
+02/06/2016,09:47,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=64055,1.50|1.5,,1.59|4.3,Thu,Africa/Lagos
+02/06/2016,09:58,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=64022,0.49|1.8,,0.57|1.7,Thu,Africa/Lagos
+02/06/2016,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61058,-0.3%,0.1%,0.3%,Thu,Africa/Lagos
+02/06/2016,All Day,All,red,OPEC Meetings,https://www.forexfactory.com/calendar?month=june.2016#detail=62840,,,,Thu,Africa/Lagos
+02/06/2016,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=64001,-26.5%,,5.8%,Thu,Africa/Lagos
+02/06/2016,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=62850,0.00%,0.00%,0.00%,Thu,Africa/Lagos
+02/06/2016,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=109148,,,,Thu,Africa/Lagos
+02/06/2016,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=62232,173K,174K,166K,Thu,Africa/Lagos
+02/06/2016,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=june.2016#detail=62851,,,,Thu,Africa/Lagos
+02/06/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2016#detail=62577,267K,270K,268K,Thu,Africa/Lagos
+02/06/2016,13:35,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64050,,,,Thu,Africa/Lagos
+02/06/2016,14:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64051,,,,Thu,Africa/Lagos
+02/06/2016,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2016#detail=61959,82B,83B,71B,Thu,Africa/Lagos
+02/06/2016,16:00,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2016#detail=62572,-1.4M,-2.7M,-4.2M,Thu,Africa/Lagos
+02/06/2016,16:45,CAD,orange,Gov Council Member Schembri Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64053,,,,Thu,Africa/Lagos
+03/06/2016,00:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=june.2016#detail=60641,51.5,,49.7,Fri,Africa/Lagos
+03/06/2016,01:00,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63716,0.3%,0.9%,1.5%,Fri,Africa/Lagos
+03/06/2016,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61302,1.0%,,-0.8%,Fri,Africa/Lagos
+03/06/2016,02:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=63156,51.2,52.0,51.8,Fri,Africa/Lagos
+03/06/2016,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60100,55.4,55.6,55.1,Fri,Africa/Lagos
+03/06/2016,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60101,49.8,52.3,52.1,Fri,Africa/Lagos
+03/06/2016,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60099,51.6,51.8,51.8,Fri,Africa/Lagos
+03/06/2016,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60098,55.2,55.2,55.2,Fri,Africa/Lagos
+03/06/2016,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60097,53.3,53.1,53.1,Fri,Africa/Lagos
+03/06/2016,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60102,53.5,52.5,52.3,Fri,Africa/Lagos
+03/06/2016,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61059,0.0%,0.4%,-0.6%,Fri,Africa/Lagos
+03/06/2016,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=63392,-2.9B,-2.5B,-3.2B,Fri,Africa/Lagos
+03/06/2016,,CAD,orange,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=63289,0.4%,0.4%,0.0%,Fri,Africa/Lagos
+03/06/2016,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61756,0.2%,0.2%,0.4%,Fri,Africa/Lagos
+03/06/2016,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=61757,38K,159K,123K,Fri,Africa/Lagos
+03/06/2016,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=61758,4.7%,4.9%,5.0%,Fri,Africa/Lagos
+03/06/2016,,USD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61588,-37.4B,-41.2B,-35.5B,Fri,Africa/Lagos
+03/06/2016,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60145,51.3,51.2,51.2,Fri,Africa/Lagos
+03/06/2016,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=61755,52.9,55.4,55.7,Fri,Africa/Lagos
+03/06/2016,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62652,1.9%,1.8%,1.5%,Fri,Africa/Lagos
+03/06/2016,17:30,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64052,,,,Fri,Africa/Lagos
+04/06/2016,08:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64064,,,,Sat,Africa/Lagos
+04/06/2016,17:55,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64058,,,,Sat,Africa/Lagos
+05/06/2016,All Day,CHF,orange,Unconditional Basic Income Vote,https://www.forexfactory.com/calendar?month=june.2016#detail=64018,Reject,Reject,,Sun,Africa/Lagos
+05/06/2016,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=61293,,,,Sun,Africa/Lagos
+06/06/2016,01:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60691,-0.2%,,0.1%,Mon,Africa/Lagos
+06/06/2016,01:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60987,2.4%,,-0.6%,Mon,Africa/Lagos
+06/06/2016,06:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62671,-2.0%,-0.4%,2.6%,Mon,Africa/Lagos
+06/06/2016,08:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60840,50.6,,47.9,Mon,Africa/Lagos
+06/06/2016,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=60768,9.9,7.1,6.2,Mon,Africa/Lagos
+06/06/2016,14:00,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62244,-4.8,,-3.4,Mon,Africa/Lagos
+06/06/2016,16:30,USD,red,Fed Chair Yellen Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64057,,,,Mon,Africa/Lagos
+06/06/2016,23:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62992,0.5%,,-0.9%,Mon,Africa/Lagos
+06/06/2016,23:29,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=june.2016#detail=60653,46.7,,50.8,Mon,Africa/Lagos
+07/06/2016,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=63673,0.31|3.4,,0.32|3.0,Tue,Africa/Lagos
+07/06/2016,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=60737,1.75%,1.75%,1.75%,Tue,Africa/Lagos
+07/06/2016,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=60736,,,,Tue,Africa/Lagos
+07/06/2016,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=june.2016#detail=63577,100.5%,100.8%,99.3%,Tue,Africa/Lagos
+07/06/2016,06:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62681,0.8%,0.8%,-1.1%,Tue,Africa/Lagos
+07/06/2016,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61215,-56.5B,,-27.5B,Tue,Africa/Lagos
+07/06/2016,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61221,-5.2B,-4.2B,-4.2B,Tue,Africa/Lagos
+07/06/2016,07:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=june.2016#detail=62432,602B,,588B,Tue,Africa/Lagos
+07/06/2016,07:30,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60332,0.6%,0.3%,-0.8%,Tue,Africa/Lagos
+07/06/2016,09:00,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61060,0.6%,0.5%,0.5%,Tue,Africa/Lagos
+07/06/2016,09:35,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=64063,2.10|1.4,,2.35|2.1,Tue,Africa/Lagos
+07/06/2016,12:30,USD,orange,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61923,-0.6%,-0.6%,-1.0%,Tue,Africa/Lagos
+07/06/2016,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61925,4.5%,4.0%,4.1%,Tue,Africa/Lagos
+07/06/2016,13:59,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=june.2016#detail=62288,48.2,49.1,48.7,Tue,Africa/Lagos
+07/06/2016,14:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=63184,49.4,54.2,53.1,Tue,Africa/Lagos
+07/06/2016,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61870,13.4B,19.1B,28.4B,Tue,Africa/Lagos
+07/06/2016,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=98992,,,,Tue,Africa/Lagos
+07/06/2016,22:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61480,-2.6%,,-2.3%,Tue,Africa/Lagos
+07/06/2016,23:50,JPY,orange,Current Account,https://www.forexfactory.com/calendar?month=june.2016#detail=63693,1.63T,2.04T,1.89T,Tue,Africa/Lagos
+07/06/2016,,JPY,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=63559,0.5%,0.5%,0.4%,Tue,Africa/Lagos
+07/06/2016,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63430,2.2%,,2.2%,Tue,Africa/Lagos
+07/06/2016,,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63558,0.9%,0.9%,0.9%,Tue,Africa/Lagos
+08/06/2016,01:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60568,1.7%,2.6%,-0.7%,Wed,Africa/Lagos
+08/06/2016,03:08,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=62819,50.0B,55.8B,45.6B,Wed,Africa/Lagos
+08/06/2016,03:13,CNY,red,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=62818,325B,358B,298B,Wed,Africa/Lagos
+08/06/2016,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=63549,43.0,43.4,43.5,Wed,Africa/Lagos
+08/06/2016,07:15,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61538,0.1%,0.2%,0.3%,Wed,Africa/Lagos
+08/06/2016,08:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59933,2.3%,0.0%,0.1%,Wed,Africa/Lagos
+08/06/2016,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59932,2.0%,0.0%,0.3%,Wed,Africa/Lagos
+08/06/2016,12:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=june.2016#detail=63196,189K,190K,191K,Wed,Africa/Lagos
+08/06/2016,12:30,CAD,orange,Building Permits m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63320,-0.3%,1.6%,-6.3%,Wed,Africa/Lagos
+08/06/2016,13:49,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=june.2016#detail=62863,0.5%,,0.4%,Wed,Africa/Lagos
+08/06/2016,14:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=june.2016#detail=62251,5.79M,5.67M,5.67M,Wed,Africa/Lagos
+08/06/2016,14:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2016#detail=62582,-3.2M,-3.2M,-1.4M,Wed,Africa/Lagos
+08/06/2016,17:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=60446,1.70|2.7,,1.71|2.7,Wed,Africa/Lagos
+08/06/2016,21:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=61406,2.25%,2.25%,2.25%,Wed,Africa/Lagos
+08/06/2016,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=61407,,,,Wed,Africa/Lagos
+08/06/2016,,NZD,orange,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=61409,,,,Wed,Africa/Lagos
+08/06/2016,23:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=june.2016#detail=61408,,,,Wed,Africa/Lagos
+08/06/2016,23:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=60333,19%,36%,39%,Wed,Africa/Lagos
+08/06/2016,23:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63537,-11.0%,-3.2%,5.5%,Wed,Africa/Lagos
+08/06/2016,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63462,3.4%,3.3%,3.4%,Wed,Africa/Lagos
+09/06/2016,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=63136,,,,Thu,Africa/Lagos
+09/06/2016,01:10,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64059,,,,Thu,Africa/Lagos
+09/06/2016,01:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62892,2.0%,2.3%,2.3%,Thu,Africa/Lagos
+09/06/2016,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62893,-2.8%,-3.1%,-3.4%,Thu,Africa/Lagos
+09/06/2016,05:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=60868,0.3%,0.2%,0.2%,Thu,Africa/Lagos
+09/06/2016,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=62420,3.5%,3.5%,3.5%,Thu,Africa/Lagos
+09/06/2016,05:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63589,-25.0%,,-26.3%,Thu,Africa/Lagos
+09/06/2016,06:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=62692,24.0B,21.4B,23.7B,Thu,Africa/Lagos
+09/06/2016,07:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64060,,,,Thu,Africa/Lagos
+09/06/2016,08:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=60885,11.6%,11.6%,11.6%,Thu,Africa/Lagos
+09/06/2016,08:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=59774,-10.5B,-11.1B,-10.6B,Thu,Africa/Lagos
+09/06/2016,12:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63332,0.3%,0.3%,0.2%,Thu,Africa/Lagos
+09/06/2016,,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=63284,81.4%,81.4%,80.9%,Thu,Africa/Lagos
+09/06/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2016#detail=62578,264K,269K,268K,Thu,Africa/Lagos
+09/06/2016,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62096,0.6%,0.1%,0.2%,Thu,Africa/Lagos
+09/06/2016,14:30,CAD,yellow,BOC Financial System Review,https://www.forexfactory.com/calendar?month=june.2016#detail=62780,,,,Thu,Africa/Lagos
+09/06/2016,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2016#detail=61960,65B,80B,82B,Thu,Africa/Lagos
+09/06/2016,15:15,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64061,,,,Thu,Africa/Lagos
+09/06/2016,17:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=60452,2.48|2.4,,2.62|2.2,Thu,Africa/Lagos
+09/06/2016,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63493,-4.2%,-4.2%,-4.2%,Thu,Africa/Lagos
+10/06/2016,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=63137,,,,Fri,Africa/Lagos
+10/06/2016,04:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63649,1.4%,0.7%,-0.5%,Fri,Africa/Lagos
+10/06/2016,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62730,0.3%,0.3%,0.3%,Fri,Africa/Lagos
+10/06/2016,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61371,0.9%,0.2%,0.3%,Fri,Africa/Lagos
+10/06/2016,06:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61227,1.2%,0.5%,-0.4%,Fri,Africa/Lagos
+10/06/2016,07:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64062,,,,Fri,Africa/Lagos
+10/06/2016,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61171,0.5%,0.3%,0.0%,Fri,Africa/Lagos
+10/06/2016,08:30,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59915,2.5%,1.5%,-3.6%,Fri,Africa/Lagos
+10/06/2016,,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=62984,2.0%,,1.8%,Fri,Africa/Lagos
+10/06/2016,12:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=63349,13.8K,3.1K,-2.1K,Fri,Africa/Lagos
+10/06/2016,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=63350,6.9%,7.1%,7.1%,Fri,Africa/Lagos
+10/06/2016,14:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=61687,94.3,94.1,94.7,Fri,Africa/Lagos
+10/06/2016,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=61689,2.4%,,2.4%,Fri,Africa/Lagos
+10/06/2016,18:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=62276,-52.5B,-56.2B,106.5B,Fri,Africa/Lagos
+12/06/2016,08:33,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62952,3.8%,,4.8%,Sun,Africa/Lagos
+12/06/2016,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=60619,,,,Sun,Africa/Lagos
+12/06/2016,23:50,JPY,yellow,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=63681,-11.1,-2.1,-7.9,Sun,Africa/Lagos
+13/06/2016,02:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62931,6.0%,6.1%,6.0%,Mon,Africa/Lagos
+13/06/2016,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62930,9.6%,10.5%,10.5%,Mon,Africa/Lagos
+13/06/2016,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62929,10.0%,10.1%,10.1%,Mon,Africa/Lagos
+13/06/2016,07:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64072,,,,Mon,Africa/Lagos
+13/06/2016,13:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63812,0.0%,,0.0%,Mon,Africa/Lagos
+13/06/2016,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61464,-0.5%,,0.3%,Mon,Africa/Lagos
+14/06/2016,01:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=60715,3,,5,Tue,Africa/Lagos
+14/06/2016,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63637,0.5%,0.4%,0.3%,Tue,Africa/Lagos
+14/06/2016,07:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61550,0.4%,0.1%,0.3%,Tue,Africa/Lagos
+14/06/2016,08:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=59812,0.3%,0.4%,0.3%,Tue,Africa/Lagos
+14/06/2016,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59814,2.6%,0.9%,0.9%,Tue,Africa/Lagos
+14/06/2016,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=59813,1.4%,1.5%,1.3%,Tue,Africa/Lagos
+14/06/2016,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=59811,1.2%,1.3%,1.2%,Tue,Africa/Lagos
+14/06/2016,,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=64096,8.2%,,8.5%,Tue,Africa/Lagos
+14/06/2016,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59816,0.1%,0.3%,0.3%,Tue,Africa/Lagos
+14/06/2016,09:00,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=60860,0.3%,0.2%,0.3%,Tue,Africa/Lagos
+14/06/2016,,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61061,1.1%,0.7%,-0.7%,Tue,Africa/Lagos
+14/06/2016,09:55,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=june.2016#detail=62388,93.8,93.8,93.6,Tue,Africa/Lagos
+14/06/2016,12:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62038,0.4%,0.4%,0.8%,Tue,Africa/Lagos
+14/06/2016,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62035,0.5%,0.4%,1.3%,Tue,Africa/Lagos
+14/06/2016,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61910,1.4%,0.8%,0.7%,Tue,Africa/Lagos
+14/06/2016,14:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61858,0.1%,0.2%,0.3%,Tue,Africa/Lagos
+14/06/2016,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=98995,,,,Tue,Africa/Lagos
+14/06/2016,22:45,NZD,orange,Current Account,https://www.forexfactory.com/calendar?month=june.2016#detail=61448,1.31B,0.97B,-2.89B,Tue,Africa/Lagos
+15/06/2016,00:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=60975,-1.0%,,8.5%,Wed,Africa/Lagos
+15/06/2016,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63892,0.4%,0.4%,0.4%,Wed,Africa/Lagos
+15/06/2016,08:02,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63084,11.8%,12.6%,12.8%,Wed,Africa/Lagos
+15/06/2016,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=june.2016#detail=63083,986B,750B,556B,Wed,Africa/Lagos
+15/06/2016,08:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=june.2016#detail=59868,2.0%,1.7%,2.0%,Wed,Africa/Lagos
+15/06/2016,,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=june.2016#detail=59870,-0.4K,-0.1K,6.4K,Wed,Africa/Lagos
+15/06/2016,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=59869,5.0%,5.1%,5.1%,Wed,Africa/Lagos
+15/06/2016,09:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61062,28.0B,21.6B,23.7B,Wed,Africa/Lagos
+15/06/2016,09:33,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=60411,0.01|1.1,,0.14|1.3,Wed,Africa/Lagos
+15/06/2016,12:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63276,1.0%,0.7%,-0.9%,Wed,Africa/Lagos
+15/06/2016,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62135,0.4%,0.3%,0.2%,Wed,Africa/Lagos
+15/06/2016,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62138,0.3%,0.1%,0.1%,Wed,Africa/Lagos
+15/06/2016,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=62364,6.0,-3.4,-9.0,Wed,Africa/Lagos
+15/06/2016,13:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=61885,74.9%,75.2%,75.3%,Wed,Africa/Lagos
+15/06/2016,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61888,-0.4%,-0.2%,0.6%,Wed,Africa/Lagos
+15/06/2016,14:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64073,,,,Wed,Africa/Lagos
+15/06/2016,14:12,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=june.2016#detail=61332,0.0%,,3.4%,Wed,Africa/Lagos
+15/06/2016,14:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2016#detail=62583,-0.9M,0.3M,-3.2M,Wed,Africa/Lagos
+15/06/2016,18:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=59605,0.50%,0.50%,0.50%,Wed,Africa/Lagos
+15/06/2016,,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=june.2016#detail=59607,,,,Wed,Africa/Lagos
+15/06/2016,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=59604,,,,Wed,Africa/Lagos
+15/06/2016,18:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=june.2016#detail=59606,,,,Wed,Africa/Lagos
+15/06/2016,20:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=june.2016#detail=62072,-79.6B,30.2B,78.1B,Wed,Africa/Lagos
+15/06/2016,22:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61472,0.7%,0.5%,0.9%,Wed,Africa/Lagos
+15/06/2016,23:55,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64069,,,,Wed,Africa/Lagos
+16/06/2016,01:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=60679,3.5%,,3.2%,Thu,Africa/Lagos
+16/06/2016,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=60540,17.9K,14.9K,0.8K,Thu,Africa/Lagos
+16/06/2016,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=60552,5.7%,5.7%,5.7%,Thu,Africa/Lagos
+16/06/2016,,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60589,-1.1%,,-2.8%,Thu,Africa/Lagos
+16/06/2016,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=60960,,,,Thu,Africa/Lagos
+16/06/2016,02:45,JPY,red,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=65253,-0.10%,,-0.10%,Thu,Africa/Lagos
+16/06/2016,,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=june.2016#detail=63444,,,,Thu,Africa/Lagos
+16/06/2016,04:30,CHF,orange,SNB Financial Stability Report,https://www.forexfactory.com/calendar?month=june.2016#detail=62443,,,,Thu,Africa/Lagos
+16/06/2016,05:45,CHF,yellow,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=june.2016#detail=62412,,,,Thu,Africa/Lagos
+16/06/2016,06:30,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=june.2016#detail=63452,,,,Thu,Africa/Lagos
+16/06/2016,07:30,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=62440,-0.75%,-0.75%,-0.75%,Thu,Africa/Lagos
+16/06/2016,,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=june.2016#detail=62445,,,,Thu,Africa/Lagos
+16/06/2016,08:00,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=june.2016#detail=62448,,,,Thu,Africa/Lagos
+16/06/2016,,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=63011,,,,Thu,Africa/Lagos
+16/06/2016,08:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59891,0.9%,0.3%,1.9%,Thu,Africa/Lagos
+16/06/2016,08:43,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=64076,1.59|1.6,,1.50|1.5,Thu,Africa/Lagos
+16/06/2016,09:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61064,-0.1%,-0.1%,-0.1%,Thu,Africa/Lagos
+16/06/2016,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61063,0.8%,0.8%,0.8%,Thu,Africa/Lagos
+16/06/2016,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=june.2016#detail=64068,,,,Thu,Africa/Lagos
+16/06/2016,11:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=june.2016#detail=59679,,,,Thu,Africa/Lagos
+16/06/2016,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=june.2016#detail=59681,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+16/06/2016,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=59678,0.50%,0.50%,0.50%,Thu,Africa/Lagos
+16/06/2016,,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=june.2016#detail=59677,375B,375B,375B,Thu,Africa/Lagos
+16/06/2016,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=june.2016#detail=59680,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+16/06/2016,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=june.2016#detail=63253,15.52B,14.70B,17.05B,Thu,Africa/Lagos
+16/06/2016,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62114,0.2%,0.2%,0.2%,Thu,Africa/Lagos
+16/06/2016,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62111,0.2%,0.3%,0.4%,Thu,Africa/Lagos
+16/06/2016,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=128583,1.0%,1.0%,1.1%,Thu,Africa/Lagos
+16/06/2016,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=61994,4.7,1.1,-1.8,Thu,Africa/Lagos
+16/06/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2016#detail=62579,277K,267K,264K,Thu,Africa/Lagos
+16/06/2016,,USD,orange,Current Account,https://www.forexfactory.com/calendar?month=june.2016#detail=62052,-125B,-125B,-113B,Thu,Africa/Lagos
+16/06/2016,14:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=june.2016#detail=62376,60,59,58,Thu,Africa/Lagos
+16/06/2016,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2016#detail=61961,69B,66B,65B,Thu,Africa/Lagos
+16/06/2016,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=61314,57.1,,56.6,Thu,Africa/Lagos
+17/06/2016,08:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=june.2016#detail=61065,36.2B,24.7B,26.3B,Fri,Africa/Lagos
+17/06/2016,08:04,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61129,4.52B,5.95B,5.23B,Fri,Africa/Lagos
+17/06/2016,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=june.2016#detail=64067,,,,Fri,Africa/Lagos
+17/06/2016,12:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63301,0.3%,0.3%,0.2%,Fri,Africa/Lagos
+17/06/2016,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63302,0.4%,0.5%,0.3%,Fri,Africa/Lagos
+17/06/2016,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=june.2016#detail=62162,1.14M,1.15M,1.13M,Fri,Africa/Lagos
+17/06/2016,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=june.2016#detail=62159,1.16M,1.15M,1.17M,Fri,Africa/Lagos
+17/06/2016,15:00,EUR,orange,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64070,,,,Fri,Africa/Lagos
+17/06/2016,17:10,CAD,orange,Gov Council Member Wilkins Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64071,,,,Fri,Africa/Lagos
+19/06/2016,21:57,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=61521,106.0,,109.6,Sun,Africa/Lagos
+19/06/2016,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=june.2016#detail=127170,56.9,,58.1,Sun,Africa/Lagos
+19/06/2016,23:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60334,0.8%,,0.4%,Sun,Africa/Lagos
+19/06/2016,23:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=63705,0.27T,0.13T,0.40T,Sun,Africa/Lagos
+20/06/2016,06:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62742,0.4%,0.4%,0.1%,Mon,Africa/Lagos
+20/06/2016,10:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=june.2016#detail=61267,,,,Mon,Africa/Lagos
+20/06/2016,12:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63263,0.1%,0.2%,-0.8%,Mon,Africa/Lagos
+20/06/2016,14:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60999,0.5%,,0.1%,Mon,Africa/Lagos
+20/06/2016,23:25,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64077,,,,Mon,Africa/Lagos
+20/06/2016,23:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=june.2016#detail=63483,,,,Mon,Africa/Lagos
+21/06/2016,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=june.2016#detail=60940,,,,Tue,Africa/Lagos
+21/06/2016,,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=60577,-0.2%,0.8%,0.2%,Tue,Africa/Lagos
+21/06/2016,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63601,1.3%,1.3%,0.2%,Tue,Africa/Lagos
+21/06/2016,06:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61562,3.79B,2.88B,2.51B,Tue,Africa/Lagos
+21/06/2016,08:10,EUR,red,German Constitutional Court Ruling,https://www.forexfactory.com/calendar?month=june.2016#detail=63843,,,,Tue,Africa/Lagos
+21/06/2016,08:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=june.2016#detail=59951,9.1B,9.5B,7.6B,Tue,Africa/Lagos
+21/06/2016,09:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=60781,19.2,5.1,6.4,Tue,Africa/Lagos
+21/06/2016,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=60786,20.2,15.3,16.8,Tue,Africa/Lagos
+21/06/2016,10:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=60299,-2,-10,-8,Tue,Africa/Lagos
+21/06/2016,13:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64082,,,,Tue,Africa/Lagos
+21/06/2016,14:00,USD,red,Fed Chair Yellen Testifies,https://www.forexfactory.com/calendar?month=june.2016#detail=64078,,,,Tue,Africa/Lagos
+21/06/2016,,USD,yellow,Fed Monetary Policy Report,https://www.forexfactory.com/calendar?month=june.2016#detail=64133,,,,Tue,Africa/Lagos
+21/06/2016,18:30,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64083,,,,Tue,Africa/Lagos
+21/06/2016,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=98997,,,,Tue,Africa/Lagos
+21/06/2016,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61512,0.1%,,-1.1%,Tue,Africa/Lagos
+22/06/2016,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60703,0.2%,,0.1%,Wed,Africa/Lagos
+22/06/2016,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61358,5.9%,,9.1%,Wed,Africa/Lagos
+22/06/2016,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=62515,19.4,,17.5,Wed,Africa/Lagos
+22/06/2016,09:36,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=64081,0.65|2.0,,0.88|1.4,Wed,Africa/Lagos
+22/06/2016,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63213,1.3%,0.7%,-0.1%,Wed,Africa/Lagos
+22/06/2016,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63214,0.9%,0.8%,-0.8%,Wed,Africa/Lagos
+22/06/2016,13:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=62451,,,,Wed,Africa/Lagos
+22/06/2016,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62352,0.2%,0.6%,0.7%,Wed,Africa/Lagos
+22/06/2016,13:16,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63168,0.2%,,-0.1%,Wed,Africa/Lagos
+22/06/2016,14:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=60816,-7,-7,-7,Wed,Africa/Lagos
+22/06/2016,,USD,red,Fed Chair Yellen Testifies,https://www.forexfactory.com/calendar?month=june.2016#detail=64079,,,,Wed,Africa/Lagos
+22/06/2016,,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=june.2016#detail=62333,5.53M,5.53M,5.43M,Wed,Africa/Lagos
+22/06/2016,14:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2016#detail=62584,-0.9M,-1.3M,-0.9M,Wed,Africa/Lagos
+23/06/2016,02:00,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=63801,47.8,48.2,47.7,Thu,Africa/Lagos
+23/06/2016,07:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60230,47.9,48.8,48.4,Thu,Africa/Lagos
+23/06/2016,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60231,49.9,51.5,51.6,Thu,Africa/Lagos
+23/06/2016,07:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60232,54.4,52.1,52.1,Thu,Africa/Lagos
+23/06/2016,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60233,53.2,55.0,55.2,Thu,Africa/Lagos
+23/06/2016,08:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60228,52.6,51.4,51.5,Thu,Africa/Lagos
+23/06/2016,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60229,52.4,53.2,53.3,Thu,Africa/Lagos
+23/06/2016,08:15,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64080,,,,Thu,Africa/Lagos
+23/06/2016,All Day,GBP,red,EU Membership Vote,https://www.forexfactory.com/calendar?month=june.2016#detail=63907,Leave,,,Thu,Africa/Lagos
+23/06/2016,09:30,EUR,orange,Long Term Refinancing Operation,https://www.forexfactory.com/calendar?month=june.2016#detail=64056,6.7B,,7.3B,Thu,Africa/Lagos
+23/06/2016,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2016#detail=62580,259K,271K,277K,Thu,Africa/Lagos
+23/06/2016,13:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=june.2016#detail=60852,0.7,-2.9,-2.8,Thu,Africa/Lagos
+23/06/2016,13:45,USD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60234,51.4,50.5,50.7,Thu,Africa/Lagos
+23/06/2016,14:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=june.2016#detail=62179,551K,561K,586K,Thu,Africa/Lagos
+23/06/2016,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63404,-0.2%,0.2%,0.6%,Thu,Africa/Lagos
+23/06/2016,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2016#detail=61962,62B,59B,69B,Thu,Africa/Lagos
+23/06/2016,23:50,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=june.2016#detail=63822,,,,Thu,Africa/Lagos
+23/06/2016,,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63505,0.2%,0.1%,0.3%,Thu,Africa/Lagos
+24/06/2016,07:46,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64085,,,,Fri,Africa/Lagos
+24/06/2016,08:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=june.2016#detail=60828,108.7,107.6,107.8,Fri,Africa/Lagos
+24/06/2016,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61143,0.1%,0.2%,-0.6%,Fri,Africa/Lagos
+24/06/2016,08:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=june.2016#detail=62969,42.2K,37.9K,40.0K,Fri,Africa/Lagos
+24/06/2016,09:30,EUR,orange,Long Term Refinancing Operation,https://www.forexfactory.com/calendar?month=june.2016#detail=63054,399.3B,,6.7B,Fri,Africa/Lagos
+24/06/2016,All Day,All,red,G7 Meetings,https://www.forexfactory.com/calendar?month=june.2016#detail=64086,,,,Fri,Africa/Lagos
+24/06/2016,12:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62014,-0.3%,0.1%,0.5%,Fri,Africa/Lagos
+24/06/2016,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62011,-2.2%,-0.5%,-0.8%,Fri,Africa/Lagos
+24/06/2016,14:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=june.2016#detail=61688,93.5,94.2,94.3,Fri,Africa/Lagos
+24/06/2016,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=june.2016#detail=61690,2.6%,,2.4%,Fri,Africa/Lagos
+26/06/2016,All Day,EUR,red,Spanish Parliamentary Election,https://www.forexfactory.com/calendar?month=june.2016#detail=64009,,,,Sun,Africa/Lagos
+26/06/2016,22:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=61500,358M,185M,326M,Sun,Africa/Lagos
+27/06/2016,08:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63036,4.9%,4.8%,4.6%,Mon,Africa/Lagos
+27/06/2016,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63037,1.6%,1.6%,1.5%,Mon,Africa/Lagos
+27/06/2016,12:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=june.2016#detail=62060,-60.6B,-59.5B,-57.5B,Mon,Africa/Lagos
+27/06/2016,13:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=60235,51.3,52.0,51.3,Mon,Africa/Lagos
+28/06/2016,06:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61383,0.9%,0.6%,-0.1%,Tue,Africa/Lagos
+28/06/2016,10:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=june.2016#detail=60289,4,9,7,Tue,Africa/Lagos
+28/06/2016,Day 1,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=june.2016#detail=64092,,,,Tue,Africa/Lagos
+28/06/2016,12:30,USD,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61649,1.1%,1.0%,0.8%,Tue,Africa/Lagos
+28/06/2016,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=61650,0.4%,0.6%,0.6%,Tue,Africa/Lagos
+28/06/2016,13:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=62316,5.4%,5.5%,5.5%,Tue,Africa/Lagos
+28/06/2016,13:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=62400,-7,2,-1,Tue,Africa/Lagos
+28/06/2016,14:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=62299,98.0,93.2,92.4,Tue,Africa/Lagos
+28/06/2016,16:00,CHF,orange,Gov Board Member Zurbrugg Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64084,,,,Tue,Africa/Lagos
+28/06/2016,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=june.2016#detail=98999,,,,Tue,Africa/Lagos
+28/06/2016,23:00,USD,red,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64089,,,,Tue,Africa/Lagos
+28/06/2016,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63625,-1.9%,-1.6%,-0.9%,Tue,Africa/Lagos
+29/06/2016,01:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60665,-4.4%,,-4.7%,Wed,Africa/Lagos
+29/06/2016,02:00,NZD,orange,RBNZ Statement of Intent,https://www.forexfactory.com/calendar?month=june.2016#detail=121906,,,,Wed,Africa/Lagos
+29/06/2016,06:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=june.2016#detail=62527,1.35,,1.24,Wed,Africa/Lagos
+29/06/2016,,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=june.2016#detail=60804,10.1,9.8,9.8,Wed,Africa/Lagos
+29/06/2016,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60335,0.2%,0.1%,0.2%,Wed,Africa/Lagos
+29/06/2016,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=june.2016#detail=62497,,,,Wed,Africa/Lagos
+29/06/2016,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62718,0.1%,0.1%,0.3%,Wed,Africa/Lagos
+29/06/2016,07:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61255,-0.8%,-1.0%,-1.0%,Wed,Africa/Lagos
+29/06/2016,08:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59751,4.3B,2.9B,1.6B,Wed,Africa/Lagos
+29/06/2016,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=59752,1.2%,0.1%,-0.1%,Wed,Africa/Lagos
+29/06/2016,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=june.2016#detail=59753,67K,65K,66K,Wed,Africa/Lagos
+29/06/2016,Day 2,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=june.2016#detail=64093,,,,Wed,Africa/Lagos
+29/06/2016,12:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61610,0.2%,0.2%,0.2%,Wed,Africa/Lagos
+29/06/2016,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61612,0.4%,0.4%,1.1%,Wed,Africa/Lagos
+29/06/2016,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61611,0.2%,0.3%,0.5%,Wed,Africa/Lagos
+29/06/2016,14:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62334,-3.7%,-0.9%,3.9%,Wed,Africa/Lagos
+29/06/2016,14:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=june.2016#detail=62585,-4.1M,-2.3M,-0.9M,Wed,Africa/Lagos
+29/06/2016,20:30,USD,orange,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=june.2016#detail=64065,,,,Wed,Africa/Lagos
+29/06/2016,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61429,-0.9%,,6.8%,Wed,Africa/Lagos
+29/06/2016,23:05,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=62970,-1,-2,-1,Wed,Africa/Lagos
+29/06/2016,23:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63613,-2.3%,-0.1%,0.5%,Wed,Africa/Lagos
+30/06/2016,01:00,NZD,orange,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=june.2016#detail=61279,20.2,,11.3,Thu,Africa/Lagos
+30/06/2016,01:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=60952,0.4%,0.5%,0.5%,Thu,Africa/Lagos
+30/06/2016,05:06,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63728,9.8%,4.9%,9.0%,Thu,Africa/Lagos
+30/06/2016,06:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=62706,0.9%,0.7%,-0.3%,Thu,Africa/Lagos
+30/06/2016,06:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61195,-0.7%,-0.1%,-0.1%,Thu,Africa/Lagos
+30/06/2016,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61183,0.2%,0.2%,0.4%,Thu,Africa/Lagos
+30/06/2016,07:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=june.2016#detail=62208,102.4,102.7,101.8,Thu,Africa/Lagos
+30/06/2016,07:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=june.2016#detail=60876,-6K,-5K,-11K,Thu,Africa/Lagos
+30/06/2016,08:30,GBP,red,Current Account,https://www.forexfactory.com/calendar?month=june.2016#detail=59978,-32.6B,-27.3B,-34.0B,Thu,Africa/Lagos
+30/06/2016,,GBP,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=59977,0.4%,0.4%,0.4%,Thu,Africa/Lagos
+30/06/2016,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=june.2016#detail=59903,0.5%,0.4%,0.6%,Thu,Africa/Lagos
+30/06/2016,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=june.2016#detail=59993,-0.6%,-0.4%,-0.5%,Thu,Africa/Lagos
+30/06/2016,09:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61066,0.9%,0.8%,0.8%,Thu,Africa/Lagos
+30/06/2016,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=61067,0.1%,0.0%,-0.1%,Thu,Africa/Lagos
+30/06/2016,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=61159,0.1%,0.2%,0.3%,Thu,Africa/Lagos
+30/06/2016,09:22,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=june.2016#detail=60414,1.35|1.5,,1.42|1.4,Thu,Africa/Lagos
+30/06/2016,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63240,0.1%,0.1%,-0.2%,Thu,Africa/Lagos
+30/06/2016,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63375,6.7%,4.9%,0.7%,Thu,Africa/Lagos
+30/06/2016,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=june.2016#detail=63376,1.1%,0.4%,-0.5%,Thu,Africa/Lagos
+30/06/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=june.2016#detail=62581,268K,267K,258K,Thu,Africa/Lagos
+30/06/2016,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=june.2016#detail=61660,56.8,50.6,49.3,Thu,Africa/Lagos
+30/06/2016,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=june.2016#detail=61963,37B,48B,62B,Thu,Africa/Lagos
+30/06/2016,15:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64104,,,,Thu,Africa/Lagos
+30/06/2016,17:30,USD,red,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=june.2016#detail=64103,,,,Thu,Africa/Lagos
+30/06/2016,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=60630,51.8,,51.0,Thu,Africa/Lagos
+30/06/2016,,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63740,-1.1%,-1.3%,-0.4%,Thu,Africa/Lagos
+30/06/2016,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63770,-0.5%,-0.5%,-0.5%,Thu,Africa/Lagos
+30/06/2016,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=june.2016#detail=63769,-0.4%,-0.4%,-0.3%,Thu,Africa/Lagos
+30/06/2016,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=june.2016#detail=63752,3.2%,3.2%,3.2%,Thu,Africa/Lagos
+30/06/2016,23:50,JPY,orange,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=63514,6,4,6,Thu,Africa/Lagos
+30/06/2016,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=june.2016#detail=63515,19,19,22,Thu,Africa/Lagos

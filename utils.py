@@ -71,8 +71,10 @@ def reformat_data(data: list, year: str) -> list:
             new_row["time"] = convert_time_zone(
                 current_date, current_time, config.SCRAPER_TIMEZONE, config.TARGET_TIMEZONE
             )
+            new_row["timezone"] = config.TARGET_TIMEZONE
         else:
             new_row["time"] = current_time
+            new_row["timezone"] = config.SCRAPER_TIMEZONE if config.SCRAPER_TIMEZONE else ""
 
         new_row["currency"] = row.get("currency", "")
         new_row["impact"] = row.get("impact", "")

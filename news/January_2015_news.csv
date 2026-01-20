@@ -1,351 +1,351 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/01/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58664,,,,Thu
-01/01/2015,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58414,,,,Thu
-01/01/2015,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=54666,50.1,50.0,50.3,Thu
-01/01/2015,01:09,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=54679,54.1,,53.9,Thu
-01/01/2015,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58437,,,,Thu
-01/01/2015,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58631,,,,Thu
-01/01/2015,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58632,,,,Thu
-01/01/2015,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58633,,,,Thu
-01/01/2015,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58405,,,,Thu
-01/01/2015,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58375,,,,Thu
-01/01/2015,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58395,,,,Thu
-01/01/2015,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58386,,,,Thu
-02/01/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58665,,,,Fri
-02/01/2015,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58415,,,,Fri
-02/01/2015,05:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=54901,-21.2%,,-18.4%,Fri
-02/01/2015,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58438,,,,Fri
-02/01/2015,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55333,53.8,54.9,54.7,Fri
-02/01/2015,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55334,48.4,49.6,49.0,Fri
-02/01/2015,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=59062,47.5,47.9,47.9,Fri
-02/01/2015,08:55,EUR,orange,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=59065,51.2,51.2,51.2,Fri
-02/01/2015,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55335,50.6,50.8,50.8,Fri
-02/01/2015,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55332,52.5,53.7,53.3,Fri
-02/01/2015,,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=51613,3.3B,2.5B,2.7B,Fri
-02/01/2015,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=51840,0.0%,0.2%,0.0%,Fri
-02/01/2015,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=january.2015#detail=51843,59K,59K,60K,Fri
-02/01/2015,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=59551,53.9,,55.3,Fri
-02/01/2015,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55347,53.9,54.1,53.7,Fri
-02/01/2015,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=57996,55.5,57.6,58.7,Fri
-02/01/2015,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57696,-0.3%,0.4%,1.2%,Fri
-02/01/2015,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=january.2015#detail=58002,38.5,43.1,44.5,Fri
-04/01/2015,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2015#detail=54711,46.9,,50.1,Sun
-05/01/2015,01:35,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55337,52.0,52.1,52.1,Mon
-05/01/2015,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=53332,0.0%,0.1%,0.0%,Mon
-05/01/2015,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=56598,-64.4K,-72.0K,-14.7K,Mon
-05/01/2015,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55336,54.0,52.9,52.1,Mon
-05/01/2015,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=58149,0.9,-0.9,-2.5,Mon
-05/01/2015,,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=58713,57.6,59.2,59.4,Mon
-05/01/2015,13:00,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58785,,,,Mon
-05/01/2015,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=january.2015#detail=58081,16.9M,16.9M,17.2M,Mon
-05/01/2015,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56923,38.2%,34.3%,36.7%,Mon
-06/01/2015,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=54865,-0.93B,-1.59B,-0.88B,Tue
-06/01/2015,01:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55433,53.4,,53.0,Tue
-06/01/2015,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=56947,0.30|3.4,,0.47|3.0,Tue
-06/01/2015,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58634,,,,Tue
-06/01/2015,08:15,EUR,orange,Spanish Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55430,54.3,52.9,52.7,Tue
-06/01/2015,08:45,EUR,orange,Italian Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55429,49.4,51.4,51.8,Tue
-06/01/2015,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=59248,50.6,49.8,49.8,Tue
-06/01/2015,08:55,EUR,orange,German Final Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=59254,52.1,51.4,51.4,Tue
-06/01/2015,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55428,51.6,51.9,51.9,Tue
-06/01/2015,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55431,55.8,58.9,58.6,Tue
-06/01/2015,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=january.2015#detail=50118,,,,Tue
-06/01/2015,10:35,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=55709,1.62|1.6,,2.21|1.5,Tue
-06/01/2015,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58515,-5.8%,-4.6%,-4.2%,Tue
-06/01/2015,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58514,-0.4%,-0.5%,-0.6%,Tue
-06/01/2015,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55432,53.3,53.8,53.6,Tue
-06/01/2015,14:49,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=january.2015#detail=56338,3.6%,,2.4%,Tue
-06/01/2015,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=58020,56.2,58.2,59.3,Tue
-06/01/2015,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57792,-0.7%,-0.3%,-0.7%,Tue
-06/01/2015,22:20,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=january.2015#detail=54712,47.5,,43.8,Tue
-07/01/2015,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55050,-4.4%,,-1.6%,Wed
-07/01/2015,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55817,-1.7%,,-1.9%,Wed
-07/01/2015,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=53108,1.0%,0.2%,2.0%,Wed
-07/01/2015,08:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=january.2015#detail=56420,495B,,463B,Wed
-07/01/2015,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=57537,-27K,-6K,-16K,Wed
-07/01/2015,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=53286,13.4%,13.3%,13.3%,Wed
-07/01/2015,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=57477,47.6,,48.9,Wed
-07/01/2015,10:00,EUR,red,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57231,-0.2%,0.0%,0.3%,Wed
-07/01/2015,,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57230,0.8%,0.6%,0.7%,Wed
-07/01/2015,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=57229,11.5%,11.5%,11.5%,Wed
-07/01/2015,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56678,0.0%,-0.2%,-0.2%,Wed
-07/01/2015,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=54487,241K,227K,227K,Wed
-07/01/2015,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=57750,-0.6B,-0.2B,-0.3B,Wed
-07/01/2015,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=57744,-39.0B,-42.3B,-42.2B,Wed
-07/01/2015,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=58714,55.4,52.3,56.9,Wed
-07/01/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2015#detail=54346,-3.1M,0.9M,-1.8M,Wed
-07/01/2015,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=january.2015#detail=54523,,,,Wed
-07/01/2015,23:30,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58731,,,,Wed
-08/01/2015,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54941,7.5%,-2.7%,11.5%,Thu
-08/01/2015,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57513,-2.4%,-0.6%,2.9%,Thu
-08/01/2015,08:00,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55576,0.9%,0.3%,0.5%,Thu
-08/01/2015,09:59,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=56480,0.79|2.0,,1.11|2.4,Thu
-08/01/2015,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57232,0.6%,0.3%,0.6%,Thu
-08/01/2015,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57228,-0.3%,-0.2%,-0.3%,Thu
-08/01/2015,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=54583,0.50%,0.50%,0.50%,Thu
-08/01/2015,,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=january.2015#detail=54582,375B,375B,375B,Thu
-08/01/2015,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=54549,6.6%,,-20.7%,Thu
-08/01/2015,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58578,0.1%,0.2%,0.1%,Thu
-08/01/2015,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2015#detail=54294,294K,291K,298K,Thu
-08/01/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2015#detail=54399,-131B,-120B,-26B,Thu
-08/01/2015,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57972,14.1B,15.1B,16.0B,Thu
-08/01/2015,21:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55014,10.0%,,9.8%,Thu
-08/01/2015,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=january.2015#detail=54713,44.4,,45.4,Thu
-09/01/2015,00:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54877,0.1%,0.3%,0.4%,Fri
-09/01/2015,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56014,1.5%,1.5%,1.4%,Fri
-09/01/2015,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56015,-3.3%,-3.1%,-2.7%,Fri
-09/01/2015,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=january.2015#detail=56800,103.8%,104.9%,104.5%,Fri
-09/01/2015,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=56408,3.2%,3.1%,3.2%,Fri
-09/01/2015,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57501,-0.1%,0.4%,0.6%,Fri
-09/01/2015,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=57549,17.7B,19.4B,20.6B,Fri
-09/01/2015,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56529,-0.3%,0.4%,-0.7%,Fri
-09/01/2015,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=56542,-3.2B,-4.5B,-4.3B,Fri
-09/01/2015,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56456,-0.5%,-0.3%,0.0%,Fri
-09/01/2015,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55877,0.7%,0.4%,-0.7%,Fri
-09/01/2015,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=55829,-8.8B,-9.5B,-9.8B,Fri
-09/01/2015,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55665,-2.0%,1.3%,-1.9%,Fri
-09/01/2015,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55878,-0.1%,0.2%,-0.3%,Fri
-09/01/2015,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=january.2015#detail=58331,181K,191K,195K,Fri
-09/01/2015,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58446,-13.8%,0.8%,2.1%,Fri
-09/01/2015,,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=58539,-4.3K,10.3K,-10.7K,Fri
-09/01/2015,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=58538,6.6%,6.6%,6.6%,Fri
-09/01/2015,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=54451,252K,241K,353K,Fri
-09/01/2015,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=54452,5.6%,5.7%,5.8%,Fri
-09/01/2015,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54453,-0.2%,0.2%,0.2%,Fri
-09/01/2015,14:49,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=january.2015#detail=55853,0.6%,,0.7%,Fri
-09/01/2015,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57708,0.8%,0.4%,0.6%,Fri
-09/01/2015,18:20,USD,orange,FOMC Member Lacker Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58786,,,,Fri
-12/01/2015,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58416,,,,Mon
-12/01/2015,00:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54817,1.8%,,0.7%,Mon
-12/01/2015,,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54929,-0.7%,1.8%,0.2%,Mon
-12/01/2015,15:10,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58353,6.1,,5.5,Mon
-12/01/2015,15:30,CAD,orange,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=january.2015#detail=58787,,,,Mon
-12/01/2015,17:40,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58732,,,,Mon
-12/01/2015,23:50,JPY,orange,Current Account,https://www.forexfactory.com/calendar?month=january.2015#detail=56740,0.91T,0.69T,0.95T,Mon
-12/01/2015,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56711,2.6%,,2.7%,Mon
-13/01/2015,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55913,-0.4%,,0.9%,Tue
-13/01/2015,02:00,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=56038,49.6B,48.9B,54.5B,Tue
-13/01/2015,05:03,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=56897,45.2,44.3,41.5,Tue
-13/01/2015,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57585,-1.0%,0.2%,-0.7%,Tue
-13/01/2015,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56622,0.3%,0.1%,0.0%,Tue
-13/01/2015,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55757,0.5%,0.7%,1.0%,Tue
-13/01/2015,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55760,-2.4%,-2.5%,-0.7%,Tue
-13/01/2015,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55759,1.6%,1.7%,2.0%,Tue
-13/01/2015,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55758,1.3%,1.4%,1.2%,Tue
-13/01/2015,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55677,10.0%,10.1%,10.4%,Tue
-13/01/2015,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55761,-0.3%,-0.1%,-0.2%,Tue
-13/01/2015,14:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=january.2015#detail=58070,100.4,98.6,98.1,Tue
-13/01/2015,15:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=january.2015#detail=58105,4.97M,4.86M,4.83M,Tue
-13/01/2015,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=january.2015#detail=58129,51.5,48.9,48.4,Tue
-13/01/2015,18:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=57407,1.93|2.6,,2.21|3.0,Tue
-13/01/2015,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=54570,1.9B,3.8B,-56.8B,Tue
-13/01/2015,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56752,3.6%,3.6%,3.6%,Tue
-14/01/2015,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=56960,1.12|3.6,,1.46|3.1,Wed
-14/01/2015,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56828,33.8%,,36.6%,Wed
-14/01/2015,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56491,0.1%,0.0%,-0.2%,Wed
-14/01/2015,08:35,EUR,red,European Court of Justice Ruling,https://www.forexfactory.com/calendar?month=january.2015#detail=58651,,,,Wed
-14/01/2015,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57233,0.2%,0.0%,0.3%,Wed
-14/01/2015,,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55925,-0.3%,,-0.3%,Wed
-14/01/2015,10:33,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=57419,0.52|1.3,,0.74|1.1,Wed
-14/01/2015,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57722,-1.0%,0.1%,0.1%,Wed
-14/01/2015,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57720,-0.9%,0.2%,0.4%,Wed
-14/01/2015,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57936,-2.5%,-2.7%,-1.8%,Wed
-14/01/2015,14:15,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58793,,,,Wed
-14/01/2015,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57684,0.2%,0.2%,0.2%,Wed
-14/01/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2015#detail=54347,5.4M,1.2M,-3.1M,Wed
-14/01/2015,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=57395,2.43|2.3,,2.85|2.8,Wed
-14/01/2015,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=january.2015#detail=54562,,,,Wed
-14/01/2015,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55038,0.3%,,-0.5%,Wed
-14/01/2015,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56739,1.3%,4.8%,-6.4%,Wed
-14/01/2015,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56977,1.9%,2.2%,2.6%,Wed
-15/01/2015,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=55601,11%,11%,13%,Thu
-15/01/2015,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=55200,37.4K,5.3K,45.0K,Thu
-15/01/2015,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=55199,6.1%,6.3%,6.2%,Thu
-15/01/2015,01:30,NZD,yellow,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55062,-1.0%,,3.3%,Thu
-15/01/2015,02:02,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=january.2015#detail=56050,697B,885B,853B,Thu
-15/01/2015,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56051,12.2%,12.5%,12.3%,Thu
-15/01/2015,09:30,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=58796,-0.75%,,-0.25%,Thu
-15/01/2015,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=57234,20.0B,21.3B,19.6B,Thu
-15/01/2015,12:15,CHF,red,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58797,,,,Thu
-15/01/2015,12:55,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55961,1.7%,,0.7%,Thu
-15/01/2015,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57868,-0.3%,-0.3%,-0.2%,Thu
-15/01/2015,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2015#detail=54295,316K,299K,297K,Thu
-15/01/2015,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57870,0.3%,0.2%,0.0%,Thu
-15/01/2015,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2015#detail=57984,10.0,5.3,-3.6,Thu
-15/01/2015,15:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2015#detail=58032,6.3,20.3,24.5,Thu
-15/01/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2015#detail=54400,-236B,-224B,-131B,Thu
-15/01/2015,16:15,EUR,red,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58791,,,,Thu
-15/01/2015,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56852,0.2%,0.3%,-0.1%,Thu
-16/01/2015,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57597,0.0%,0.0%,0.0%,Fri
-16/01/2015,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=56539,-90.8B,,-84.7B,Fri
-16/01/2015,08:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56444,-1.2%,1.1%,0.6%,Fri
-16/01/2015,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57236,-0.2%,-0.2%,-0.2%,Fri
-16/01/2015,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57235,0.7%,0.8%,0.8%,Fri
-16/01/2015,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57892,0.0%,0.1%,0.1%,Fri
-16/01/2015,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57894,-0.4%,-0.3%,-0.3%,Fri
-16/01/2015,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=128566,0.8%,0.7%,1.3%,Fri
-16/01/2015,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=57948,79.7%,80.2%,80.0%,Fri
-16/01/2015,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57949,-0.1%,0.1%,1.3%,Fri
-16/01/2015,15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=56086,98.2,94.2,93.6,Fri
-16/01/2015,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2015#detail=56088,2.4%,,2.8%,Fri
-16/01/2015,16:00,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58792,,,,Fri
-16/01/2015,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=january.2015#detail=58093,33.5B,27.3B,-1.4B,Fri
-17/01/2015,13:50,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58800,,,,Sat
-18/01/2015,23:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55564,1.4%,,-3.3%,Sun
-18/01/2015,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54829,0.0%,,0.1%,Sun
-19/01/2015,00:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54889,3.0%,,-0.5%,Mon
-19/01/2015,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56840,-0.5%,-0.5%,-0.6%,Mon
-19/01/2015,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=56889,38.8,38.6,37.7,Mon
-19/01/2015,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56432,-0.4%,-0.6%,-0.7%,Mon
-19/01/2015,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=january.2015#detail=58205,18.1B,22.7B,19.5B,Mon
-19/01/2015,11:00,EUR,orange,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=january.2015#detail=57621,,,,Mon
-19/01/2015,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58396,,,,Mon
-19/01/2015,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=january.2015#detail=58462,4.29B,7.23B,9.53B,Mon
-19/01/2015,21:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=55191,23,,19,Mon
-20/01/2015,02:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55973,7.3%,7.2%,7.3%,Tue
-20/01/2015,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55976,15.7%,15.7%,15.8%,Tue
-20/01/2015,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55975,7.9%,7.4%,7.2%,Tue
-20/01/2015,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=january.2015#detail=55974,,,,Tue
-20/01/2015,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55977,11.9%,11.7%,11.7%,Tue
-20/01/2015,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57561,-0.7%,-0.3%,0.0%,Tue
-20/01/2015,09:03,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=56654,3.54B,4.32B,5.40B,Tue
-20/01/2015,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=58175,48.4,40.1,34.9,Tue
-20/01/2015,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=58173,45.2,37.6,31.8,Tue
-20/01/2015,13:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58566,-1.4%,-0.5%,-1.1%,Tue
-20/01/2015,14:34,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=january.2015#detail=56339,1.0%,,3.6%,Tue
-20/01/2015,15:00,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58801,,,,Tue
-20/01/2015,,USD,orange,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=january.2015#detail=58255,57,58,58,Tue
-20/01/2015,21:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=55159,-0.2%,0.0%,0.3%,Tue
-20/01/2015,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=54747,2.4%,,-5.7%,Tue
-21/01/2015,02:00,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58802,,,,Wed
-21/01/2015,03:29,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=january.2015#detail=57092,,,,Wed
-21/01/2015,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56699,0.1%,0.1%,0.1%,Wed
-21/01/2015,06:30,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=january.2015#detail=57093,,,,Wed
-21/01/2015,Day 1,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2015#detail=58320,,,,Wed
-21/01/2015,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55721,1.7%,1.7%,1.4%,Wed
-21/01/2015,,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=january.2015#detail=55720,-29.7K,-24.2K,-29.6K,Wed
-21/01/2015,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=january.2015#detail=54588,0-0-9,2-0-7,2-0-7,Wed
-21/01/2015,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=january.2015#detail=54590,0-0-9,0-0-9,0-0-9,Wed
-21/01/2015,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=55722,5.8%,5.9%,6.0%,Wed
-21/01/2015,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=january.2015#detail=56178,-10.8,,-4.9,Wed
-21/01/2015,13:30,CAD,red,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58618,-0.3%,0.2%,-1.1%,Wed
-21/01/2015,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=january.2015#detail=57660,1.03M,1.06M,1.05M,Wed
-21/01/2015,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=january.2015#detail=57662,1.09M,1.04M,1.04M,Wed
-21/01/2015,15:00,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=january.2015#detail=57385,,,,Wed
-21/01/2015,,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=january.2015#detail=57370,,,,Wed
-21/01/2015,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=57369,0.75%,1.00%,1.00%,Wed
-21/01/2015,16:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=january.2015#detail=57386,,,,Wed
-21/01/2015,21:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2015#detail=55144,57.7,,55.6,Wed
-22/01/2015,00:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2015#detail=54759,3.2%,,3.4%,Thu
-22/01/2015,,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=50772,2.2%,,3.0%,Thu
-22/01/2015,05:00,JPY,yellow,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=january.2015#detail=56935,,,,Thu
-22/01/2015,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=56571,23.7%,23.6%,23.7%,Thu
-22/01/2015,09:00,GBP,orange,MPC Member Miles Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58803,,,,Thu
-22/01/2015,Day 2,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2015#detail=58321,,,,Thu
-22/01/2015,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=january.2015#detail=55865,12.5B,9.2B,11.7B,Thu
-22/01/2015,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56666,0.1%,0.1%,0.0%,Thu
-22/01/2015,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=january.2015#detail=55536,4,6,5,Thu
-22/01/2015,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=54650,0.05%,0.05%,0.05%,Thu
-22/01/2015,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=january.2015#detail=54651,,,,Thu
-22/01/2015,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2015#detail=54296,307K,301K,317K,Thu
-22/01/2015,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56362,0.8%,0.4%,0.4%,Thu
-22/01/2015,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=57237,-9,-11,-11,Thu
-22/01/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2015#detail=54401,-216B,-231B,-236B,Thu
-22/01/2015,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2015#detail=54348,10.1M,2.5M,5.4M,Thu
-23/01/2015,01:35,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55231,52.1,52.0,52.0,Fri
-23/01/2015,01:45,CNY,red,Caixin Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55232,49.8,49.5,49.6,Fri
-23/01/2015,08:00,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55224,49.5,48.1,47.5,Fri
-23/01/2015,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55225,49.5,50.9,50.6,Fri
-23/01/2015,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55226,51.0,51.8,51.2,Fri
-23/01/2015,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55227,52.7,52.6,52.1,Fri
-23/01/2015,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55228,51.0,51.0,50.6,Fri
-23/01/2015,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55229,52.3,52.1,51.6,Fri
-23/01/2015,Day 3,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2015#detail=58322,,,,Fri
-23/01/2015,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55841,0.4%,-0.6%,1.6%,Fri
-23/01/2015,13:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58474,-0.3%,-0.3%,-0.2%,Fri
-23/01/2015,,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58594,0.7%,0.5%,0.1%,Fri
-23/01/2015,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58475,-0.7%,-0.5%,-0.4%,Fri
-23/01/2015,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58595,0.4%,0.1%,0.0%,Fri
-23/01/2015,14:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=january.2015#detail=58274,-8.8,-6.1,-6.9,Fri
-23/01/2015,14:45,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55230,53.7,54.1,53.9,Fri
-23/01/2015,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=january.2015#detail=57435,5.04M,5.08M,4.92M,Fri
-23/01/2015,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58286,0.5%,0.5%,0.4%,Fri
-25/01/2015,All Day,EUR,red,Greek Parliamentary Election,https://www.forexfactory.com/calendar?month=january.2015#detail=58729,,,,Sun
-25/01/2015,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58366,,,,Sun
-25/01/2015,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=january.2015#detail=127153,56.5,,53.7,Sun
-25/01/2015,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=january.2015#detail=57046,,,,Sun
-25/01/2015,,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=56865,-0.71T,-0.74T,-0.83T,Sun
-26/01/2015,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55095,4.5%,,5.1%,Mon
-26/01/2015,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=january.2015#detail=58161,106.7,106.7,105.5,Mon
-26/01/2015,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=january.2015#detail=58799,,,,Mon
-26/01/2015,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56988,3.6%,3.6%,3.6%,Mon
-27/01/2015,00:30,AUD,red,NAB Business Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=54695,2,,2,Tue
-27/01/2015,02:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56074,1.1%,,0.8%,Tue
-27/01/2015,09:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=55945,0.5%,0.6%,0.7%,Tue
-27/01/2015,,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=january.2015#detail=55653,35.7K,36.6K,36.7K,Tue
-27/01/2015,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=january.2015#detail=55901,0.8%,1.0%,0.7%,Tue
-27/01/2015,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=january.2015#detail=58798,,,,Tue
-27/01/2015,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57770,-0.8%,0.6%,-0.7%,Tue
-27/01/2015,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57768,-3.4%,0.6%,-0.9%,Tue
-27/01/2015,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=58117,4.3%,4.4%,4.5%,Tue
-27/01/2015,14:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55500,54.0,53.9,53.3,Tue
-27/01/2015,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2015#detail=58044,6,6,7,Tue
-27/01/2015,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=54537,102.9,95.3,93.1,Tue
-27/01/2015,,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=january.2015#detail=57648,481K,452K,431K,Tue
-27/01/2015,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54841,0.0%,,-0.1%,Tue
-28/01/2015,00:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=54969,0.2%,0.3%,0.5%,Wed
-28/01/2015,,AUD,orange,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=54970,0.7%,0.5%,0.3%,Wed
-28/01/2015,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=january.2015#detail=56146,1.42,,1.29,Wed
-28/01/2015,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=january.2015#detail=57633,9.3,9.2,9.0,Wed
-28/01/2015,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57573,-1.7%,-1.4%,-0.8%,Wed
-28/01/2015,10:34,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=57431,1.07|1.3,,1.77|1.2,Wed
-28/01/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2015#detail=54349,8.9M,4.2M,10.1M,Wed
-28/01/2015,18:50,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58805,,,,Wed
-28/01/2015,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=54498,<0.25%,<0.25%,<0.25%,Wed
-28/01/2015,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=january.2015#detail=54499,,,,Wed
-28/01/2015,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=55106,3.50%,3.50%,3.50%,Wed
-28/01/2015,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=january.2015#detail=55107,,,,Wed
-28/01/2015,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=55013,-159M,-48M,-285M,Wed
-28/01/2015,23:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54989,0.1%,,-0.2%,Wed
-28/01/2015,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56805,0.2%,1.1%,0.5%,Wed
-29/01/2015,00:30,AUD,orange,Import Prices q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=54977,0.9%,1.5%,-0.8%,Thu
-29/01/2015,07:00,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55589,0.3%,0.4%,0.2%,Thu
-29/01/2015,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57598,-1.0%,-0.8%,0.0%,Thu
-29/01/2015,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=57538,-9K,-9K,-25K,Thu
-29/01/2015,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=58209,3.6%,3.6%,3.1%,Thu
-29/01/2015,,EUR,orange,Private Loans y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=58211,-0.5%,-0.5%,-0.9%,Thu
-29/01/2015,10:19,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=56610,1.62|1.4,,1.89|1.3,Thu
-29/01/2015,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=january.2015#detail=55524,39,31,61,Thu
-29/01/2015,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2015#detail=54297,265K,301K,308K,Thu
-29/01/2015,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57436,-3.7%,0.6%,0.6%,Thu
-29/01/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2015#detail=54402,-94B,-113B,-216B,Thu
-29/01/2015,21:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55015,-2.1%,,10.5%,Thu
-29/01/2015,,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55001,-1.3%,,3.1%,Thu
-29/01/2015,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56768,-3.4%,-2.3%,-2.5%,Thu
-29/01/2015,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57029,2.2%,2.2%,2.3%,Thu
-29/01/2015,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57028,2.5%,2.6%,2.7%,Thu
-29/01/2015,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=56769,3.4%,3.5%,3.5%,Thu
-29/01/2015,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56804,1.0%,1.3%,-0.5%,Thu
-30/01/2015,00:05,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=55548,1,-2,-4,Fri
-30/01/2015,00:30,AUD,red,PPI q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=54985,0.1%,0.3%,0.2%,Fri
-30/01/2015,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54853,0.5%,0.5%,0.5%,Fri
-30/01/2015,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56877,-14.7%,-14.6%,-14.3%,Fri
-30/01/2015,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57526,0.2%,0.4%,0.9%,Fri
-30/01/2015,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56503,1.5%,0.3%,0.2%,Fri
-30/01/2015,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=january.2015#detail=56158,97.0,94.8,98.8,Fri
-30/01/2015,,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56575,-1.4%,-1.5%,-1.0%,Fri
-30/01/2015,,EUR,orange,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=56563,0.7%,0.5%,0.5%,Fri
-30/01/2015,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=56634,12.9%,13.5%,13.3%,Fri
-30/01/2015,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55619,2.2B,3.2B,3.1B,Fri
-30/01/2015,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55617,0.1%,0.5%,0.1%,Fri
-30/01/2015,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=january.2015#detail=55618,60K,60K,59K,Fri
-30/01/2015,10:00,EUR,red,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57240,-0.6%,-0.5%,-0.2%,Fri
-30/01/2015,,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57239,0.6%,0.6%,0.7%,Fri
-30/01/2015,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=57238,11.4%,11.5%,11.5%,Fri
-30/01/2015,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58498,-0.2%,-0.1%,0.3%,Fri
-30/01/2015,,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=57844,2.6%,3.0%,5.0%,Fri
-30/01/2015,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=57845,0.0%,0.9%,1.4%,Fri
-30/01/2015,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=57932,0.6%,0.6%,0.7%,Fri
-30/01/2015,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=56134,59.4,57.7,58.3,Fri
-30/01/2015,15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=56087,98.1,98.5,98.2,Fri
-30/01/2015,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2015#detail=56089,2.5%,,2.4%,Fri
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/01/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58664,,,,Thu,Africa/Lagos
+01/01/2015,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58414,,,,Thu,Africa/Lagos
+01/01/2015,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=54666,50.1,50.0,50.3,Thu,Africa/Lagos
+01/01/2015,01:09,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=54679,54.1,,53.9,Thu,Africa/Lagos
+01/01/2015,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58437,,,,Thu,Africa/Lagos
+01/01/2015,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58631,,,,Thu,Africa/Lagos
+01/01/2015,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58632,,,,Thu,Africa/Lagos
+01/01/2015,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58633,,,,Thu,Africa/Lagos
+01/01/2015,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58405,,,,Thu,Africa/Lagos
+01/01/2015,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58375,,,,Thu,Africa/Lagos
+01/01/2015,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58395,,,,Thu,Africa/Lagos
+01/01/2015,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58386,,,,Thu,Africa/Lagos
+02/01/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58665,,,,Fri,Africa/Lagos
+02/01/2015,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58415,,,,Fri,Africa/Lagos
+02/01/2015,05:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=54901,-21.2%,,-18.4%,Fri,Africa/Lagos
+02/01/2015,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58438,,,,Fri,Africa/Lagos
+02/01/2015,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55333,53.8,54.9,54.7,Fri,Africa/Lagos
+02/01/2015,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55334,48.4,49.6,49.0,Fri,Africa/Lagos
+02/01/2015,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=59062,47.5,47.9,47.9,Fri,Africa/Lagos
+02/01/2015,08:55,EUR,orange,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=59065,51.2,51.2,51.2,Fri,Africa/Lagos
+02/01/2015,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55335,50.6,50.8,50.8,Fri,Africa/Lagos
+02/01/2015,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55332,52.5,53.7,53.3,Fri,Africa/Lagos
+02/01/2015,,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=51613,3.3B,2.5B,2.7B,Fri,Africa/Lagos
+02/01/2015,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=51840,0.0%,0.2%,0.0%,Fri,Africa/Lagos
+02/01/2015,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=january.2015#detail=51843,59K,59K,60K,Fri,Africa/Lagos
+02/01/2015,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=59551,53.9,,55.3,Fri,Africa/Lagos
+02/01/2015,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55347,53.9,54.1,53.7,Fri,Africa/Lagos
+02/01/2015,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=57996,55.5,57.6,58.7,Fri,Africa/Lagos
+02/01/2015,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57696,-0.3%,0.4%,1.2%,Fri,Africa/Lagos
+02/01/2015,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=january.2015#detail=58002,38.5,43.1,44.5,Fri,Africa/Lagos
+04/01/2015,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2015#detail=54711,46.9,,50.1,Sun,Africa/Lagos
+05/01/2015,01:35,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55337,52.0,52.1,52.1,Mon,Africa/Lagos
+05/01/2015,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=53332,0.0%,0.1%,0.0%,Mon,Africa/Lagos
+05/01/2015,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=56598,-64.4K,-72.0K,-14.7K,Mon,Africa/Lagos
+05/01/2015,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55336,54.0,52.9,52.1,Mon,Africa/Lagos
+05/01/2015,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=58149,0.9,-0.9,-2.5,Mon,Africa/Lagos
+05/01/2015,,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=58713,57.6,59.2,59.4,Mon,Africa/Lagos
+05/01/2015,13:00,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58785,,,,Mon,Africa/Lagos
+05/01/2015,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=january.2015#detail=58081,16.9M,16.9M,17.2M,Mon,Africa/Lagos
+05/01/2015,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56923,38.2%,34.3%,36.7%,Mon,Africa/Lagos
+06/01/2015,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=54865,-0.93B,-1.59B,-0.88B,Tue,Africa/Lagos
+06/01/2015,01:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55433,53.4,,53.0,Tue,Africa/Lagos
+06/01/2015,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=56947,0.30|3.4,,0.47|3.0,Tue,Africa/Lagos
+06/01/2015,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58634,,,,Tue,Africa/Lagos
+06/01/2015,08:15,EUR,orange,Spanish Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55430,54.3,52.9,52.7,Tue,Africa/Lagos
+06/01/2015,08:45,EUR,orange,Italian Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55429,49.4,51.4,51.8,Tue,Africa/Lagos
+06/01/2015,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=59248,50.6,49.8,49.8,Tue,Africa/Lagos
+06/01/2015,08:55,EUR,orange,German Final Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=59254,52.1,51.4,51.4,Tue,Africa/Lagos
+06/01/2015,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55428,51.6,51.9,51.9,Tue,Africa/Lagos
+06/01/2015,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55431,55.8,58.9,58.6,Tue,Africa/Lagos
+06/01/2015,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=january.2015#detail=50118,,,,Tue,Africa/Lagos
+06/01/2015,10:35,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=55709,1.62|1.6,,2.21|1.5,Tue,Africa/Lagos
+06/01/2015,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58515,-5.8%,-4.6%,-4.2%,Tue,Africa/Lagos
+06/01/2015,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58514,-0.4%,-0.5%,-0.6%,Tue,Africa/Lagos
+06/01/2015,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55432,53.3,53.8,53.6,Tue,Africa/Lagos
+06/01/2015,14:49,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=january.2015#detail=56338,3.6%,,2.4%,Tue,Africa/Lagos
+06/01/2015,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=58020,56.2,58.2,59.3,Tue,Africa/Lagos
+06/01/2015,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57792,-0.7%,-0.3%,-0.7%,Tue,Africa/Lagos
+06/01/2015,22:20,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=january.2015#detail=54712,47.5,,43.8,Tue,Africa/Lagos
+07/01/2015,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55050,-4.4%,,-1.6%,Wed,Africa/Lagos
+07/01/2015,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55817,-1.7%,,-1.9%,Wed,Africa/Lagos
+07/01/2015,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=53108,1.0%,0.2%,2.0%,Wed,Africa/Lagos
+07/01/2015,08:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=january.2015#detail=56420,495B,,463B,Wed,Africa/Lagos
+07/01/2015,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=57537,-27K,-6K,-16K,Wed,Africa/Lagos
+07/01/2015,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=53286,13.4%,13.3%,13.3%,Wed,Africa/Lagos
+07/01/2015,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=57477,47.6,,48.9,Wed,Africa/Lagos
+07/01/2015,10:00,EUR,red,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57231,-0.2%,0.0%,0.3%,Wed,Africa/Lagos
+07/01/2015,,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57230,0.8%,0.6%,0.7%,Wed,Africa/Lagos
+07/01/2015,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=57229,11.5%,11.5%,11.5%,Wed,Africa/Lagos
+07/01/2015,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56678,0.0%,-0.2%,-0.2%,Wed,Africa/Lagos
+07/01/2015,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=54487,241K,227K,227K,Wed,Africa/Lagos
+07/01/2015,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=57750,-0.6B,-0.2B,-0.3B,Wed,Africa/Lagos
+07/01/2015,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=57744,-39.0B,-42.3B,-42.2B,Wed,Africa/Lagos
+07/01/2015,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=58714,55.4,52.3,56.9,Wed,Africa/Lagos
+07/01/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2015#detail=54346,-3.1M,0.9M,-1.8M,Wed,Africa/Lagos
+07/01/2015,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=january.2015#detail=54523,,,,Wed,Africa/Lagos
+07/01/2015,23:30,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58731,,,,Wed,Africa/Lagos
+08/01/2015,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54941,7.5%,-2.7%,11.5%,Thu,Africa/Lagos
+08/01/2015,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57513,-2.4%,-0.6%,2.9%,Thu,Africa/Lagos
+08/01/2015,08:00,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55576,0.9%,0.3%,0.5%,Thu,Africa/Lagos
+08/01/2015,09:59,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=56480,0.79|2.0,,1.11|2.4,Thu,Africa/Lagos
+08/01/2015,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57232,0.6%,0.3%,0.6%,Thu,Africa/Lagos
+08/01/2015,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57228,-0.3%,-0.2%,-0.3%,Thu,Africa/Lagos
+08/01/2015,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=54583,0.50%,0.50%,0.50%,Thu,Africa/Lagos
+08/01/2015,,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=january.2015#detail=54582,375B,375B,375B,Thu,Africa/Lagos
+08/01/2015,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=54549,6.6%,,-20.7%,Thu,Africa/Lagos
+08/01/2015,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58578,0.1%,0.2%,0.1%,Thu,Africa/Lagos
+08/01/2015,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2015#detail=54294,294K,291K,298K,Thu,Africa/Lagos
+08/01/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2015#detail=54399,-131B,-120B,-26B,Thu,Africa/Lagos
+08/01/2015,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57972,14.1B,15.1B,16.0B,Thu,Africa/Lagos
+08/01/2015,21:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55014,10.0%,,9.8%,Thu,Africa/Lagos
+08/01/2015,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=january.2015#detail=54713,44.4,,45.4,Thu,Africa/Lagos
+09/01/2015,00:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54877,0.1%,0.3%,0.4%,Fri,Africa/Lagos
+09/01/2015,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56014,1.5%,1.5%,1.4%,Fri,Africa/Lagos
+09/01/2015,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56015,-3.3%,-3.1%,-2.7%,Fri,Africa/Lagos
+09/01/2015,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=january.2015#detail=56800,103.8%,104.9%,104.5%,Fri,Africa/Lagos
+09/01/2015,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=56408,3.2%,3.1%,3.2%,Fri,Africa/Lagos
+09/01/2015,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57501,-0.1%,0.4%,0.6%,Fri,Africa/Lagos
+09/01/2015,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=57549,17.7B,19.4B,20.6B,Fri,Africa/Lagos
+09/01/2015,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56529,-0.3%,0.4%,-0.7%,Fri,Africa/Lagos
+09/01/2015,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=56542,-3.2B,-4.5B,-4.3B,Fri,Africa/Lagos
+09/01/2015,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56456,-0.5%,-0.3%,0.0%,Fri,Africa/Lagos
+09/01/2015,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55877,0.7%,0.4%,-0.7%,Fri,Africa/Lagos
+09/01/2015,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=55829,-8.8B,-9.5B,-9.8B,Fri,Africa/Lagos
+09/01/2015,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55665,-2.0%,1.3%,-1.9%,Fri,Africa/Lagos
+09/01/2015,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55878,-0.1%,0.2%,-0.3%,Fri,Africa/Lagos
+09/01/2015,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=january.2015#detail=58331,181K,191K,195K,Fri,Africa/Lagos
+09/01/2015,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58446,-13.8%,0.8%,2.1%,Fri,Africa/Lagos
+09/01/2015,,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=58539,-4.3K,10.3K,-10.7K,Fri,Africa/Lagos
+09/01/2015,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=58538,6.6%,6.6%,6.6%,Fri,Africa/Lagos
+09/01/2015,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=54451,252K,241K,353K,Fri,Africa/Lagos
+09/01/2015,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=54452,5.6%,5.7%,5.8%,Fri,Africa/Lagos
+09/01/2015,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54453,-0.2%,0.2%,0.2%,Fri,Africa/Lagos
+09/01/2015,14:49,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=january.2015#detail=55853,0.6%,,0.7%,Fri,Africa/Lagos
+09/01/2015,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57708,0.8%,0.4%,0.6%,Fri,Africa/Lagos
+09/01/2015,18:20,USD,orange,FOMC Member Lacker Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58786,,,,Fri,Africa/Lagos
+12/01/2015,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58416,,,,Mon,Africa/Lagos
+12/01/2015,00:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54817,1.8%,,0.7%,Mon,Africa/Lagos
+12/01/2015,,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54929,-0.7%,1.8%,0.2%,Mon,Africa/Lagos
+12/01/2015,15:10,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58353,6.1,,5.5,Mon,Africa/Lagos
+12/01/2015,15:30,CAD,orange,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=january.2015#detail=58787,,,,Mon,Africa/Lagos
+12/01/2015,17:40,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58732,,,,Mon,Africa/Lagos
+12/01/2015,23:50,JPY,orange,Current Account,https://www.forexfactory.com/calendar?month=january.2015#detail=56740,0.91T,0.69T,0.95T,Mon,Africa/Lagos
+12/01/2015,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56711,2.6%,,2.7%,Mon,Africa/Lagos
+13/01/2015,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55913,-0.4%,,0.9%,Tue,Africa/Lagos
+13/01/2015,02:00,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=56038,49.6B,48.9B,54.5B,Tue,Africa/Lagos
+13/01/2015,05:03,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=56897,45.2,44.3,41.5,Tue,Africa/Lagos
+13/01/2015,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57585,-1.0%,0.2%,-0.7%,Tue,Africa/Lagos
+13/01/2015,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56622,0.3%,0.1%,0.0%,Tue,Africa/Lagos
+13/01/2015,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55757,0.5%,0.7%,1.0%,Tue,Africa/Lagos
+13/01/2015,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55760,-2.4%,-2.5%,-0.7%,Tue,Africa/Lagos
+13/01/2015,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55759,1.6%,1.7%,2.0%,Tue,Africa/Lagos
+13/01/2015,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55758,1.3%,1.4%,1.2%,Tue,Africa/Lagos
+13/01/2015,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55677,10.0%,10.1%,10.4%,Tue,Africa/Lagos
+13/01/2015,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55761,-0.3%,-0.1%,-0.2%,Tue,Africa/Lagos
+13/01/2015,14:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=january.2015#detail=58070,100.4,98.6,98.1,Tue,Africa/Lagos
+13/01/2015,15:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=january.2015#detail=58105,4.97M,4.86M,4.83M,Tue,Africa/Lagos
+13/01/2015,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=january.2015#detail=58129,51.5,48.9,48.4,Tue,Africa/Lagos
+13/01/2015,18:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=57407,1.93|2.6,,2.21|3.0,Tue,Africa/Lagos
+13/01/2015,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=54570,1.9B,3.8B,-56.8B,Tue,Africa/Lagos
+13/01/2015,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56752,3.6%,3.6%,3.6%,Tue,Africa/Lagos
+14/01/2015,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=56960,1.12|3.6,,1.46|3.1,Wed,Africa/Lagos
+14/01/2015,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56828,33.8%,,36.6%,Wed,Africa/Lagos
+14/01/2015,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56491,0.1%,0.0%,-0.2%,Wed,Africa/Lagos
+14/01/2015,08:35,EUR,red,European Court of Justice Ruling,https://www.forexfactory.com/calendar?month=january.2015#detail=58651,,,,Wed,Africa/Lagos
+14/01/2015,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57233,0.2%,0.0%,0.3%,Wed,Africa/Lagos
+14/01/2015,,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55925,-0.3%,,-0.3%,Wed,Africa/Lagos
+14/01/2015,10:33,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=57419,0.52|1.3,,0.74|1.1,Wed,Africa/Lagos
+14/01/2015,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57722,-1.0%,0.1%,0.1%,Wed,Africa/Lagos
+14/01/2015,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57720,-0.9%,0.2%,0.4%,Wed,Africa/Lagos
+14/01/2015,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57936,-2.5%,-2.7%,-1.8%,Wed,Africa/Lagos
+14/01/2015,14:15,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58793,,,,Wed,Africa/Lagos
+14/01/2015,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57684,0.2%,0.2%,0.2%,Wed,Africa/Lagos
+14/01/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2015#detail=54347,5.4M,1.2M,-3.1M,Wed,Africa/Lagos
+14/01/2015,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=57395,2.43|2.3,,2.85|2.8,Wed,Africa/Lagos
+14/01/2015,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=january.2015#detail=54562,,,,Wed,Africa/Lagos
+14/01/2015,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55038,0.3%,,-0.5%,Wed,Africa/Lagos
+14/01/2015,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56739,1.3%,4.8%,-6.4%,Wed,Africa/Lagos
+14/01/2015,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56977,1.9%,2.2%,2.6%,Wed,Africa/Lagos
+15/01/2015,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=55601,11%,11%,13%,Thu,Africa/Lagos
+15/01/2015,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=55200,37.4K,5.3K,45.0K,Thu,Africa/Lagos
+15/01/2015,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=55199,6.1%,6.3%,6.2%,Thu,Africa/Lagos
+15/01/2015,01:30,NZD,yellow,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55062,-1.0%,,3.3%,Thu,Africa/Lagos
+15/01/2015,02:02,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=january.2015#detail=56050,697B,885B,853B,Thu,Africa/Lagos
+15/01/2015,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56051,12.2%,12.5%,12.3%,Thu,Africa/Lagos
+15/01/2015,09:30,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=58796,-0.75%,,-0.25%,Thu,Africa/Lagos
+15/01/2015,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=57234,20.0B,21.3B,19.6B,Thu,Africa/Lagos
+15/01/2015,12:15,CHF,red,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58797,,,,Thu,Africa/Lagos
+15/01/2015,12:55,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55961,1.7%,,0.7%,Thu,Africa/Lagos
+15/01/2015,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57868,-0.3%,-0.3%,-0.2%,Thu,Africa/Lagos
+15/01/2015,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2015#detail=54295,316K,299K,297K,Thu,Africa/Lagos
+15/01/2015,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57870,0.3%,0.2%,0.0%,Thu,Africa/Lagos
+15/01/2015,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2015#detail=57984,10.0,5.3,-3.6,Thu,Africa/Lagos
+15/01/2015,15:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2015#detail=58032,6.3,20.3,24.5,Thu,Africa/Lagos
+15/01/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2015#detail=54400,-236B,-224B,-131B,Thu,Africa/Lagos
+15/01/2015,16:15,EUR,red,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58791,,,,Thu,Africa/Lagos
+15/01/2015,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56852,0.2%,0.3%,-0.1%,Thu,Africa/Lagos
+16/01/2015,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57597,0.0%,0.0%,0.0%,Fri,Africa/Lagos
+16/01/2015,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=56539,-90.8B,,-84.7B,Fri,Africa/Lagos
+16/01/2015,08:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56444,-1.2%,1.1%,0.6%,Fri,Africa/Lagos
+16/01/2015,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57236,-0.2%,-0.2%,-0.2%,Fri,Africa/Lagos
+16/01/2015,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57235,0.7%,0.8%,0.8%,Fri,Africa/Lagos
+16/01/2015,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57892,0.0%,0.1%,0.1%,Fri,Africa/Lagos
+16/01/2015,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57894,-0.4%,-0.3%,-0.3%,Fri,Africa/Lagos
+16/01/2015,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=128566,0.8%,0.7%,1.3%,Fri,Africa/Lagos
+16/01/2015,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=57948,79.7%,80.2%,80.0%,Fri,Africa/Lagos
+16/01/2015,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57949,-0.1%,0.1%,1.3%,Fri,Africa/Lagos
+16/01/2015,15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=56086,98.2,94.2,93.6,Fri,Africa/Lagos
+16/01/2015,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2015#detail=56088,2.4%,,2.8%,Fri,Africa/Lagos
+16/01/2015,16:00,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58792,,,,Fri,Africa/Lagos
+16/01/2015,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=january.2015#detail=58093,33.5B,27.3B,-1.4B,Fri,Africa/Lagos
+17/01/2015,13:50,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58800,,,,Sat,Africa/Lagos
+18/01/2015,23:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55564,1.4%,,-3.3%,Sun,Africa/Lagos
+18/01/2015,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54829,0.0%,,0.1%,Sun,Africa/Lagos
+19/01/2015,00:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54889,3.0%,,-0.5%,Mon,Africa/Lagos
+19/01/2015,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56840,-0.5%,-0.5%,-0.6%,Mon,Africa/Lagos
+19/01/2015,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=56889,38.8,38.6,37.7,Mon,Africa/Lagos
+19/01/2015,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56432,-0.4%,-0.6%,-0.7%,Mon,Africa/Lagos
+19/01/2015,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=january.2015#detail=58205,18.1B,22.7B,19.5B,Mon,Africa/Lagos
+19/01/2015,11:00,EUR,orange,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=january.2015#detail=57621,,,,Mon,Africa/Lagos
+19/01/2015,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58396,,,,Mon,Africa/Lagos
+19/01/2015,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=january.2015#detail=58462,4.29B,7.23B,9.53B,Mon,Africa/Lagos
+19/01/2015,21:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=55191,23,,19,Mon,Africa/Lagos
+20/01/2015,02:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55973,7.3%,7.2%,7.3%,Tue,Africa/Lagos
+20/01/2015,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55976,15.7%,15.7%,15.8%,Tue,Africa/Lagos
+20/01/2015,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55975,7.9%,7.4%,7.2%,Tue,Africa/Lagos
+20/01/2015,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=january.2015#detail=55974,,,,Tue,Africa/Lagos
+20/01/2015,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55977,11.9%,11.7%,11.7%,Tue,Africa/Lagos
+20/01/2015,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57561,-0.7%,-0.3%,0.0%,Tue,Africa/Lagos
+20/01/2015,09:03,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=56654,3.54B,4.32B,5.40B,Tue,Africa/Lagos
+20/01/2015,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=58175,48.4,40.1,34.9,Tue,Africa/Lagos
+20/01/2015,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=58173,45.2,37.6,31.8,Tue,Africa/Lagos
+20/01/2015,13:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58566,-1.4%,-0.5%,-1.1%,Tue,Africa/Lagos
+20/01/2015,14:34,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=january.2015#detail=56339,1.0%,,3.6%,Tue,Africa/Lagos
+20/01/2015,15:00,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58801,,,,Tue,Africa/Lagos
+20/01/2015,,USD,orange,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=january.2015#detail=58255,57,58,58,Tue,Africa/Lagos
+20/01/2015,21:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=55159,-0.2%,0.0%,0.3%,Tue,Africa/Lagos
+20/01/2015,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=54747,2.4%,,-5.7%,Tue,Africa/Lagos
+21/01/2015,02:00,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58802,,,,Wed,Africa/Lagos
+21/01/2015,03:29,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=january.2015#detail=57092,,,,Wed,Africa/Lagos
+21/01/2015,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56699,0.1%,0.1%,0.1%,Wed,Africa/Lagos
+21/01/2015,06:30,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=january.2015#detail=57093,,,,Wed,Africa/Lagos
+21/01/2015,Day 1,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2015#detail=58320,,,,Wed,Africa/Lagos
+21/01/2015,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55721,1.7%,1.7%,1.4%,Wed,Africa/Lagos
+21/01/2015,,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=january.2015#detail=55720,-29.7K,-24.2K,-29.6K,Wed,Africa/Lagos
+21/01/2015,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=january.2015#detail=54588,0-0-9,2-0-7,2-0-7,Wed,Africa/Lagos
+21/01/2015,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=january.2015#detail=54590,0-0-9,0-0-9,0-0-9,Wed,Africa/Lagos
+21/01/2015,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=55722,5.8%,5.9%,6.0%,Wed,Africa/Lagos
+21/01/2015,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=january.2015#detail=56178,-10.8,,-4.9,Wed,Africa/Lagos
+21/01/2015,13:30,CAD,red,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58618,-0.3%,0.2%,-1.1%,Wed,Africa/Lagos
+21/01/2015,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=january.2015#detail=57660,1.03M,1.06M,1.05M,Wed,Africa/Lagos
+21/01/2015,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=january.2015#detail=57662,1.09M,1.04M,1.04M,Wed,Africa/Lagos
+21/01/2015,15:00,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=january.2015#detail=57385,,,,Wed,Africa/Lagos
+21/01/2015,,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=january.2015#detail=57370,,,,Wed,Africa/Lagos
+21/01/2015,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=57369,0.75%,1.00%,1.00%,Wed,Africa/Lagos
+21/01/2015,16:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=january.2015#detail=57386,,,,Wed,Africa/Lagos
+21/01/2015,21:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2015#detail=55144,57.7,,55.6,Wed,Africa/Lagos
+22/01/2015,00:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2015#detail=54759,3.2%,,3.4%,Thu,Africa/Lagos
+22/01/2015,,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=50772,2.2%,,3.0%,Thu,Africa/Lagos
+22/01/2015,05:00,JPY,yellow,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=january.2015#detail=56935,,,,Thu,Africa/Lagos
+22/01/2015,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=56571,23.7%,23.6%,23.7%,Thu,Africa/Lagos
+22/01/2015,09:00,GBP,orange,MPC Member Miles Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58803,,,,Thu,Africa/Lagos
+22/01/2015,Day 2,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2015#detail=58321,,,,Thu,Africa/Lagos
+22/01/2015,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=january.2015#detail=55865,12.5B,9.2B,11.7B,Thu,Africa/Lagos
+22/01/2015,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56666,0.1%,0.1%,0.0%,Thu,Africa/Lagos
+22/01/2015,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=january.2015#detail=55536,4,6,5,Thu,Africa/Lagos
+22/01/2015,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=54650,0.05%,0.05%,0.05%,Thu,Africa/Lagos
+22/01/2015,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=january.2015#detail=54651,,,,Thu,Africa/Lagos
+22/01/2015,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2015#detail=54296,307K,301K,317K,Thu,Africa/Lagos
+22/01/2015,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56362,0.8%,0.4%,0.4%,Thu,Africa/Lagos
+22/01/2015,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=57237,-9,-11,-11,Thu,Africa/Lagos
+22/01/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2015#detail=54401,-216B,-231B,-236B,Thu,Africa/Lagos
+22/01/2015,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2015#detail=54348,10.1M,2.5M,5.4M,Thu,Africa/Lagos
+23/01/2015,01:35,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55231,52.1,52.0,52.0,Fri,Africa/Lagos
+23/01/2015,01:45,CNY,red,Caixin Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55232,49.8,49.5,49.6,Fri,Africa/Lagos
+23/01/2015,08:00,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55224,49.5,48.1,47.5,Fri,Africa/Lagos
+23/01/2015,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55225,49.5,50.9,50.6,Fri,Africa/Lagos
+23/01/2015,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55226,51.0,51.8,51.2,Fri,Africa/Lagos
+23/01/2015,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55227,52.7,52.6,52.1,Fri,Africa/Lagos
+23/01/2015,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55228,51.0,51.0,50.6,Fri,Africa/Lagos
+23/01/2015,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55229,52.3,52.1,51.6,Fri,Africa/Lagos
+23/01/2015,Day 3,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2015#detail=58322,,,,Fri,Africa/Lagos
+23/01/2015,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55841,0.4%,-0.6%,1.6%,Fri,Africa/Lagos
+23/01/2015,13:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58474,-0.3%,-0.3%,-0.2%,Fri,Africa/Lagos
+23/01/2015,,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58594,0.7%,0.5%,0.1%,Fri,Africa/Lagos
+23/01/2015,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58475,-0.7%,-0.5%,-0.4%,Fri,Africa/Lagos
+23/01/2015,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58595,0.4%,0.1%,0.0%,Fri,Africa/Lagos
+23/01/2015,14:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=january.2015#detail=58274,-8.8,-6.1,-6.9,Fri,Africa/Lagos
+23/01/2015,14:45,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55230,53.7,54.1,53.9,Fri,Africa/Lagos
+23/01/2015,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=january.2015#detail=57435,5.04M,5.08M,4.92M,Fri,Africa/Lagos
+23/01/2015,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58286,0.5%,0.5%,0.4%,Fri,Africa/Lagos
+25/01/2015,All Day,EUR,red,Greek Parliamentary Election,https://www.forexfactory.com/calendar?month=january.2015#detail=58729,,,,Sun,Africa/Lagos
+25/01/2015,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2015#detail=58366,,,,Sun,Africa/Lagos
+25/01/2015,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=january.2015#detail=127153,56.5,,53.7,Sun,Africa/Lagos
+25/01/2015,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=january.2015#detail=57046,,,,Sun,Africa/Lagos
+25/01/2015,,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=56865,-0.71T,-0.74T,-0.83T,Sun,Africa/Lagos
+26/01/2015,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=55095,4.5%,,5.1%,Mon,Africa/Lagos
+26/01/2015,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=january.2015#detail=58161,106.7,106.7,105.5,Mon,Africa/Lagos
+26/01/2015,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=january.2015#detail=58799,,,,Mon,Africa/Lagos
+26/01/2015,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56988,3.6%,3.6%,3.6%,Mon,Africa/Lagos
+27/01/2015,00:30,AUD,red,NAB Business Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=54695,2,,2,Tue,Africa/Lagos
+27/01/2015,02:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56074,1.1%,,0.8%,Tue,Africa/Lagos
+27/01/2015,09:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=55945,0.5%,0.6%,0.7%,Tue,Africa/Lagos
+27/01/2015,,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=january.2015#detail=55653,35.7K,36.6K,36.7K,Tue,Africa/Lagos
+27/01/2015,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=january.2015#detail=55901,0.8%,1.0%,0.7%,Tue,Africa/Lagos
+27/01/2015,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=january.2015#detail=58798,,,,Tue,Africa/Lagos
+27/01/2015,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57770,-0.8%,0.6%,-0.7%,Tue,Africa/Lagos
+27/01/2015,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57768,-3.4%,0.6%,-0.9%,Tue,Africa/Lagos
+27/01/2015,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=58117,4.3%,4.4%,4.5%,Tue,Africa/Lagos
+27/01/2015,14:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=55500,54.0,53.9,53.3,Tue,Africa/Lagos
+27/01/2015,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2015#detail=58044,6,6,7,Tue,Africa/Lagos
+27/01/2015,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=54537,102.9,95.3,93.1,Tue,Africa/Lagos
+27/01/2015,,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=january.2015#detail=57648,481K,452K,431K,Tue,Africa/Lagos
+27/01/2015,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54841,0.0%,,-0.1%,Tue,Africa/Lagos
+28/01/2015,00:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=54969,0.2%,0.3%,0.5%,Wed,Africa/Lagos
+28/01/2015,,AUD,orange,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=54970,0.7%,0.5%,0.3%,Wed,Africa/Lagos
+28/01/2015,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=january.2015#detail=56146,1.42,,1.29,Wed,Africa/Lagos
+28/01/2015,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=january.2015#detail=57633,9.3,9.2,9.0,Wed,Africa/Lagos
+28/01/2015,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57573,-1.7%,-1.4%,-0.8%,Wed,Africa/Lagos
+28/01/2015,10:34,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=57431,1.07|1.3,,1.77|1.2,Wed,Africa/Lagos
+28/01/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2015#detail=54349,8.9M,4.2M,10.1M,Wed,Africa/Lagos
+28/01/2015,18:50,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=january.2015#detail=58805,,,,Wed,Africa/Lagos
+28/01/2015,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=54498,<0.25%,<0.25%,<0.25%,Wed,Africa/Lagos
+28/01/2015,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=january.2015#detail=54499,,,,Wed,Africa/Lagos
+28/01/2015,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=55106,3.50%,3.50%,3.50%,Wed,Africa/Lagos
+28/01/2015,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=january.2015#detail=55107,,,,Wed,Africa/Lagos
+28/01/2015,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2015#detail=55013,-159M,-48M,-285M,Wed,Africa/Lagos
+28/01/2015,23:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54989,0.1%,,-0.2%,Wed,Africa/Lagos
+28/01/2015,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56805,0.2%,1.1%,0.5%,Wed,Africa/Lagos
+29/01/2015,00:30,AUD,orange,Import Prices q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=54977,0.9%,1.5%,-0.8%,Thu,Africa/Lagos
+29/01/2015,07:00,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55589,0.3%,0.4%,0.2%,Thu,Africa/Lagos
+29/01/2015,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57598,-1.0%,-0.8%,0.0%,Thu,Africa/Lagos
+29/01/2015,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=january.2015#detail=57538,-9K,-9K,-25K,Thu,Africa/Lagos
+29/01/2015,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=58209,3.6%,3.6%,3.1%,Thu,Africa/Lagos
+29/01/2015,,EUR,orange,Private Loans y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=58211,-0.5%,-0.5%,-0.9%,Thu,Africa/Lagos
+29/01/2015,10:19,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2015#detail=56610,1.62|1.4,,1.89|1.3,Thu,Africa/Lagos
+29/01/2015,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=january.2015#detail=55524,39,31,61,Thu,Africa/Lagos
+29/01/2015,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2015#detail=54297,265K,301K,308K,Thu,Africa/Lagos
+29/01/2015,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57436,-3.7%,0.6%,0.6%,Thu,Africa/Lagos
+29/01/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2015#detail=54402,-94B,-113B,-216B,Thu,Africa/Lagos
+29/01/2015,21:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55015,-2.1%,,10.5%,Thu,Africa/Lagos
+29/01/2015,,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55001,-1.3%,,3.1%,Thu,Africa/Lagos
+29/01/2015,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56768,-3.4%,-2.3%,-2.5%,Thu,Africa/Lagos
+29/01/2015,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57029,2.2%,2.2%,2.3%,Thu,Africa/Lagos
+29/01/2015,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57028,2.5%,2.6%,2.7%,Thu,Africa/Lagos
+29/01/2015,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=56769,3.4%,3.5%,3.5%,Thu,Africa/Lagos
+29/01/2015,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56804,1.0%,1.3%,-0.5%,Thu,Africa/Lagos
+30/01/2015,00:05,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2015#detail=55548,1,-2,-4,Fri,Africa/Lagos
+30/01/2015,00:30,AUD,red,PPI q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=54985,0.1%,0.3%,0.2%,Fri,Africa/Lagos
+30/01/2015,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=54853,0.5%,0.5%,0.5%,Fri,Africa/Lagos
+30/01/2015,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56877,-14.7%,-14.6%,-14.3%,Fri,Africa/Lagos
+30/01/2015,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=57526,0.2%,0.4%,0.9%,Fri,Africa/Lagos
+30/01/2015,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=56503,1.5%,0.3%,0.2%,Fri,Africa/Lagos
+30/01/2015,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=january.2015#detail=56158,97.0,94.8,98.8,Fri,Africa/Lagos
+30/01/2015,,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=56575,-1.4%,-1.5%,-1.0%,Fri,Africa/Lagos
+30/01/2015,,EUR,orange,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=56563,0.7%,0.5%,0.5%,Fri,Africa/Lagos
+30/01/2015,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=56634,12.9%,13.5%,13.3%,Fri,Africa/Lagos
+30/01/2015,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55619,2.2B,3.2B,3.1B,Fri,Africa/Lagos
+30/01/2015,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=55617,0.1%,0.5%,0.1%,Fri,Africa/Lagos
+30/01/2015,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=january.2015#detail=55618,60K,60K,59K,Fri,Africa/Lagos
+30/01/2015,10:00,EUR,red,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57240,-0.6%,-0.5%,-0.2%,Fri,Africa/Lagos
+30/01/2015,,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2015#detail=57239,0.6%,0.6%,0.7%,Fri,Africa/Lagos
+30/01/2015,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2015#detail=57238,11.4%,11.5%,11.5%,Fri,Africa/Lagos
+30/01/2015,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=january.2015#detail=58498,-0.2%,-0.1%,0.3%,Fri,Africa/Lagos
+30/01/2015,,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=57844,2.6%,3.0%,5.0%,Fri,Africa/Lagos
+30/01/2015,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=57845,0.0%,0.9%,1.4%,Fri,Africa/Lagos
+30/01/2015,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=january.2015#detail=57932,0.6%,0.6%,0.7%,Fri,Africa/Lagos
+30/01/2015,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=january.2015#detail=56134,59.4,57.7,58.3,Fri,Africa/Lagos
+30/01/2015,15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2015#detail=56087,98.1,98.5,98.2,Fri,Africa/Lagos
+30/01/2015,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2015#detail=56089,2.5%,,2.4%,Fri,Africa/Lagos

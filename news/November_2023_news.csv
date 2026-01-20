@@ -1,449 +1,449 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/11/2023,01:00,NZD,orange,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138126,,,,Wed
-01/11/2023,01:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131123,-4.6%,2.6%,8.1%,Wed
-01/11/2023,,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=128799,48.7,49.0,48.5,Wed
-01/11/2023,02:45,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131488,49.5,50.8,50.6,Wed
-01/11/2023,06:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=130624,-16.8%,,-21.4%,Wed
-01/11/2023,08:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133317,0.9%,-0.3%,0.1%,Wed
-01/11/2023,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=133756,,,,Wed
-01/11/2023,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=133751,,,,Wed
-01/11/2023,09:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129108,40.6,45.0,44.9,Wed
-01/11/2023,10:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129154,44.8,45.2,45.2,Wed
-01/11/2023,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=133623,113K,149K,89K,Wed
-01/11/2023,13:40,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138130,,,,Wed
-01/11/2023,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130461,48.6,,47.5,Wed
-01/11/2023,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130474,50.0,50.0,50.0,Wed
-01/11/2023,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130025,46.7,49.0,49.0,Wed
-01/11/2023,,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=november.2023#detail=132227,9.55M,9.34M,9.50M,Wed
-01/11/2023,,USD,orange,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=november.2023#detail=130024,45.1,46.2,43.8,Wed
-01/11/2023,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129969,0.4%,0.4%,1.0%,Wed
-01/11/2023,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=november.2023#detail=130548,15.5M,15.6M,15.7M,Wed
-01/11/2023,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2023#detail=129442,0.8M,1.5M,1.4M,Wed
-01/11/2023,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=128399,5.50%,5.50%,5.50%,Wed
-01/11/2023,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=128407,,,,Wed
-01/11/2023,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=november.2023#detail=128419,,,,Wed
-01/11/2023,21:15,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138393,,,,Wed
-02/11/2023,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128194,9.0%,5.9%,5.6%,Thu
-02/11/2023,01:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131112,6.79B,9.55B,10.16B,Thu
-02/11/2023,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=128779,0.91|3.6,,0.77|3.9,Thu
-02/11/2023,08:30,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131401,0.1%,0.1%,-0.1%,Thu
-02/11/2023,08:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131905,-186.1B,,-187.9B,Thu
-02/11/2023,09:00,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=november.2023#detail=131330,-40,-25,-27,Thu
-02/11/2023,09:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129093,45.1,47.1,47.7,Thu
-02/11/2023,09:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129085,44.9,46.3,46.8,Thu
-02/11/2023,09:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129121,42.8,42.6,42.6,Thu
-02/11/2023,09:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129145,40.8,40.7,40.7,Thu
-02/11/2023,,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=131740,30K,14K,12K,Thu
-02/11/2023,10:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129133,43.1,43.0,43.0,Thu
-02/11/2023,10:53,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=129353,3.58|2.0,,4.07|2.1,Thu
-02/11/2023,11:01,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=129358,3.32|2.0,,3.56|1.9,Thu
-02/11/2023,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=130086,8.8%,,58.2%,Thu
-02/11/2023,13:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=november.2023#detail=133254,,,,Thu
-02/11/2023,,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=november.2023#detail=133247,,,,Thu
-02/11/2023,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=november.2023#detail=133246,3-0-6,2-0-7,4-0-5,Thu
-02/11/2023,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=133245,5.25%,5.25%,5.25%,Thu
-02/11/2023,13:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138385,,,,Thu
-02/11/2023,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2023#detail=130243,217K,210K,212K,Thu
-02/11/2023,,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=129771,4.7%,4.2%,3.5%,Thu
-02/11/2023,,USD,yellow,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=129770,-0.8%,0.4%,2.2%,Thu
-02/11/2023,15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129909,2.8%,2.2%,1.0%,Thu
-02/11/2023,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2023#detail=128470,79B,81B,74B,Thu
-02/11/2023,18:00,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138133,,,,Thu
-03/11/2023,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=133660,,,,Fri
-03/11/2023,01:30,AUD,yellow,Household Spending m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=146429,3.1%,,2.7%,Fri
-03/11/2023,02:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131489,50.4,51.0,50.2,Fri
-03/11/2023,03:05,AUD,yellow,RBA Assist Gov Jones Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=146731,,,,Fri
-03/11/2023,08:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=132158,16.5B,16.3B,17.7B,Fri
-03/11/2023,08:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129285,-0.5%,0.0%,-0.1%,Fri
-03/11/2023,,EUR,yellow,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131910,-0.1%,0.2%,0.1%,Fri
-03/11/2023,09:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=129380,36.9K,11.2K,19.8K,Fri
-03/11/2023,10:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=129260,7.4%,7.4%,7.3%,Fri
-03/11/2023,10:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129219,49.5,49.2,49.2,Fri
-03/11/2023,11:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=132748,6.5%,6.4%,6.4%,Fri
-03/11/2023,13:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138391,,,,Fri
-03/11/2023,13:15,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138136,,,,Fri
-03/11/2023,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=132537,17.5K,25.7K,63.8K,Fri
-03/11/2023,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=132538,5.7%,5.6%,5.5%,Fri
-03/11/2023,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129754,0.2%,0.3%,0.3%,Fri
-03/11/2023,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=129752,150K,178K,297K,Fri
-03/11/2023,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=129753,3.9%,3.8%,3.8%,Fri
-03/11/2023,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130486,50.6,50.9,50.9,Fri
-03/11/2023,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130062,51.8,53.0,53.6,Fri
-03/11/2023,17:00,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138139,,,,Fri
-03/11/2023,20:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138394,,,,Fri
-05/11/2023,08:00,CAD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2023#detail=130254,,,,Sun
-05/11/2023,,USD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2023#detail=129992,,,,Sun
-06/11/2023,00:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2023#detail=128129,,,,Mon
-06/11/2023,01:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130642,-0.1%,,0.0%,Mon
-06/11/2023,,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131216,2.9%,,1.4%,Mon
-06/11/2023,01:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130612,-3.0%,,-0.5%,Mon
-06/11/2023,02:05,JPY,red,BOJ Gov Ueda Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138441,,,,Mon
-06/11/2023,08:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132160,0.2%,-1.3%,1.9%,Mon
-06/11/2023,09:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129181,51.1,49.4,50.5,Mon
-06/11/2023,09:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129169,47.7,48.7,49.9,Mon
-06/11/2023,09:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129194,45.2,46.1,46.1,Mon
-06/11/2023,09:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129207,48.2,48.0,48.0,Mon
-06/11/2023,10:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129230,47.8,47.8,47.8,Mon
-06/11/2023,10:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=132191,-18.6,-22.2,-21.9,Mon
-06/11/2023,,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129242,45.6,46.1,45.0,Mon
-06/11/2023,16:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130654,53.4,54.0,53.1,Mon
-06/11/2023,17:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138452,,,,Mon
-06/11/2023,18:00,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138442,,,,Mon
-06/11/2023,19:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138451,,,,Mon
-06/11/2023,20:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=november.2023#detail=132276,,,,Mon
-07/11/2023,00:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138490,,,,Tue
-07/11/2023,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128880,1.2%,1.1%,0.8%,Tue
-07/11/2023,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128964,-2.8%,-3.0%,-2.5%,Tue
-07/11/2023,01:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133366,2.6%,2.4%,2.8%,Tue
-07/11/2023,04:01,CNY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131512,405B,596B,559B,Tue
-07/11/2023,04:02,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131513,56.5B,81.8B,77.7B,Tue
-07/11/2023,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=130291,4.35%,4.35%,4.10%,Tue
-07/11/2023,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=130302,,,,Tue
-07/11/2023,07:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=131353,2.1%,2.1%,2.1%,Tue
-07/11/2023,08:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132159,-1.4%,-0.1%,-0.1%,Tue
-07/11/2023,08:02,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133330,1.1%,0.2%,-0.3%,Tue
-07/11/2023,09:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=november.2023#detail=129636,658B,,678B,Tue
-07/11/2023,11:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132720,0.5%,0.5%,0.7%,Tue
-07/11/2023,11:03,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=132888,4.41|2.9,,4.44|3.1,Tue
-07/11/2023,13:30,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138491,,,,Tue
-07/11/2023,14:00,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138492,,,,Tue
-07/11/2023,14:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=132595,2.0B,1.0B,0.9B,Tue
-07/11/2023,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=129789,-61.5B,-59.7B,-58.7B,Tue
-07/11/2023,15:15,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138398,,,,Tue
-07/11/2023,15:41,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=november.2023#detail=128752,-0.7%,,4.3%,Tue
-07/11/2023,16:00,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138453,,,,Tue
-07/11/2023,16:16,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=november.2023#detail=133635,44.5,40.2,36.3,Tue
-07/11/2023,17:00,CAD,yellow,Gov Council Member Kozicki Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138485,,,,Tue
-07/11/2023,19:25,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138443,,,,Tue
-07/11/2023,20:30,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138444,,,,Tue
-07/11/2023,21:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129620,9.1B,8.8B,-15.8B,Tue
-07/11/2023,22:00,USD,red,Treasury Currency Report,https://www.forexfactory.com/calendar?month=november.2023#detail=131310,,,,Tue
-07/11/2023,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=november.2023#detail=130192,,,,Tue
-08/11/2023,03:25,NZD,red,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131182,2.76%,,2.83%,Wed
-08/11/2023,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=november.2023#detail=128952,108.7%,108.8%,109.2%,Wed
-08/11/2023,08:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132161,0.0%,0.0%,0.0%,Wed
-08/11/2023,08:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131949,-8.9B,-8.1B,-8.3B,Wed
-08/11/2023,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129297,-0.3%,0.1%,-0.4%,Wed
-08/11/2023,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=november.2023#detail=132203,,,,Wed
-08/11/2023,10:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138445,,,,Wed
-08/11/2023,11:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132721,-0.3%,-0.2%,-0.7%,Wed
-08/11/2023,11:15,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138454,,,,Wed
-08/11/2023,11:34,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=131681,2.64|2.5,,2.90|2.0,Wed
-08/11/2023,14:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132373,-6.5%,-0.5%,4.3%,Wed
-08/11/2023,15:15,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138456,,,,Wed
-08/11/2023,16:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129921,0.2%,0.0%,0.0%,Wed
-08/11/2023,19:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=132288,4.52|2.5,,4.61|2.5,Wed
-08/11/2023,19:30,CAD,yellow,BOC Summary of Deliberations,https://www.forexfactory.com/calendar?month=november.2023#detail=133868,,,,Wed
-08/11/2023,19:40,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138505,,,,Wed
-08/11/2023,20:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138457,,,,Wed
-08/11/2023,22:45,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138458,,,,Wed
-09/11/2023,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128915,2.8%,2.8%,2.9%,Thu
-09/11/2023,,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=november.2023#detail=128137,,,,Thu
-09/11/2023,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=november.2023#detail=128927,2.01T,2.30T,1.50T,Thu
-09/11/2023,01:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=133306,-63%,-65%,-67%,Thu
-09/11/2023,02:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131561,-0.2%,-0.1%,0.0%,Thu
-09/11/2023,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131562,-2.6%,-2.7%,-2.5%,Thu
-09/11/2023,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=128790,1.74|3.6,,1.69|3.1,Thu
-09/11/2023,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=128230,49.5,50.1,49.9,Thu
-09/11/2023,09:30,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138455,,,,Thu
-09/11/2023,10:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=november.2023#detail=132464,,,,Thu
-09/11/2023,Day 1,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=november.2023#detail=132215,,,,Thu
-09/11/2023,14:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2023#detail=130244,217K,218K,220K,Thu
-09/11/2023,16:12,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=november.2023#detail=131441,3.62%,,3.37%,Thu
-09/11/2023,17:45,CAD,yellow,Gov Council Member Rogers Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138486,,,,Thu
-09/11/2023,18:15,CHF,yellow,Gov Board Member Schlegel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138447,,,,Thu
-09/11/2023,18:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138448,,,,Thu
-09/11/2023,19:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=132297,4.77|2.2,,4.84|2.3,Thu
-09/11/2023,20:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138446,,,,Thu
-09/11/2023,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2023#detail=131228,42.5,,45.1,Thu
-10/11/2023,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128187,2.4%,2.4%,2.4%,Fri
-10/11/2023,01:30,AUD,orange,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=130279,,,,Fri
-10/11/2023,08:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133551,0.2%,0.0%,0.1%,Fri
-10/11/2023,,GBP,orange,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=133605,0.0%,-0.1%,0.2%,Fri
-10/11/2023,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133556,0.4%,-0.5%,-0.8%,Fri
-10/11/2023,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=133555,-14.3B,-15.3B,-15.5B,Fri
-10/11/2023,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=november.2023#detail=133552,-0.1%,-0.2%,0.1%,Fri
-10/11/2023,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133553,0.0%,-0.1%,-0.5%,Fri
-10/11/2023,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133554,0.1%,0.2%,-0.7%,Fri
-10/11/2023,,GBP,yellow,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=133606,-4.2%,-3.2%,4.1%,Fri
-10/11/2023,10:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129271,0.0%,0.0%,0.3%,Fri
-10/11/2023,11:00,CHF,yellow,Gov Board Member Schlegel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138449,,,,Fri
-10/11/2023,Day 2,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=november.2023#detail=134165,,,,Fri
-10/11/2023,13:05,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=november.2023#detail=133342,0.1%,,0.0%,Fri
-10/11/2023,13:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138459,,,,Fri
-10/11/2023,,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138450,,,,Fri
-10/11/2023,16:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=130444,60.4,63.7,63.8,Fri
-10/11/2023,,USD,orange,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=130443,4.4%,,4.2%,Fri
-10/11/2023,16:20,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138460,,,,Fri
-12/11/2023,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=november.2023#detail=131240,48.9,,50.6,Sun
-13/11/2023,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128903,0.8%,1.0%,2.2%,Mon
-13/11/2023,01:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133294,-1.7%,,0.5%,Mon
-13/11/2023,06:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=129036,-20.6%,,-11.2%,Mon
-13/11/2023,11:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=november.2023#detail=131538,738B,660B,2310B,Mon
-13/11/2023,11:01,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131537,10.3%,10.4%,10.3%,Mon
-13/11/2023,12:55,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138577,,,,Mon
-13/11/2023,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=130263,,,,Mon
-13/11/2023,14:50,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138602,,,,Mon
-13/11/2023,15:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133354,-0.4%,,-0.7%,Mon
-13/11/2023,15:45,USD,yellow,Cleveland Fed Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=140240,4.2%,,4.3%,Mon
-13/11/2023,17:05,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138578,,,,Mon
-13/11/2023,20:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=130518,-66.6B,-70.5B,-171.0B,Mon
-13/11/2023,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130981,-0.9%,,-0.4%,Mon
-14/11/2023,00:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=130392,-2.6%,,2.9%,Tue
-14/11/2023,01:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=131149,-2,,0,Tue
-14/11/2023,08:00,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=november.2023#detail=133485,17.8K,15.0K,9.0K,Tue
-14/11/2023,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133484,7.9%,7.4%,8.2%,Tue
-14/11/2023,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=133486,4.2%,4.2%,4.2%,Tue
-14/11/2023,08:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131413,0.2%,0.1%,-0.1%,Tue
-14/11/2023,08:45,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138583,,,,Tue
-14/11/2023,10:30,CAD,yellow,Gov Council Member Gravelle Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138592,,,,Tue
-14/11/2023,11:00,EUR,yellow,Flash Employment Change q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=132767,0.3%,0.2%,0.1%,Tue
-14/11/2023,,EUR,yellow,Flash GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=132766,-0.1%,-0.1%,-0.1%,Tue
-14/11/2023,,EUR,yellow,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=132098,9.8,4.9,-1.1,Tue
-14/11/2023,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=132099,13.8,6.1,2.3,Tue
-14/11/2023,11:30,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138582,,,,Tue
-14/11/2023,11:58,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=november.2023#detail=130498,90.7,90.6,90.8,Tue
-14/11/2023,13:00,GBP,yellow,MPC Member Dhingra Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138579,,,,Tue
-14/11/2023,14:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129684,0.2%,0.3%,0.3%,Tue
-14/11/2023,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129672,0.0%,0.1%,0.4%,Tue
-14/11/2023,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=129696,3.2%,3.3%,3.7%,Tue
-14/11/2023,14:45,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138580,,,,Tue
-14/11/2023,16:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138598,,,,Tue
-14/11/2023,18:45,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138581,,,,Tue
-14/11/2023,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=november.2023#detail=130193,,,,Tue
-14/11/2023,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130941,2.4%,,-3.0%,Tue
-15/11/2023,00:50,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=129060,5.1%,4.8%,3.5%,Wed
-15/11/2023,,JPY,yellow,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=129061,-0.5%,-0.1%,1.2%,Wed
-15/11/2023,01:30,AUD,red,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131029,1.3%,1.3%,0.9%,Wed
-15/11/2023,03:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131646,4.6%,4.5%,4.5%,Wed
-15/11/2023,,CNY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131648,7.6%,7.1%,5.5%,Wed
-15/11/2023,,CNY,yellow,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131645,2.9%,3.1%,3.1%,Wed
-15/11/2023,,CNY,yellow,NBS Press Conference,https://www.forexfactory.com/calendar?month=november.2023#detail=131647,,,,Wed
-15/11/2023,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=131649,5.0%,5.0%,5.0%,Wed
-15/11/2023,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129000,0.5%,0.2%,0.2%,Wed
-15/11/2023,08:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131753,-0.7%,0.2%,0.2%,Wed
-15/11/2023,,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133443,4.6%,4.7%,6.7%,Wed
-15/11/2023,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133442,5.7%,5.8%,6.1%,Wed
-15/11/2023,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133445,0.4%,0.1%,0.6%,Wed
-15/11/2023,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133446,0.1%,0.1%,0.6%,Wed
-15/11/2023,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133444,6.1%,6.3%,8.9%,Wed
-15/11/2023,08:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131938,0.1%,0.1%,0.1%,Wed
-15/11/2023,10:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133447,-0.1%,-0.8%,0.8%,Wed
-15/11/2023,11:00,EUR,yellow,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=november.2023#detail=132487,,,,Wed
-15/11/2023,,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132722,-1.1%,-0.9%,0.6%,Wed
-15/11/2023,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=132736,9.2B,6.6B,11.1B,Wed
-15/11/2023,11:33,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=131693,2.81|3.0,,3.04|2.1,Wed
-15/11/2023,14:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132583,0.4%,0.0%,1.0%,Wed
-15/11/2023,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132385,0.4%,0.1%,1.8%,Wed
-15/11/2023,,USD,red,Core PPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129719,0.0%,0.3%,0.2%,Wed
-15/11/2023,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129872,0.1%,-0.1%,0.8%,Wed
-15/11/2023,,USD,red,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2023#detail=130050,9.1,-3.3,-4.6,Wed
-15/11/2023,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129718,-0.5%,0.1%,0.4%,Wed
-15/11/2023,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129871,-0.1%,-0.3%,0.9%,Wed
-15/11/2023,15:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138607,,,,Wed
-15/11/2023,16:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131280,0.4%,0.4%,0.4%,Wed
-15/11/2023,Nov 3rd,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2023#detail=129443,13.9M,,0.8M,Wed
-15/11/2023,16:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2023#detail=129446,3.6M,2.5M,13.9M,Wed
-15/11/2023,19:00,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138584,,,,Wed
-16/11/2023,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=128930,1.4%,0.9%,-0.5%,Thu
-16/11/2023,,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=129005,-0.46T,-0.69T,-0.42T,Thu
-16/11/2023,01:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=130380,4.9%,,4.8%,Thu
-16/11/2023,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=131067,55.0K,22.8K,7.8K,Thu
-16/11/2023,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=131066,3.7%,3.7%,3.6%,Thu
-16/11/2023,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=136816,-0.38%,,-0.30%,Thu
-16/11/2023,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129017,-1.0%,-0.1%,0.7%,Thu
-16/11/2023,10:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=129309,2.35B,3.45B,1.95B,Thu
-16/11/2023,10:42,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=138613,3.61|2.2,,3.58|2.0,Thu
-16/11/2023,12:30,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138585,,,,Thu
-16/11/2023,13:10,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138593,,,,Thu
-16/11/2023,14:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=november.2023#detail=132864,275K,255K,271K,Thu
-16/11/2023,14:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2023#detail=130245,231K,221K,218K,Thu
-16/11/2023,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2023#detail=130114,-5.9,-10.4,-9.0,Thu
-16/11/2023,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129656,-0.8%,-0.3%,0.4%,Thu
-16/11/2023,15:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129596,-0.6%,-0.4%,0.1%,Thu
-16/11/2023,,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=129608,78.9%,79.4%,79.5%,Thu
-16/11/2023,15:25,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138511,,,,Thu
-16/11/2023,16:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=november.2023#detail=132264,34,40,40,Thu
-16/11/2023,Nov 3rd,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2023#detail=128471,-6B,,79B,Thu
-16/11/2023,16:30,USD,yellow,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138601,,,,Thu
-16/11/2023,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2023#detail=128472,60B,38B,-6B,Thu
-16/11/2023,16:35,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138512,,,,Thu
-16/11/2023,16:45,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138586,,,,Thu
-16/11/2023,18:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138600,,,,Thu
-16/11/2023,22:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=november.2023#detail=131307,-1.7B,89.4B,62.2B,Thu
-16/11/2023,22:45,NZD,yellow,PPI Input q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131003,1.2%,0.2%,-0.2%,Thu
-16/11/2023,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131004,0.8%,0.4%,0.2%,Thu
-17/11/2023,08:00,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133573,-0.3%,0.5%,-1.1%,Fri
-17/11/2023,09:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138587,,,,Fri
-17/11/2023,10:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=november.2023#detail=132639,31.2B,20.3B,30.8B,Fri
-17/11/2023,10:20,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131575,-9.4%,,-8.4%,Fri
-17/11/2023,11:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132683,4.2%,4.2%,4.2%,Fri
-17/11/2023,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132684,2.9%,2.9%,2.9%,Fri
-17/11/2023,14:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138588,,,,Fri
-17/11/2023,,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138589,,,,Fri
-17/11/2023,14:15,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138594,,,,Fri
-17/11/2023,14:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=november.2023#detail=132551,-15.09B,-6.84B,-8.77B,Fri
-17/11/2023,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132618,-1.0%,0.2%,0.4%,Fri
-17/11/2023,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132617,-2.5%,-2.0%,3.9%,Fri
-17/11/2023,,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=november.2023#detail=129956,1.49M,1.45M,1.47M,Fri
-17/11/2023,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=november.2023#detail=129955,1.37M,1.35M,1.35M,Fri
-17/11/2023,15:45,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138590,,,,Fri
-18/11/2023,10:00,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138591,,,,Sat
-20/11/2023,02:15,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=134408,3.45%,3.45%,3.45%,Mon
-20/11/2023,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=134356,4.20%,4.20%,4.20%,Mon
-20/11/2023,08:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132162,-0.1%,0.0%,-0.2%,Mon
-20/11/2023,12:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=november.2023#detail=131717,,,,Mon
-20/11/2023,16:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131436,-0.8%,-0.5%,-0.7%,Mon
-20/11/2023,16:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131100,-0.3%,,-0.3%,Mon
-20/11/2023,19:45,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138608,,,,Mon
-20/11/2023,22:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=130921,-1709M,-1150M,-2425M,Mon
-21/11/2023,00:00,AUD,red,RBA Gov Bullock Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138609,,,,Tue
-21/11/2023,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2023#detail=130313,,,,Tue
-21/11/2023,03:05,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131204,-2.9%,,2.8%,Tue
-21/11/2023,08:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131365,4.60B,5.87B,6.28B,Tue
-21/11/2023,,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=november.2023#detail=133585,14.0B,16.8B,13.7B,Tue
-21/11/2023,11:15,GBP,orange,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=november.2023#detail=133258,,,,Tue
-21/11/2023,14:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132357,0.1%,0.1%,-0.1%,Tue
-21/11/2023,,CAD,red,Median CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132353,3.6%,3.6%,3.9%,Tue
-21/11/2023,,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132354,3.5%,3.6%,3.7%,Tue
-21/11/2023,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132355,4.2%,4.3%,4.4%,Tue
-21/11/2023,,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132876,0.0%,0.0%,-0.2%,Tue
-21/11/2023,14:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132356,0.3%,,-0.1%,Tue
-21/11/2023,15:23,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=november.2023#detail=128753,0.0%,,-0.7%,Tue
-21/11/2023,16:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=november.2023#detail=131268,3.79M,3.90M,3.95M,Tue
-21/11/2023,17:15,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138610,,,,Tue
-21/11/2023,20:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2023#detail=130123,,,,Tue
-21/11/2023,21:00,USD,yellow,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138621,,,,Tue
-21/11/2023,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=november.2023#detail=130194,,,,Tue
-22/11/2023,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131165,0.0%,,0.1%,Wed
-22/11/2023,09:35,AUD,red,RBA Gov Bullock Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138611,,,,Wed
-22/11/2023,10:00,EUR,orange,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=november.2023#detail=132489,,,,Wed
-22/11/2023,All Day,EUR,orange,Dutch Parliamentary Election,https://www.forexfactory.com/calendar?month=november.2023#detail=138997,,,,Wed
-22/11/2023,12:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=132917,-35,-25,-26,Wed
-22/11/2023,13:35,GBP,orange,Autumn Forecast Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=123766,,,,Wed
-22/11/2023,14:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2023#detail=130246,209K,226K,233K,Wed
-22/11/2023,,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129896,0.0%,0.2%,0.4%,Wed
-22/11/2023,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129895,-5.4%,-3.2%,4.6%,Wed
-22/11/2023,16:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=132180,-17,-18,-18,Wed
-22/11/2023,,USD,red,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=130445,61.3,61.1,60.4,Wed
-22/11/2023,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=130446,4.5%,,4.4%,Wed
-22/11/2023,16:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2023#detail=129445,8.7M,0.9M,3.6M,Wed
-22/11/2023,17:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138618,,,,Wed
-22/11/2023,17:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138614,,,,Wed
-22/11/2023,18:00,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2023#detail=128473,-7B,1B,60B,Wed
-22/11/2023,23:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131833,47.7,,48.2,Wed
-22/11/2023,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131845,46.3,,47.9,Wed
-23/11/2023,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=133661,,,,Thu
-23/11/2023,09:15,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131990,42.6,43.2,42.8,Thu
-23/11/2023,,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132002,45.3,45.6,45.2,Thu
-23/11/2023,09:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132014,42.3,41.1,40.8,Thu
-23/11/2023,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132026,48.7,48.4,48.2,Thu
-23/11/2023,10:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132039,43.8,43.3,43.1,Thu
-23/11/2023,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132042,48.2,48.0,47.8,Thu
-23/11/2023,10:30,GBP,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132043,46.7,45.0,44.8,Thu
-23/11/2023,,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132075,50.5,49.5,49.5,Thu
-23/11/2023,13:30,EUR,yellow,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=november.2023#detail=132472,,,,Thu
-23/11/2023,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=130002,,,,Thu
-23/11/2023,14:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=132568,4.7%,,-2.0%,Thu
-23/11/2023,22:45,NZD,orange,Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=130950,0.0%,-0.8%,-0.9%,Thu
-23/11/2023,,NZD,yellow,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=130949,1.0%,-1.5%,-1.6%,Thu
-24/11/2023,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128854,2.9%,3.0%,2.8%,Fri
-24/11/2023,01:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=133282,-24,-28,-30,Fri
-24/11/2023,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=128830,48.1,48.8,48.7,Fri
-24/11/2023,08:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=132163,-0.1%,-0.1%,-0.1%,Fri
-24/11/2023,10:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=november.2023#detail=131705,87.3,87.5,86.9,Fri
-24/11/2023,,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138619,,,,Fri
-24/11/2023,11:00,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138612,,,,Fri
-24/11/2023,14:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132851,0.2%,-0.3%,0.2%,Fri
-24/11/2023,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132850,0.6%,0.0%,-0.1%,Fri
-24/11/2023,15:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=november.2023#detail=133958,-15.0,-15.0,-16.8,Fri
-24/11/2023,15:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132239,49.4,49.9,50.0,Fri
-24/11/2023,,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132252,50.8,50.4,50.6,Fri
-25/11/2023,12:15,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138617,,,,Sat
-27/11/2023,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128897,2.3%,2.1%,2.0%,Mon
-27/11/2023,12:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=november.2023#detail=132905,-11,-30,-36,Mon
-27/11/2023,15:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=139064,,,,Mon
-27/11/2023,16:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=november.2023#detail=129933,679K,724K,719K,Mon
-28/11/2023,01:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133378,4.3%,,5.2%,Tue
-28/11/2023,01:30,AUD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131137,-0.2%,0.1%,0.9%,Tue
-28/11/2023,02:18,AUD,red,RBA Gov Bullock Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138623,,,,Tue
-28/11/2023,,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138622,,,,Tue
-28/11/2023,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128866,3.0%,3.4%,3.4%,Tue
-28/11/2023,08:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=november.2023#detail=131729,-27.8,-28.2,-28.3,Tue
-28/11/2023,09:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=139065,,,,Tue
-28/11/2023,10:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132510,-1.0%,-0.9%,-1.2%,Tue
-28/11/2023,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132511,0.6%,0.7%,0.8%,Tue
-28/11/2023,11:03,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=132892,4.66|2.3,,4.93|2.6,Tue
-28/11/2023,15:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131594,-0.1%,,-0.3%,Tue
-28/11/2023,,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=130038,3.9%,4.0%,2.1%,Tue
-28/11/2023,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129584,0.6%,0.4%,0.7%,Tue
-28/11/2023,15:59,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2023#detail=130101,-5,1,3,Tue
-28/11/2023,16:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=130530,102.0,101.0,99.1,Tue
-28/11/2023,,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138624,,,,Tue
-28/11/2023,16:05,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138625,,,,Tue
-28/11/2023,16:45,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138635,,,,Tue
-28/11/2023,17:00,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=139066,,,,Tue
-28/11/2023,18:00,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138626,,,,Tue
-28/11/2023,19:05,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138634,,,,Tue
-28/11/2023,21:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138633,,,,Tue
-28/11/2023,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=november.2023#detail=130195,,,,Tue
-29/11/2023,01:30,AUD,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132790,4.9%,5.2%,5.6%,Wed
-29/11/2023,,AUD,yellow,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131013,1.3%,0.3%,2.0%,Wed
-29/11/2023,02:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=128290,5.50%,5.50%,5.50%,Wed
-29/11/2023,,NZD,red,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=128292,,,,Wed
-29/11/2023,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=128291,,,,Wed
-29/11/2023,03:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=november.2023#detail=128293,,,,Wed
-29/11/2023,07:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131914,0.1%,-0.1%,-0.1%,Wed
-29/11/2023,08:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131765,0.3%,-0.3%,1.6%,Wed
-29/11/2023,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131781,-0.4%,-0.1%,0.0%,Wed
-29/11/2023,09:00,EUR,red,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=129378,3.2%,3.6%,3.5%,Wed
-29/11/2023,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=131341,-29.6,,-37.8,Wed
-29/11/2023,10:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=135748,0.3%,-0.2%,-1.1%,Wed
-29/11/2023,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=november.2023#detail=135747,47K,45K,44K,Wed
-29/11/2023,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=135749,1.2B,1.2B,0.4B,Wed
-29/11/2023,11:15,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=129070,4.17|1.4,,4.76|1.3,Wed
-29/11/2023,11:35,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=131682,2.45|1.7,,2.64|2.5,Wed
-29/11/2023,14:30,CAD,yellow,Current Account,https://www.forexfactory.com/calendar?month=november.2023#detail=132572,-3.2B,0.7B,-7.3B,Wed
-29/11/2023,,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=129812,5.2%,5.0%,4.9%,Wed
-29/11/2023,,USD,orange,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=129811,3.6%,3.5%,3.5%,Wed
-29/11/2023,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=130144,-89.8B,-86.4B,-86.8B,Wed
-29/11/2023,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130145,-0.2%,0.1%,0.2%,Wed
-29/11/2023,16:05,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138627,,,,Wed
-29/11/2023,16:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2023#detail=129444,1.6M,-0.1M,8.7M,Wed
-29/11/2023,20:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=november.2023#detail=130507,,,,Wed
-29/11/2023,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130970,8.7%,,-4.6%,Wed
-30/11/2023,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=128976,1.0%,0.7%,0.5%,Thu
-30/11/2023,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128987,4.2%,5.9%,6.3%,Thu
-30/11/2023,01:00,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=131192,30.8,,23.4,Thu
-30/11/2023,01:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131124,7.5%,1.5%,-4.0%,Thu
-30/11/2023,,AUD,yellow,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131037,0.6%,1.0%,3.4%,Thu
-30/11/2023,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131088,0.3%,0.4%,0.5%,Thu
-30/11/2023,02:30,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131466,49.4,49.8,49.5,Thu
-30/11/2023,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131465,50.2,50.9,50.6,Thu
-30/11/2023,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=128208,36.1,35.6,35.7,Thu
-30/11/2023,,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128206,-6.3%,-7.0%,-6.8%,Thu
-30/11/2023,08:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131794,1.1%,0.3%,-0.1%,Thu
-30/11/2023,08:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131377,-0.1%,0.2%,-1.2%,Thu
-30/11/2023,08:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131961,-0.9%,-0.1%,0.0%,Thu
-30/11/2023,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131925,-0.2%,0.1%,0.1%,Thu
-30/11/2023,,EUR,yellow,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=133765,-0.1%,0.1%,0.1%,Thu
-30/11/2023,09:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=november.2023#detail=131389,96.7,96.3,95.1,Thu
-30/11/2023,09:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=131741,22K,21K,31K,Thu
-30/11/2023,10:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=129258,7.8%,7.4%,7.6%,Thu
-30/11/2023,11:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132685,3.6%,3.9%,4.2%,Thu
-30/11/2023,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132686,2.4%,2.7%,2.9%,Thu
-30/11/2023,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129321,-0.4%,-0.2%,-0.2%,Thu
-30/11/2023,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=132749,6.5%,6.5%,6.5%,Thu
-30/11/2023,All Day,All,red,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=november.2023#detail=132400,,,,Thu
-30/11/2023,14:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132563,0.1%,0.0%,0.0%,Thu
-30/11/2023,,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=139067,,,,Thu
-30/11/2023,,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129825,0.2%,0.2%,0.3%,Thu
-30/11/2023,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2023#detail=130247,218K,219K,211K,Thu
-30/11/2023,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129847,0.2%,0.2%,0.4%,Thu
-30/11/2023,,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129848,0.2%,0.2%,0.7%,Thu
-30/11/2023,15:15,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138630,,,,Thu
-30/11/2023,15:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130074,55.8,46.0,44.0,Thu
-30/11/2023,16:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131256,-1.5%,-1.9%,1.0%,Thu
-30/11/2023,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2023#detail=128474,10B,-8B,-7B,Thu
-30/11/2023,17:00,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138628,,,,Thu
-30/11/2023,18:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=139069,,,,Thu
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/11/2023,01:00,NZD,orange,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138126,,,,Wed,Africa/Lagos
+01/11/2023,01:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131123,-4.6%,2.6%,8.1%,Wed,Africa/Lagos
+01/11/2023,,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=128799,48.7,49.0,48.5,Wed,Africa/Lagos
+01/11/2023,02:45,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131488,49.5,50.8,50.6,Wed,Africa/Lagos
+01/11/2023,06:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=130624,-16.8%,,-21.4%,Wed,Africa/Lagos
+01/11/2023,08:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133317,0.9%,-0.3%,0.1%,Wed,Africa/Lagos
+01/11/2023,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=133756,,,,Wed,Africa/Lagos
+01/11/2023,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=133751,,,,Wed,Africa/Lagos
+01/11/2023,09:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129108,40.6,45.0,44.9,Wed,Africa/Lagos
+01/11/2023,10:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129154,44.8,45.2,45.2,Wed,Africa/Lagos
+01/11/2023,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=133623,113K,149K,89K,Wed,Africa/Lagos
+01/11/2023,13:40,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138130,,,,Wed,Africa/Lagos
+01/11/2023,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130461,48.6,,47.5,Wed,Africa/Lagos
+01/11/2023,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130474,50.0,50.0,50.0,Wed,Africa/Lagos
+01/11/2023,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130025,46.7,49.0,49.0,Wed,Africa/Lagos
+01/11/2023,,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=november.2023#detail=132227,9.55M,9.34M,9.50M,Wed,Africa/Lagos
+01/11/2023,,USD,orange,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=november.2023#detail=130024,45.1,46.2,43.8,Wed,Africa/Lagos
+01/11/2023,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129969,0.4%,0.4%,1.0%,Wed,Africa/Lagos
+01/11/2023,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=november.2023#detail=130548,15.5M,15.6M,15.7M,Wed,Africa/Lagos
+01/11/2023,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2023#detail=129442,0.8M,1.5M,1.4M,Wed,Africa/Lagos
+01/11/2023,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=128399,5.50%,5.50%,5.50%,Wed,Africa/Lagos
+01/11/2023,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=128407,,,,Wed,Africa/Lagos
+01/11/2023,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=november.2023#detail=128419,,,,Wed,Africa/Lagos
+01/11/2023,21:15,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138393,,,,Wed,Africa/Lagos
+02/11/2023,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128194,9.0%,5.9%,5.6%,Thu,Africa/Lagos
+02/11/2023,01:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131112,6.79B,9.55B,10.16B,Thu,Africa/Lagos
+02/11/2023,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=128779,0.91|3.6,,0.77|3.9,Thu,Africa/Lagos
+02/11/2023,08:30,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131401,0.1%,0.1%,-0.1%,Thu,Africa/Lagos
+02/11/2023,08:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131905,-186.1B,,-187.9B,Thu,Africa/Lagos
+02/11/2023,09:00,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=november.2023#detail=131330,-40,-25,-27,Thu,Africa/Lagos
+02/11/2023,09:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129093,45.1,47.1,47.7,Thu,Africa/Lagos
+02/11/2023,09:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129085,44.9,46.3,46.8,Thu,Africa/Lagos
+02/11/2023,09:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129121,42.8,42.6,42.6,Thu,Africa/Lagos
+02/11/2023,09:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129145,40.8,40.7,40.7,Thu,Africa/Lagos
+02/11/2023,,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=131740,30K,14K,12K,Thu,Africa/Lagos
+02/11/2023,10:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129133,43.1,43.0,43.0,Thu,Africa/Lagos
+02/11/2023,10:53,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=129353,3.58|2.0,,4.07|2.1,Thu,Africa/Lagos
+02/11/2023,11:01,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=129358,3.32|2.0,,3.56|1.9,Thu,Africa/Lagos
+02/11/2023,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=130086,8.8%,,58.2%,Thu,Africa/Lagos
+02/11/2023,13:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=november.2023#detail=133254,,,,Thu,Africa/Lagos
+02/11/2023,,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=november.2023#detail=133247,,,,Thu,Africa/Lagos
+02/11/2023,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=november.2023#detail=133246,3-0-6,2-0-7,4-0-5,Thu,Africa/Lagos
+02/11/2023,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=133245,5.25%,5.25%,5.25%,Thu,Africa/Lagos
+02/11/2023,13:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138385,,,,Thu,Africa/Lagos
+02/11/2023,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2023#detail=130243,217K,210K,212K,Thu,Africa/Lagos
+02/11/2023,,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=129771,4.7%,4.2%,3.5%,Thu,Africa/Lagos
+02/11/2023,,USD,yellow,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=129770,-0.8%,0.4%,2.2%,Thu,Africa/Lagos
+02/11/2023,15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129909,2.8%,2.2%,1.0%,Thu,Africa/Lagos
+02/11/2023,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2023#detail=128470,79B,81B,74B,Thu,Africa/Lagos
+02/11/2023,18:00,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138133,,,,Thu,Africa/Lagos
+03/11/2023,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=133660,,,,Fri,Africa/Lagos
+03/11/2023,01:30,AUD,yellow,Household Spending m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=146429,3.1%,,2.7%,Fri,Africa/Lagos
+03/11/2023,02:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131489,50.4,51.0,50.2,Fri,Africa/Lagos
+03/11/2023,03:05,AUD,yellow,RBA Assist Gov Jones Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=146731,,,,Fri,Africa/Lagos
+03/11/2023,08:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=132158,16.5B,16.3B,17.7B,Fri,Africa/Lagos
+03/11/2023,08:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129285,-0.5%,0.0%,-0.1%,Fri,Africa/Lagos
+03/11/2023,,EUR,yellow,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131910,-0.1%,0.2%,0.1%,Fri,Africa/Lagos
+03/11/2023,09:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=129380,36.9K,11.2K,19.8K,Fri,Africa/Lagos
+03/11/2023,10:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=129260,7.4%,7.4%,7.3%,Fri,Africa/Lagos
+03/11/2023,10:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129219,49.5,49.2,49.2,Fri,Africa/Lagos
+03/11/2023,11:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=132748,6.5%,6.4%,6.4%,Fri,Africa/Lagos
+03/11/2023,13:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138391,,,,Fri,Africa/Lagos
+03/11/2023,13:15,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138136,,,,Fri,Africa/Lagos
+03/11/2023,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=132537,17.5K,25.7K,63.8K,Fri,Africa/Lagos
+03/11/2023,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=132538,5.7%,5.6%,5.5%,Fri,Africa/Lagos
+03/11/2023,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129754,0.2%,0.3%,0.3%,Fri,Africa/Lagos
+03/11/2023,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=129752,150K,178K,297K,Fri,Africa/Lagos
+03/11/2023,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=129753,3.9%,3.8%,3.8%,Fri,Africa/Lagos
+03/11/2023,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130486,50.6,50.9,50.9,Fri,Africa/Lagos
+03/11/2023,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130062,51.8,53.0,53.6,Fri,Africa/Lagos
+03/11/2023,17:00,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138139,,,,Fri,Africa/Lagos
+03/11/2023,20:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138394,,,,Fri,Africa/Lagos
+05/11/2023,08:00,CAD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2023#detail=130254,,,,Sun,Africa/Lagos
+05/11/2023,,USD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2023#detail=129992,,,,Sun,Africa/Lagos
+06/11/2023,00:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2023#detail=128129,,,,Mon,Africa/Lagos
+06/11/2023,01:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130642,-0.1%,,0.0%,Mon,Africa/Lagos
+06/11/2023,,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131216,2.9%,,1.4%,Mon,Africa/Lagos
+06/11/2023,01:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130612,-3.0%,,-0.5%,Mon,Africa/Lagos
+06/11/2023,02:05,JPY,red,BOJ Gov Ueda Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138441,,,,Mon,Africa/Lagos
+06/11/2023,08:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132160,0.2%,-1.3%,1.9%,Mon,Africa/Lagos
+06/11/2023,09:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129181,51.1,49.4,50.5,Mon,Africa/Lagos
+06/11/2023,09:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129169,47.7,48.7,49.9,Mon,Africa/Lagos
+06/11/2023,09:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129194,45.2,46.1,46.1,Mon,Africa/Lagos
+06/11/2023,09:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129207,48.2,48.0,48.0,Mon,Africa/Lagos
+06/11/2023,10:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129230,47.8,47.8,47.8,Mon,Africa/Lagos
+06/11/2023,10:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=132191,-18.6,-22.2,-21.9,Mon,Africa/Lagos
+06/11/2023,,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=129242,45.6,46.1,45.0,Mon,Africa/Lagos
+06/11/2023,16:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130654,53.4,54.0,53.1,Mon,Africa/Lagos
+06/11/2023,17:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138452,,,,Mon,Africa/Lagos
+06/11/2023,18:00,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138442,,,,Mon,Africa/Lagos
+06/11/2023,19:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138451,,,,Mon,Africa/Lagos
+06/11/2023,20:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=november.2023#detail=132276,,,,Mon,Africa/Lagos
+07/11/2023,00:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138490,,,,Tue,Africa/Lagos
+07/11/2023,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128880,1.2%,1.1%,0.8%,Tue,Africa/Lagos
+07/11/2023,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128964,-2.8%,-3.0%,-2.5%,Tue,Africa/Lagos
+07/11/2023,01:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133366,2.6%,2.4%,2.8%,Tue,Africa/Lagos
+07/11/2023,04:01,CNY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131512,405B,596B,559B,Tue,Africa/Lagos
+07/11/2023,04:02,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131513,56.5B,81.8B,77.7B,Tue,Africa/Lagos
+07/11/2023,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=130291,4.35%,4.35%,4.10%,Tue,Africa/Lagos
+07/11/2023,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=130302,,,,Tue,Africa/Lagos
+07/11/2023,07:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=131353,2.1%,2.1%,2.1%,Tue,Africa/Lagos
+07/11/2023,08:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132159,-1.4%,-0.1%,-0.1%,Tue,Africa/Lagos
+07/11/2023,08:02,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133330,1.1%,0.2%,-0.3%,Tue,Africa/Lagos
+07/11/2023,09:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=november.2023#detail=129636,658B,,678B,Tue,Africa/Lagos
+07/11/2023,11:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132720,0.5%,0.5%,0.7%,Tue,Africa/Lagos
+07/11/2023,11:03,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=132888,4.41|2.9,,4.44|3.1,Tue,Africa/Lagos
+07/11/2023,13:30,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138491,,,,Tue,Africa/Lagos
+07/11/2023,14:00,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138492,,,,Tue,Africa/Lagos
+07/11/2023,14:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=132595,2.0B,1.0B,0.9B,Tue,Africa/Lagos
+07/11/2023,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=129789,-61.5B,-59.7B,-58.7B,Tue,Africa/Lagos
+07/11/2023,15:15,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138398,,,,Tue,Africa/Lagos
+07/11/2023,15:41,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=november.2023#detail=128752,-0.7%,,4.3%,Tue,Africa/Lagos
+07/11/2023,16:00,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138453,,,,Tue,Africa/Lagos
+07/11/2023,16:16,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=november.2023#detail=133635,44.5,40.2,36.3,Tue,Africa/Lagos
+07/11/2023,17:00,CAD,yellow,Gov Council Member Kozicki Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138485,,,,Tue,Africa/Lagos
+07/11/2023,19:25,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138443,,,,Tue,Africa/Lagos
+07/11/2023,20:30,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138444,,,,Tue,Africa/Lagos
+07/11/2023,21:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129620,9.1B,8.8B,-15.8B,Tue,Africa/Lagos
+07/11/2023,22:00,USD,red,Treasury Currency Report,https://www.forexfactory.com/calendar?month=november.2023#detail=131310,,,,Tue,Africa/Lagos
+07/11/2023,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=november.2023#detail=130192,,,,Tue,Africa/Lagos
+08/11/2023,03:25,NZD,red,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131182,2.76%,,2.83%,Wed,Africa/Lagos
+08/11/2023,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=november.2023#detail=128952,108.7%,108.8%,109.2%,Wed,Africa/Lagos
+08/11/2023,08:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132161,0.0%,0.0%,0.0%,Wed,Africa/Lagos
+08/11/2023,08:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131949,-8.9B,-8.1B,-8.3B,Wed,Africa/Lagos
+08/11/2023,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129297,-0.3%,0.1%,-0.4%,Wed,Africa/Lagos
+08/11/2023,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=november.2023#detail=132203,,,,Wed,Africa/Lagos
+08/11/2023,10:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138445,,,,Wed,Africa/Lagos
+08/11/2023,11:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132721,-0.3%,-0.2%,-0.7%,Wed,Africa/Lagos
+08/11/2023,11:15,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138454,,,,Wed,Africa/Lagos
+08/11/2023,11:34,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=131681,2.64|2.5,,2.90|2.0,Wed,Africa/Lagos
+08/11/2023,14:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132373,-6.5%,-0.5%,4.3%,Wed,Africa/Lagos
+08/11/2023,15:15,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138456,,,,Wed,Africa/Lagos
+08/11/2023,16:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129921,0.2%,0.0%,0.0%,Wed,Africa/Lagos
+08/11/2023,19:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=132288,4.52|2.5,,4.61|2.5,Wed,Africa/Lagos
+08/11/2023,19:30,CAD,yellow,BOC Summary of Deliberations,https://www.forexfactory.com/calendar?month=november.2023#detail=133868,,,,Wed,Africa/Lagos
+08/11/2023,19:40,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138505,,,,Wed,Africa/Lagos
+08/11/2023,20:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138457,,,,Wed,Africa/Lagos
+08/11/2023,22:45,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138458,,,,Wed,Africa/Lagos
+09/11/2023,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128915,2.8%,2.8%,2.9%,Thu,Africa/Lagos
+09/11/2023,,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=november.2023#detail=128137,,,,Thu,Africa/Lagos
+09/11/2023,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=november.2023#detail=128927,2.01T,2.30T,1.50T,Thu,Africa/Lagos
+09/11/2023,01:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=133306,-63%,-65%,-67%,Thu,Africa/Lagos
+09/11/2023,02:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131561,-0.2%,-0.1%,0.0%,Thu,Africa/Lagos
+09/11/2023,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131562,-2.6%,-2.7%,-2.5%,Thu,Africa/Lagos
+09/11/2023,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=128790,1.74|3.6,,1.69|3.1,Thu,Africa/Lagos
+09/11/2023,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=128230,49.5,50.1,49.9,Thu,Africa/Lagos
+09/11/2023,09:30,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138455,,,,Thu,Africa/Lagos
+09/11/2023,10:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=november.2023#detail=132464,,,,Thu,Africa/Lagos
+09/11/2023,Day 1,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=november.2023#detail=132215,,,,Thu,Africa/Lagos
+09/11/2023,14:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2023#detail=130244,217K,218K,220K,Thu,Africa/Lagos
+09/11/2023,16:12,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=november.2023#detail=131441,3.62%,,3.37%,Thu,Africa/Lagos
+09/11/2023,17:45,CAD,yellow,Gov Council Member Rogers Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138486,,,,Thu,Africa/Lagos
+09/11/2023,18:15,CHF,yellow,Gov Board Member Schlegel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138447,,,,Thu,Africa/Lagos
+09/11/2023,18:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138448,,,,Thu,Africa/Lagos
+09/11/2023,19:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=132297,4.77|2.2,,4.84|2.3,Thu,Africa/Lagos
+09/11/2023,20:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138446,,,,Thu,Africa/Lagos
+09/11/2023,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2023#detail=131228,42.5,,45.1,Thu,Africa/Lagos
+10/11/2023,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128187,2.4%,2.4%,2.4%,Fri,Africa/Lagos
+10/11/2023,01:30,AUD,orange,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=130279,,,,Fri,Africa/Lagos
+10/11/2023,08:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133551,0.2%,0.0%,0.1%,Fri,Africa/Lagos
+10/11/2023,,GBP,orange,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=133605,0.0%,-0.1%,0.2%,Fri,Africa/Lagos
+10/11/2023,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133556,0.4%,-0.5%,-0.8%,Fri,Africa/Lagos
+10/11/2023,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=133555,-14.3B,-15.3B,-15.5B,Fri,Africa/Lagos
+10/11/2023,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=november.2023#detail=133552,-0.1%,-0.2%,0.1%,Fri,Africa/Lagos
+10/11/2023,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133553,0.0%,-0.1%,-0.5%,Fri,Africa/Lagos
+10/11/2023,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133554,0.1%,0.2%,-0.7%,Fri,Africa/Lagos
+10/11/2023,,GBP,yellow,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=133606,-4.2%,-3.2%,4.1%,Fri,Africa/Lagos
+10/11/2023,10:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129271,0.0%,0.0%,0.3%,Fri,Africa/Lagos
+10/11/2023,11:00,CHF,yellow,Gov Board Member Schlegel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138449,,,,Fri,Africa/Lagos
+10/11/2023,Day 2,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=november.2023#detail=134165,,,,Fri,Africa/Lagos
+10/11/2023,13:05,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=november.2023#detail=133342,0.1%,,0.0%,Fri,Africa/Lagos
+10/11/2023,13:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138459,,,,Fri,Africa/Lagos
+10/11/2023,,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138450,,,,Fri,Africa/Lagos
+10/11/2023,16:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=130444,60.4,63.7,63.8,Fri,Africa/Lagos
+10/11/2023,,USD,orange,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=130443,4.4%,,4.2%,Fri,Africa/Lagos
+10/11/2023,16:20,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138460,,,,Fri,Africa/Lagos
+12/11/2023,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=november.2023#detail=131240,48.9,,50.6,Sun,Africa/Lagos
+13/11/2023,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128903,0.8%,1.0%,2.2%,Mon,Africa/Lagos
+13/11/2023,01:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133294,-1.7%,,0.5%,Mon,Africa/Lagos
+13/11/2023,06:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=129036,-20.6%,,-11.2%,Mon,Africa/Lagos
+13/11/2023,11:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=november.2023#detail=131538,738B,660B,2310B,Mon,Africa/Lagos
+13/11/2023,11:01,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131537,10.3%,10.4%,10.3%,Mon,Africa/Lagos
+13/11/2023,12:55,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138577,,,,Mon,Africa/Lagos
+13/11/2023,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=130263,,,,Mon,Africa/Lagos
+13/11/2023,14:50,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138602,,,,Mon,Africa/Lagos
+13/11/2023,15:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133354,-0.4%,,-0.7%,Mon,Africa/Lagos
+13/11/2023,15:45,USD,yellow,Cleveland Fed Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=140240,4.2%,,4.3%,Mon,Africa/Lagos
+13/11/2023,17:05,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138578,,,,Mon,Africa/Lagos
+13/11/2023,20:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=130518,-66.6B,-70.5B,-171.0B,Mon,Africa/Lagos
+13/11/2023,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130981,-0.9%,,-0.4%,Mon,Africa/Lagos
+14/11/2023,00:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=130392,-2.6%,,2.9%,Tue,Africa/Lagos
+14/11/2023,01:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=131149,-2,,0,Tue,Africa/Lagos
+14/11/2023,08:00,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=november.2023#detail=133485,17.8K,15.0K,9.0K,Tue,Africa/Lagos
+14/11/2023,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133484,7.9%,7.4%,8.2%,Tue,Africa/Lagos
+14/11/2023,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=133486,4.2%,4.2%,4.2%,Tue,Africa/Lagos
+14/11/2023,08:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131413,0.2%,0.1%,-0.1%,Tue,Africa/Lagos
+14/11/2023,08:45,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138583,,,,Tue,Africa/Lagos
+14/11/2023,10:30,CAD,yellow,Gov Council Member Gravelle Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138592,,,,Tue,Africa/Lagos
+14/11/2023,11:00,EUR,yellow,Flash Employment Change q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=132767,0.3%,0.2%,0.1%,Tue,Africa/Lagos
+14/11/2023,,EUR,yellow,Flash GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=132766,-0.1%,-0.1%,-0.1%,Tue,Africa/Lagos
+14/11/2023,,EUR,yellow,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=132098,9.8,4.9,-1.1,Tue,Africa/Lagos
+14/11/2023,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=132099,13.8,6.1,2.3,Tue,Africa/Lagos
+14/11/2023,11:30,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138582,,,,Tue,Africa/Lagos
+14/11/2023,11:58,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=november.2023#detail=130498,90.7,90.6,90.8,Tue,Africa/Lagos
+14/11/2023,13:00,GBP,yellow,MPC Member Dhingra Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138579,,,,Tue,Africa/Lagos
+14/11/2023,14:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129684,0.2%,0.3%,0.3%,Tue,Africa/Lagos
+14/11/2023,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129672,0.0%,0.1%,0.4%,Tue,Africa/Lagos
+14/11/2023,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=129696,3.2%,3.3%,3.7%,Tue,Africa/Lagos
+14/11/2023,14:45,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138580,,,,Tue,Africa/Lagos
+14/11/2023,16:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138598,,,,Tue,Africa/Lagos
+14/11/2023,18:45,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138581,,,,Tue,Africa/Lagos
+14/11/2023,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=november.2023#detail=130193,,,,Tue,Africa/Lagos
+14/11/2023,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130941,2.4%,,-3.0%,Tue,Africa/Lagos
+15/11/2023,00:50,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=129060,5.1%,4.8%,3.5%,Wed,Africa/Lagos
+15/11/2023,,JPY,yellow,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=129061,-0.5%,-0.1%,1.2%,Wed,Africa/Lagos
+15/11/2023,01:30,AUD,red,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131029,1.3%,1.3%,0.9%,Wed,Africa/Lagos
+15/11/2023,03:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131646,4.6%,4.5%,4.5%,Wed,Africa/Lagos
+15/11/2023,,CNY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131648,7.6%,7.1%,5.5%,Wed,Africa/Lagos
+15/11/2023,,CNY,yellow,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131645,2.9%,3.1%,3.1%,Wed,Africa/Lagos
+15/11/2023,,CNY,yellow,NBS Press Conference,https://www.forexfactory.com/calendar?month=november.2023#detail=131647,,,,Wed,Africa/Lagos
+15/11/2023,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=131649,5.0%,5.0%,5.0%,Wed,Africa/Lagos
+15/11/2023,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129000,0.5%,0.2%,0.2%,Wed,Africa/Lagos
+15/11/2023,08:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131753,-0.7%,0.2%,0.2%,Wed,Africa/Lagos
+15/11/2023,,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133443,4.6%,4.7%,6.7%,Wed,Africa/Lagos
+15/11/2023,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133442,5.7%,5.8%,6.1%,Wed,Africa/Lagos
+15/11/2023,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133445,0.4%,0.1%,0.6%,Wed,Africa/Lagos
+15/11/2023,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133446,0.1%,0.1%,0.6%,Wed,Africa/Lagos
+15/11/2023,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133444,6.1%,6.3%,8.9%,Wed,Africa/Lagos
+15/11/2023,08:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131938,0.1%,0.1%,0.1%,Wed,Africa/Lagos
+15/11/2023,10:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133447,-0.1%,-0.8%,0.8%,Wed,Africa/Lagos
+15/11/2023,11:00,EUR,yellow,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=november.2023#detail=132487,,,,Wed,Africa/Lagos
+15/11/2023,,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132722,-1.1%,-0.9%,0.6%,Wed,Africa/Lagos
+15/11/2023,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=132736,9.2B,6.6B,11.1B,Wed,Africa/Lagos
+15/11/2023,11:33,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=131693,2.81|3.0,,3.04|2.1,Wed,Africa/Lagos
+15/11/2023,14:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132583,0.4%,0.0%,1.0%,Wed,Africa/Lagos
+15/11/2023,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132385,0.4%,0.1%,1.8%,Wed,Africa/Lagos
+15/11/2023,,USD,red,Core PPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129719,0.0%,0.3%,0.2%,Wed,Africa/Lagos
+15/11/2023,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129872,0.1%,-0.1%,0.8%,Wed,Africa/Lagos
+15/11/2023,,USD,red,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2023#detail=130050,9.1,-3.3,-4.6,Wed,Africa/Lagos
+15/11/2023,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129718,-0.5%,0.1%,0.4%,Wed,Africa/Lagos
+15/11/2023,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129871,-0.1%,-0.3%,0.9%,Wed,Africa/Lagos
+15/11/2023,15:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138607,,,,Wed,Africa/Lagos
+15/11/2023,16:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131280,0.4%,0.4%,0.4%,Wed,Africa/Lagos
+15/11/2023,Nov 3rd,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2023#detail=129443,13.9M,,0.8M,Wed,Africa/Lagos
+15/11/2023,16:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2023#detail=129446,3.6M,2.5M,13.9M,Wed,Africa/Lagos
+15/11/2023,19:00,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138584,,,,Wed,Africa/Lagos
+16/11/2023,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=128930,1.4%,0.9%,-0.5%,Thu,Africa/Lagos
+16/11/2023,,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=129005,-0.46T,-0.69T,-0.42T,Thu,Africa/Lagos
+16/11/2023,01:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=130380,4.9%,,4.8%,Thu,Africa/Lagos
+16/11/2023,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=131067,55.0K,22.8K,7.8K,Thu,Africa/Lagos
+16/11/2023,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=131066,3.7%,3.7%,3.6%,Thu,Africa/Lagos
+16/11/2023,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=136816,-0.38%,,-0.30%,Thu,Africa/Lagos
+16/11/2023,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129017,-1.0%,-0.1%,0.7%,Thu,Africa/Lagos
+16/11/2023,10:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=129309,2.35B,3.45B,1.95B,Thu,Africa/Lagos
+16/11/2023,10:42,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=138613,3.61|2.2,,3.58|2.0,Thu,Africa/Lagos
+16/11/2023,12:30,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138585,,,,Thu,Africa/Lagos
+16/11/2023,13:10,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138593,,,,Thu,Africa/Lagos
+16/11/2023,14:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=november.2023#detail=132864,275K,255K,271K,Thu,Africa/Lagos
+16/11/2023,14:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2023#detail=130245,231K,221K,218K,Thu,Africa/Lagos
+16/11/2023,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2023#detail=130114,-5.9,-10.4,-9.0,Thu,Africa/Lagos
+16/11/2023,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129656,-0.8%,-0.3%,0.4%,Thu,Africa/Lagos
+16/11/2023,15:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129596,-0.6%,-0.4%,0.1%,Thu,Africa/Lagos
+16/11/2023,,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=129608,78.9%,79.4%,79.5%,Thu,Africa/Lagos
+16/11/2023,15:25,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138511,,,,Thu,Africa/Lagos
+16/11/2023,16:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=november.2023#detail=132264,34,40,40,Thu,Africa/Lagos
+16/11/2023,Nov 3rd,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2023#detail=128471,-6B,,79B,Thu,Africa/Lagos
+16/11/2023,16:30,USD,yellow,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138601,,,,Thu,Africa/Lagos
+16/11/2023,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2023#detail=128472,60B,38B,-6B,Thu,Africa/Lagos
+16/11/2023,16:35,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138512,,,,Thu,Africa/Lagos
+16/11/2023,16:45,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138586,,,,Thu,Africa/Lagos
+16/11/2023,18:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138600,,,,Thu,Africa/Lagos
+16/11/2023,22:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=november.2023#detail=131307,-1.7B,89.4B,62.2B,Thu,Africa/Lagos
+16/11/2023,22:45,NZD,yellow,PPI Input q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131003,1.2%,0.2%,-0.2%,Thu,Africa/Lagos
+16/11/2023,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131004,0.8%,0.4%,0.2%,Thu,Africa/Lagos
+17/11/2023,08:00,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=133573,-0.3%,0.5%,-1.1%,Fri,Africa/Lagos
+17/11/2023,09:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138587,,,,Fri,Africa/Lagos
+17/11/2023,10:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=november.2023#detail=132639,31.2B,20.3B,30.8B,Fri,Africa/Lagos
+17/11/2023,10:20,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131575,-9.4%,,-8.4%,Fri,Africa/Lagos
+17/11/2023,11:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132683,4.2%,4.2%,4.2%,Fri,Africa/Lagos
+17/11/2023,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132684,2.9%,2.9%,2.9%,Fri,Africa/Lagos
+17/11/2023,14:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138588,,,,Fri,Africa/Lagos
+17/11/2023,,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138589,,,,Fri,Africa/Lagos
+17/11/2023,14:15,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138594,,,,Fri,Africa/Lagos
+17/11/2023,14:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=november.2023#detail=132551,-15.09B,-6.84B,-8.77B,Fri,Africa/Lagos
+17/11/2023,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132618,-1.0%,0.2%,0.4%,Fri,Africa/Lagos
+17/11/2023,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132617,-2.5%,-2.0%,3.9%,Fri,Africa/Lagos
+17/11/2023,,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=november.2023#detail=129956,1.49M,1.45M,1.47M,Fri,Africa/Lagos
+17/11/2023,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=november.2023#detail=129955,1.37M,1.35M,1.35M,Fri,Africa/Lagos
+17/11/2023,15:45,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138590,,,,Fri,Africa/Lagos
+18/11/2023,10:00,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138591,,,,Sat,Africa/Lagos
+20/11/2023,02:15,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=134408,3.45%,3.45%,3.45%,Mon,Africa/Lagos
+20/11/2023,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=134356,4.20%,4.20%,4.20%,Mon,Africa/Lagos
+20/11/2023,08:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132162,-0.1%,0.0%,-0.2%,Mon,Africa/Lagos
+20/11/2023,12:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=november.2023#detail=131717,,,,Mon,Africa/Lagos
+20/11/2023,16:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131436,-0.8%,-0.5%,-0.7%,Mon,Africa/Lagos
+20/11/2023,16:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131100,-0.3%,,-0.3%,Mon,Africa/Lagos
+20/11/2023,19:45,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138608,,,,Mon,Africa/Lagos
+20/11/2023,22:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=130921,-1709M,-1150M,-2425M,Mon,Africa/Lagos
+21/11/2023,00:00,AUD,red,RBA Gov Bullock Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138609,,,,Tue,Africa/Lagos
+21/11/2023,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2023#detail=130313,,,,Tue,Africa/Lagos
+21/11/2023,03:05,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131204,-2.9%,,2.8%,Tue,Africa/Lagos
+21/11/2023,08:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=131365,4.60B,5.87B,6.28B,Tue,Africa/Lagos
+21/11/2023,,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=november.2023#detail=133585,14.0B,16.8B,13.7B,Tue,Africa/Lagos
+21/11/2023,11:15,GBP,orange,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=november.2023#detail=133258,,,,Tue,Africa/Lagos
+21/11/2023,14:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132357,0.1%,0.1%,-0.1%,Tue,Africa/Lagos
+21/11/2023,,CAD,red,Median CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132353,3.6%,3.6%,3.9%,Tue,Africa/Lagos
+21/11/2023,,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132354,3.5%,3.6%,3.7%,Tue,Africa/Lagos
+21/11/2023,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132355,4.2%,4.3%,4.4%,Tue,Africa/Lagos
+21/11/2023,,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132876,0.0%,0.0%,-0.2%,Tue,Africa/Lagos
+21/11/2023,14:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132356,0.3%,,-0.1%,Tue,Africa/Lagos
+21/11/2023,15:23,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=november.2023#detail=128753,0.0%,,-0.7%,Tue,Africa/Lagos
+21/11/2023,16:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=november.2023#detail=131268,3.79M,3.90M,3.95M,Tue,Africa/Lagos
+21/11/2023,17:15,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138610,,,,Tue,Africa/Lagos
+21/11/2023,20:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2023#detail=130123,,,,Tue,Africa/Lagos
+21/11/2023,21:00,USD,yellow,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138621,,,,Tue,Africa/Lagos
+21/11/2023,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=november.2023#detail=130194,,,,Tue,Africa/Lagos
+22/11/2023,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131165,0.0%,,0.1%,Wed,Africa/Lagos
+22/11/2023,09:35,AUD,red,RBA Gov Bullock Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138611,,,,Wed,Africa/Lagos
+22/11/2023,10:00,EUR,orange,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=november.2023#detail=132489,,,,Wed,Africa/Lagos
+22/11/2023,All Day,EUR,orange,Dutch Parliamentary Election,https://www.forexfactory.com/calendar?month=november.2023#detail=138997,,,,Wed,Africa/Lagos
+22/11/2023,12:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=132917,-35,-25,-26,Wed,Africa/Lagos
+22/11/2023,13:35,GBP,orange,Autumn Forecast Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=123766,,,,Wed,Africa/Lagos
+22/11/2023,14:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2023#detail=130246,209K,226K,233K,Wed,Africa/Lagos
+22/11/2023,,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129896,0.0%,0.2%,0.4%,Wed,Africa/Lagos
+22/11/2023,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129895,-5.4%,-3.2%,4.6%,Wed,Africa/Lagos
+22/11/2023,16:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=132180,-17,-18,-18,Wed,Africa/Lagos
+22/11/2023,,USD,red,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2023#detail=130445,61.3,61.1,60.4,Wed,Africa/Lagos
+22/11/2023,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=130446,4.5%,,4.4%,Wed,Africa/Lagos
+22/11/2023,16:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2023#detail=129445,8.7M,0.9M,3.6M,Wed,Africa/Lagos
+22/11/2023,17:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138618,,,,Wed,Africa/Lagos
+22/11/2023,17:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138614,,,,Wed,Africa/Lagos
+22/11/2023,18:00,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2023#detail=128473,-7B,1B,60B,Wed,Africa/Lagos
+22/11/2023,23:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131833,47.7,,48.2,Wed,Africa/Lagos
+22/11/2023,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131845,46.3,,47.9,Wed,Africa/Lagos
+23/11/2023,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=133661,,,,Thu,Africa/Lagos
+23/11/2023,09:15,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131990,42.6,43.2,42.8,Thu,Africa/Lagos
+23/11/2023,,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132002,45.3,45.6,45.2,Thu,Africa/Lagos
+23/11/2023,09:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132014,42.3,41.1,40.8,Thu,Africa/Lagos
+23/11/2023,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132026,48.7,48.4,48.2,Thu,Africa/Lagos
+23/11/2023,10:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132039,43.8,43.3,43.1,Thu,Africa/Lagos
+23/11/2023,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132042,48.2,48.0,47.8,Thu,Africa/Lagos
+23/11/2023,10:30,GBP,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132043,46.7,45.0,44.8,Thu,Africa/Lagos
+23/11/2023,,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132075,50.5,49.5,49.5,Thu,Africa/Lagos
+23/11/2023,13:30,EUR,yellow,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=november.2023#detail=132472,,,,Thu,Africa/Lagos
+23/11/2023,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2023#detail=130002,,,,Thu,Africa/Lagos
+23/11/2023,14:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=132568,4.7%,,-2.0%,Thu,Africa/Lagos
+23/11/2023,22:45,NZD,orange,Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=130950,0.0%,-0.8%,-0.9%,Thu,Africa/Lagos
+23/11/2023,,NZD,yellow,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=130949,1.0%,-1.5%,-1.6%,Thu,Africa/Lagos
+24/11/2023,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128854,2.9%,3.0%,2.8%,Fri,Africa/Lagos
+24/11/2023,01:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=133282,-24,-28,-30,Fri,Africa/Lagos
+24/11/2023,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=128830,48.1,48.8,48.7,Fri,Africa/Lagos
+24/11/2023,08:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=132163,-0.1%,-0.1%,-0.1%,Fri,Africa/Lagos
+24/11/2023,10:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=november.2023#detail=131705,87.3,87.5,86.9,Fri,Africa/Lagos
+24/11/2023,,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138619,,,,Fri,Africa/Lagos
+24/11/2023,11:00,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138612,,,,Fri,Africa/Lagos
+24/11/2023,14:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132851,0.2%,-0.3%,0.2%,Fri,Africa/Lagos
+24/11/2023,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132850,0.6%,0.0%,-0.1%,Fri,Africa/Lagos
+24/11/2023,15:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=november.2023#detail=133958,-15.0,-15.0,-16.8,Fri,Africa/Lagos
+24/11/2023,15:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132239,49.4,49.9,50.0,Fri,Africa/Lagos
+24/11/2023,,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=132252,50.8,50.4,50.6,Fri,Africa/Lagos
+25/11/2023,12:15,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138617,,,,Sat,Africa/Lagos
+27/11/2023,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128897,2.3%,2.1%,2.0%,Mon,Africa/Lagos
+27/11/2023,12:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=november.2023#detail=132905,-11,-30,-36,Mon,Africa/Lagos
+27/11/2023,15:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=139064,,,,Mon,Africa/Lagos
+27/11/2023,16:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=november.2023#detail=129933,679K,724K,719K,Mon,Africa/Lagos
+28/11/2023,01:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=133378,4.3%,,5.2%,Tue,Africa/Lagos
+28/11/2023,01:30,AUD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131137,-0.2%,0.1%,0.9%,Tue,Africa/Lagos
+28/11/2023,02:18,AUD,red,RBA Gov Bullock Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138623,,,,Tue,Africa/Lagos
+28/11/2023,,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138622,,,,Tue,Africa/Lagos
+28/11/2023,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128866,3.0%,3.4%,3.4%,Tue,Africa/Lagos
+28/11/2023,08:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=november.2023#detail=131729,-27.8,-28.2,-28.3,Tue,Africa/Lagos
+28/11/2023,09:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=139065,,,,Tue,Africa/Lagos
+28/11/2023,10:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132510,-1.0%,-0.9%,-1.2%,Tue,Africa/Lagos
+28/11/2023,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132511,0.6%,0.7%,0.8%,Tue,Africa/Lagos
+28/11/2023,11:03,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=132892,4.66|2.3,,4.93|2.6,Tue,Africa/Lagos
+28/11/2023,15:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131594,-0.1%,,-0.3%,Tue,Africa/Lagos
+28/11/2023,,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=130038,3.9%,4.0%,2.1%,Tue,Africa/Lagos
+28/11/2023,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129584,0.6%,0.4%,0.7%,Tue,Africa/Lagos
+28/11/2023,15:59,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2023#detail=130101,-5,1,3,Tue,Africa/Lagos
+28/11/2023,16:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=130530,102.0,101.0,99.1,Tue,Africa/Lagos
+28/11/2023,,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138624,,,,Tue,Africa/Lagos
+28/11/2023,16:05,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138625,,,,Tue,Africa/Lagos
+28/11/2023,16:45,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138635,,,,Tue,Africa/Lagos
+28/11/2023,17:00,EUR,yellow,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=139066,,,,Tue,Africa/Lagos
+28/11/2023,18:00,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138626,,,,Tue,Africa/Lagos
+28/11/2023,19:05,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138634,,,,Tue,Africa/Lagos
+28/11/2023,21:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138633,,,,Tue,Africa/Lagos
+28/11/2023,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=november.2023#detail=130195,,,,Tue,Africa/Lagos
+29/11/2023,01:30,AUD,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132790,4.9%,5.2%,5.6%,Wed,Africa/Lagos
+29/11/2023,,AUD,yellow,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131013,1.3%,0.3%,2.0%,Wed,Africa/Lagos
+29/11/2023,02:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=128290,5.50%,5.50%,5.50%,Wed,Africa/Lagos
+29/11/2023,,NZD,red,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=128292,,,,Wed,Africa/Lagos
+29/11/2023,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=november.2023#detail=128291,,,,Wed,Africa/Lagos
+29/11/2023,03:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=november.2023#detail=128293,,,,Wed,Africa/Lagos
+29/11/2023,07:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131914,0.1%,-0.1%,-0.1%,Wed,Africa/Lagos
+29/11/2023,08:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131765,0.3%,-0.3%,1.6%,Wed,Africa/Lagos
+29/11/2023,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131781,-0.4%,-0.1%,0.0%,Wed,Africa/Lagos
+29/11/2023,09:00,EUR,red,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=129378,3.2%,3.6%,3.5%,Wed,Africa/Lagos
+29/11/2023,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=november.2023#detail=131341,-29.6,,-37.8,Wed,Africa/Lagos
+29/11/2023,10:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=135748,0.3%,-0.2%,-1.1%,Wed,Africa/Lagos
+29/11/2023,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=november.2023#detail=135747,47K,45K,44K,Wed,Africa/Lagos
+29/11/2023,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=135749,1.2B,1.2B,0.4B,Wed,Africa/Lagos
+29/11/2023,11:15,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=129070,4.17|1.4,,4.76|1.3,Wed,Africa/Lagos
+29/11/2023,11:35,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2023#detail=131682,2.45|1.7,,2.64|2.5,Wed,Africa/Lagos
+29/11/2023,14:30,CAD,yellow,Current Account,https://www.forexfactory.com/calendar?month=november.2023#detail=132572,-3.2B,0.7B,-7.3B,Wed,Africa/Lagos
+29/11/2023,,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=129812,5.2%,5.0%,4.9%,Wed,Africa/Lagos
+29/11/2023,,USD,orange,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=129811,3.6%,3.5%,3.5%,Wed,Africa/Lagos
+29/11/2023,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2023#detail=130144,-89.8B,-86.4B,-86.8B,Wed,Africa/Lagos
+29/11/2023,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130145,-0.2%,0.1%,0.2%,Wed,Africa/Lagos
+29/11/2023,16:05,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138627,,,,Wed,Africa/Lagos
+29/11/2023,16:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2023#detail=129444,1.6M,-0.1M,8.7M,Wed,Africa/Lagos
+29/11/2023,20:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=november.2023#detail=130507,,,,Wed,Africa/Lagos
+29/11/2023,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=130970,8.7%,,-4.6%,Wed,Africa/Lagos
+30/11/2023,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=128976,1.0%,0.7%,0.5%,Thu,Africa/Lagos
+30/11/2023,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128987,4.2%,5.9%,6.3%,Thu,Africa/Lagos
+30/11/2023,01:00,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=131192,30.8,,23.4,Thu,Africa/Lagos
+30/11/2023,01:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131124,7.5%,1.5%,-4.0%,Thu,Africa/Lagos
+30/11/2023,,AUD,yellow,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=131037,0.6%,1.0%,3.4%,Thu,Africa/Lagos
+30/11/2023,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131088,0.3%,0.4%,0.5%,Thu,Africa/Lagos
+30/11/2023,02:30,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131466,49.4,49.8,49.5,Thu,Africa/Lagos
+30/11/2023,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=131465,50.2,50.9,50.6,Thu,Africa/Lagos
+30/11/2023,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2023#detail=128208,36.1,35.6,35.7,Thu,Africa/Lagos
+30/11/2023,,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=128206,-6.3%,-7.0%,-6.8%,Thu,Africa/Lagos
+30/11/2023,08:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131794,1.1%,0.3%,-0.1%,Thu,Africa/Lagos
+30/11/2023,08:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=131377,-0.1%,0.2%,-1.2%,Thu,Africa/Lagos
+30/11/2023,08:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131961,-0.9%,-0.1%,0.0%,Thu,Africa/Lagos
+30/11/2023,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131925,-0.2%,0.1%,0.1%,Thu,Africa/Lagos
+30/11/2023,,EUR,yellow,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2023#detail=133765,-0.1%,0.1%,0.1%,Thu,Africa/Lagos
+30/11/2023,09:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=november.2023#detail=131389,96.7,96.3,95.1,Thu,Africa/Lagos
+30/11/2023,09:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=november.2023#detail=131741,22K,21K,31K,Thu,Africa/Lagos
+30/11/2023,10:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=129258,7.8%,7.4%,7.6%,Thu,Africa/Lagos
+30/11/2023,11:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132685,3.6%,3.9%,4.2%,Thu,Africa/Lagos
+30/11/2023,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=november.2023#detail=132686,2.4%,2.7%,2.9%,Thu,Africa/Lagos
+30/11/2023,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129321,-0.4%,-0.2%,-0.2%,Thu,Africa/Lagos
+30/11/2023,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2023#detail=132749,6.5%,6.5%,6.5%,Thu,Africa/Lagos
+30/11/2023,All Day,All,red,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=november.2023#detail=132400,,,,Thu,Africa/Lagos
+30/11/2023,14:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=132563,0.1%,0.0%,0.0%,Thu,Africa/Lagos
+30/11/2023,,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=139067,,,,Thu,Africa/Lagos
+30/11/2023,,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129825,0.2%,0.2%,0.3%,Thu,Africa/Lagos
+30/11/2023,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2023#detail=130247,218K,219K,211K,Thu,Africa/Lagos
+30/11/2023,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129847,0.2%,0.2%,0.4%,Thu,Africa/Lagos
+30/11/2023,,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=129848,0.2%,0.2%,0.7%,Thu,Africa/Lagos
+30/11/2023,15:15,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138630,,,,Thu,Africa/Lagos
+30/11/2023,15:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=november.2023#detail=130074,55.8,46.0,44.0,Thu,Africa/Lagos
+30/11/2023,16:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=november.2023#detail=131256,-1.5%,-1.9%,1.0%,Thu,Africa/Lagos
+30/11/2023,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2023#detail=128474,10B,-8B,-7B,Thu,Africa/Lagos
+30/11/2023,17:00,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=138628,,,,Thu,Africa/Lagos
+30/11/2023,18:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=november.2023#detail=139069,,,,Thu,Africa/Lagos

@@ -1,383 +1,383 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/02/2022,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=127283,2.7%,2.8%,2.8%,Tue
-01/02/2022,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126625,,,,Tue
-01/02/2022,01:30,AUD,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=127272,-4.4%,-1.9%,7.3%,Tue
-01/02/2022,,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=126981,55.4,54.6,54.6,Tue
-01/02/2022,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=125652,0.10%,0.10%,0.10%,Tue
-01/02/2022,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=february.2022#detail=125663,,,,Tue
-01/02/2022,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=126959,0.18|3.3,,0.10|3.5,Tue
-01/02/2022,06:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=124874,25.3%,,28.7%,Tue
-01/02/2022,08:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125503,-5.5%,-1.3%,0.8%,Tue
-01/02/2022,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124710,0.8%,0.7%,1.1%,Tue
-01/02/2022,08:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125154,-0.4%,5.5%,5.3%,Tue
-01/02/2022,08:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125016,0.3%,-0.2%,0.2%,Tue
-01/02/2022,09:00,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=february.2022#detail=125092,-4,3,4,Tue
-01/02/2022,09:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122374,56.2,56.1,56.2,Tue
-01/02/2022,09:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122376,63.8,63.9,62.7,Tue
-01/02/2022,09:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122377,58.3,61.2,62.0,Tue
-01/02/2022,09:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122378,55.5,55.5,55.5,Tue
-01/02/2022,09:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122375,59.8,60.5,60.5,Tue
-01/02/2022,,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=125479,-48K,-4K,-29K,Tue
-01/02/2022,10:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122379,58.7,59.0,59.0,Tue
-01/02/2022,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=122519,9.0%,9.2%,9.1%,Tue
-01/02/2022,10:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122380,57.3,56.9,56.9,Tue
-01/02/2022,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124383,0.1%,0.8%,0.7%,Tue
-01/02/2022,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=february.2022#detail=124384,71K,66K,68K,Tue
-01/02/2022,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124385,4.4B,4.0B,4.8B,Tue
-01/02/2022,11:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=126680,7.0%,7.1%,7.1%,Tue
-01/02/2022,14:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126005,0.6%,0.4%,0.8%,Tue
-01/02/2022,15:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123305,56.2,,56.5,Tue
-01/02/2022,15:37,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123205,4.1%,,4.6%,Tue
-01/02/2022,15:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123150,55.5,55.0,55.0,Tue
-01/02/2022,16:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123114,57.6,57.4,58.7,Tue
-01/02/2022,,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=february.2022#detail=126180,10.93M,10.35M,10.78M,Tue
-01/02/2022,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124193,0.2%,0.7%,0.6%,Tue
-01/02/2022,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=february.2022#detail=123126,76.1,67.6,68.2,Tue
-01/02/2022,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=february.2022#detail=123898,15.0M,13.0M,12.4M,Tue
-01/02/2022,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=february.2022#detail=122135,,,,Tue
-01/02/2022,22:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124962,0.1%,0.4%,1.9%,Tue
-01/02/2022,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=124958,3.2%,3.3%,3.3%,Tue
-01/02/2022,,NZD,yellow,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124966,0.7%,0.9%,0.7%,Tue
-02/02/2022,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=127083,8.4%,8.5%,8.3%,Wed
-02/02/2022,01:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126504,1.5%,,0.8%,Wed
-02/02/2022,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126626,,,,Wed
-02/02/2022,02:30,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127284,,,,Wed
-02/02/2022,08:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124973,-170.7B,,-181.0B,Wed
-02/02/2022,09:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=122624,17.2K,-50.7K,-76.8K,Wed
-02/02/2022,11:00,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126682,2.3%,1.9%,2.6%,Wed
-02/02/2022,,EUR,yellow,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126681,5.1%,4.4%,5.0%,Wed
-02/02/2022,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=122583,1.6%,0.5%,0.4%,Wed
-02/02/2022,All Day,All,red,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=122679,,,,Wed
-02/02/2022,14:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=124055,-301K,185K,776K,Wed
-02/02/2022,14:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125706,-1.9%,-1.6%,7.6%,Wed
-02/02/2022,16:00,CAD,yellow,Gov Council Member Gravelle Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127285,,,,Wed
-02/02/2022,16:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2022#detail=122197,-1.0M,1.8M,2.4M,Wed
-02/02/2022,21:00,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127286,,,,Wed
-02/02/2022,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123234,45.9,,57.0,Wed
-03/02/2022,01:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123666,1.0%,,-0.3%,Thu
-03/02/2022,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126627,,,,Thu
-03/02/2022,01:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125626,8.2%,-0.9%,2.6%,Thu
-03/02/2022,,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124943,8.36B,9.80B,9.76B,Thu
-03/02/2022,,AUD,yellow,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=123388,18,,-2,Thu
-03/02/2022,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=126970,0.79|3.4,,0.72|3.6,Thu
-03/02/2022,09:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122381,46.6,51.9,55.8,Thu
-03/02/2022,09:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122382,48.5,50.0,53.0,Thu
-03/02/2022,09:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122383,53.1,53.1,53.1,Thu
-03/02/2022,09:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122384,52.2,52.2,52.2,Thu
-03/02/2022,10:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122385,51.1,51.2,51.2,Thu
-03/02/2022,10:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122386,54.1,53.3,53.3,Thu
-03/02/2022,10:48,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=122600,0.85|1.6,,0.43|1.9,Thu
-03/02/2022,11:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126684,2.9%,2.9%,1.8%,Thu
-03/02/2022,11:06,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=122602,0.45|2.6,,0.30|2.1,Thu
-03/02/2022,13:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=february.2022#detail=123726,,875B,875B,Thu
-03/02/2022,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=february.2022#detail=123781,,,,Thu
-03/02/2022,,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=february.2022#detail=123728,,,,Thu
-03/02/2022,,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=february.2022#detail=123729,,0-0-9,0-0-9,Thu
-03/02/2022,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=february.2022#detail=123730,9-0-0,7-0-2,8-0-1,Thu
-03/02/2022,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=123727,0.50%,0.50%,0.25%,Thu
-03/02/2022,13:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127287,,,,Thu
-03/02/2022,,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123102,-76.0%,,-75.3%,Thu
-03/02/2022,13:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=125284,0.00%,0.00%,0.00%,Thu
-03/02/2022,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=february.2022#detail=125283,,,,Thu
-03/02/2022,14:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=february.2022#detail=125282,,,,Thu
-03/02/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2022#detail=122965,238K,245K,261K,Thu
-03/02/2022,,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124128,6.6%,3.8%,-5.2%,Thu
-03/02/2022,,USD,yellow,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124129,0.3%,1.1%,9.6%,Thu
-03/02/2022,15:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123162,51.2,50.9,50.9,Thu
-03/02/2022,16:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123138,59.9,59.5,62.0,Thu
-03/02/2022,,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124740,-0.4%,-0.4%,1.8%,Thu
-03/02/2022,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2022#detail=122071,-268B,-280B,-219B,Thu
-03/02/2022,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125238,0.6%,,0.6%,Thu
-04/02/2022,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126628,,,,Fri
-04/02/2022,01:30,AUD,orange,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=february.2022#detail=125686,,,,Fri
-04/02/2022,08:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125504,2.8%,0.4%,3.6%,Fri
-04/02/2022,08:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=122548,-0.2%,0.5%,-0.5%,Fri
-04/02/2022,,EUR,yellow,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124984,0.5%,0.4%,0.5%,Fri
-04/02/2022,10:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124686,56.3,54.3,54.3,Fri
-04/02/2022,11:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126683,-3.0%,-1.0%,1.0%,Fri
-04/02/2022,13:15,GBP,orange,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127288,,,,Fri
-04/02/2022,14:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=122914,-200.1K,-121.5K,54.7K,Fri
-04/02/2022,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=122926,6.5%,6.3%,5.9%,Fri
-04/02/2022,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124043,0.7%,0.5%,0.5%,Fri
-04/02/2022,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=122938,467K,110K,510K,Fri
-04/02/2022,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=122950,4.0%,3.9%,3.9%,Fri
-04/02/2022,16:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=125190,50.7,55.1,45.0,Fri
-04/02/2022,16:45,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127382,,,,Fri
-06/02/2022,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=121989,,,,Sun
-06/02/2022,22:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123247,56.2,,49.6,Sun
-07/02/2022,01:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123419,-0.3%,,-5.8%,Mon
-07/02/2022,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123602,51.4,50.5,53.1,Mon
-07/02/2022,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=february.2022#detail=126808,104.3%,103.8%,103.2%,Mon
-07/02/2022,07:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=125106,2.3%,2.4%,2.4%,Mon
-07/02/2022,08:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125505,-0.3%,0.4%,0.3%,Mon
-07/02/2022,,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124259,0.3%,0.9%,1.1%,Mon
-07/02/2022,09:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=february.2022#detail=125051,947B,,945B,Mon
-07/02/2022,10:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=125352,16.6,15.1,14.9,Mon
-07/02/2022,16:45,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127383,,,,Mon
-07/02/2022,21:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124782,18.9B,24.9B,38.8B,Mon
-08/02/2022,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125913,-0.2%,0.9%,0.8%,Tue
-08/02/2022,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126867,-0.2%,0.0%,-1.3%,Tue
-08/02/2022,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125865,0.6%,0.8%,0.6%,Tue
-08/02/2022,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=february.2022#detail=126855,0.79T,1.16T,1.37T,Tue
-08/02/2022,01:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126541,8.1%,0.7%,0.6%,Tue
-08/02/2022,01:27,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=123979,3,,-12,Tue
-08/02/2022,03:15,NZD,orange,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127384,,,,Tue
-08/02/2022,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=127005,37.9,48.1,56.4,Tue
-08/02/2022,08:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124993,-11.3B,-9.1B,-9.8B,Tue
-08/02/2022,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=122560,0.9%,-0.4%,-0.4%,Tue
-08/02/2022,11:56,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=february.2022#detail=124031,97.1,97.4,98.9,Tue
-08/02/2022,14:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=126019,-0.1B,2.5B,2.5B,Tue
-08/02/2022,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124157,-80.7B,-83.0B,-79.3B,Tue
-08/02/2022,15:56,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=february.2022#detail=123078,44.0,47.2,44.7,Tue
-08/02/2022,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=february.2022#detail=122136,,,,Tue
-09/02/2022,00:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=123405,-1.3%,,-2.0%,Wed
-09/02/2022,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=127072,3.6%,3.6%,3.7%,Wed
-09/02/2022,06:59,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126903,61.4%,,40.5%,Wed
-09/02/2022,08:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=125506,6.8B,11.3B,10.8B,Wed
-09/02/2022,10:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=122536,-1.0%,-0.8%,2.1%,Wed
-09/02/2022,11:32,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=125443,0.39|1.2,,0.28|1.1,Wed
-09/02/2022,14:10,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127378,,,,Wed
-09/02/2022,16:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124243,2.2%,2.1%,2.1%,Wed
-09/02/2022,16:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2022#detail=122198,-4.8M,1.5M,-1.0M,Wed
-09/02/2022,,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127385,,,,Wed
-09/02/2022,18:00,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127379,,,,Wed
-09/02/2022,,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127380,,,,Wed
-09/02/2022,19:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=123910,1.90|2.7,,1.72|2.5,Wed
-10/02/2022,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125853,8.6%,8.2%,8.7%,Thu
-10/02/2022,01:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=126518,74%,69%,70%,Thu
-10/02/2022,01:03,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2022#detail=122890,4.6%,,4.4%,Thu
-10/02/2022,11:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123503,9.8%,9.2%,9.0%,Thu
-10/02/2022,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=february.2022#detail=123504,3980B,3650B,1130B,Thu
-10/02/2022,,EUR,orange,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=february.2022#detail=125326,,,,Thu
-10/02/2022,14:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124069,0.6%,0.5%,0.6%,Thu
-10/02/2022,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124068,0.6%,0.4%,0.5%,Thu
-10/02/2022,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=128651,7.5%,7.2%,7.0%,Thu
-10/02/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2022#detail=122966,223K,227K,239K,Thu
-10/02/2022,16:00,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=february.2022#detail=124841,4.65%,,4.88%,Thu
-10/02/2022,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2022#detail=122072,-222B,-223B,-268B,Thu
-10/02/2022,18:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127381,,,,Thu
-10/02/2022,19:01,USD,orange,30-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=123922,2.34|2.3,,2.08|2.4,Thu
-10/02/2022,20:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=123056,118.7B,19.5B,-21.3B,Thu
-10/02/2022,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123650,52.1,,53.8,Thu
-10/02/2022,23:30,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127386,,,,Thu
-11/02/2022,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126591,,,,Fri
-11/02/2022,03:00,NZD,orange,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125217,3.27%,,2.96%,Fri
-11/02/2022,08:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125598,0.4%,0.4%,0.4%,Fri
-11/02/2022,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125507,2.3%,0.5%,0.2%,Fri
-11/02/2022,,GBP,orange,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124489,1.0%,1.1%,1.1%,Fri
-11/02/2022,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124426,2.0%,-0.6%,1.9%,Fri
-11/02/2022,,GBP,yellow,GDP m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124422,-0.2%,-0.5%,0.7%,Fri
-11/02/2022,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124423,-12.4B,-12.4B,-12.7B,Fri
-11/02/2022,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=february.2022#detail=124424,1.2%,1.2%,1.3%,Fri
-11/02/2022,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124427,0.3%,0.1%,0.7%,Fri
-11/02/2022,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124425,0.2%,0.2%,0.7%,Fri
-11/02/2022,08:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125118,0.2%,0.0%,-0.1%,Fri
-11/02/2022,10:30,GBP,yellow,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124488,0.9%,-3.0%,-2.5%,Fri
-11/02/2022,14:03,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=february.2022#detail=126529,0.9%,,1.0%,Fri
-11/02/2022,16:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=123259,61.7,67.2,67.2,Fri
-11/02/2022,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2022#detail=123258,5.0%,,4.9%,Fri
-13/02/2022,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=february.2022#detail=127237,45.9,,49.8,Sun
-13/02/2022,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125202,2.7%,,0.6%,Sun
-14/02/2022,08:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125130,0.6%,0.2%,-0.1%,Mon
-14/02/2022,14:30,USD,red,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127397,,,,Mon
-14/02/2022,17:15,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127400,,,,Mon
-14/02/2022,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125254,16.0%,,44.0%,Mon
-15/02/2022,00:50,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126951,-1.3%,-1.3%,-1.2%,Tue
-15/02/2022,,JPY,yellow,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=126950,1.3%,1.5%,-0.9%,Tue
-15/02/2022,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=february.2022#detail=125675,,,,Tue
-15/02/2022,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126880,-1.0%,-1.0%,-1.0%,Tue
-15/02/2022,07:16,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123569,11.6%,,14.9%,Tue
-15/02/2022,08:00,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123789,4.3%,3.8%,4.2%,Tue
-15/02/2022,,GBP,yellow,Claimant Count Change,https://www.forexfactory.com/calendar?month=february.2022#detail=123788,-31.9K,-36.2K,-51.6K,Tue
-15/02/2022,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=123790,4.1%,4.1%,4.1%,Tue
-15/02/2022,11:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=125364,48.6,54.4,49.4,Tue
-15/02/2022,,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=125369,54.3,55.1,51.7,Tue
-15/02/2022,,EUR,yellow,Flash Employment Change q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=126719,0.5%,1.0%,1.0%,Tue
-15/02/2022,,EUR,yellow,Flash GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=126686,0.3%,0.3%,0.3%,Tue
-15/02/2022,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=126687,-9.7B,-4.7B,-1.8B,Tue
-15/02/2022,11:08,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=124537,1.60|2.5,,0.92|2.2,Tue
-15/02/2022,14:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=february.2022#detail=125694,231K,244K,238K,Tue
-15/02/2022,14:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124097,1.0%,0.5%,0.2%,Tue
-15/02/2022,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124096,0.8%,0.5%,0.5%,Tue
-15/02/2022,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123934,3.1,11.9,-0.7,Tue
-15/02/2022,15:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=127387,0.0%,,0.4%,Tue
-15/02/2022,15:55,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123206,4.2%,,4.1%,Tue
-15/02/2022,16:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123450,0.3%,,0.3%,Tue
-15/02/2022,21:30,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127402,,,,Tue
-15/02/2022,22:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=february.2022#detail=124846,114.5B,56.9B,137.9B,Tue
-15/02/2022,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=february.2022#detail=122137,,,,Tue
-16/02/2022,00:34,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=122874,0.1%,,0.0%,Wed
-16/02/2022,02:30,CNY,yellow,CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123501,0.9%,1.0%,1.5%,Wed
-16/02/2022,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123502,9.1%,9.5%,10.3%,Wed
-16/02/2022,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126927,0.4%,0.3%,0.7%,Wed
-16/02/2022,08:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123832,5.5%,5.4%,5.4%,Wed
-16/02/2022,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123831,4.4%,4.3%,4.2%,Wed
-16/02/2022,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123834,0.9%,1.0%,0.1%,Wed
-16/02/2022,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123835,1.2%,0.6%,0.3%,Wed
-16/02/2022,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123833,7.8%,7.4%,7.5%,Wed
-16/02/2022,09:45,AUD,yellow,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127399,,,,Wed
-16/02/2022,10:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=127389,10.8%,9.3%,10.7%,Wed
-16/02/2022,11:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126685,1.2%,0.4%,2.4%,Wed
-16/02/2022,11:32,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=125422,0.31|2.0,,-0.08|1.4,Wed
-16/02/2022,14:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123329,0.9%,0.6%,-0.1%,Wed
-16/02/2022,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123347,2.3%,2.1%,2.1%,Wed
-16/02/2022,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123344,3.3%,3.1%,3.1%,Wed
-16/02/2022,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123345,4.0%,3.7%,3.8%,Wed
-16/02/2022,,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126021,0.7%,0.7%,3.1%,Wed
-16/02/2022,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126020,0.6%,0.0%,3.4%,Wed
-16/02/2022,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124170,3.3%,1.0%,-2.8%,Wed
-16/02/2022,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124171,3.8%,2.1%,-2.5%,Wed
-16/02/2022,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124145,2.0%,1.3%,-0.4%,Wed
-16/02/2022,14:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123346,0.8%,,0.0%,Wed
-16/02/2022,15:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124753,1.4%,0.4%,-0.1%,Wed
-16/02/2022,,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=124754,77.6%,76.8%,76.6%,Wed
-16/02/2022,16:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124273,2.1%,2.1%,1.5%,Wed
-16/02/2022,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=february.2022#detail=124019,82,82,83,Wed
-16/02/2022,16:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2022#detail=122201,1.1M,-2.2M,-4.8M,Wed
-16/02/2022,19:30,CAD,yellow,Gov Council Member Lane Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127390,,,,Wed
-16/02/2022,20:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=february.2022#detail=123041,,,,Wed
-17/02/2022,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126809,3.6%,-2.0%,3.4%,Thu
-17/02/2022,,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=126915,-0.93T,-0.40T,-0.55T,Thu
-17/02/2022,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=124899,12.9K,0.0K,64.8K,Thu
-17/02/2022,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=124887,4.2%,4.2%,4.2%,Thu
-17/02/2022,08:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=125166,3.18B,4.23B,3.54B,Thu
-17/02/2022,10:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=february.2022#detail=125315,,,,Thu
-17/02/2022,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=122572,1.10B,5.11B,4.18B,Thu
-17/02/2022,10:35,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=122604,1.23|1.5,,0.85|1.6,Thu
-17/02/2022,14:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=february.2022#detail=126022,37.56B,32.23B,30.14B,Thu
-17/02/2022,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2022#detail=122849,16.0,19.9,23.2,Thu
-17/02/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2022#detail=122967,248K,217K,225K,Thu
-17/02/2022,,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=february.2022#detail=124207,1.90M,1.74M,1.89M,Thu
-17/02/2022,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=february.2022#detail=124206,1.64M,1.70M,1.71M,Thu
-17/02/2022,Day 1,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=127395,,,,Thu
-17/02/2022,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2022#detail=122073,-190B,-203B,-222B,Thu
-17/02/2022,17:00,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127391,,,,Thu
-17/02/2022,22:45,NZD,yellow,PPI Input q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125609,1.1%,2.0%,1.6%,Thu
-17/02/2022,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125613,1.4%,1.9%,1.8%,Thu
-17/02/2022,23:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127392,,,,Thu
-18/02/2022,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125890,0.2%,0.3%,0.5%,Fri
-18/02/2022,08:00,GBP,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124509,1.9%,1.1%,-4.0%,Fri
-18/02/2022,08:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125019,0.3%,0.3%,0.3%,Fri
-18/02/2022,10:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=february.2022#detail=125388,22.6B,24.3B,23.6B,Fri
-18/02/2022,14:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126023,-2.5%,-2.1%,1.1%,Fri
-18/02/2022,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126024,-1.8%,-2.1%,0.8%,Fri
-18/02/2022,,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123317,0.9%,0.6%,0.2%,Fri
-18/02/2022,15:57,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=126843,-9,-8,-9,Fri
-18/02/2022,16:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=february.2022#detail=124794,6.50M,6.10M,6.09M,Fri
-18/02/2022,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125718,-0.3%,0.2%,0.7%,Fri
-18/02/2022,Day 2,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=127396,,,,Fri
-18/02/2022,16:45,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127393,,,,Fri
-18/02/2022,17:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127394,,,,Fri
-18/02/2022,19:30,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127398,,,,Fri
-18/02/2022,22:00,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127409,,,,Fri
-20/02/2022,23:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123952,57.6,,55.1,Sun
-20/02/2022,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123964,56.4,,46.6,Sun
-21/02/2022,01:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124698,2.3%,,0.3%,Mon
-21/02/2022,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=126993,52.9,55.0,55.4,Mon
-21/02/2022,02:15,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=134387,3.70%,3.70%,3.70%,Mon
-21/02/2022,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=134335,4.60%,4.60%,4.60%,Mon
-21/02/2022,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=136795,-0.04%,,-0.28%,Mon
-21/02/2022,08:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125508,2.2%,1.6%,5.0%,Mon
-21/02/2022,09:15,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124572,57.9,54.0,53.1,Mon
-21/02/2022,,EUR,yellow,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124571,57.6,55.5,55.5,Mon
-21/02/2022,09:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124573,58.5,59.6,59.8,Mon
-21/02/2022,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124574,56.6,53.2,52.2,Mon
-21/02/2022,10:00,EUR,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124575,58.4,58.9,58.7,Mon
-21/02/2022,,EUR,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124576,55.8,52.3,51.1,Mon
-21/02/2022,10:30,GBP,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124569,57.3,57.2,57.3,Mon
-21/02/2022,,GBP,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124570,60.8,55.6,54.1,Mon
-21/02/2022,12:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=february.2022#detail=125445,,,,Mon
-21/02/2022,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=133801,,,,Mon
-21/02/2022,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=121957,,,,Mon
-21/02/2022,17:15,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127412,,,,Mon
-22/02/2022,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125859,1.2%,1.2%,1.1%,Tue
-22/02/2022,01:30,AUD,yellow,Household Spending m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=146408,3.1%,,,Tue
-22/02/2022,02:00,AUD,yellow,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127403,,,,Tue
-22/02/2022,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125270,5.5%,,1.6%,Tue
-22/02/2022,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125925,0.8%,1.1%,0.9%,Tue
-22/02/2022,08:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=february.2022#detail=124521,-3.7B,-4.3B,14.6B,Tue
-22/02/2022,10:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=february.2022#detail=125456,98.9,96.4,96.0,Tue
-22/02/2022,11:45,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127404,,,,Tue
-22/02/2022,12:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=february.2022#detail=124662,20,25,24,Tue
-22/02/2022,14:56,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=february.2022#detail=126657,2.3,3.2,2.7,Tue
-22/02/2022,15:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124830,1.2%,1.0%,1.2%,Tue
-22/02/2022,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=124818,18.6%,18.0%,18.3%,Tue
-22/02/2022,15:45,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124007,57.5,55.9,55.5,Tue
-22/02/2022,,USD,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123995,56.7,52.9,51.2,Tue
-22/02/2022,15:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2022#detail=122824,1,10,8,Tue
-22/02/2022,16:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=123090,110.5,109.9,111.1,Tue
-22/02/2022,20:00,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127426,,,,Tue
-23/02/2022,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126592,,,,Wed
-23/02/2022,01:30,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124930,0.7%,0.7%,0.6%,Wed
-23/02/2022,,AUD,yellow,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124954,-0.4%,2.6%,-1.2%,Wed
-23/02/2022,02:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=126158,1.00%,1.00%,0.75%,Wed
-23/02/2022,,NZD,red,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=february.2022#detail=126155,,,,Wed
-23/02/2022,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=february.2022#detail=126157,,,,Wed
-23/02/2022,03:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=february.2022#detail=126165,,,,Wed
-23/02/2022,08:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=february.2022#detail=125468,-8.1,-6.2,-6.7,Wed
-23/02/2022,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=february.2022#detail=125063,9.0,,9.5,Wed
-23/02/2022,10:30,GBP,red,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=february.2022#detail=126552,,,,Wed
-23/02/2022,11:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126688,2.3%,2.3%,2.3%,Wed
-23/02/2022,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126689,5.1%,5.1%,5.1%,Wed
-23/02/2022,14:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=126025,3.8%,,2.8%,Wed
-23/02/2022,16:00,GBP,orange,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127405,,,,Wed
-23/02/2022,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=february.2022#detail=122138,,,,Wed
-24/02/2022,01:30,AUD,yellow,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124918,1.1%,2.6%,-1.1%,Thu
-24/02/2022,All Day,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=127437,,,,Thu
-24/02/2022,12:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=february.2022#detail=124674,14,26,28,Thu
-24/02/2022,14:15,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127406,,,,Thu
-24/02/2022,14:30,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124321,7.0%,7.0%,6.9%,Thu
-24/02/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2022#detail=122968,232K,233K,249K,Thu
-24/02/2022,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124336,7.1%,6.9%,6.9%,Thu
-24/02/2022,15:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=127388,1.0%,,0.6%,Thu
-24/02/2022,16:00,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=february.2022#detail=124235,801K,800K,839K,Thu
-24/02/2022,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2022#detail=122074,-129B,-137B,-190B,Thu
-24/02/2022,17:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2022#detail=122204,4.5M,-1.0M,1.1M,Thu
-24/02/2022,18:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127408,,,,Thu
-24/02/2022,19:00,GBP,orange,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127407,,,,Thu
-24/02/2022,19:30,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127439,,,,Thu
-24/02/2022,22:45,NZD,yellow,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125621,6.8%,5.5%,-6.8%,Thu
-24/02/2022,,NZD,yellow,Retail Sales q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125617,8.6%,6.2%,-8.2%,Thu
-24/02/2022,,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=125226,-1082M,-500M,-975M,Thu
-25/02/2022,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125891,0.5%,0.4%,0.2%,Fri
-25/02/2022,01:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=126493,-26,-19,-19,Fri
-25/02/2022,02:25,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127413,,,,Fri
-25/02/2022,08:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125502,-0.3%,-0.7%,-0.7%,Fri
-25/02/2022,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125509,4.3%,1.7%,0.1%,Fri
-25/02/2022,08:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125004,-1.5%,-0.9%,0.0%,Fri
-25/02/2022,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125018,0.7%,0.4%,0.3%,Fri
-25/02/2022,,EUR,yellow,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=126642,0.7%,0.7%,0.7%,Fri
-25/02/2022,10:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125329,6.4%,6.7%,6.9%,Fri
-25/02/2022,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125330,4.3%,4.0%,4.2%,Fri
-25/02/2022,11:15,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=127401,1.81|1.4,,1.39|1.4,Fri
-25/02/2022,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=127440,,,,Fri
-25/02/2022,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=125411,,,,Fri
-25/02/2022,14:30,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124345,0.5%,0.5%,0.5%,Fri
-25/02/2022,,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124286,0.7%,0.4%,0.6%,Fri
-25/02/2022,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124287,1.6%,1.1%,-0.7%,Fri
-25/02/2022,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124358,0.0%,-0.3%,0.4%,Fri
-25/02/2022,,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124359,2.1%,1.6%,-0.8%,Fri
-25/02/2022,15:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127438,,,,Fri
-25/02/2022,16:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=123261,62.8,61.7,61.7,Fri
-25/02/2022,,USD,yellow,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124806,-5.7%,1.5%,-2.3%,Fri
-25/02/2022,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2022#detail=123262,4.9%,,5.0%,Fri
-25/02/2022,17:00,USD,yellow,Fed Monetary Policy Report,https://www.forexfactory.com/calendar?month=february.2022#detail=124779,,,,Fri
-28/02/2022,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126881,-1.3%,-0.6%,-1.0%,Mon
-28/02/2022,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126940,1.6%,1.5%,1.2%,Mon
-28/02/2022,01:00,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=123677,-51.8,,-23.2,Mon
-28/02/2022,01:05,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123394,0.5%,,0.4%,Mon
-28/02/2022,01:30,AUD,yellow,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124934,2.0%,2.1%,4.0%,Mon
-28/02/2022,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124862,0.6%,0.7%,0.8%,Mon
-28/02/2022,,AUD,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125637,1.8%,0.3%,-4.4%,Mon
-28/02/2022,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125938,2.1%,2.2%,4.2%,Mon
-28/02/2022,08:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125155,5.1%,0.4%,-0.5%,Mon
-28/02/2022,09:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=february.2022#detail=125142,105.0,108.1,107.2,Mon
-28/02/2022,,CHF,yellow,GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125101,0.3%,0.3%,1.9%,Mon
-28/02/2022,,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=122636,7.4%,7.1%,6.1%,Mon
-28/02/2022,14:30,CAD,yellow,Current Account,https://www.forexfactory.com/calendar?month=february.2022#detail=126026,-0.8B,2.2B,0.8B,Mon
-28/02/2022,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126028,3.0%,0.9%,0.5%,Mon
-28/02/2022,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126027,6.5%,4.9%,-2.7%,Mon
-28/02/2022,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124728,-107.6B,-99.6B,-100.5B,Mon
-28/02/2022,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124309,0.8%,1.3%,2.2%,Mon
-28/02/2022,15:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122861,56.3,62.1,65.2,Mon
-28/02/2022,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2022#detail=122902,53.2,,48.4,Mon
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/02/2022,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=127283,2.7%,2.8%,2.8%,Tue,Africa/Lagos
+01/02/2022,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126625,,,,Tue,Africa/Lagos
+01/02/2022,01:30,AUD,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=127272,-4.4%,-1.9%,7.3%,Tue,Africa/Lagos
+01/02/2022,,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=126981,55.4,54.6,54.6,Tue,Africa/Lagos
+01/02/2022,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=125652,0.10%,0.10%,0.10%,Tue,Africa/Lagos
+01/02/2022,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=february.2022#detail=125663,,,,Tue,Africa/Lagos
+01/02/2022,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=126959,0.18|3.3,,0.10|3.5,Tue,Africa/Lagos
+01/02/2022,06:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=124874,25.3%,,28.7%,Tue,Africa/Lagos
+01/02/2022,08:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125503,-5.5%,-1.3%,0.8%,Tue,Africa/Lagos
+01/02/2022,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124710,0.8%,0.7%,1.1%,Tue,Africa/Lagos
+01/02/2022,08:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125154,-0.4%,5.5%,5.3%,Tue,Africa/Lagos
+01/02/2022,08:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125016,0.3%,-0.2%,0.2%,Tue,Africa/Lagos
+01/02/2022,09:00,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=february.2022#detail=125092,-4,3,4,Tue,Africa/Lagos
+01/02/2022,09:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122374,56.2,56.1,56.2,Tue,Africa/Lagos
+01/02/2022,09:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122376,63.8,63.9,62.7,Tue,Africa/Lagos
+01/02/2022,09:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122377,58.3,61.2,62.0,Tue,Africa/Lagos
+01/02/2022,09:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122378,55.5,55.5,55.5,Tue,Africa/Lagos
+01/02/2022,09:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122375,59.8,60.5,60.5,Tue,Africa/Lagos
+01/02/2022,,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=125479,-48K,-4K,-29K,Tue,Africa/Lagos
+01/02/2022,10:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122379,58.7,59.0,59.0,Tue,Africa/Lagos
+01/02/2022,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=122519,9.0%,9.2%,9.1%,Tue,Africa/Lagos
+01/02/2022,10:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122380,57.3,56.9,56.9,Tue,Africa/Lagos
+01/02/2022,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124383,0.1%,0.8%,0.7%,Tue,Africa/Lagos
+01/02/2022,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=february.2022#detail=124384,71K,66K,68K,Tue,Africa/Lagos
+01/02/2022,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124385,4.4B,4.0B,4.8B,Tue,Africa/Lagos
+01/02/2022,11:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=126680,7.0%,7.1%,7.1%,Tue,Africa/Lagos
+01/02/2022,14:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126005,0.6%,0.4%,0.8%,Tue,Africa/Lagos
+01/02/2022,15:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123305,56.2,,56.5,Tue,Africa/Lagos
+01/02/2022,15:37,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123205,4.1%,,4.6%,Tue,Africa/Lagos
+01/02/2022,15:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123150,55.5,55.0,55.0,Tue,Africa/Lagos
+01/02/2022,16:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123114,57.6,57.4,58.7,Tue,Africa/Lagos
+01/02/2022,,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=february.2022#detail=126180,10.93M,10.35M,10.78M,Tue,Africa/Lagos
+01/02/2022,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124193,0.2%,0.7%,0.6%,Tue,Africa/Lagos
+01/02/2022,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=february.2022#detail=123126,76.1,67.6,68.2,Tue,Africa/Lagos
+01/02/2022,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=february.2022#detail=123898,15.0M,13.0M,12.4M,Tue,Africa/Lagos
+01/02/2022,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=february.2022#detail=122135,,,,Tue,Africa/Lagos
+01/02/2022,22:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124962,0.1%,0.4%,1.9%,Tue,Africa/Lagos
+01/02/2022,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=124958,3.2%,3.3%,3.3%,Tue,Africa/Lagos
+01/02/2022,,NZD,yellow,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124966,0.7%,0.9%,0.7%,Tue,Africa/Lagos
+02/02/2022,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=127083,8.4%,8.5%,8.3%,Wed,Africa/Lagos
+02/02/2022,01:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126504,1.5%,,0.8%,Wed,Africa/Lagos
+02/02/2022,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126626,,,,Wed,Africa/Lagos
+02/02/2022,02:30,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127284,,,,Wed,Africa/Lagos
+02/02/2022,08:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124973,-170.7B,,-181.0B,Wed,Africa/Lagos
+02/02/2022,09:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=122624,17.2K,-50.7K,-76.8K,Wed,Africa/Lagos
+02/02/2022,11:00,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126682,2.3%,1.9%,2.6%,Wed,Africa/Lagos
+02/02/2022,,EUR,yellow,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126681,5.1%,4.4%,5.0%,Wed,Africa/Lagos
+02/02/2022,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=122583,1.6%,0.5%,0.4%,Wed,Africa/Lagos
+02/02/2022,All Day,All,red,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=122679,,,,Wed,Africa/Lagos
+02/02/2022,14:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=124055,-301K,185K,776K,Wed,Africa/Lagos
+02/02/2022,14:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125706,-1.9%,-1.6%,7.6%,Wed,Africa/Lagos
+02/02/2022,16:00,CAD,yellow,Gov Council Member Gravelle Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127285,,,,Wed,Africa/Lagos
+02/02/2022,16:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2022#detail=122197,-1.0M,1.8M,2.4M,Wed,Africa/Lagos
+02/02/2022,21:00,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127286,,,,Wed,Africa/Lagos
+02/02/2022,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123234,45.9,,57.0,Wed,Africa/Lagos
+03/02/2022,01:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123666,1.0%,,-0.3%,Thu,Africa/Lagos
+03/02/2022,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126627,,,,Thu,Africa/Lagos
+03/02/2022,01:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125626,8.2%,-0.9%,2.6%,Thu,Africa/Lagos
+03/02/2022,,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124943,8.36B,9.80B,9.76B,Thu,Africa/Lagos
+03/02/2022,,AUD,yellow,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=123388,18,,-2,Thu,Africa/Lagos
+03/02/2022,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=126970,0.79|3.4,,0.72|3.6,Thu,Africa/Lagos
+03/02/2022,09:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122381,46.6,51.9,55.8,Thu,Africa/Lagos
+03/02/2022,09:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122382,48.5,50.0,53.0,Thu,Africa/Lagos
+03/02/2022,09:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122383,53.1,53.1,53.1,Thu,Africa/Lagos
+03/02/2022,09:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122384,52.2,52.2,52.2,Thu,Africa/Lagos
+03/02/2022,10:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122385,51.1,51.2,51.2,Thu,Africa/Lagos
+03/02/2022,10:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122386,54.1,53.3,53.3,Thu,Africa/Lagos
+03/02/2022,10:48,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=122600,0.85|1.6,,0.43|1.9,Thu,Africa/Lagos
+03/02/2022,11:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126684,2.9%,2.9%,1.8%,Thu,Africa/Lagos
+03/02/2022,11:06,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=122602,0.45|2.6,,0.30|2.1,Thu,Africa/Lagos
+03/02/2022,13:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=february.2022#detail=123726,,875B,875B,Thu,Africa/Lagos
+03/02/2022,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=february.2022#detail=123781,,,,Thu,Africa/Lagos
+03/02/2022,,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=february.2022#detail=123728,,,,Thu,Africa/Lagos
+03/02/2022,,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=february.2022#detail=123729,,0-0-9,0-0-9,Thu,Africa/Lagos
+03/02/2022,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=february.2022#detail=123730,9-0-0,7-0-2,8-0-1,Thu,Africa/Lagos
+03/02/2022,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=123727,0.50%,0.50%,0.25%,Thu,Africa/Lagos
+03/02/2022,13:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127287,,,,Thu,Africa/Lagos
+03/02/2022,,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123102,-76.0%,,-75.3%,Thu,Africa/Lagos
+03/02/2022,13:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=125284,0.00%,0.00%,0.00%,Thu,Africa/Lagos
+03/02/2022,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=february.2022#detail=125283,,,,Thu,Africa/Lagos
+03/02/2022,14:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=february.2022#detail=125282,,,,Thu,Africa/Lagos
+03/02/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2022#detail=122965,238K,245K,261K,Thu,Africa/Lagos
+03/02/2022,,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124128,6.6%,3.8%,-5.2%,Thu,Africa/Lagos
+03/02/2022,,USD,yellow,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124129,0.3%,1.1%,9.6%,Thu,Africa/Lagos
+03/02/2022,15:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123162,51.2,50.9,50.9,Thu,Africa/Lagos
+03/02/2022,16:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123138,59.9,59.5,62.0,Thu,Africa/Lagos
+03/02/2022,,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124740,-0.4%,-0.4%,1.8%,Thu,Africa/Lagos
+03/02/2022,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2022#detail=122071,-268B,-280B,-219B,Thu,Africa/Lagos
+03/02/2022,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125238,0.6%,,0.6%,Thu,Africa/Lagos
+04/02/2022,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126628,,,,Fri,Africa/Lagos
+04/02/2022,01:30,AUD,orange,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=february.2022#detail=125686,,,,Fri,Africa/Lagos
+04/02/2022,08:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125504,2.8%,0.4%,3.6%,Fri,Africa/Lagos
+04/02/2022,08:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=122548,-0.2%,0.5%,-0.5%,Fri,Africa/Lagos
+04/02/2022,,EUR,yellow,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124984,0.5%,0.4%,0.5%,Fri,Africa/Lagos
+04/02/2022,10:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124686,56.3,54.3,54.3,Fri,Africa/Lagos
+04/02/2022,11:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126683,-3.0%,-1.0%,1.0%,Fri,Africa/Lagos
+04/02/2022,13:15,GBP,orange,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127288,,,,Fri,Africa/Lagos
+04/02/2022,14:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=122914,-200.1K,-121.5K,54.7K,Fri,Africa/Lagos
+04/02/2022,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=122926,6.5%,6.3%,5.9%,Fri,Africa/Lagos
+04/02/2022,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124043,0.7%,0.5%,0.5%,Fri,Africa/Lagos
+04/02/2022,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=122938,467K,110K,510K,Fri,Africa/Lagos
+04/02/2022,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=122950,4.0%,3.9%,3.9%,Fri,Africa/Lagos
+04/02/2022,16:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=125190,50.7,55.1,45.0,Fri,Africa/Lagos
+04/02/2022,16:45,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127382,,,,Fri,Africa/Lagos
+06/02/2022,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=121989,,,,Sun,Africa/Lagos
+06/02/2022,22:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123247,56.2,,49.6,Sun,Africa/Lagos
+07/02/2022,01:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123419,-0.3%,,-5.8%,Mon,Africa/Lagos
+07/02/2022,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123602,51.4,50.5,53.1,Mon,Africa/Lagos
+07/02/2022,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=february.2022#detail=126808,104.3%,103.8%,103.2%,Mon,Africa/Lagos
+07/02/2022,07:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=125106,2.3%,2.4%,2.4%,Mon,Africa/Lagos
+07/02/2022,08:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125505,-0.3%,0.4%,0.3%,Mon,Africa/Lagos
+07/02/2022,,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124259,0.3%,0.9%,1.1%,Mon,Africa/Lagos
+07/02/2022,09:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=february.2022#detail=125051,947B,,945B,Mon,Africa/Lagos
+07/02/2022,10:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=125352,16.6,15.1,14.9,Mon,Africa/Lagos
+07/02/2022,16:45,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127383,,,,Mon,Africa/Lagos
+07/02/2022,21:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124782,18.9B,24.9B,38.8B,Mon,Africa/Lagos
+08/02/2022,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125913,-0.2%,0.9%,0.8%,Tue,Africa/Lagos
+08/02/2022,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126867,-0.2%,0.0%,-1.3%,Tue,Africa/Lagos
+08/02/2022,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125865,0.6%,0.8%,0.6%,Tue,Africa/Lagos
+08/02/2022,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=february.2022#detail=126855,0.79T,1.16T,1.37T,Tue,Africa/Lagos
+08/02/2022,01:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126541,8.1%,0.7%,0.6%,Tue,Africa/Lagos
+08/02/2022,01:27,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=123979,3,,-12,Tue,Africa/Lagos
+08/02/2022,03:15,NZD,orange,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127384,,,,Tue,Africa/Lagos
+08/02/2022,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=127005,37.9,48.1,56.4,Tue,Africa/Lagos
+08/02/2022,08:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124993,-11.3B,-9.1B,-9.8B,Tue,Africa/Lagos
+08/02/2022,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=122560,0.9%,-0.4%,-0.4%,Tue,Africa/Lagos
+08/02/2022,11:56,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=february.2022#detail=124031,97.1,97.4,98.9,Tue,Africa/Lagos
+08/02/2022,14:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=126019,-0.1B,2.5B,2.5B,Tue,Africa/Lagos
+08/02/2022,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124157,-80.7B,-83.0B,-79.3B,Tue,Africa/Lagos
+08/02/2022,15:56,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=february.2022#detail=123078,44.0,47.2,44.7,Tue,Africa/Lagos
+08/02/2022,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=february.2022#detail=122136,,,,Tue,Africa/Lagos
+09/02/2022,00:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=123405,-1.3%,,-2.0%,Wed,Africa/Lagos
+09/02/2022,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=127072,3.6%,3.6%,3.7%,Wed,Africa/Lagos
+09/02/2022,06:59,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126903,61.4%,,40.5%,Wed,Africa/Lagos
+09/02/2022,08:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=125506,6.8B,11.3B,10.8B,Wed,Africa/Lagos
+09/02/2022,10:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=122536,-1.0%,-0.8%,2.1%,Wed,Africa/Lagos
+09/02/2022,11:32,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=125443,0.39|1.2,,0.28|1.1,Wed,Africa/Lagos
+09/02/2022,14:10,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127378,,,,Wed,Africa/Lagos
+09/02/2022,16:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124243,2.2%,2.1%,2.1%,Wed,Africa/Lagos
+09/02/2022,16:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2022#detail=122198,-4.8M,1.5M,-1.0M,Wed,Africa/Lagos
+09/02/2022,,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127385,,,,Wed,Africa/Lagos
+09/02/2022,18:00,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127379,,,,Wed,Africa/Lagos
+09/02/2022,,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127380,,,,Wed,Africa/Lagos
+09/02/2022,19:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=123910,1.90|2.7,,1.72|2.5,Wed,Africa/Lagos
+10/02/2022,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125853,8.6%,8.2%,8.7%,Thu,Africa/Lagos
+10/02/2022,01:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=126518,74%,69%,70%,Thu,Africa/Lagos
+10/02/2022,01:03,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2022#detail=122890,4.6%,,4.4%,Thu,Africa/Lagos
+10/02/2022,11:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123503,9.8%,9.2%,9.0%,Thu,Africa/Lagos
+10/02/2022,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=february.2022#detail=123504,3980B,3650B,1130B,Thu,Africa/Lagos
+10/02/2022,,EUR,orange,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=february.2022#detail=125326,,,,Thu,Africa/Lagos
+10/02/2022,14:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124069,0.6%,0.5%,0.6%,Thu,Africa/Lagos
+10/02/2022,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124068,0.6%,0.4%,0.5%,Thu,Africa/Lagos
+10/02/2022,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=128651,7.5%,7.2%,7.0%,Thu,Africa/Lagos
+10/02/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2022#detail=122966,223K,227K,239K,Thu,Africa/Lagos
+10/02/2022,16:00,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=february.2022#detail=124841,4.65%,,4.88%,Thu,Africa/Lagos
+10/02/2022,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2022#detail=122072,-222B,-223B,-268B,Thu,Africa/Lagos
+10/02/2022,18:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127381,,,,Thu,Africa/Lagos
+10/02/2022,19:01,USD,orange,30-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=123922,2.34|2.3,,2.08|2.4,Thu,Africa/Lagos
+10/02/2022,20:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=123056,118.7B,19.5B,-21.3B,Thu,Africa/Lagos
+10/02/2022,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123650,52.1,,53.8,Thu,Africa/Lagos
+10/02/2022,23:30,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127386,,,,Thu,Africa/Lagos
+11/02/2022,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126591,,,,Fri,Africa/Lagos
+11/02/2022,03:00,NZD,orange,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125217,3.27%,,2.96%,Fri,Africa/Lagos
+11/02/2022,08:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125598,0.4%,0.4%,0.4%,Fri,Africa/Lagos
+11/02/2022,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125507,2.3%,0.5%,0.2%,Fri,Africa/Lagos
+11/02/2022,,GBP,orange,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124489,1.0%,1.1%,1.1%,Fri,Africa/Lagos
+11/02/2022,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124426,2.0%,-0.6%,1.9%,Fri,Africa/Lagos
+11/02/2022,,GBP,yellow,GDP m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124422,-0.2%,-0.5%,0.7%,Fri,Africa/Lagos
+11/02/2022,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124423,-12.4B,-12.4B,-12.7B,Fri,Africa/Lagos
+11/02/2022,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=february.2022#detail=124424,1.2%,1.2%,1.3%,Fri,Africa/Lagos
+11/02/2022,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124427,0.3%,0.1%,0.7%,Fri,Africa/Lagos
+11/02/2022,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124425,0.2%,0.2%,0.7%,Fri,Africa/Lagos
+11/02/2022,08:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125118,0.2%,0.0%,-0.1%,Fri,Africa/Lagos
+11/02/2022,10:30,GBP,yellow,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124488,0.9%,-3.0%,-2.5%,Fri,Africa/Lagos
+11/02/2022,14:03,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=february.2022#detail=126529,0.9%,,1.0%,Fri,Africa/Lagos
+11/02/2022,16:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=123259,61.7,67.2,67.2,Fri,Africa/Lagos
+11/02/2022,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2022#detail=123258,5.0%,,4.9%,Fri,Africa/Lagos
+13/02/2022,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=february.2022#detail=127237,45.9,,49.8,Sun,Africa/Lagos
+13/02/2022,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125202,2.7%,,0.6%,Sun,Africa/Lagos
+14/02/2022,08:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125130,0.6%,0.2%,-0.1%,Mon,Africa/Lagos
+14/02/2022,14:30,USD,red,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127397,,,,Mon,Africa/Lagos
+14/02/2022,17:15,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127400,,,,Mon,Africa/Lagos
+14/02/2022,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125254,16.0%,,44.0%,Mon,Africa/Lagos
+15/02/2022,00:50,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126951,-1.3%,-1.3%,-1.2%,Tue,Africa/Lagos
+15/02/2022,,JPY,yellow,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=126950,1.3%,1.5%,-0.9%,Tue,Africa/Lagos
+15/02/2022,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=february.2022#detail=125675,,,,Tue,Africa/Lagos
+15/02/2022,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126880,-1.0%,-1.0%,-1.0%,Tue,Africa/Lagos
+15/02/2022,07:16,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123569,11.6%,,14.9%,Tue,Africa/Lagos
+15/02/2022,08:00,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123789,4.3%,3.8%,4.2%,Tue,Africa/Lagos
+15/02/2022,,GBP,yellow,Claimant Count Change,https://www.forexfactory.com/calendar?month=february.2022#detail=123788,-31.9K,-36.2K,-51.6K,Tue,Africa/Lagos
+15/02/2022,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=123790,4.1%,4.1%,4.1%,Tue,Africa/Lagos
+15/02/2022,11:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=125364,48.6,54.4,49.4,Tue,Africa/Lagos
+15/02/2022,,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=125369,54.3,55.1,51.7,Tue,Africa/Lagos
+15/02/2022,,EUR,yellow,Flash Employment Change q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=126719,0.5%,1.0%,1.0%,Tue,Africa/Lagos
+15/02/2022,,EUR,yellow,Flash GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=126686,0.3%,0.3%,0.3%,Tue,Africa/Lagos
+15/02/2022,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=126687,-9.7B,-4.7B,-1.8B,Tue,Africa/Lagos
+15/02/2022,11:08,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=124537,1.60|2.5,,0.92|2.2,Tue,Africa/Lagos
+15/02/2022,14:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=february.2022#detail=125694,231K,244K,238K,Tue,Africa/Lagos
+15/02/2022,14:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124097,1.0%,0.5%,0.2%,Tue,Africa/Lagos
+15/02/2022,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124096,0.8%,0.5%,0.5%,Tue,Africa/Lagos
+15/02/2022,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123934,3.1,11.9,-0.7,Tue,Africa/Lagos
+15/02/2022,15:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=127387,0.0%,,0.4%,Tue,Africa/Lagos
+15/02/2022,15:55,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=february.2022#detail=123206,4.2%,,4.1%,Tue,Africa/Lagos
+15/02/2022,16:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123450,0.3%,,0.3%,Tue,Africa/Lagos
+15/02/2022,21:30,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127402,,,,Tue,Africa/Lagos
+15/02/2022,22:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=february.2022#detail=124846,114.5B,56.9B,137.9B,Tue,Africa/Lagos
+15/02/2022,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=february.2022#detail=122137,,,,Tue,Africa/Lagos
+16/02/2022,00:34,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=122874,0.1%,,0.0%,Wed,Africa/Lagos
+16/02/2022,02:30,CNY,yellow,CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123501,0.9%,1.0%,1.5%,Wed,Africa/Lagos
+16/02/2022,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123502,9.1%,9.5%,10.3%,Wed,Africa/Lagos
+16/02/2022,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126927,0.4%,0.3%,0.7%,Wed,Africa/Lagos
+16/02/2022,08:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123832,5.5%,5.4%,5.4%,Wed,Africa/Lagos
+16/02/2022,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123831,4.4%,4.3%,4.2%,Wed,Africa/Lagos
+16/02/2022,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123834,0.9%,1.0%,0.1%,Wed,Africa/Lagos
+16/02/2022,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123835,1.2%,0.6%,0.3%,Wed,Africa/Lagos
+16/02/2022,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123833,7.8%,7.4%,7.5%,Wed,Africa/Lagos
+16/02/2022,09:45,AUD,yellow,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127399,,,,Wed,Africa/Lagos
+16/02/2022,10:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=127389,10.8%,9.3%,10.7%,Wed,Africa/Lagos
+16/02/2022,11:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126685,1.2%,0.4%,2.4%,Wed,Africa/Lagos
+16/02/2022,11:32,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=125422,0.31|2.0,,-0.08|1.4,Wed,Africa/Lagos
+16/02/2022,14:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123329,0.9%,0.6%,-0.1%,Wed,Africa/Lagos
+16/02/2022,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123347,2.3%,2.1%,2.1%,Wed,Africa/Lagos
+16/02/2022,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123344,3.3%,3.1%,3.1%,Wed,Africa/Lagos
+16/02/2022,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=123345,4.0%,3.7%,3.8%,Wed,Africa/Lagos
+16/02/2022,,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126021,0.7%,0.7%,3.1%,Wed,Africa/Lagos
+16/02/2022,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126020,0.6%,0.0%,3.4%,Wed,Africa/Lagos
+16/02/2022,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124170,3.3%,1.0%,-2.8%,Wed,Africa/Lagos
+16/02/2022,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124171,3.8%,2.1%,-2.5%,Wed,Africa/Lagos
+16/02/2022,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124145,2.0%,1.3%,-0.4%,Wed,Africa/Lagos
+16/02/2022,14:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123346,0.8%,,0.0%,Wed,Africa/Lagos
+16/02/2022,15:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124753,1.4%,0.4%,-0.1%,Wed,Africa/Lagos
+16/02/2022,,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=124754,77.6%,76.8%,76.6%,Wed,Africa/Lagos
+16/02/2022,16:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124273,2.1%,2.1%,1.5%,Wed,Africa/Lagos
+16/02/2022,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=february.2022#detail=124019,82,82,83,Wed,Africa/Lagos
+16/02/2022,16:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2022#detail=122201,1.1M,-2.2M,-4.8M,Wed,Africa/Lagos
+16/02/2022,19:30,CAD,yellow,Gov Council Member Lane Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127390,,,,Wed,Africa/Lagos
+16/02/2022,20:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=february.2022#detail=123041,,,,Wed,Africa/Lagos
+17/02/2022,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126809,3.6%,-2.0%,3.4%,Thu,Africa/Lagos
+17/02/2022,,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=126915,-0.93T,-0.40T,-0.55T,Thu,Africa/Lagos
+17/02/2022,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=february.2022#detail=124899,12.9K,0.0K,64.8K,Thu,Africa/Lagos
+17/02/2022,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=124887,4.2%,4.2%,4.2%,Thu,Africa/Lagos
+17/02/2022,08:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=125166,3.18B,4.23B,3.54B,Thu,Africa/Lagos
+17/02/2022,10:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=february.2022#detail=125315,,,,Thu,Africa/Lagos
+17/02/2022,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=122572,1.10B,5.11B,4.18B,Thu,Africa/Lagos
+17/02/2022,10:35,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=122604,1.23|1.5,,0.85|1.6,Thu,Africa/Lagos
+17/02/2022,14:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=february.2022#detail=126022,37.56B,32.23B,30.14B,Thu,Africa/Lagos
+17/02/2022,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2022#detail=122849,16.0,19.9,23.2,Thu,Africa/Lagos
+17/02/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2022#detail=122967,248K,217K,225K,Thu,Africa/Lagos
+17/02/2022,,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=february.2022#detail=124207,1.90M,1.74M,1.89M,Thu,Africa/Lagos
+17/02/2022,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=february.2022#detail=124206,1.64M,1.70M,1.71M,Thu,Africa/Lagos
+17/02/2022,Day 1,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=127395,,,,Thu,Africa/Lagos
+17/02/2022,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2022#detail=122073,-190B,-203B,-222B,Thu,Africa/Lagos
+17/02/2022,17:00,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127391,,,,Thu,Africa/Lagos
+17/02/2022,22:45,NZD,yellow,PPI Input q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125609,1.1%,2.0%,1.6%,Thu,Africa/Lagos
+17/02/2022,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125613,1.4%,1.9%,1.8%,Thu,Africa/Lagos
+17/02/2022,23:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127392,,,,Thu,Africa/Lagos
+18/02/2022,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125890,0.2%,0.3%,0.5%,Fri,Africa/Lagos
+18/02/2022,08:00,GBP,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124509,1.9%,1.1%,-4.0%,Fri,Africa/Lagos
+18/02/2022,08:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125019,0.3%,0.3%,0.3%,Fri,Africa/Lagos
+18/02/2022,10:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=february.2022#detail=125388,22.6B,24.3B,23.6B,Fri,Africa/Lagos
+18/02/2022,14:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126023,-2.5%,-2.1%,1.1%,Fri,Africa/Lagos
+18/02/2022,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126024,-1.8%,-2.1%,0.8%,Fri,Africa/Lagos
+18/02/2022,,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123317,0.9%,0.6%,0.2%,Fri,Africa/Lagos
+18/02/2022,15:57,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=126843,-9,-8,-9,Fri,Africa/Lagos
+18/02/2022,16:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=february.2022#detail=124794,6.50M,6.10M,6.09M,Fri,Africa/Lagos
+18/02/2022,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125718,-0.3%,0.2%,0.7%,Fri,Africa/Lagos
+18/02/2022,Day 2,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=127396,,,,Fri,Africa/Lagos
+18/02/2022,16:45,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127393,,,,Fri,Africa/Lagos
+18/02/2022,17:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127394,,,,Fri,Africa/Lagos
+18/02/2022,19:30,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127398,,,,Fri,Africa/Lagos
+18/02/2022,22:00,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127409,,,,Fri,Africa/Lagos
+20/02/2022,23:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123952,57.6,,55.1,Sun,Africa/Lagos
+20/02/2022,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123964,56.4,,46.6,Sun,Africa/Lagos
+21/02/2022,01:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124698,2.3%,,0.3%,Mon,Africa/Lagos
+21/02/2022,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=126993,52.9,55.0,55.4,Mon,Africa/Lagos
+21/02/2022,02:15,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=134387,3.70%,3.70%,3.70%,Mon,Africa/Lagos
+21/02/2022,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=134335,4.60%,4.60%,4.60%,Mon,Africa/Lagos
+21/02/2022,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=136795,-0.04%,,-0.28%,Mon,Africa/Lagos
+21/02/2022,08:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125508,2.2%,1.6%,5.0%,Mon,Africa/Lagos
+21/02/2022,09:15,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124572,57.9,54.0,53.1,Mon,Africa/Lagos
+21/02/2022,,EUR,yellow,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124571,57.6,55.5,55.5,Mon,Africa/Lagos
+21/02/2022,09:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124573,58.5,59.6,59.8,Mon,Africa/Lagos
+21/02/2022,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124574,56.6,53.2,52.2,Mon,Africa/Lagos
+21/02/2022,10:00,EUR,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124575,58.4,58.9,58.7,Mon,Africa/Lagos
+21/02/2022,,EUR,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124576,55.8,52.3,51.1,Mon,Africa/Lagos
+21/02/2022,10:30,GBP,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124569,57.3,57.2,57.3,Mon,Africa/Lagos
+21/02/2022,,GBP,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124570,60.8,55.6,54.1,Mon,Africa/Lagos
+21/02/2022,12:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=february.2022#detail=125445,,,,Mon,Africa/Lagos
+21/02/2022,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=133801,,,,Mon,Africa/Lagos
+21/02/2022,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=121957,,,,Mon,Africa/Lagos
+21/02/2022,17:15,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127412,,,,Mon,Africa/Lagos
+22/02/2022,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125859,1.2%,1.2%,1.1%,Tue,Africa/Lagos
+22/02/2022,01:30,AUD,yellow,Household Spending m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=146408,3.1%,,,Tue,Africa/Lagos
+22/02/2022,02:00,AUD,yellow,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127403,,,,Tue,Africa/Lagos
+22/02/2022,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125270,5.5%,,1.6%,Tue,Africa/Lagos
+22/02/2022,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125925,0.8%,1.1%,0.9%,Tue,Africa/Lagos
+22/02/2022,08:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=february.2022#detail=124521,-3.7B,-4.3B,14.6B,Tue,Africa/Lagos
+22/02/2022,10:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=february.2022#detail=125456,98.9,96.4,96.0,Tue,Africa/Lagos
+22/02/2022,11:45,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127404,,,,Tue,Africa/Lagos
+22/02/2022,12:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=february.2022#detail=124662,20,25,24,Tue,Africa/Lagos
+22/02/2022,14:56,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=february.2022#detail=126657,2.3,3.2,2.7,Tue,Africa/Lagos
+22/02/2022,15:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124830,1.2%,1.0%,1.2%,Tue,Africa/Lagos
+22/02/2022,,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=124818,18.6%,18.0%,18.3%,Tue,Africa/Lagos
+22/02/2022,15:45,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=124007,57.5,55.9,55.5,Tue,Africa/Lagos
+22/02/2022,,USD,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=123995,56.7,52.9,51.2,Tue,Africa/Lagos
+22/02/2022,15:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2022#detail=122824,1,10,8,Tue,Africa/Lagos
+22/02/2022,16:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=123090,110.5,109.9,111.1,Tue,Africa/Lagos
+22/02/2022,20:00,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127426,,,,Tue,Africa/Lagos
+23/02/2022,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=february.2022#detail=126592,,,,Wed,Africa/Lagos
+23/02/2022,01:30,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124930,0.7%,0.7%,0.6%,Wed,Africa/Lagos
+23/02/2022,,AUD,yellow,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124954,-0.4%,2.6%,-1.2%,Wed,Africa/Lagos
+23/02/2022,02:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=february.2022#detail=126158,1.00%,1.00%,0.75%,Wed,Africa/Lagos
+23/02/2022,,NZD,red,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=february.2022#detail=126155,,,,Wed,Africa/Lagos
+23/02/2022,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=february.2022#detail=126157,,,,Wed,Africa/Lagos
+23/02/2022,03:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=february.2022#detail=126165,,,,Wed,Africa/Lagos
+23/02/2022,08:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=february.2022#detail=125468,-8.1,-6.2,-6.7,Wed,Africa/Lagos
+23/02/2022,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=february.2022#detail=125063,9.0,,9.5,Wed,Africa/Lagos
+23/02/2022,10:30,GBP,red,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=february.2022#detail=126552,,,,Wed,Africa/Lagos
+23/02/2022,11:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126688,2.3%,2.3%,2.3%,Wed,Africa/Lagos
+23/02/2022,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126689,5.1%,5.1%,5.1%,Wed,Africa/Lagos
+23/02/2022,14:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=126025,3.8%,,2.8%,Wed,Africa/Lagos
+23/02/2022,16:00,GBP,orange,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127405,,,,Wed,Africa/Lagos
+23/02/2022,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=february.2022#detail=122138,,,,Wed,Africa/Lagos
+24/02/2022,01:30,AUD,yellow,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124918,1.1%,2.6%,-1.1%,Thu,Africa/Lagos
+24/02/2022,All Day,All,yellow,G7 Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=127437,,,,Thu,Africa/Lagos
+24/02/2022,12:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=february.2022#detail=124674,14,26,28,Thu,Africa/Lagos
+24/02/2022,14:15,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127406,,,,Thu,Africa/Lagos
+24/02/2022,14:30,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124321,7.0%,7.0%,6.9%,Thu,Africa/Lagos
+24/02/2022,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=february.2022#detail=122968,232K,233K,249K,Thu,Africa/Lagos
+24/02/2022,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124336,7.1%,6.9%,6.9%,Thu,Africa/Lagos
+24/02/2022,15:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=127388,1.0%,,0.6%,Thu,Africa/Lagos
+24/02/2022,16:00,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=february.2022#detail=124235,801K,800K,839K,Thu,Africa/Lagos
+24/02/2022,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=february.2022#detail=122074,-129B,-137B,-190B,Thu,Africa/Lagos
+24/02/2022,17:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=february.2022#detail=122204,4.5M,-1.0M,1.1M,Thu,Africa/Lagos
+24/02/2022,18:00,USD,orange,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127408,,,,Thu,Africa/Lagos
+24/02/2022,19:00,GBP,orange,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127407,,,,Thu,Africa/Lagos
+24/02/2022,19:30,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127439,,,,Thu,Africa/Lagos
+24/02/2022,22:45,NZD,yellow,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125621,6.8%,5.5%,-6.8%,Thu,Africa/Lagos
+24/02/2022,,NZD,yellow,Retail Sales q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125617,8.6%,6.2%,-8.2%,Thu,Africa/Lagos
+24/02/2022,,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=125226,-1082M,-500M,-975M,Thu,Africa/Lagos
+25/02/2022,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125891,0.5%,0.4%,0.2%,Fri,Africa/Lagos
+25/02/2022,01:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=126493,-26,-19,-19,Fri,Africa/Lagos
+25/02/2022,02:25,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127413,,,,Fri,Africa/Lagos
+25/02/2022,08:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125502,-0.3%,-0.7%,-0.7%,Fri,Africa/Lagos
+25/02/2022,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125509,4.3%,1.7%,0.1%,Fri,Africa/Lagos
+25/02/2022,08:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125004,-1.5%,-0.9%,0.0%,Fri,Africa/Lagos
+25/02/2022,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125018,0.7%,0.4%,0.3%,Fri,Africa/Lagos
+25/02/2022,,EUR,yellow,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=126642,0.7%,0.7%,0.7%,Fri,Africa/Lagos
+25/02/2022,10:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125329,6.4%,6.7%,6.9%,Fri,Africa/Lagos
+25/02/2022,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125330,4.3%,4.0%,4.2%,Fri,Africa/Lagos
+25/02/2022,11:15,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=february.2022#detail=127401,1.81|1.4,,1.39|1.4,Fri,Africa/Lagos
+25/02/2022,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=127440,,,,Fri,Africa/Lagos
+25/02/2022,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=february.2022#detail=125411,,,,Fri,Africa/Lagos
+25/02/2022,14:30,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124345,0.5%,0.5%,0.5%,Fri,Africa/Lagos
+25/02/2022,,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124286,0.7%,0.4%,0.6%,Fri,Africa/Lagos
+25/02/2022,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124287,1.6%,1.1%,-0.7%,Fri,Africa/Lagos
+25/02/2022,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124358,0.0%,-0.3%,0.4%,Fri,Africa/Lagos
+25/02/2022,,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124359,2.1%,1.6%,-0.8%,Fri,Africa/Lagos
+25/02/2022,15:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=february.2022#detail=127438,,,,Fri,Africa/Lagos
+25/02/2022,16:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=february.2022#detail=123261,62.8,61.7,61.7,Fri,Africa/Lagos
+25/02/2022,,USD,yellow,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124806,-5.7%,1.5%,-2.3%,Fri,Africa/Lagos
+25/02/2022,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=february.2022#detail=123262,4.9%,,5.0%,Fri,Africa/Lagos
+25/02/2022,17:00,USD,yellow,Fed Monetary Policy Report,https://www.forexfactory.com/calendar?month=february.2022#detail=124779,,,,Fri,Africa/Lagos
+28/02/2022,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126881,-1.3%,-0.6%,-1.0%,Mon,Africa/Lagos
+28/02/2022,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=126940,1.6%,1.5%,1.2%,Mon,Africa/Lagos
+28/02/2022,01:00,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=february.2022#detail=123677,-51.8,,-23.2,Mon,Africa/Lagos
+28/02/2022,01:05,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=123394,0.5%,,0.4%,Mon,Africa/Lagos
+28/02/2022,01:30,AUD,yellow,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=124934,2.0%,2.1%,4.0%,Mon,Africa/Lagos
+28/02/2022,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124862,0.6%,0.7%,0.8%,Mon,Africa/Lagos
+28/02/2022,,AUD,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=125637,1.8%,0.3%,-4.4%,Mon,Africa/Lagos
+28/02/2022,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125938,2.1%,2.2%,4.2%,Mon,Africa/Lagos
+28/02/2022,08:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=125155,5.1%,0.4%,-0.5%,Mon,Africa/Lagos
+28/02/2022,09:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=february.2022#detail=125142,105.0,108.1,107.2,Mon,Africa/Lagos
+28/02/2022,,CHF,yellow,GDP q/q,https://www.forexfactory.com/calendar?month=february.2022#detail=125101,0.3%,0.3%,1.9%,Mon,Africa/Lagos
+28/02/2022,,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=february.2022#detail=122636,7.4%,7.1%,6.1%,Mon,Africa/Lagos
+28/02/2022,14:30,CAD,yellow,Current Account,https://www.forexfactory.com/calendar?month=february.2022#detail=126026,-0.8B,2.2B,0.8B,Mon,Africa/Lagos
+28/02/2022,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126028,3.0%,0.9%,0.5%,Mon,Africa/Lagos
+28/02/2022,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=126027,6.5%,4.9%,-2.7%,Mon,Africa/Lagos
+28/02/2022,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=february.2022#detail=124728,-107.6B,-99.6B,-100.5B,Mon,Africa/Lagos
+28/02/2022,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=february.2022#detail=124309,0.8%,1.3%,2.2%,Mon,Africa/Lagos
+28/02/2022,15:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=february.2022#detail=122861,56.3,62.1,65.2,Mon,Africa/Lagos
+28/02/2022,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=february.2022#detail=122902,53.2,,48.4,Mon,Africa/Lagos

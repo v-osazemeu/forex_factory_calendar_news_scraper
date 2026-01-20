@@ -1,401 +1,401 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/09/2020,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=114922,2.9%,3.0%,2.8%,Tue
-01/09/2020,00:50,JPY,yellow,Capital Spending q/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114956,-11.3%,-4.0%,0.1%,Tue
-01/09/2020,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=114808,47.2,46.6,46.6,Tue
-01/09/2020,02:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114695,12.0%,-0.9%,-4.2%,Tue
-01/09/2020,,AUD,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=114626,17.7B,13.0B,9.0B,Tue
-01/09/2020,02:45,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=115602,53.1,52.6,52.8,Tue
-01/09/2020,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=114780,0.03|3.2,,0.02|3.6,Tue
-01/09/2020,05:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112784,0.25%,0.25%,0.25%,Tue
-01/09/2020,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=112792,,,,Tue
-01/09/2020,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114726,-9.2%,,-13.7%,Tue
-01/09/2020,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111454,49.9,52.5,53.5,Tue
-01/09/2020,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111957,51.8,51.4,49.2,Tue
-01/09/2020,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111452,53.1,52.0,51.9,Tue
-01/09/2020,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111451,49.8,49.0,49.0,Tue
-01/09/2020,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111450,52.2,53.0,53.0,Tue
-01/09/2020,,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=113030,-9K,-3K,-17K,Tue
-01/09/2020,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111449,51.7,51.7,51.7,Tue
-01/09/2020,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=111737,9.7%,9.1%,9.3%,Tue
-01/09/2020,09:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111453,55.2,55.3,55.3,Tue
-01/09/2020,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112170,0.9%,1.2%,1.1%,Tue
-01/09/2020,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=september.2020#detail=112172,66K,55K,40K,Tue
-01/09/2020,09:32,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112171,3.9B,3.8B,2.0B,Tue
-01/09/2020,10:00,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112670,0.4%,0.9%,1.2%,Tue
-01/09/2020,,EUR,yellow,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112671,-0.2%,0.2%,0.4%,Tue
-01/09/2020,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112603,7.9%,8.0%,7.7%,Tue
-01/09/2020,14:30,CAD,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=113650,55.1,,52.9,Tue
-01/09/2020,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111457,53.1,53.6,53.6,Tue
-01/09/2020,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111455,56.0,54.6,54.2,Tue
-01/09/2020,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113988,0.1%,1.0%,-0.5%,Tue
-01/09/2020,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=september.2020#detail=111456,59.5,60.0,53.2,Tue
-01/09/2020,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=september.2020#detail=114298,15.2M,15.0M,14.5M,Tue
-01/09/2020,16:08,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113582,-1.0%,,-1.7%,Tue
-01/09/2020,18:00,USD,yellow,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116347,,,,Tue
-01/09/2020,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=115339,,,,Tue
-01/09/2020,23:45,NZD,yellow,Overseas Trade Index q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=113596,2.5%,0.6%,-0.6%,Tue
-02/09/2020,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112368,-1.6%,,-1.3%,Wed
-02/09/2020,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114886,11.5%,10.1%,9.8%,Wed
-02/09/2020,01:30,NZD,red,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116356,,,,Wed
-02/09/2020,02:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114630,-7.0%,-6.0%,-0.3%,Wed
-02/09/2020,06:57,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112489,2.0%,0.5%,1.8%,Wed
-02/09/2020,07:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113031,-0.9%,0.5%,-1.9%,Wed
-02/09/2020,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=111928,29.8K,10.1K,-89.8K,Wed
-02/09/2020,09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=116331,2.9%,2.8%,2.7%,Wed
-02/09/2020,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112686,0.6%,0.5%,0.7%,Wed
-02/09/2020,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=111117,428K,1250K,212K,Wed
-02/09/2020,13:30,CAD,yellow,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114486,9.8%,6.5%,4.5%,Wed
-02/09/2020,14:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116355,,,,Wed
-02/09/2020,15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114176,6.4%,6.0%,6.4%,Wed
-02/09/2020,,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116345,,,,Wed
-02/09/2020,15:30,GBP,orange,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116349,,,,Wed
-02/09/2020,,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2020#detail=110940,-9.4M,-2.0M,-4.7M,Wed
-02/09/2020,17:00,USD,yellow,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116348,,,,Wed
-02/09/2020,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=september.2020#detail=111314,,,,Wed
-02/09/2020,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=september.2020#detail=112771,37.9,,42.7,Wed
-03/09/2020,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=116344,-0.9%,,2.9%,Thu
-03/09/2020,02:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=114682,4.61B,5.00B,8.15B,Thu
-03/09/2020,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=115614,54.0,54.0,54.1,Thu
-03/09/2020,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=114781,0.61|3.5,,0.62|3.4,Thu
-03/09/2020,07:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112053,0.0%,0.1%,-0.2%,Thu
-03/09/2020,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111553,47.7,48.0,51.9,Thu
-03/09/2020,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111552,47.1,49.4,51.6,Thu
-03/09/2020,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111551,51.5,51.9,51.9,Thu
-03/09/2020,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111550,52.5,50.8,50.8,Thu
-03/09/2020,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111549,50.5,50.1,50.1,Thu
-03/09/2020,09:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111554,58.8,60.1,60.1,Thu
-03/09/2020,09:53,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=111824,0.05|2.4,,0.26|3.0,Thu
-03/09/2020,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112638,-1.3%,1.3%,5.3%,Thu
-03/09/2020,10:04,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=111825,-0.19|1.6,,-0.27|2.1,Thu
-03/09/2020,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=111118,116.5%,,576.1%,Thu
-03/09/2020,13:30,CAD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=113790,-2.5B,-2.5B,-1.6B,Thu
-03/09/2020,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2020#detail=110801,881K,955K,1011K,Thu
-03/09/2020,,USD,yellow,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114067,10.1%,7.3%,7.3%,Thu
-03/09/2020,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114066,9.0%,12.0%,12.2%,Thu
-03/09/2020,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=111243,-63.6B,-58.2B,-53.5B,Thu
-03/09/2020,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111556,55.0,54.8,54.8,Thu
-03/09/2020,15:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116350,,,,Thu
-03/09/2020,,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111555,56.9,57.0,58.1,Thu
-03/09/2020,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2020#detail=111047,35B,37B,45B,Thu
-04/09/2020,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113032,2.8%,5.1%,28.8%,Fri
-04/09/2020,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=111846,-151.0B,,-124.9B,Fri
-04/09/2020,09:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=112190,54.6,58.5,58.1,Fri
-04/09/2020,10:30,GBP,orange,MPC Member Saunders Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116351,,,,Fri
-04/09/2020,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=113706,245.8K,262.5K,418.5K,Fri
-04/09/2020,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=113705,10.2%,10.1%,10.9%,Fri
-04/09/2020,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111091,0.4%,0.0%,0.1%,Fri
-04/09/2020,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=111090,1371K,1375K,1734K,Fri
-04/09/2020,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=111089,8.4%,9.8%,10.2%,Fri
-04/09/2020,15:00,CAD,yellow,Ivey PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=113628,67.8,65.0,68.5,Fri
-06/09/2020,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=september.2020#detail=112760,42.5,,44.0,Sun
-07/09/2020,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114580,1.6%,,19.1%,Mon
-07/09/2020,04:01,CNY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=115760,417B,385B,442B,Mon
-07/09/2020,04:13,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=115759,58.9B,49.8B,62.3B,Mon
-07/09/2020,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=september.2020#detail=115010,86.9%,87.2%,83.8%,Mon
-07/09/2020,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113033,1.2%,4.5%,9.3%,Mon
-07/09/2020,08:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=september.2020#detail=111969,848B,,847B,Mon
-07/09/2020,08:30,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112502,1.6%,1.0%,1.7%,Mon
-07/09/2020,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=112870,-8.0,-11.4,-13.4,Mon
-07/09/2020,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2020#detail=114313,,,,Mon
-07/09/2020,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2020#detail=113637,,,,Mon
-08/09/2020,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112382,4.7%,3.5%,4.3%,Tue
-08/09/2020,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115114,-1.3%,-1.6%,-2.0%,Tue
-08/09/2020,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114997,-7.6%,-3.6%,-1.2%,Tue
-08/09/2020,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114950,6.7%,6.4%,6.4%,Tue
-08/09/2020,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=114978,0.96T,1.44T,1.05T,Tue
-08/09/2020,,JPY,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114984,-7.9%,-8.1%,-7.8%,Tue
-08/09/2020,00:52,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114988,1.3%,1.5%,1.5%,Tue
-08/09/2020,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=114520,-8,,-14,Tue
-08/09/2020,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=114910,43.9,41.0,41.1,Tue
-08/09/2020,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=111904,-0.8%,-0.6%,-0.6%,Tue
-08/09/2020,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=113034,18.0B,14.9B,14.5B,Tue
-08/09/2020,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=111847,-7.0B,-7.0B,-8.1B,Tue
-08/09/2020,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111773,-2.2%,1.1%,10.2%,Tue
-08/09/2020,10:00,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=112580,-2.9%,-2.8%,-2.8%,Tue
-08/09/2020,,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=112579,-11.8%,-12.1%,-12.1%,Tue
-08/09/2020,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113910,100.2,99.0,98.8,Tue
-08/09/2020,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=september.2020#detail=113927,45.0,47.3,46.8,Tue
-08/09/2020,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115799,12.2B,12.9B,11.4B,Tue
-08/09/2020,23:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=113501,-11.9%,,0.0%,Tue
-09/09/2020,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114874,8.6%,8.2%,7.9%,Wed
-09/09/2020,01:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=114568,18.0%,,-9.5%,Wed
-09/09/2020,02:00,NZD,yellow,Prelim ANZ Business Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=116352,-26.0,,-41.8,Wed
-09/09/2020,02:30,CNY,yellow,CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115783,2.4%,2.4%,2.7%,Wed
-09/09/2020,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115784,-2.0%,-1.9%,-2.4%,Wed
-09/09/2020,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112024,3.4%,3.4%,3.4%,Wed
-09/09/2020,06:59,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115054,-23.3%,,-31.1%,Wed
-09/09/2020,10:35,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=112938,-0.50|2.0,,-0.46|2.5,Wed
-09/09/2020,13:14,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=september.2020#detail=114380,262K,222K,245K,Wed
-09/09/2020,15:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=113676,,,,Wed
-09/09/2020,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=113677,0.25%,0.25%,0.25%,Wed
-09/09/2020,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=september.2020#detail=113951,6.62M,6.05M,6.00M,Wed
-09/09/2020,18:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=111143,0.70|2.3,,0.68|2.4,Wed
-09/09/2020,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=115340,,,,Wed
-10/09/2020,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=112525,44%,23%,13%,Thu
-10/09/2020,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114966,6.3%,2.0%,-7.6%,Thu
-10/09/2020,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2020#detail=114556,3.1%,,3.3%,Thu
-10/09/2020,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111760,3.8%,5.1%,13.0%,Thu
-10/09/2020,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111756,7.4%,3.6%,8.2%,Thu
-10/09/2020,11:30,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=116367,0.83|2.2,,0.78|2.1,Thu
-10/09/2020,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112828,0.00%,0.00%,0.00%,Thu
-10/09/2020,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=112829,,,,Thu
-10/09/2020,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=september.2020#detail=112830,,,,Thu
-10/09/2020,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114124,0.4%,0.2%,0.5%,Thu
-10/09/2020,,USD,orange,PPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114125,0.3%,0.2%,0.6%,Thu
-10/09/2020,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2020#detail=110802,884K,838K,884K,Thu
-10/09/2020,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115585,-0.3%,,0.0%,Thu
-10/09/2020,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114274,-0.3%,-0.1%,-0.1%,Thu
-10/09/2020,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2020#detail=111048,70B,68B,35B,Thu
-10/09/2020,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2020#detail=110946,2.0M,-3.1M,-9.4M,Thu
-10/09/2020,17:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116363,,,,Thu
-10/09/2020,18:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116364,,,,Thu
-10/09/2020,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=111144,1.47|2.3,,1.41|2.1,Thu
-10/09/2020,23:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113389,50.7,,59.0,Thu
-10/09/2020,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113562,0.7%,,1.2%,Thu
-11/09/2020,00:50,JPY,yellow,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=114790,0.1,-36.1,-52.3,Fri
-11/09/2020,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115150,-0.5%,-0.5%,-0.9%,Fri
-11/09/2020,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113084,-0.1%,-0.1%,-0.1%,Fri
-11/09/2020,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113036,-0.4%,0.5%,0.5%,Fri
-11/09/2020,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112438,17.6%,10.3%,23.5%,Fri
-11/09/2020,,GBP,yellow,GDP m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112434,6.6%,6.6%,8.7%,Fri
-11/09/2020,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=112435,-8.6B,-7.4B,-6.6B,Fri
-11/09/2020,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=september.2020#detail=112436,-8.1%,-7.8%,-19.9%,Fri
-11/09/2020,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112437,5.2%,4.2%,9.3%,Fri
-11/09/2020,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112439,6.3%,5.0%,11.0%,Fri
-11/09/2020,09:00,EUR,yellow,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116365,,,,Fri
-11/09/2020,,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=111728,8.3%,8.4%,9.2%,Fri
-11/09/2020,09:01,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115651,10.4%,10.7%,10.7%,Fri
-11/09/2020,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=september.2020#detail=115663,1280B,1250B,993B,Fri
-11/09/2020,09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2020#detail=112235,2.8%,,2.9%,Fri
-11/09/2020,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=september.2020#detail=115817,,,,Fri
-11/09/2020,11:35,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115735,2.6%,,0.5%,Fri
-11/09/2020,13:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=114398,70.3%,70.9%,79.8%,Fri
-11/09/2020,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=128634,1.3%,1.2%,1.0%,Fri
-11/09/2020,,USD,orange,Core CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114149,0.4%,0.2%,0.6%,Fri
-11/09/2020,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114148,0.4%,0.3%,0.6%,Fri
-11/09/2020,13:52,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=september.2020#detail=112574,7.0%,,-7.6%,Fri
-11/09/2020,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=111327,-200.1B,-238.7B,-63.0B,Fri
-13/09/2020,10:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116368,,,,Sun
-13/09/2020,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=september.2020#detail=127220,46.9,,54.4,Sun
-13/09/2020,23:52,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113523,8.8%,,60.8%,Sun
-14/09/2020,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=136778,0.56%,,0.47%,Mon
-14/09/2020,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115078,-0.5%,0.6%,9.0%,Mon
-14/09/2020,05:33,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115042,8.7%,8.0%,8.0%,Mon
-14/09/2020,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112626,4.1%,4.0%,9.5%,Mon
-14/09/2020,21:58,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=113461,95.1,,97.2,Mon
-15/09/2020,02:30,AUD,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=september.2020#detail=114539,,,,Tue
-15/09/2020,,AUD,yellow,HPI q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114716,-1.8%,-1.3%,1.6%,Tue
-15/09/2020,03:00,CNY,yellow,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115698,-0.3%,-0.5%,-1.6%,Tue
-15/09/2020,,CNY,yellow,Industrial Production y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115707,5.6%,5.1%,4.8%,Tue
-15/09/2020,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115687,0.5%,0.0%,-1.1%,Tue
-15/09/2020,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=115674,5.6%,5.6%,5.7%,Tue
-15/09/2020,07:00,GBP,orange,Claimant Count Change,https://www.forexfactory.com/calendar?month=september.2020#detail=112275,73.7K,99.5K,69.9K,Tue
-15/09/2020,,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112276,-1.0%,-1.3%,-1.2%,Tue
-15/09/2020,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112274,4.1%,4.1%,3.9%,Tue
-15/09/2020,07:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112041,-0.4%,0.2%,0.1%,Tue
-15/09/2020,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111883,-0.1%,-0.1%,-0.1%,Tue
-15/09/2020,10:00,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=112882,73.9,63.0,64.0,Tue
-15/09/2020,,EUR,yellow,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=112894,77.4,69.7,71.5,Tue
-15/09/2020,13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113778,7.0%,8.8%,23.0%,Tue
-15/09/2020,,USD,yellow,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113863,17.0,6.2,3.7,Tue
-15/09/2020,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114104,0.9%,0.5%,1.2%,Tue
-15/09/2020,14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=114089,71.4%,71.7%,71.1%,Tue
-15/09/2020,,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114088,0.4%,1.2%,3.5%,Tue
-15/09/2020,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114616,-0.3%,,0.2%,Tue
-15/09/2020,16:04,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113583,3.6%,,-1.0%,Tue
-15/09/2020,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=115341,,,,Tue
-15/09/2020,23:45,NZD,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=113493,1.83B,0.69B,1.90B,Tue
-16/09/2020,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=115090,0.35T,0.01T,0.04T,Wed
-16/09/2020,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114640,0.5%,,0.1%,Wed
-16/09/2020,07:00,GBP,orange,CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112337,0.2%,0.1%,1.0%,Wed
-16/09/2020,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112336,0.9%,0.7%,1.8%,Wed
-16/09/2020,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112339,-0.4%,0.1%,1.8%,Wed
-16/09/2020,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112338,0.0%,0.2%,0.3%,Wed
-16/09/2020,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112340,0.5%,0.6%,1.6%,Wed
-16/09/2020,09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=116330,3.4%,3.2%,1.1%,Wed
-16/09/2020,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=112649,20.3B,19.3B,16.0B,Wed
-16/09/2020,10:05,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=112206,0.26|3.0,,0.32|2.7,Wed
-16/09/2020,10:34,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=112925,-0.07|1.9,,-0.05|2.9,Wed
-16/09/2020,13:30,CAD,yellow,Common CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114440,1.5%,1.4%,1.3%,Wed
-16/09/2020,,CAD,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114442,-0.1%,0.1%,0.0%,Wed
-16/09/2020,,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=september.2020#detail=113753,-8.52B,10.50B,-14.13B,Wed
-16/09/2020,,CAD,yellow,Median CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114443,1.9%,1.9%,1.9%,Wed
-16/09/2020,,CAD,yellow,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114444,1.7%,1.8%,1.7%,Wed
-16/09/2020,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114261,0.7%,1.0%,1.3%,Wed
-16/09/2020,,USD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114260,0.6%,1.1%,0.9%,Wed
-16/09/2020,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114441,0.0%,,-0.1%,Wed
-16/09/2020,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114213,0.1%,0.2%,-1.1%,Wed
-16/09/2020,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113912,83,78,78,Wed
-16/09/2020,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2020#detail=110945,-4.4M,2.1M,2.0M,Wed
-16/09/2020,19:00,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=september.2020#detail=111355,,,,Wed
-16/09/2020,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=111356,,,,Wed
-16/09/2020,,USD,orange,Federal Funds Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=111354,<0.25%,<0.25%,<0.25%,Wed
-16/09/2020,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=september.2020#detail=111357,,,,Wed
-16/09/2020,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=september.2020#detail=114164,10.8B,109.3B,113.0B,Wed
-16/09/2020,23:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=113497,-12.2%,-12.5%,-1.4%,Wed
-17/09/2020,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=114592,111.0K,-40.0K,119.2K,Thu
-17/09/2020,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=114604,6.8%,7.7%,7.5%,Thu
-17/09/2020,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=114545,,,,Thu
-17/09/2020,03:52,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=114855,,,,Thu
-17/09/2020,,JPY,yellow,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=114847,-0.10%,-0.10%,-0.10%,Thu
-17/09/2020,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=112005,3.58B,3.20B,3.34B,Thu
-17/09/2020,07:32,JPY,orange,BOJ Press Conference,https://www.forexfactory.com/calendar?month=september.2020#detail=114863,,,,Thu
-17/09/2020,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=111791,9.69B,5.20B,6.23B,Thu
-17/09/2020,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112704,0.4%,0.4%,0.4%,Thu
-17/09/2020,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112705,-0.2%,-0.2%,-0.2%,Thu
-17/09/2020,All Day,All,red,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=september.2020#detail=116379,,,,Thu
-17/09/2020,12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=september.2020#detail=112108,,,,Thu
-17/09/2020,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=september.2020#detail=112110,0-0-9,0-0-9,0-0-9,Thu
-17/09/2020,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112107,0.10%,0.10%,0.10%,Thu
-17/09/2020,,GBP,orange,BOE Inflation Letter,https://www.forexfactory.com/calendar?month=september.2020#detail=116378,,,,Thu
-17/09/2020,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=september.2020#detail=112109,0-0-9,0-0-9,0-0-9,Thu
-17/09/2020,,GBP,yellow,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=september.2020#detail=112106,745B,745B,745B,Thu
-17/09/2020,13:30,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113891,15.0,15.0,17.2,Thu
-17/09/2020,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2020#detail=110803,860K,825K,893K,Thu
-17/09/2020,,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=september.2020#detail=113971,1.47M,1.51M,1.48M,Thu
-17/09/2020,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=september.2020#detail=113970,1.42M,1.47M,1.49M,Thu
-17/09/2020,13:32,CAD,orange,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=113691,-205.4K,,-523.0K,Thu
-17/09/2020,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2020#detail=111049,89B,76B,70B,Thu
-18/09/2020,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115138,-0.4%,-0.4%,0.0%,Fri
-18/09/2020,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113035,0.0%,0.0%,0.2%,Fri
-18/09/2020,,GBP,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112478,0.8%,0.8%,3.7%,Fri
-18/09/2020,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=112615,16.6B,12.0B,20.7B,Fri
-18/09/2020,13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113730,-0.4%,0.5%,15.5%,Fri
-18/09/2020,,CAD,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113729,0.6%,0.8%,22.7%,Fri
-18/09/2020,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113802,4.3%,3.4%,18.8%,Fri
-18/09/2020,,USD,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=111273,-171B,-158B,-112B,Fri
-18/09/2020,15:00,USD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114286,1.2%,1.3%,2.0%,Fri
-18/09/2020,,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=111183,78.9,75.0,74.1,Fri
-18/09/2020,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2020#detail=111185,2.7%,,3.1%,Fri
-21/09/2020,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112514,0.2%,,-0.2%,Mon
-21/09/2020,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2020#detail=113829,,,,Mon
-21/09/2020,02:30,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=134370,3.85%,3.85%,3.85%,Mon
-21/09/2020,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=134318,4.65%,4.65%,4.65%,Mon
-21/09/2020,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=113487,-11.9%,,-5.0%,Mon
-21/09/2020,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=september.2020#detail=112954,,,,Mon
-21/09/2020,13:20,EUR,red,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116388,,,,Mon
-21/09/2020,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114392,0.5%,0.2%,0.4%,Mon
-21/09/2020,15:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116377,,,,Mon
-21/09/2020,17:00,USD,yellow,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116381,,,,Mon
-21/09/2020,23:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116380,,,,Mon
-22/09/2020,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2020#detail=113830,,,,Tue
-22/09/2020,01:30,AUD,yellow,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116372,,,,Tue
-22/09/2020,08:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116374,,,,Tue
-22/09/2020,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=september.2020#detail=112224,-48,-32,-44,Tue
-22/09/2020,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115723,1.2%,,0.7%,Tue
-22/09/2020,14:44,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=112858,-14,-15,-15,Tue
-22/09/2020,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113879,21,12,18,Tue
-22/09/2020,15:00,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=september.2020#detail=114008,6.00M,6.05M,5.86M,Tue
-22/09/2020,15:30,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=september.2020#detail=116382,,,,Tue
-22/09/2020,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=115342,,,,Tue
-23/09/2020,00:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=114498,55.5,,53.6,Wed
-23/09/2020,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=114509,50.0,,49.0,Wed
-23/09/2020,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=114809,47.3,48.0,47.2,Wed
-23/09/2020,02:30,AUD,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=116389,-4.2%,-2.0%,3.2%,Wed
-23/09/2020,03:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=113410,0.25%,0.25%,0.25%,Wed
-23/09/2020,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=113417,,,,Wed
-23/09/2020,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114938,1.3%,1.3%,6.8%,Wed
-23/09/2020,06:59,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=september.2020#detail=112906,-1.6,-1.0,-1.7,Wed
-23/09/2020,08:15,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111650,47.5,52.2,51.5,Wed
-23/09/2020,,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111651,50.9,50.6,49.8,Wed
-23/09/2020,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111649,56.6,52.0,52.2,Wed
-23/09/2020,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111647,49.1,53.0,52.5,Wed
-23/09/2020,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111653,53.7,51.5,51.7,Wed
-23/09/2020,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111652,47.6,51.0,50.5,Wed
-23/09/2020,09:30,GBP,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=113444,54.3,54.3,55.2,Wed
-23/09/2020,,GBP,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=113448,55.1,57.0,58.8,Wed
-23/09/2020,14:00,USD,yellow,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116376,,,,Wed
-23/09/2020,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114044,1.0%,0.4%,1.0%,Wed
-23/09/2020,14:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111648,53.5,52.5,53.1,Wed
-23/09/2020,,USD,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111646,54.6,54.5,55.0,Wed
-23/09/2020,15:00,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=september.2020#detail=116385,,,,Wed
-23/09/2020,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2020#detail=110947,-1.6M,-2.5M,-4.4M,Wed
-23/09/2020,19:00,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116386,,,,Wed
-23/09/2020,23:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=113511,-353M,-350M,447M,Wed
-24/09/2020,00:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=september.2020#detail=114831,,,,Thu
-24/09/2020,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115126,0.0%,0.1%,0.0%,Thu
-24/09/2020,08:30,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=september.2020#detail=112067,,,,Thu
-24/09/2020,,CHF,orange,SNB Policy Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112068,-0.75%,-0.75%,-0.75%,Thu
-24/09/2020,09:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=112808,,,,Thu
-24/09/2020,,EUR,yellow,German ifo Business Climate,https://www.forexfactory.com/calendar?month=september.2020#detail=112918,93.4,93.9,92.5,Thu
-24/09/2020,09:15,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=september.2020#detail=116390,,,,Thu
-24/09/2020,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=september.2020#detail=112227,11,-10,-6,Thu
-24/09/2020,13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2020#detail=110804,870K,845K,866K,Thu
-24/09/2020,13:57,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=september.2020#detail=111710,-10.8,-11.0,-12.0,Thu
-24/09/2020,15:00,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116375,,,,Thu
-24/09/2020,,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=september.2020#detail=116383,,,,Thu
-24/09/2020,,USD,red,Treasury Sec Mnuchin Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116384,,,,Thu
-24/09/2020,,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=september.2020#detail=114022,1011K,890K,965K,Thu
-24/09/2020,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2020#detail=111050,66B,78B,89B,Thu
-24/09/2020,19:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116373,,,,Thu
-25/09/2020,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=112246,-25,-27,-27,Fri
-25/09/2020,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115162,1.0%,1.2%,1.1%,Fri
-25/09/2020,02:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=121532,4.29B,,3.12B,Fri
-25/09/2020,07:00,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=september.2020#detail=112466,35.2B,40.6B,14.7B,Fri
-25/09/2020,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112737,9.5%,10.0%,10.1%,Fri
-25/09/2020,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112736,3.0%,3.0%,3.0%,Fri
-25/09/2020,13:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114197,0.4%,1.0%,2.6%,Fri
-25/09/2020,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114196,0.4%,1.1%,11.4%,Fri
-25/09/2020,20:10,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116387,,,,Fri
-26/09/2020,15:00,NZD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=september.2020#detail=113618,,,,Sat
-28/09/2020,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2020#detail=115906,,,,Mon
-28/09/2020,14:45,EUR,red,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116391,,,,Mon
-28/09/2020,19:00,USD,yellow,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116395,,,,Mon
-29/09/2020,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115174,-0.2%,-0.3%,-0.3%,Tue
-29/09/2020,00:50,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=september.2020#detail=114839,,,,Tue
-29/09/2020,All Day,EUR,yellow,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113072,-0.2%,-0.1%,-0.1%,Tue
-29/09/2020,08:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=111940,-0.4%,-0.4%,-0.5%,Tue
-29/09/2020,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112173,-0.4%,1.1%,0.8%,Tue
-29/09/2020,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=september.2020#detail=112174,85K,72K,66K,Tue
-29/09/2020,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112175,3.4B,5.2B,3.9B,Tue
-29/09/2020,10:22,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=111722,0.89|1.3,,1.11|1.3,Tue
-29/09/2020,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114478,0.3%,0.6%,0.7%,Tue
-29/09/2020,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114479,3.2%,6.2%,3.0%,Tue
-29/09/2020,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=114237,-82.9B,-81.8B,-80.1B,Tue
-29/09/2020,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114236,0.5%,-0.1%,-0.3%,Tue
-29/09/2020,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114045,3.9%,3.6%,3.5%,Tue
-29/09/2020,14:15,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116393,,,,Tue
-29/09/2020,14:30,USD,yellow,FOMC Member Harker Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116396,,,,Tue
-29/09/2020,15:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=113940,101.8,90.0,86.3,Tue
-29/09/2020,16:40,USD,yellow,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116398,,,,Tue
-29/09/2020,18:00,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116397,,,,Tue
-29/09/2020,,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116394,,,,Tue
-29/09/2020,19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=september.2020#detail=116412,,,,Tue
-29/09/2020,20:00,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116399,,,,Tue
-29/09/2020,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=115343,,,,Tue
-29/09/2020,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113536,0.3%,,-4.6%,Tue
-30/09/2020,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112369,-1.6%,,-1.6%,Wed
-30/09/2020,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115030,1.7%,1.5%,8.7%,Wed
-30/09/2020,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115066,-1.9%,-3.2%,-2.9%,Wed
-30/09/2020,01:00,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=113400,-28.5,,-26.0,Wed
-30/09/2020,02:00,CNY,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=115628,51.5,51.3,51.0,Wed
-30/09/2020,,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=115639,55.9,54.6,55.2,Wed
-30/09/2020,02:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114696,-1.6%,0.1%,12.2%,Wed
-30/09/2020,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114656,0.0%,-0.1%,-0.1%,Wed
-30/09/2020,02:45,CNY,yellow,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=115603,53.0,53.1,53.1,Wed
-30/09/2020,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115102,-9.1%,-10.0%,-11.4%,Wed
-30/09/2020,06:59,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113039,0.1%,0.0%,0.3%,Wed
-30/09/2020,,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113037,3.1%,0.4%,-0.2%,Wed
-30/09/2020,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112490,0.9%,0.5%,2.0%,Wed
-30/09/2020,07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=112547,-2.8B,-1.0B,-20.8B,Wed
-30/09/2020,,GBP,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=112548,-19.8%,-20.4%,-20.4%,Wed
-30/09/2020,07:02,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=112553,-26.5%,-31.4%,-31.4%,Wed
-30/09/2020,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111862,2.3%,-0.2%,-0.9%,Wed
-30/09/2020,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111882,-0.5%,-0.3%,-0.1%,Wed
-30/09/2020,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=september.2020#detail=112017,113.8,106.1,110.2,Wed
-30/09/2020,08:20,EUR,red,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116392,,,,Wed
-30/09/2020,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=113038,-8K,-7K,-9K,Wed
-30/09/2020,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=september.2020#detail=111981,26.2,,45.6,Wed
-30/09/2020,09:30,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116405,,,,Wed
-30/09/2020,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111797,-0.6%,-0.5%,0.3%,Wed
-30/09/2020,13:15,USD,orange,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=111119,749K,650K,481K,Wed
-30/09/2020,13:20,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=113864,62.4,52.0,51.2,Wed
-30/09/2020,13:30,CAD,orange,GDP m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113766,3.0%,2.9%,6.5%,Wed
-30/09/2020,,USD,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=111267,-31.4%,-31.7%,-31.7%,Wed
-30/09/2020,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=111268,-1.8%,-2.0%,-2.0%,Wed
-30/09/2020,14:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=112075,,,,Wed
-30/09/2020,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114009,8.8%,3.1%,5.9%,Wed
-30/09/2020,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2020#detail=110948,-2.0M,1.0M,-1.6M,Wed
-30/09/2020,16:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116401,,,,Wed
-30/09/2020,18:40,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116400,,,,Wed
-30/09/2020,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=112772,46.7,,49.3,Wed
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/09/2020,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=114922,2.9%,3.0%,2.8%,Tue,Africa/Lagos
+01/09/2020,00:50,JPY,yellow,Capital Spending q/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114956,-11.3%,-4.0%,0.1%,Tue,Africa/Lagos
+01/09/2020,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=114808,47.2,46.6,46.6,Tue,Africa/Lagos
+01/09/2020,02:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114695,12.0%,-0.9%,-4.2%,Tue,Africa/Lagos
+01/09/2020,,AUD,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=114626,17.7B,13.0B,9.0B,Tue,Africa/Lagos
+01/09/2020,02:45,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=115602,53.1,52.6,52.8,Tue,Africa/Lagos
+01/09/2020,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=114780,0.03|3.2,,0.02|3.6,Tue,Africa/Lagos
+01/09/2020,05:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112784,0.25%,0.25%,0.25%,Tue,Africa/Lagos
+01/09/2020,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=112792,,,,Tue,Africa/Lagos
+01/09/2020,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114726,-9.2%,,-13.7%,Tue,Africa/Lagos
+01/09/2020,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111454,49.9,52.5,53.5,Tue,Africa/Lagos
+01/09/2020,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111957,51.8,51.4,49.2,Tue,Africa/Lagos
+01/09/2020,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111452,53.1,52.0,51.9,Tue,Africa/Lagos
+01/09/2020,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111451,49.8,49.0,49.0,Tue,Africa/Lagos
+01/09/2020,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111450,52.2,53.0,53.0,Tue,Africa/Lagos
+01/09/2020,,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=113030,-9K,-3K,-17K,Tue,Africa/Lagos
+01/09/2020,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111449,51.7,51.7,51.7,Tue,Africa/Lagos
+01/09/2020,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=111737,9.7%,9.1%,9.3%,Tue,Africa/Lagos
+01/09/2020,09:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111453,55.2,55.3,55.3,Tue,Africa/Lagos
+01/09/2020,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112170,0.9%,1.2%,1.1%,Tue,Africa/Lagos
+01/09/2020,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=september.2020#detail=112172,66K,55K,40K,Tue,Africa/Lagos
+01/09/2020,09:32,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112171,3.9B,3.8B,2.0B,Tue,Africa/Lagos
+01/09/2020,10:00,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112670,0.4%,0.9%,1.2%,Tue,Africa/Lagos
+01/09/2020,,EUR,yellow,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112671,-0.2%,0.2%,0.4%,Tue,Africa/Lagos
+01/09/2020,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112603,7.9%,8.0%,7.7%,Tue,Africa/Lagos
+01/09/2020,14:30,CAD,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=113650,55.1,,52.9,Tue,Africa/Lagos
+01/09/2020,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111457,53.1,53.6,53.6,Tue,Africa/Lagos
+01/09/2020,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111455,56.0,54.6,54.2,Tue,Africa/Lagos
+01/09/2020,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113988,0.1%,1.0%,-0.5%,Tue,Africa/Lagos
+01/09/2020,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=september.2020#detail=111456,59.5,60.0,53.2,Tue,Africa/Lagos
+01/09/2020,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=september.2020#detail=114298,15.2M,15.0M,14.5M,Tue,Africa/Lagos
+01/09/2020,16:08,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113582,-1.0%,,-1.7%,Tue,Africa/Lagos
+01/09/2020,18:00,USD,yellow,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116347,,,,Tue,Africa/Lagos
+01/09/2020,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=115339,,,,Tue,Africa/Lagos
+01/09/2020,23:45,NZD,yellow,Overseas Trade Index q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=113596,2.5%,0.6%,-0.6%,Tue,Africa/Lagos
+02/09/2020,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112368,-1.6%,,-1.3%,Wed,Africa/Lagos
+02/09/2020,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114886,11.5%,10.1%,9.8%,Wed,Africa/Lagos
+02/09/2020,01:30,NZD,red,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116356,,,,Wed,Africa/Lagos
+02/09/2020,02:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114630,-7.0%,-6.0%,-0.3%,Wed,Africa/Lagos
+02/09/2020,06:57,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112489,2.0%,0.5%,1.8%,Wed,Africa/Lagos
+02/09/2020,07:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113031,-0.9%,0.5%,-1.9%,Wed,Africa/Lagos
+02/09/2020,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=111928,29.8K,10.1K,-89.8K,Wed,Africa/Lagos
+02/09/2020,09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=116331,2.9%,2.8%,2.7%,Wed,Africa/Lagos
+02/09/2020,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112686,0.6%,0.5%,0.7%,Wed,Africa/Lagos
+02/09/2020,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=111117,428K,1250K,212K,Wed,Africa/Lagos
+02/09/2020,13:30,CAD,yellow,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114486,9.8%,6.5%,4.5%,Wed,Africa/Lagos
+02/09/2020,14:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116355,,,,Wed,Africa/Lagos
+02/09/2020,15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114176,6.4%,6.0%,6.4%,Wed,Africa/Lagos
+02/09/2020,,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116345,,,,Wed,Africa/Lagos
+02/09/2020,15:30,GBP,orange,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116349,,,,Wed,Africa/Lagos
+02/09/2020,,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2020#detail=110940,-9.4M,-2.0M,-4.7M,Wed,Africa/Lagos
+02/09/2020,17:00,USD,yellow,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116348,,,,Wed,Africa/Lagos
+02/09/2020,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=september.2020#detail=111314,,,,Wed,Africa/Lagos
+02/09/2020,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=september.2020#detail=112771,37.9,,42.7,Wed,Africa/Lagos
+03/09/2020,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=116344,-0.9%,,2.9%,Thu,Africa/Lagos
+03/09/2020,02:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=114682,4.61B,5.00B,8.15B,Thu,Africa/Lagos
+03/09/2020,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=115614,54.0,54.0,54.1,Thu,Africa/Lagos
+03/09/2020,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=114781,0.61|3.5,,0.62|3.4,Thu,Africa/Lagos
+03/09/2020,07:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112053,0.0%,0.1%,-0.2%,Thu,Africa/Lagos
+03/09/2020,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111553,47.7,48.0,51.9,Thu,Africa/Lagos
+03/09/2020,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111552,47.1,49.4,51.6,Thu,Africa/Lagos
+03/09/2020,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111551,51.5,51.9,51.9,Thu,Africa/Lagos
+03/09/2020,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111550,52.5,50.8,50.8,Thu,Africa/Lagos
+03/09/2020,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111549,50.5,50.1,50.1,Thu,Africa/Lagos
+03/09/2020,09:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111554,58.8,60.1,60.1,Thu,Africa/Lagos
+03/09/2020,09:53,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=111824,0.05|2.4,,0.26|3.0,Thu,Africa/Lagos
+03/09/2020,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112638,-1.3%,1.3%,5.3%,Thu,Africa/Lagos
+03/09/2020,10:04,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=111825,-0.19|1.6,,-0.27|2.1,Thu,Africa/Lagos
+03/09/2020,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=111118,116.5%,,576.1%,Thu,Africa/Lagos
+03/09/2020,13:30,CAD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=113790,-2.5B,-2.5B,-1.6B,Thu,Africa/Lagos
+03/09/2020,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2020#detail=110801,881K,955K,1011K,Thu,Africa/Lagos
+03/09/2020,,USD,yellow,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114067,10.1%,7.3%,7.3%,Thu,Africa/Lagos
+03/09/2020,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114066,9.0%,12.0%,12.2%,Thu,Africa/Lagos
+03/09/2020,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=111243,-63.6B,-58.2B,-53.5B,Thu,Africa/Lagos
+03/09/2020,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111556,55.0,54.8,54.8,Thu,Africa/Lagos
+03/09/2020,15:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116350,,,,Thu,Africa/Lagos
+03/09/2020,,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111555,56.9,57.0,58.1,Thu,Africa/Lagos
+03/09/2020,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2020#detail=111047,35B,37B,45B,Thu,Africa/Lagos
+04/09/2020,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113032,2.8%,5.1%,28.8%,Fri,Africa/Lagos
+04/09/2020,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=111846,-151.0B,,-124.9B,Fri,Africa/Lagos
+04/09/2020,09:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=112190,54.6,58.5,58.1,Fri,Africa/Lagos
+04/09/2020,10:30,GBP,orange,MPC Member Saunders Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116351,,,,Fri,Africa/Lagos
+04/09/2020,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=113706,245.8K,262.5K,418.5K,Fri,Africa/Lagos
+04/09/2020,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=113705,10.2%,10.1%,10.9%,Fri,Africa/Lagos
+04/09/2020,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111091,0.4%,0.0%,0.1%,Fri,Africa/Lagos
+04/09/2020,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=111090,1371K,1375K,1734K,Fri,Africa/Lagos
+04/09/2020,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=111089,8.4%,9.8%,10.2%,Fri,Africa/Lagos
+04/09/2020,15:00,CAD,yellow,Ivey PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=113628,67.8,65.0,68.5,Fri,Africa/Lagos
+06/09/2020,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=september.2020#detail=112760,42.5,,44.0,Sun,Africa/Lagos
+07/09/2020,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114580,1.6%,,19.1%,Mon,Africa/Lagos
+07/09/2020,04:01,CNY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=115760,417B,385B,442B,Mon,Africa/Lagos
+07/09/2020,04:13,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=115759,58.9B,49.8B,62.3B,Mon,Africa/Lagos
+07/09/2020,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=september.2020#detail=115010,86.9%,87.2%,83.8%,Mon,Africa/Lagos
+07/09/2020,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113033,1.2%,4.5%,9.3%,Mon,Africa/Lagos
+07/09/2020,08:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=september.2020#detail=111969,848B,,847B,Mon,Africa/Lagos
+07/09/2020,08:30,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112502,1.6%,1.0%,1.7%,Mon,Africa/Lagos
+07/09/2020,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=112870,-8.0,-11.4,-13.4,Mon,Africa/Lagos
+07/09/2020,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2020#detail=114313,,,,Mon,Africa/Lagos
+07/09/2020,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2020#detail=113637,,,,Mon,Africa/Lagos
+08/09/2020,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112382,4.7%,3.5%,4.3%,Tue,Africa/Lagos
+08/09/2020,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115114,-1.3%,-1.6%,-2.0%,Tue,Africa/Lagos
+08/09/2020,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114997,-7.6%,-3.6%,-1.2%,Tue,Africa/Lagos
+08/09/2020,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114950,6.7%,6.4%,6.4%,Tue,Africa/Lagos
+08/09/2020,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=114978,0.96T,1.44T,1.05T,Tue,Africa/Lagos
+08/09/2020,,JPY,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114984,-7.9%,-8.1%,-7.8%,Tue,Africa/Lagos
+08/09/2020,00:52,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114988,1.3%,1.5%,1.5%,Tue,Africa/Lagos
+08/09/2020,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=114520,-8,,-14,Tue,Africa/Lagos
+08/09/2020,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=114910,43.9,41.0,41.1,Tue,Africa/Lagos
+08/09/2020,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=111904,-0.8%,-0.6%,-0.6%,Tue,Africa/Lagos
+08/09/2020,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=113034,18.0B,14.9B,14.5B,Tue,Africa/Lagos
+08/09/2020,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=111847,-7.0B,-7.0B,-8.1B,Tue,Africa/Lagos
+08/09/2020,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111773,-2.2%,1.1%,10.2%,Tue,Africa/Lagos
+08/09/2020,10:00,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=112580,-2.9%,-2.8%,-2.8%,Tue,Africa/Lagos
+08/09/2020,,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=112579,-11.8%,-12.1%,-12.1%,Tue,Africa/Lagos
+08/09/2020,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113910,100.2,99.0,98.8,Tue,Africa/Lagos
+08/09/2020,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=september.2020#detail=113927,45.0,47.3,46.8,Tue,Africa/Lagos
+08/09/2020,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115799,12.2B,12.9B,11.4B,Tue,Africa/Lagos
+08/09/2020,23:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=113501,-11.9%,,0.0%,Tue,Africa/Lagos
+09/09/2020,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114874,8.6%,8.2%,7.9%,Wed,Africa/Lagos
+09/09/2020,01:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=114568,18.0%,,-9.5%,Wed,Africa/Lagos
+09/09/2020,02:00,NZD,yellow,Prelim ANZ Business Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=116352,-26.0,,-41.8,Wed,Africa/Lagos
+09/09/2020,02:30,CNY,yellow,CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115783,2.4%,2.4%,2.7%,Wed,Africa/Lagos
+09/09/2020,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115784,-2.0%,-1.9%,-2.4%,Wed,Africa/Lagos
+09/09/2020,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112024,3.4%,3.4%,3.4%,Wed,Africa/Lagos
+09/09/2020,06:59,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115054,-23.3%,,-31.1%,Wed,Africa/Lagos
+09/09/2020,10:35,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=112938,-0.50|2.0,,-0.46|2.5,Wed,Africa/Lagos
+09/09/2020,13:14,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=september.2020#detail=114380,262K,222K,245K,Wed,Africa/Lagos
+09/09/2020,15:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=113676,,,,Wed,Africa/Lagos
+09/09/2020,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=113677,0.25%,0.25%,0.25%,Wed,Africa/Lagos
+09/09/2020,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=september.2020#detail=113951,6.62M,6.05M,6.00M,Wed,Africa/Lagos
+09/09/2020,18:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=111143,0.70|2.3,,0.68|2.4,Wed,Africa/Lagos
+09/09/2020,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=115340,,,,Wed,Africa/Lagos
+10/09/2020,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=112525,44%,23%,13%,Thu,Africa/Lagos
+10/09/2020,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114966,6.3%,2.0%,-7.6%,Thu,Africa/Lagos
+10/09/2020,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2020#detail=114556,3.1%,,3.3%,Thu,Africa/Lagos
+10/09/2020,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111760,3.8%,5.1%,13.0%,Thu,Africa/Lagos
+10/09/2020,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111756,7.4%,3.6%,8.2%,Thu,Africa/Lagos
+10/09/2020,11:30,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=116367,0.83|2.2,,0.78|2.1,Thu,Africa/Lagos
+10/09/2020,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112828,0.00%,0.00%,0.00%,Thu,Africa/Lagos
+10/09/2020,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=112829,,,,Thu,Africa/Lagos
+10/09/2020,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=september.2020#detail=112830,,,,Thu,Africa/Lagos
+10/09/2020,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114124,0.4%,0.2%,0.5%,Thu,Africa/Lagos
+10/09/2020,,USD,orange,PPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114125,0.3%,0.2%,0.6%,Thu,Africa/Lagos
+10/09/2020,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2020#detail=110802,884K,838K,884K,Thu,Africa/Lagos
+10/09/2020,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115585,-0.3%,,0.0%,Thu,Africa/Lagos
+10/09/2020,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114274,-0.3%,-0.1%,-0.1%,Thu,Africa/Lagos
+10/09/2020,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2020#detail=111048,70B,68B,35B,Thu,Africa/Lagos
+10/09/2020,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2020#detail=110946,2.0M,-3.1M,-9.4M,Thu,Africa/Lagos
+10/09/2020,17:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116363,,,,Thu,Africa/Lagos
+10/09/2020,18:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116364,,,,Thu,Africa/Lagos
+10/09/2020,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=111144,1.47|2.3,,1.41|2.1,Thu,Africa/Lagos
+10/09/2020,23:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113389,50.7,,59.0,Thu,Africa/Lagos
+10/09/2020,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113562,0.7%,,1.2%,Thu,Africa/Lagos
+11/09/2020,00:50,JPY,yellow,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=114790,0.1,-36.1,-52.3,Fri,Africa/Lagos
+11/09/2020,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115150,-0.5%,-0.5%,-0.9%,Fri,Africa/Lagos
+11/09/2020,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113084,-0.1%,-0.1%,-0.1%,Fri,Africa/Lagos
+11/09/2020,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113036,-0.4%,0.5%,0.5%,Fri,Africa/Lagos
+11/09/2020,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112438,17.6%,10.3%,23.5%,Fri,Africa/Lagos
+11/09/2020,,GBP,yellow,GDP m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112434,6.6%,6.6%,8.7%,Fri,Africa/Lagos
+11/09/2020,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=112435,-8.6B,-7.4B,-6.6B,Fri,Africa/Lagos
+11/09/2020,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=september.2020#detail=112436,-8.1%,-7.8%,-19.9%,Fri,Africa/Lagos
+11/09/2020,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112437,5.2%,4.2%,9.3%,Fri,Africa/Lagos
+11/09/2020,,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112439,6.3%,5.0%,11.0%,Fri,Africa/Lagos
+11/09/2020,09:00,EUR,yellow,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116365,,,,Fri,Africa/Lagos
+11/09/2020,,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=111728,8.3%,8.4%,9.2%,Fri,Africa/Lagos
+11/09/2020,09:01,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115651,10.4%,10.7%,10.7%,Fri,Africa/Lagos
+11/09/2020,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=september.2020#detail=115663,1280B,1250B,993B,Fri,Africa/Lagos
+11/09/2020,09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2020#detail=112235,2.8%,,2.9%,Fri,Africa/Lagos
+11/09/2020,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=september.2020#detail=115817,,,,Fri,Africa/Lagos
+11/09/2020,11:35,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115735,2.6%,,0.5%,Fri,Africa/Lagos
+11/09/2020,13:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=114398,70.3%,70.9%,79.8%,Fri,Africa/Lagos
+11/09/2020,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=128634,1.3%,1.2%,1.0%,Fri,Africa/Lagos
+11/09/2020,,USD,orange,Core CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114149,0.4%,0.2%,0.6%,Fri,Africa/Lagos
+11/09/2020,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114148,0.4%,0.3%,0.6%,Fri,Africa/Lagos
+11/09/2020,13:52,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=september.2020#detail=112574,7.0%,,-7.6%,Fri,Africa/Lagos
+11/09/2020,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=111327,-200.1B,-238.7B,-63.0B,Fri,Africa/Lagos
+13/09/2020,10:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116368,,,,Sun,Africa/Lagos
+13/09/2020,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=september.2020#detail=127220,46.9,,54.4,Sun,Africa/Lagos
+13/09/2020,23:52,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113523,8.8%,,60.8%,Sun,Africa/Lagos
+14/09/2020,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=136778,0.56%,,0.47%,Mon,Africa/Lagos
+14/09/2020,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115078,-0.5%,0.6%,9.0%,Mon,Africa/Lagos
+14/09/2020,05:33,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115042,8.7%,8.0%,8.0%,Mon,Africa/Lagos
+14/09/2020,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112626,4.1%,4.0%,9.5%,Mon,Africa/Lagos
+14/09/2020,21:58,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=113461,95.1,,97.2,Mon,Africa/Lagos
+15/09/2020,02:30,AUD,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=september.2020#detail=114539,,,,Tue,Africa/Lagos
+15/09/2020,,AUD,yellow,HPI q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=114716,-1.8%,-1.3%,1.6%,Tue,Africa/Lagos
+15/09/2020,03:00,CNY,yellow,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115698,-0.3%,-0.5%,-1.6%,Tue,Africa/Lagos
+15/09/2020,,CNY,yellow,Industrial Production y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115707,5.6%,5.1%,4.8%,Tue,Africa/Lagos
+15/09/2020,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115687,0.5%,0.0%,-1.1%,Tue,Africa/Lagos
+15/09/2020,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=115674,5.6%,5.6%,5.7%,Tue,Africa/Lagos
+15/09/2020,07:00,GBP,orange,Claimant Count Change,https://www.forexfactory.com/calendar?month=september.2020#detail=112275,73.7K,99.5K,69.9K,Tue,Africa/Lagos
+15/09/2020,,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112276,-1.0%,-1.3%,-1.2%,Tue,Africa/Lagos
+15/09/2020,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112274,4.1%,4.1%,3.9%,Tue,Africa/Lagos
+15/09/2020,07:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112041,-0.4%,0.2%,0.1%,Tue,Africa/Lagos
+15/09/2020,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111883,-0.1%,-0.1%,-0.1%,Tue,Africa/Lagos
+15/09/2020,10:00,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=112882,73.9,63.0,64.0,Tue,Africa/Lagos
+15/09/2020,,EUR,yellow,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=112894,77.4,69.7,71.5,Tue,Africa/Lagos
+15/09/2020,13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113778,7.0%,8.8%,23.0%,Tue,Africa/Lagos
+15/09/2020,,USD,yellow,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113863,17.0,6.2,3.7,Tue,Africa/Lagos
+15/09/2020,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114104,0.9%,0.5%,1.2%,Tue,Africa/Lagos
+15/09/2020,14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=114089,71.4%,71.7%,71.1%,Tue,Africa/Lagos
+15/09/2020,,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114088,0.4%,1.2%,3.5%,Tue,Africa/Lagos
+15/09/2020,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114616,-0.3%,,0.2%,Tue,Africa/Lagos
+15/09/2020,16:04,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113583,3.6%,,-1.0%,Tue,Africa/Lagos
+15/09/2020,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=115341,,,,Tue,Africa/Lagos
+15/09/2020,23:45,NZD,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=113493,1.83B,0.69B,1.90B,Tue,Africa/Lagos
+16/09/2020,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=115090,0.35T,0.01T,0.04T,Wed,Africa/Lagos
+16/09/2020,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114640,0.5%,,0.1%,Wed,Africa/Lagos
+16/09/2020,07:00,GBP,orange,CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112337,0.2%,0.1%,1.0%,Wed,Africa/Lagos
+16/09/2020,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112336,0.9%,0.7%,1.8%,Wed,Africa/Lagos
+16/09/2020,,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112339,-0.4%,0.1%,1.8%,Wed,Africa/Lagos
+16/09/2020,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112338,0.0%,0.2%,0.3%,Wed,Africa/Lagos
+16/09/2020,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112340,0.5%,0.6%,1.6%,Wed,Africa/Lagos
+16/09/2020,09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=116330,3.4%,3.2%,1.1%,Wed,Africa/Lagos
+16/09/2020,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=112649,20.3B,19.3B,16.0B,Wed,Africa/Lagos
+16/09/2020,10:05,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=112206,0.26|3.0,,0.32|2.7,Wed,Africa/Lagos
+16/09/2020,10:34,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=112925,-0.07|1.9,,-0.05|2.9,Wed,Africa/Lagos
+16/09/2020,13:30,CAD,yellow,Common CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114440,1.5%,1.4%,1.3%,Wed,Africa/Lagos
+16/09/2020,,CAD,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114442,-0.1%,0.1%,0.0%,Wed,Africa/Lagos
+16/09/2020,,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=september.2020#detail=113753,-8.52B,10.50B,-14.13B,Wed,Africa/Lagos
+16/09/2020,,CAD,yellow,Median CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114443,1.9%,1.9%,1.9%,Wed,Africa/Lagos
+16/09/2020,,CAD,yellow,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114444,1.7%,1.8%,1.7%,Wed,Africa/Lagos
+16/09/2020,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114261,0.7%,1.0%,1.3%,Wed,Africa/Lagos
+16/09/2020,,USD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114260,0.6%,1.1%,0.9%,Wed,Africa/Lagos
+16/09/2020,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114441,0.0%,,-0.1%,Wed,Africa/Lagos
+16/09/2020,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114213,0.1%,0.2%,-1.1%,Wed,Africa/Lagos
+16/09/2020,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113912,83,78,78,Wed,Africa/Lagos
+16/09/2020,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2020#detail=110945,-4.4M,2.1M,2.0M,Wed,Africa/Lagos
+16/09/2020,19:00,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=september.2020#detail=111355,,,,Wed,Africa/Lagos
+16/09/2020,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=111356,,,,Wed,Africa/Lagos
+16/09/2020,,USD,orange,Federal Funds Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=111354,<0.25%,<0.25%,<0.25%,Wed,Africa/Lagos
+16/09/2020,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=september.2020#detail=111357,,,,Wed,Africa/Lagos
+16/09/2020,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=september.2020#detail=114164,10.8B,109.3B,113.0B,Wed,Africa/Lagos
+16/09/2020,23:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=113497,-12.2%,-12.5%,-1.4%,Wed,Africa/Lagos
+17/09/2020,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=114592,111.0K,-40.0K,119.2K,Thu,Africa/Lagos
+17/09/2020,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=114604,6.8%,7.7%,7.5%,Thu,Africa/Lagos
+17/09/2020,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=114545,,,,Thu,Africa/Lagos
+17/09/2020,03:52,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=114855,,,,Thu,Africa/Lagos
+17/09/2020,,JPY,yellow,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=114847,-0.10%,-0.10%,-0.10%,Thu,Africa/Lagos
+17/09/2020,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=112005,3.58B,3.20B,3.34B,Thu,Africa/Lagos
+17/09/2020,07:32,JPY,orange,BOJ Press Conference,https://www.forexfactory.com/calendar?month=september.2020#detail=114863,,,,Thu,Africa/Lagos
+17/09/2020,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=111791,9.69B,5.20B,6.23B,Thu,Africa/Lagos
+17/09/2020,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112704,0.4%,0.4%,0.4%,Thu,Africa/Lagos
+17/09/2020,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112705,-0.2%,-0.2%,-0.2%,Thu,Africa/Lagos
+17/09/2020,All Day,All,red,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=september.2020#detail=116379,,,,Thu,Africa/Lagos
+17/09/2020,12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=september.2020#detail=112108,,,,Thu,Africa/Lagos
+17/09/2020,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=september.2020#detail=112110,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+17/09/2020,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112107,0.10%,0.10%,0.10%,Thu,Africa/Lagos
+17/09/2020,,GBP,orange,BOE Inflation Letter,https://www.forexfactory.com/calendar?month=september.2020#detail=116378,,,,Thu,Africa/Lagos
+17/09/2020,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=september.2020#detail=112109,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+17/09/2020,,GBP,yellow,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=september.2020#detail=112106,745B,745B,745B,Thu,Africa/Lagos
+17/09/2020,13:30,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113891,15.0,15.0,17.2,Thu,Africa/Lagos
+17/09/2020,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2020#detail=110803,860K,825K,893K,Thu,Africa/Lagos
+17/09/2020,,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=september.2020#detail=113971,1.47M,1.51M,1.48M,Thu,Africa/Lagos
+17/09/2020,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=september.2020#detail=113970,1.42M,1.47M,1.49M,Thu,Africa/Lagos
+17/09/2020,13:32,CAD,orange,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=113691,-205.4K,,-523.0K,Thu,Africa/Lagos
+17/09/2020,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2020#detail=111049,89B,76B,70B,Thu,Africa/Lagos
+18/09/2020,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115138,-0.4%,-0.4%,0.0%,Fri,Africa/Lagos
+18/09/2020,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113035,0.0%,0.0%,0.2%,Fri,Africa/Lagos
+18/09/2020,,GBP,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112478,0.8%,0.8%,3.7%,Fri,Africa/Lagos
+18/09/2020,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=112615,16.6B,12.0B,20.7B,Fri,Africa/Lagos
+18/09/2020,13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113730,-0.4%,0.5%,15.5%,Fri,Africa/Lagos
+18/09/2020,,CAD,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113729,0.6%,0.8%,22.7%,Fri,Africa/Lagos
+18/09/2020,,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113802,4.3%,3.4%,18.8%,Fri,Africa/Lagos
+18/09/2020,,USD,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=111273,-171B,-158B,-112B,Fri,Africa/Lagos
+18/09/2020,15:00,USD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114286,1.2%,1.3%,2.0%,Fri,Africa/Lagos
+18/09/2020,,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2020#detail=111183,78.9,75.0,74.1,Fri,Africa/Lagos
+18/09/2020,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2020#detail=111185,2.7%,,3.1%,Fri,Africa/Lagos
+21/09/2020,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112514,0.2%,,-0.2%,Mon,Africa/Lagos
+21/09/2020,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2020#detail=113829,,,,Mon,Africa/Lagos
+21/09/2020,02:30,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=134370,3.85%,3.85%,3.85%,Mon,Africa/Lagos
+21/09/2020,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=134318,4.65%,4.65%,4.65%,Mon,Africa/Lagos
+21/09/2020,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=113487,-11.9%,,-5.0%,Mon,Africa/Lagos
+21/09/2020,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=september.2020#detail=112954,,,,Mon,Africa/Lagos
+21/09/2020,13:20,EUR,red,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116388,,,,Mon,Africa/Lagos
+21/09/2020,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114392,0.5%,0.2%,0.4%,Mon,Africa/Lagos
+21/09/2020,15:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116377,,,,Mon,Africa/Lagos
+21/09/2020,17:00,USD,yellow,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116381,,,,Mon,Africa/Lagos
+21/09/2020,23:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116380,,,,Mon,Africa/Lagos
+22/09/2020,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2020#detail=113830,,,,Tue,Africa/Lagos
+22/09/2020,01:30,AUD,yellow,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116372,,,,Tue,Africa/Lagos
+22/09/2020,08:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116374,,,,Tue,Africa/Lagos
+22/09/2020,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=september.2020#detail=112224,-48,-32,-44,Tue,Africa/Lagos
+22/09/2020,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115723,1.2%,,0.7%,Tue,Africa/Lagos
+22/09/2020,14:44,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=112858,-14,-15,-15,Tue,Africa/Lagos
+22/09/2020,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=113879,21,12,18,Tue,Africa/Lagos
+22/09/2020,15:00,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=september.2020#detail=114008,6.00M,6.05M,5.86M,Tue,Africa/Lagos
+22/09/2020,15:30,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=september.2020#detail=116382,,,,Tue,Africa/Lagos
+22/09/2020,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=115342,,,,Tue,Africa/Lagos
+23/09/2020,00:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=114498,55.5,,53.6,Wed,Africa/Lagos
+23/09/2020,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=114509,50.0,,49.0,Wed,Africa/Lagos
+23/09/2020,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=114809,47.3,48.0,47.2,Wed,Africa/Lagos
+23/09/2020,02:30,AUD,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=116389,-4.2%,-2.0%,3.2%,Wed,Africa/Lagos
+23/09/2020,03:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=113410,0.25%,0.25%,0.25%,Wed,Africa/Lagos
+23/09/2020,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=september.2020#detail=113417,,,,Wed,Africa/Lagos
+23/09/2020,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114938,1.3%,1.3%,6.8%,Wed,Africa/Lagos
+23/09/2020,06:59,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=september.2020#detail=112906,-1.6,-1.0,-1.7,Wed,Africa/Lagos
+23/09/2020,08:15,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111650,47.5,52.2,51.5,Wed,Africa/Lagos
+23/09/2020,,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111651,50.9,50.6,49.8,Wed,Africa/Lagos
+23/09/2020,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111649,56.6,52.0,52.2,Wed,Africa/Lagos
+23/09/2020,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111647,49.1,53.0,52.5,Wed,Africa/Lagos
+23/09/2020,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111653,53.7,51.5,51.7,Wed,Africa/Lagos
+23/09/2020,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111652,47.6,51.0,50.5,Wed,Africa/Lagos
+23/09/2020,09:30,GBP,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=113444,54.3,54.3,55.2,Wed,Africa/Lagos
+23/09/2020,,GBP,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=113448,55.1,57.0,58.8,Wed,Africa/Lagos
+23/09/2020,14:00,USD,yellow,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116376,,,,Wed,Africa/Lagos
+23/09/2020,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114044,1.0%,0.4%,1.0%,Wed,Africa/Lagos
+23/09/2020,14:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111648,53.5,52.5,53.1,Wed,Africa/Lagos
+23/09/2020,,USD,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=111646,54.6,54.5,55.0,Wed,Africa/Lagos
+23/09/2020,15:00,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=september.2020#detail=116385,,,,Wed,Africa/Lagos
+23/09/2020,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2020#detail=110947,-1.6M,-2.5M,-4.4M,Wed,Africa/Lagos
+23/09/2020,19:00,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116386,,,,Wed,Africa/Lagos
+23/09/2020,23:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=113511,-353M,-350M,447M,Wed,Africa/Lagos
+24/09/2020,00:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=september.2020#detail=114831,,,,Thu,Africa/Lagos
+24/09/2020,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115126,0.0%,0.1%,0.0%,Thu,Africa/Lagos
+24/09/2020,08:30,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=september.2020#detail=112067,,,,Thu,Africa/Lagos
+24/09/2020,,CHF,orange,SNB Policy Rate,https://www.forexfactory.com/calendar?month=september.2020#detail=112068,-0.75%,-0.75%,-0.75%,Thu,Africa/Lagos
+24/09/2020,09:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=112808,,,,Thu,Africa/Lagos
+24/09/2020,,EUR,yellow,German ifo Business Climate,https://www.forexfactory.com/calendar?month=september.2020#detail=112918,93.4,93.9,92.5,Thu,Africa/Lagos
+24/09/2020,09:15,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=september.2020#detail=116390,,,,Thu,Africa/Lagos
+24/09/2020,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=september.2020#detail=112227,11,-10,-6,Thu,Africa/Lagos
+24/09/2020,13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2020#detail=110804,870K,845K,866K,Thu,Africa/Lagos
+24/09/2020,13:57,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=september.2020#detail=111710,-10.8,-11.0,-12.0,Thu,Africa/Lagos
+24/09/2020,15:00,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116375,,,,Thu,Africa/Lagos
+24/09/2020,,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=september.2020#detail=116383,,,,Thu,Africa/Lagos
+24/09/2020,,USD,red,Treasury Sec Mnuchin Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116384,,,,Thu,Africa/Lagos
+24/09/2020,,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=september.2020#detail=114022,1011K,890K,965K,Thu,Africa/Lagos
+24/09/2020,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2020#detail=111050,66B,78B,89B,Thu,Africa/Lagos
+24/09/2020,19:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116373,,,,Thu,Africa/Lagos
+25/09/2020,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=112246,-25,-27,-27,Fri,Africa/Lagos
+25/09/2020,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115162,1.0%,1.2%,1.1%,Fri,Africa/Lagos
+25/09/2020,02:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=121532,4.29B,,3.12B,Fri,Africa/Lagos
+25/09/2020,07:00,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=september.2020#detail=112466,35.2B,40.6B,14.7B,Fri,Africa/Lagos
+25/09/2020,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112737,9.5%,10.0%,10.1%,Fri,Africa/Lagos
+25/09/2020,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112736,3.0%,3.0%,3.0%,Fri,Africa/Lagos
+25/09/2020,13:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114197,0.4%,1.0%,2.6%,Fri,Africa/Lagos
+25/09/2020,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114196,0.4%,1.1%,11.4%,Fri,Africa/Lagos
+25/09/2020,20:10,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116387,,,,Fri,Africa/Lagos
+26/09/2020,15:00,NZD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=september.2020#detail=113618,,,,Sat,Africa/Lagos
+28/09/2020,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2020#detail=115906,,,,Mon,Africa/Lagos
+28/09/2020,14:45,EUR,red,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116391,,,,Mon,Africa/Lagos
+28/09/2020,19:00,USD,yellow,FOMC Member Mester Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116395,,,,Mon,Africa/Lagos
+29/09/2020,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115174,-0.2%,-0.3%,-0.3%,Tue,Africa/Lagos
+29/09/2020,00:50,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=september.2020#detail=114839,,,,Tue,Africa/Lagos
+29/09/2020,All Day,EUR,yellow,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113072,-0.2%,-0.1%,-0.1%,Tue,Africa/Lagos
+29/09/2020,08:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=111940,-0.4%,-0.4%,-0.5%,Tue,Africa/Lagos
+29/09/2020,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112173,-0.4%,1.1%,0.8%,Tue,Africa/Lagos
+29/09/2020,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=september.2020#detail=112174,85K,72K,66K,Tue,Africa/Lagos
+29/09/2020,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112175,3.4B,5.2B,3.9B,Tue,Africa/Lagos
+29/09/2020,10:22,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2020#detail=111722,0.89|1.3,,1.11|1.3,Tue,Africa/Lagos
+29/09/2020,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114478,0.3%,0.6%,0.7%,Tue,Africa/Lagos
+29/09/2020,,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114479,3.2%,6.2%,3.0%,Tue,Africa/Lagos
+29/09/2020,,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2020#detail=114237,-82.9B,-81.8B,-80.1B,Tue,Africa/Lagos
+29/09/2020,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114236,0.5%,-0.1%,-0.3%,Tue,Africa/Lagos
+29/09/2020,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=114045,3.9%,3.6%,3.5%,Tue,Africa/Lagos
+29/09/2020,14:15,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116393,,,,Tue,Africa/Lagos
+29/09/2020,14:30,USD,yellow,FOMC Member Harker Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116396,,,,Tue,Africa/Lagos
+29/09/2020,15:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=113940,101.8,90.0,86.3,Tue,Africa/Lagos
+29/09/2020,16:40,USD,yellow,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116398,,,,Tue,Africa/Lagos
+29/09/2020,18:00,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116397,,,,Tue,Africa/Lagos
+29/09/2020,,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116394,,,,Tue,Africa/Lagos
+29/09/2020,19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=september.2020#detail=116412,,,,Tue,Africa/Lagos
+29/09/2020,20:00,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116399,,,,Tue,Africa/Lagos
+29/09/2020,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=115343,,,,Tue,Africa/Lagos
+29/09/2020,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113536,0.3%,,-4.6%,Tue,Africa/Lagos
+30/09/2020,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=112369,-1.6%,,-1.6%,Wed,Africa/Lagos
+30/09/2020,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=115030,1.7%,1.5%,8.7%,Wed,Africa/Lagos
+30/09/2020,,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115066,-1.9%,-3.2%,-2.9%,Wed,Africa/Lagos
+30/09/2020,01:00,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=september.2020#detail=113400,-28.5,,-26.0,Wed,Africa/Lagos
+30/09/2020,02:00,CNY,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=115628,51.5,51.3,51.0,Wed,Africa/Lagos
+30/09/2020,,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=115639,55.9,54.6,55.2,Wed,Africa/Lagos
+30/09/2020,02:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114696,-1.6%,0.1%,12.2%,Wed,Africa/Lagos
+30/09/2020,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114656,0.0%,-0.1%,-0.1%,Wed,Africa/Lagos
+30/09/2020,02:45,CNY,yellow,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=115603,53.0,53.1,53.1,Wed,Africa/Lagos
+30/09/2020,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=september.2020#detail=115102,-9.1%,-10.0%,-11.4%,Wed,Africa/Lagos
+30/09/2020,06:59,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113039,0.1%,0.0%,0.3%,Wed,Africa/Lagos
+30/09/2020,,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113037,3.1%,0.4%,-0.2%,Wed,Africa/Lagos
+30/09/2020,,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=112490,0.9%,0.5%,2.0%,Wed,Africa/Lagos
+30/09/2020,07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2020#detail=112547,-2.8B,-1.0B,-20.8B,Wed,Africa/Lagos
+30/09/2020,,GBP,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=112548,-19.8%,-20.4%,-20.4%,Wed,Africa/Lagos
+30/09/2020,07:02,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=112553,-26.5%,-31.4%,-31.4%,Wed,Africa/Lagos
+30/09/2020,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111862,2.3%,-0.2%,-0.9%,Wed,Africa/Lagos
+30/09/2020,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111882,-0.5%,-0.3%,-0.1%,Wed,Africa/Lagos
+30/09/2020,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=september.2020#detail=112017,113.8,106.1,110.2,Wed,Africa/Lagos
+30/09/2020,08:20,EUR,red,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116392,,,,Wed,Africa/Lagos
+30/09/2020,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=113038,-8K,-7K,-9K,Wed,Africa/Lagos
+30/09/2020,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=september.2020#detail=111981,26.2,,45.6,Wed,Africa/Lagos
+30/09/2020,09:30,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116405,,,,Wed,Africa/Lagos
+30/09/2020,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=111797,-0.6%,-0.5%,0.3%,Wed,Africa/Lagos
+30/09/2020,13:15,USD,orange,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2020#detail=111119,749K,650K,481K,Wed,Africa/Lagos
+30/09/2020,13:20,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=september.2020#detail=113864,62.4,52.0,51.2,Wed,Africa/Lagos
+30/09/2020,13:30,CAD,orange,GDP m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=113766,3.0%,2.9%,6.5%,Wed,Africa/Lagos
+30/09/2020,,USD,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=111267,-31.4%,-31.7%,-31.7%,Wed,Africa/Lagos
+30/09/2020,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=september.2020#detail=111268,-1.8%,-2.0%,-2.0%,Wed,Africa/Lagos
+30/09/2020,14:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=september.2020#detail=112075,,,,Wed,Africa/Lagos
+30/09/2020,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=september.2020#detail=114009,8.8%,3.1%,5.9%,Wed,Africa/Lagos
+30/09/2020,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2020#detail=110948,-2.0M,1.0M,-1.6M,Wed,Africa/Lagos
+30/09/2020,16:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116401,,,,Wed,Africa/Lagos
+30/09/2020,18:40,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=september.2020#detail=116400,,,,Wed,Africa/Lagos
+30/09/2020,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2020#detail=112772,46.7,,49.3,Wed,Africa/Lagos

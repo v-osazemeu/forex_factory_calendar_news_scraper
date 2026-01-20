@@ -1,363 +1,363 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/08/2018,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88230,-0.3%,,-0.5%,Wed
-01/08/2018,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=91754,52.3,51.6,51.6,Wed
-01/08/2018,02:45,CNY,yellow,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=89939,50.8,50.9,51.0,Wed
-01/08/2018,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88420,0.6%,0.1%,0.7%,Wed
-01/08/2018,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=92584,,,,Wed
-01/08/2018,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=91601,7.6%,,9.8%,Wed
-01/08/2018,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85437,52.9,53.1,53.4,Wed
-01/08/2018,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85550,51.5,53.0,53.3,Wed
-01/08/2018,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85810,53.3,53.1,53.1,Wed
-01/08/2018,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85812,56.9,57.3,57.3,Wed
-01/08/2018,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85814,55.1,55.1,55.1,Wed
-01/08/2018,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85815,54.0,54.2,54.3,Wed
-01/08/2018,10:33,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=92931,0.47|1.8,,0.36|1.6,Wed
-01/08/2018,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=86904,219K,186K,181K,Wed
-01/08/2018,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=89788,56.9,,57.1,Wed
-01/08/2018,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86766,55.3,55.5,55.5,Wed
-01/08/2018,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86767,58.1,59.4,60.2,Wed
-01/08/2018,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87180,-1.1%,0.3%,1.3%,Wed
-01/08/2018,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=august.2018#detail=86769,73.2,75.5,76.8,Wed
-01/08/2018,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=august.2018#detail=110345,16.7M,17.0M,17.4M,Wed
-01/08/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2018#detail=86347,3.8M,-2.6M,-6.1M,Wed
-01/08/2018,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=august.2018#detail=87515,16.8M,17.1M,17.5M,Wed
-01/08/2018,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=86984,2.00%,2.00%,2.00%,Wed
-01/08/2018,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=august.2018#detail=86985,,,,Wed
-02/08/2018,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92382,7.0%,7.3%,7.4%,Thu
-02/08/2018,02:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=91495,1.87B,0.91B,0.73B,Thu
-02/08/2018,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=91679,0.13|4.2,,0.04|4.4,Thu
-02/08/2018,06:45,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=august.2018#detail=90402,-7,2,2,Thu
-02/08/2018,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=85439,-27.1K,-87.6K,-90.0K,Thu
-02/08/2018,08:15,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90566,0.3%,0.0%,0.4%,Thu
-02/08/2018,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=90323,61.9,60.8,61.6,Thu
-02/08/2018,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=88051,55.8,52.8,53.1,Thu
-02/08/2018,09:48,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=85440,1.42|1.5,,1.31|1.5,Thu
-02/08/2018,09:59,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=85950,0.74|2.0,,0.67|1.9,Thu
-02/08/2018,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88684,0.4%,0.3%,0.8%,Thu
-02/08/2018,12:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=august.2018#detail=87598,,,,Thu
-02/08/2018,,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=august.2018#detail=87604,,,,Thu
-02/08/2018,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=august.2018#detail=87601,9-0-0,7-0-2,3-0-6,Thu
-02/08/2018,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=87599,0.75%,0.75%,0.50%,Thu
-02/08/2018,,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=august.2018#detail=87597,435B,435B,435B,Thu
-02/08/2018,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=august.2018#detail=87602,0-0-9,0-0-9,0-0-9,Thu
-02/08/2018,12:30,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=98129,,,,Thu
-02/08/2018,,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=86901,-4.2%,,19.6%,Thu
-02/08/2018,13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2018#detail=86366,218K,220K,217K,Thu
-02/08/2018,15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89198,0.7%,0.7%,0.4%,Thu
-02/08/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2018#detail=86359,35B,39B,24B,Thu
-02/08/2018,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=august.2018#detail=91240,53.6,,63.0,Thu
-03/08/2018,00:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2018#detail=92427,,,,Fri
-03/08/2018,02:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91468,0.4%,0.3%,0.4%,Fri
-03/08/2018,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=89985,52.8,53.7,53.9,Fri
-03/08/2018,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=85984,-58.9B,,-55.1B,Fri
-03/08/2018,08:15,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90467,-0.2%,-0.3%,0.0%,Fri
-03/08/2018,,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85442,52.6,54.4,55.4,Fri
-03/08/2018,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85551,54.0,53.6,54.3,Fri
-03/08/2018,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85818,54.9,55.3,55.3,Fri
-03/08/2018,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85820,54.1,54.4,54.4,Fri
-03/08/2018,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85819,54.2,54.4,54.4,Fri
-03/08/2018,,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=85630,0.5%,0.4%,0.8%,Fri
-03/08/2018,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85817,53.5,54.7,55.1,Fri
-03/08/2018,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88687,0.3%,0.4%,0.3%,Fri
-03/08/2018,10:03,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=85631,-0.2%,0.1%,1.1%,Fri
-03/08/2018,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=93223,-0.6B,-2.3B,-2.7B,Fri
-03/08/2018,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=86600,0.3%,0.3%,0.1%,Fri
-03/08/2018,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=86601,157K,191K,248K,Fri
-03/08/2018,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=86604,3.9%,3.9%,4.0%,Fri
-03/08/2018,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=89341,-46.3B,-46.5B,-43.2B,Fri
-03/08/2018,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86772,56.0,56.2,56.2,Fri
-03/08/2018,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86775,55.7,58.6,59.1,Fri
-05/08/2018,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=89858,,,,Sun
-06/08/2018,02:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91625,0.1%,,0.0%,Mon
-06/08/2018,,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90876,-3.2%,,-0.9%,Mon
-06/08/2018,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91319,1.5%,,-1.7%,Mon
-06/08/2018,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92750,-4.0%,-0.3%,2.6%,Mon
-06/08/2018,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=88811,14.7,12.8,12.1,Mon
-06/08/2018,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=89830,,,,Mon
-06/08/2018,19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=august.2018#detail=87043,,,,Mon
-06/08/2018,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=august.2018#detail=91246,52.0,,50.6,Mon
-07/08/2018,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88257,0.5%,1.3%,1.1%,Tue
-07/08/2018,00:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92304,-1.2%,-1.2%,-3.9%,Tue
-07/08/2018,01:00,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92168,3.6%,1.7%,2.1%,Tue
-07/08/2018,05:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=august.2018#detail=91105,,,,Tue
-07/08/2018,,AUD,orange,Cash Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=91102,1.50%,1.50%,1.50%,Tue
-07/08/2018,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=august.2018#detail=92047,105.2%,105.4%,106.9%,Tue
-07/08/2018,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92751,-0.9%,-0.5%,2.4%,Tue
-07/08/2018,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=92754,19.3B,21.4B,20.4B,Tue
-07/08/2018,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=85987,-6.2B,-5.6B,-6.0B,Tue
-07/08/2018,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=august.2018#detail=90354,750B,,748B,Tue
-07/08/2018,08:30,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=99535,1.4%,0.2%,0.9%,Tue
-07/08/2018,15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=89705,61.8,64.2,63.1,Tue
-07/08/2018,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=august.2018#detail=87152,6.66M,6.74M,6.66M,Tue
-07/08/2018,15:01,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=august.2018#detail=87129,58.0,57.2,56.4,Tue
-07/08/2018,15:15,NZD,orange,GDT Price Index,https://www.forexfactory.com/calendar?month=august.2018#detail=90982,0.0%,,-1.7%,Tue
-07/08/2018,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89172,10.2B,16.2B,24.3B,Tue
-07/08/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=august.2018#detail=99228,,,,Tue
-08/08/2018,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=91947,2.0%,2.3%,2.2%,Wed
-08/08/2018,,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=august.2018#detail=92414,,,,Wed
-08/08/2018,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=august.2018#detail=91952,1.76T,1.84T,1.85T,Wed
-08/08/2018,02:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91559,-1.1%,0.1%,1.0%,Wed
-08/08/2018,04:00,NZD,red,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=90651,2.04%,,2.01%,Wed
-08/08/2018,04:01,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99538,,,,Wed
-08/08/2018,04:05,CNY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=90099,177B,229B,262B,Wed
-08/08/2018,04:14,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=90103,28.1B,39.1B,41.6B,Wed
-08/08/2018,06:02,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=91819,46.6,47.8,48.1,Wed
-08/08/2018,10:36,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=88472,1.46|2.2,,1.43|2.3,Wed
-08/08/2018,13:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93224,-2.3%,-0.1%,4.8%,Wed
-08/08/2018,13:45,USD,orange,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99543,,,,Wed
-08/08/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2018#detail=86369,-1.4M,-2.8M,3.8M,Wed
-08/08/2018,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=87096,2.96|2.5,,2.86|2.6,Wed
-08/08/2018,22:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=90688,1.75%,1.75%,1.75%,Wed
-08/08/2018,,NZD,red,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=august.2018#detail=90690,,,,Wed
-08/08/2018,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=august.2018#detail=90692,,,,Wed
-08/08/2018,23:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=august.2018#detail=90694,,,,Wed
-09/08/2018,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=88399,4%,4%,3%,Thu
-09/08/2018,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92020,-8.8%,-1.2%,-3.7%,Thu
-09/08/2018,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=91956,3.0%,3.1%,3.1%,Thu
-09/08/2018,02:29,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90052,2.1%,2.0%,1.9%,Thu
-09/08/2018,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90061,4.6%,4.4%,4.7%,Thu
-09/08/2018,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=91699,0.85|4.7,,0.70|5.0,Thu
-09/08/2018,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=90448,2.6%,2.6%,2.6%,Thu
-09/08/2018,06:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=91871,13.0%,,11.4%,Thu
-09/08/2018,09:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=august.2018#detail=88789,,,,Thu
-09/08/2018,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=august.2018#detail=89801,206K,220K,246K,Thu
-09/08/2018,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93226,0.1%,0.0%,0.0%,Thu
-09/08/2018,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87427,0.0%,0.2%,0.3%,Thu
-09/08/2018,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87424,0.1%,0.2%,0.3%,Thu
-09/08/2018,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2018#detail=86385,213K,220K,219K,Thu
-09/08/2018,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89477,0.1%,0.0%,0.0%,Thu
-09/08/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2018#detail=86375,46B,49B,35B,Thu
-09/08/2018,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=87098,3.09|2.3,,2.96|2.3,Thu
-09/08/2018,23:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2018#detail=90641,51.2,,52.7,Thu
-10/08/2018,00:50,JPY,orange,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=89113,0.5%,0.3%,-0.2%,Fri
-10/08/2018,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92219,3.1%,2.9%,2.8%,Fri
-10/08/2018,,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=89111,0.1%,0.0%,0.5%,Fri
-10/08/2018,02:30,AUD,red,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=august.2018#detail=91055,,,,Fri
-10/08/2018,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92146,-0.5%,-0.2%,0.2%,Fri
-10/08/2018,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=86047,0.6%,0.5%,-0.2%,Fri
-10/08/2018,,EUR,yellow,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=86022,0.2%,0.3%,0.2%,Fri
-10/08/2018,09:03,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=85629,5.07B,3.41B,3.37B,Fri
-10/08/2018,09:30,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=99478,0.1%,0.2%,0.3%,Fri
-10/08/2018,,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87918,0.4%,0.3%,0.6%,Fri
-10/08/2018,,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=88277,0.4%,0.4%,0.2%,Fri
-10/08/2018,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=88507,-11.4B,-12.0B,-12.5B,Fri
-10/08/2018,,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=88318,0.5%,0.3%,-0.4%,Fri
-10/08/2018,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87956,1.4%,-0.2%,2.9%,Fri
-10/08/2018,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=august.2018#detail=88303,0.5%,0.6%,0.4%,Fri
-10/08/2018,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87916,0.4%,0.4%,-0.2%,Fri
-10/08/2018,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=93229,54.1K,17.0K,31.8K,Fri
-10/08/2018,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=93228,5.8%,5.9%,6.0%,Fri
-10/08/2018,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87457,0.2%,0.2%,0.2%,Fri
-10/08/2018,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87456,0.2%,0.2%,0.1%,Fri
-10/08/2018,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=128609,2.9%,2.9%,2.9%,Fri
-10/08/2018,14:06,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=august.2018#detail=87839,0.5%,,0.4%,Fri
-10/08/2018,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=87058,-76.9B,-76.5B,-74.9B,Fri
-12/08/2018,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=august.2018#detail=127196,55.1,,52.7,Sun
-12/08/2018,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90833,0.7%,,0.5%,Sun
-13/08/2018,12:26,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90141,8.5%,8.2%,8.0%,Mon
-13/08/2018,12:27,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=august.2018#detail=90147,1450B,1210B,1840B,Mon
-14/08/2018,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=91289,7,,6,Tue
-14/08/2018,02:59,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90234,5.5%,6.0%,6.0%,Tue
-14/08/2018,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90229,6.0%,6.3%,6.0%,Tue
-14/08/2018,03:00,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90232,8.8%,9.2%,9.0%,Tue
-14/08/2018,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=98771,5.1%,,4.8%,Tue
-14/08/2018,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92096,-1.8%,-2.1%,-2.1%,Tue
-14/08/2018,07:00,EUR,orange,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=92759,0.5%,0.4%,0.4%,Tue
-14/08/2018,,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92757,0.3%,0.3%,0.3%,Tue
-14/08/2018,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=86109,-0.1%,-0.1%,-0.1%,Tue
-14/08/2018,08:15,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90488,0.1%,0.3%,0.2%,Tue
-14/08/2018,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88010,2.4%,2.5%,2.5%,Tue
-14/08/2018,,GBP,orange,Claimant Count Change,https://www.forexfactory.com/calendar?month=august.2018#detail=88014,6.2K,2.3K,9.0K,Tue
-14/08/2018,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=88013,4.0%,4.2%,4.2%,Tue
-14/08/2018,10:00,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=88691,0.4%,0.3%,0.3%,Tue
-14/08/2018,,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=88905,-13.7,-20.1,-24.7,Tue
-14/08/2018,,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88689,-0.7%,-0.3%,1.4%,Tue
-14/08/2018,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=88898,-11.1,-16.4,-18.7,Tue
-14/08/2018,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=august.2018#detail=87535,107.9,106.9,107.2,Tue
-14/08/2018,13:30,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87390,0.0%,0.1%,-0.1%,Tue
-14/08/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=august.2018#detail=99229,,,,Tue
-15/08/2018,01:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=91177,-2.3%,,3.9%,Wed
-15/08/2018,02:30,AUD,red,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=91644,0.6%,0.6%,0.5%,Wed
-15/08/2018,,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=136753,1.21%,,1.11%,Wed
-15/08/2018,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=93004,,,,Wed
-15/08/2018,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=93005,,,,Wed
-15/08/2018,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=87732,2.5%,2.5%,2.4%,Wed
-15/08/2018,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87740,0.5%,0.1%,0.3%,Wed
-15/08/2018,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=87735,3.2%,3.4%,3.4%,Wed
-15/08/2018,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=87729,1.9%,1.9%,1.9%,Wed
-15/08/2018,,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=87733,3.0%,2.7%,3.5%,Wed
-15/08/2018,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87743,0.0%,0.1%,0.3%,Wed
-15/08/2018,10:32,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=92909,0.94|1.6,,1.02|1.7,Wed
-15/08/2018,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89283,0.6%,0.3%,0.2%,Wed
-15/08/2018,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89280,0.5%,0.1%,0.2%,Wed
-15/08/2018,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2018#detail=89551,25.6,20.1,22.6,Wed
-15/08/2018,,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=87481,2.9%,2.4%,0.4%,Wed
-15/08/2018,,USD,yellow,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=87484,-0.9%,-0.1%,2.9%,Wed
-15/08/2018,14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=87364,78.1%,78.2%,78.1%,Wed
-15/08/2018,,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87365,0.1%,0.3%,1.0%,Wed
-15/08/2018,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89140,0.1%,0.2%,0.3%,Wed
-15/08/2018,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=august.2018#detail=87554,67,67,68,Wed
-15/08/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2018#detail=86372,6.8M,-2.6M,-1.4M,Wed
-15/08/2018,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=august.2018#detail=89430,-36.5B,32.3B,45.5B,Wed
-16/08/2018,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=91899,-0.05T,0.02T,0.08T,Thu
-16/08/2018,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2018#detail=91148,4.0%,,3.9%,Thu
-16/08/2018,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=91353,-3.9K,15.0K,58.2K,Thu
-16/08/2018,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=91351,5.3%,5.4%,5.4%,Thu
-16/08/2018,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88961,0.0%,0.5%,0.5%,Thu
-16/08/2018,07:10,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90181,2.3%,,1.1%,Thu
-16/08/2018,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87872,0.7%,0.2%,-0.5%,Thu
-16/08/2018,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=88693,16.7B,17.0B,16.9B,Thu
-16/08/2018,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93231,1.1%,1.0%,1.5%,Thu
-16/08/2018,,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=89067,11.6K,,22.0K,Thu
-16/08/2018,,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=august.2018#detail=87318,1.31M,1.31M,1.29M,Thu
-16/08/2018,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=august.2018#detail=87316,1.17M,1.27M,1.16M,Thu
-16/08/2018,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2018#detail=89528,11.9,21.9,25.7,Thu
-16/08/2018,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2018#detail=86380,212K,215K,214K,Thu
-16/08/2018,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93448,-0.2%,,0.0%,Thu
-16/08/2018,15:00,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=august.2018#detail=87163,4.36%,,4.63%,Thu
-16/08/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2018#detail=86376,33B,30B,46B,Thu
-16/08/2018,23:45,NZD,orange,PPI Input q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=90947,1.0%,0.2%,0.6%,Thu
-16/08/2018,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=90945,0.9%,0.1%,0.2%,Thu
-17/08/2018,00:34,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99546,,,,Fri
-17/08/2018,08:30,AUD,orange,RBA Assist Gov Ellis Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99547,,,,Fri
-17/08/2018,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=august.2018#detail=88860,23.5B,23.2B,24.4B,Fri
-17/08/2018,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88699,2.1%,2.1%,2.1%,Fri
-17/08/2018,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88696,1.1%,1.1%,1.1%,Fri
-17/08/2018,13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93237,0.5%,0.1%,0.1%,Fri
-17/08/2018,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=93234,1.9%,,1.9%,Fri
-17/08/2018,,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=august.2018#detail=93232,11.55B,4.91B,3.01B,Fri
-17/08/2018,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=93239,2.0%,,2.0%,Fri
-17/08/2018,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=93241,2.1%,,2.0%,Fri
-17/08/2018,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=99383,0.2%,,0.1%,Fri
-17/08/2018,15:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=86594,95.3,98.1,97.9,Fri
-17/08/2018,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90281,0.6%,0.4%,0.5%,Fri
-17/08/2018,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2018#detail=86597,2.9%,,2.9%,Fri
-20/08/2018,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88389,-2.3%,,-0.1%,Mon
-20/08/2018,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92760,0.2%,0.4%,0.3%,Mon
-20/08/2018,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=august.2018#detail=88938,,,,Mon
-20/08/2018,14:15,CAD,orange,Gov Council Member Wilkins Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99548,,,,Mon
-20/08/2018,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93473,0.2%,,0.0%,Mon
-20/08/2018,16:00,USD,orange,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99561,,,,Mon
-20/08/2018,17:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99557,,,,Mon
-20/08/2018,23:00,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99554,,,,Mon
-20/08/2018,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90798,0.6%,,-3.6%,Mon
-21/08/2018,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2018#detail=91107,,,,Tue
-21/08/2018,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90849,3.2%,,5.8%,Tue
-21/08/2018,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=90539,2.26B,2.85B,2.56B,Tue
-21/08/2018,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=august.2018#detail=88347,-2.9B,-2.1B,3.3B,Tue
-21/08/2018,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=august.2018#detail=88100,7,10,11,Tue
-21/08/2018,13:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93242,-0.8%,0.7%,0.9%,Tue
-21/08/2018,15:16,NZD,orange,GDT Price Index,https://www.forexfactory.com/calendar?month=august.2018#detail=90984,-3.6%,,0.0%,Tue
-21/08/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=august.2018#detail=99232,,,,Tue
-21/08/2018,23:45,NZD,red,Retail Sales q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=90894,1.1%,0.4%,0.3%,Tue
-21/08/2018,,NZD,orange,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=90893,1.4%,0.8%,0.6%,Tue
-22/08/2018,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91408,0.0%,,0.1%,Wed
-22/08/2018,02:30,AUD,orange,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=91509,1.6%,0.7%,2.4%,Wed
-22/08/2018,04:10,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99551,,,,Wed
-22/08/2018,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91996,-0.8%,-0.7%,0.1%,Wed
-22/08/2018,10:35,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=92934,0.33|1.2,,0.47|1.8,Wed
-22/08/2018,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93243,-0.1%,-0.1%,1.4%,Wed
-22/08/2018,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93244,-0.2%,-0.1%,2.0%,Wed
-22/08/2018,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=august.2018#detail=89588,5.34M,5.40M,5.38M,Wed
-22/08/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2018#detail=86373,-5.8M,-1.6M,6.8M,Wed
-22/08/2018,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2018#detail=87023,,,,Wed
-23/08/2018,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=91751,52.5,52.4,52.3,Thu
-23/08/2018,08:15,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85822,53.7,53.5,53.3,Thu
-23/08/2018,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85823,55.7,55.1,54.9,Thu
-23/08/2018,08:30,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99558,,,,Thu
-23/08/2018,,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85825,56.1,56.5,56.9,Thu
-23/08/2018,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85828,55.2,54.3,54.1,Thu
-23/08/2018,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85830,54.6,55.1,55.1,Thu
-23/08/2018,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85832,54.4,54.4,54.2,Thu
-23/08/2018,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=august.2018#detail=88078,29,13,20,Thu
-23/08/2018,12:30,EUR,orange,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=august.2018#detail=86172,,,,Thu
-23/08/2018,13:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=93381,1.0%,,2.7%,Thu
-23/08/2018,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2018#detail=86382,210K,215K,212K,Thu
-23/08/2018,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90301,1.1%,,0.9%,Thu
-23/08/2018,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87205,0.2%,0.3%,0.4%,Thu
-23/08/2018,14:45,USD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86781,54.5,55.1,55.3,Thu
-23/08/2018,,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86778,55.2,55.9,56.0,Thu
-23/08/2018,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=88832,-2,-1,-1,Thu
-23/08/2018,,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=august.2018#detail=87320,627K,643K,638K,Thu
-23/08/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2018#detail=86377,48B,47B,33B,Thu
-23/08/2018,Day 1,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2018#detail=93482,,,,Thu
-23/08/2018,23:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=90810,-143M,-400M,-288M,Thu
-24/08/2018,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92335,0.8%,0.9%,0.8%,Fri
-24/08/2018,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92209,1.1%,1.2%,1.1%,Fri
-24/08/2018,07:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=92761,0.5%,0.5%,0.5%,Fri
-24/08/2018,09:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=august.2018#detail=88442,39.6K,40.6K,40.3K,Fri
-24/08/2018,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89236,0.2%,0.5%,0.2%,Fri
-24/08/2018,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89233,-1.7%,-0.7%,0.8%,Fri
-24/08/2018,13:59,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=august.2018#detail=93568,-0.3,-0.5,-1.3,Fri
-24/08/2018,15:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99560,,,,Fri
-24/08/2018,Day 2,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2018#detail=93484,,,,Fri
-24/08/2018,17:55,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99563,,,,Fri
-24/08/2018,21:15,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99566,,,,Fri
-25/08/2018,Day 3,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2018#detail=93487,,,,Sat
-25/08/2018,17:25,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99549,,,,Sat
-27/08/2018,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=89913,,,,Mon
-27/08/2018,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=august.2018#detail=92860,103.8,101.9,101.7,Mon
-27/08/2018,16:00,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99572,,,,Mon
-28/08/2018,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92245,0.5%,0.3%,0.4%,Tue
-28/08/2018,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=93606,4.0%,4.3%,4.5%,Tue
-28/08/2018,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=93609,3.0%,3.0%,3.0%,Tue
-28/08/2018,13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=89315,-72.2B,-68.6B,-67.9B,Tue
-28/08/2018,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89456,0.7%,0.1%,0.1%,Tue
-28/08/2018,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=87230,6.3%,6.4%,6.5%,Tue
-28/08/2018,15:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=86909,133.4,126.6,127.9,Tue
-28/08/2018,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2018#detail=89503,24,18,20,Tue
-28/08/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=august.2018#detail=99233,,,,Tue
-29/08/2018,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88232,0.1%,,-0.3%,Wed
-29/08/2018,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=91805,43.3,43.4,43.5,Wed
-29/08/2018,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=august.2018#detail=92881,10.5,10.6,10.6,Wed
-29/08/2018,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=86067,0.1%,0.3%,0.3%,Wed
-29/08/2018,,EUR,yellow,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=86126,0.2%,0.2%,0.2%,Wed
-29/08/2018,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=august.2018#detail=90424,-14.3,,-4.0,Wed
-29/08/2018,13:30,CAD,orange,Current Account,https://www.forexfactory.com/calendar?month=august.2018#detail=93245,-15.9B,-15.3B,-17.5B,Wed
-29/08/2018,,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=89647,4.2%,4.0%,4.1%,Wed
-29/08/2018,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=89645,3.0%,3.0%,3.0%,Wed
-29/08/2018,15:00,USD,yellow,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89590,-0.7%,0.3%,1.0%,Wed
-29/08/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2018#detail=86374,-2.6M,-0.7M,-5.8M,Wed
-29/08/2018,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90822,-10.3%,,-8.2%,Wed
-30/08/2018,00:50,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92119,1.5%,1.3%,1.7%,Thu
-30/08/2018,02:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=90618,-50.3,,-44.9,Thu
-30/08/2018,02:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=91424,-2.5%,0.6%,1.2%,Thu
-30/08/2018,,AUD,orange,Building Approvals m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91527,-5.2%,-2.2%,6.8%,Thu
-30/08/2018,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92763,-0.2%,0.0%,0.5%,Thu
-30/08/2018,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92768,0.1%,0.1%,0.3%,Thu
-30/08/2018,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=august.2018#detail=90594,100.3,101.2,101.7,Thu
-30/08/2018,,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=85444,2.2%,2.2%,2.2%,Thu
-30/08/2018,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=92765,-8K,-8K,-6K,Thu
-30/08/2018,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88195,0.9%,0.2%,-0.3%,Thu
-30/08/2018,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=august.2018#detail=88197,65K,65K,65K,Thu
-30/08/2018,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88194,4.0B,5.5B,5.4B,Thu
-30/08/2018,10:23,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=85554,3.25|1.4,,2.87|1.4,Thu
-30/08/2018,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93246,0.0%,0.1%,0.5%,Thu
-30/08/2018,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89388,0.2%,0.2%,0.1%,Thu
-30/08/2018,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89393,0.4%,0.4%,0.4%,Thu
-30/08/2018,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89391,0.3%,0.3%,0.4%,Thu
-30/08/2018,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2018#detail=86384,213K,214K,210K,Thu
-30/08/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2018#detail=86378,70B,58B,48B,Thu
-30/08/2018,18:30,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99568,,,,Thu
-31/08/2018,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=87818,-7,-10,-10,Fri
-31/08/2018,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92326,0.9%,0.8%,0.8%,Fri
-31/08/2018,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=92315,2.5%,2.4%,2.4%,Fri
-31/08/2018,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92074,-0.1%,0.3%,-1.8%,Fri
-31/08/2018,02:00,CNY,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=89997,51.3,51.0,51.2,Fri
-31/08/2018,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=90005,54.2,53.8,54.0,Fri
-31/08/2018,02:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91438,0.4%,0.3%,0.3%,Fri
-31/08/2018,05:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91580,-3.1%,,2.2%,Fri
-31/08/2018,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=91847,-0.7%,-3.9%,-7.1%,Fri
-31/08/2018,06:59,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88423,-0.5%,0.1%,0.7%,Fri
-31/08/2018,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88990,-0.4%,-0.1%,0.9%,Fri
-31/08/2018,07:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=86105,0.5%,0.5%,-0.1%,Fri
-31/08/2018,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=85552,10.4%,10.8%,10.8%,Fri
-31/08/2018,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88705,1.0%,1.1%,1.1%,Fri
-31/08/2018,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88703,2.0%,2.1%,2.1%,Fri
-31/08/2018,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=85633,0.5%,0.2%,0.3%,Fri
-31/08/2018,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=88701,8.2%,8.2%,8.2%,Fri
-31/08/2018,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93250,0.7%,0.0%,0.6%,Fri
-31/08/2018,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93248,-0.2%,-0.3%,0.7%,Fri
-31/08/2018,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86907,63.6,63.0,65.5,Fri
-31/08/2018,15:00,USD,yellow,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=86590,96.2,95.5,95.3,Fri
-31/08/2018,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2018#detail=86592,3.0%,,2.9%,Fri
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/08/2018,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88230,-0.3%,,-0.5%,Wed,Africa/Lagos
+01/08/2018,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=91754,52.3,51.6,51.6,Wed,Africa/Lagos
+01/08/2018,02:45,CNY,yellow,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=89939,50.8,50.9,51.0,Wed,Africa/Lagos
+01/08/2018,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88420,0.6%,0.1%,0.7%,Wed,Africa/Lagos
+01/08/2018,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=92584,,,,Wed,Africa/Lagos
+01/08/2018,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=91601,7.6%,,9.8%,Wed,Africa/Lagos
+01/08/2018,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85437,52.9,53.1,53.4,Wed,Africa/Lagos
+01/08/2018,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85550,51.5,53.0,53.3,Wed,Africa/Lagos
+01/08/2018,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85810,53.3,53.1,53.1,Wed,Africa/Lagos
+01/08/2018,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85812,56.9,57.3,57.3,Wed,Africa/Lagos
+01/08/2018,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85814,55.1,55.1,55.1,Wed,Africa/Lagos
+01/08/2018,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85815,54.0,54.2,54.3,Wed,Africa/Lagos
+01/08/2018,10:33,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=92931,0.47|1.8,,0.36|1.6,Wed,Africa/Lagos
+01/08/2018,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=86904,219K,186K,181K,Wed,Africa/Lagos
+01/08/2018,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=89788,56.9,,57.1,Wed,Africa/Lagos
+01/08/2018,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86766,55.3,55.5,55.5,Wed,Africa/Lagos
+01/08/2018,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86767,58.1,59.4,60.2,Wed,Africa/Lagos
+01/08/2018,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87180,-1.1%,0.3%,1.3%,Wed,Africa/Lagos
+01/08/2018,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=august.2018#detail=86769,73.2,75.5,76.8,Wed,Africa/Lagos
+01/08/2018,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=august.2018#detail=110345,16.7M,17.0M,17.4M,Wed,Africa/Lagos
+01/08/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2018#detail=86347,3.8M,-2.6M,-6.1M,Wed,Africa/Lagos
+01/08/2018,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=august.2018#detail=87515,16.8M,17.1M,17.5M,Wed,Africa/Lagos
+01/08/2018,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=86984,2.00%,2.00%,2.00%,Wed,Africa/Lagos
+01/08/2018,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=august.2018#detail=86985,,,,Wed,Africa/Lagos
+02/08/2018,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92382,7.0%,7.3%,7.4%,Thu,Africa/Lagos
+02/08/2018,02:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=91495,1.87B,0.91B,0.73B,Thu,Africa/Lagos
+02/08/2018,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=91679,0.13|4.2,,0.04|4.4,Thu,Africa/Lagos
+02/08/2018,06:45,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=august.2018#detail=90402,-7,2,2,Thu,Africa/Lagos
+02/08/2018,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=85439,-27.1K,-87.6K,-90.0K,Thu,Africa/Lagos
+02/08/2018,08:15,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90566,0.3%,0.0%,0.4%,Thu,Africa/Lagos
+02/08/2018,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=90323,61.9,60.8,61.6,Thu,Africa/Lagos
+02/08/2018,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=88051,55.8,52.8,53.1,Thu,Africa/Lagos
+02/08/2018,09:48,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=85440,1.42|1.5,,1.31|1.5,Thu,Africa/Lagos
+02/08/2018,09:59,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=85950,0.74|2.0,,0.67|1.9,Thu,Africa/Lagos
+02/08/2018,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88684,0.4%,0.3%,0.8%,Thu,Africa/Lagos
+02/08/2018,12:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=august.2018#detail=87598,,,,Thu,Africa/Lagos
+02/08/2018,,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=august.2018#detail=87604,,,,Thu,Africa/Lagos
+02/08/2018,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=august.2018#detail=87601,9-0-0,7-0-2,3-0-6,Thu,Africa/Lagos
+02/08/2018,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=87599,0.75%,0.75%,0.50%,Thu,Africa/Lagos
+02/08/2018,,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=august.2018#detail=87597,435B,435B,435B,Thu,Africa/Lagos
+02/08/2018,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=august.2018#detail=87602,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+02/08/2018,12:30,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=98129,,,,Thu,Africa/Lagos
+02/08/2018,,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=86901,-4.2%,,19.6%,Thu,Africa/Lagos
+02/08/2018,13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2018#detail=86366,218K,220K,217K,Thu,Africa/Lagos
+02/08/2018,15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89198,0.7%,0.7%,0.4%,Thu,Africa/Lagos
+02/08/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2018#detail=86359,35B,39B,24B,Thu,Africa/Lagos
+02/08/2018,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=august.2018#detail=91240,53.6,,63.0,Thu,Africa/Lagos
+03/08/2018,00:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2018#detail=92427,,,,Fri,Africa/Lagos
+03/08/2018,02:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91468,0.4%,0.3%,0.4%,Fri,Africa/Lagos
+03/08/2018,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=89985,52.8,53.7,53.9,Fri,Africa/Lagos
+03/08/2018,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=85984,-58.9B,,-55.1B,Fri,Africa/Lagos
+03/08/2018,08:15,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90467,-0.2%,-0.3%,0.0%,Fri,Africa/Lagos
+03/08/2018,,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85442,52.6,54.4,55.4,Fri,Africa/Lagos
+03/08/2018,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85551,54.0,53.6,54.3,Fri,Africa/Lagos
+03/08/2018,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85818,54.9,55.3,55.3,Fri,Africa/Lagos
+03/08/2018,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85820,54.1,54.4,54.4,Fri,Africa/Lagos
+03/08/2018,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85819,54.2,54.4,54.4,Fri,Africa/Lagos
+03/08/2018,,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=85630,0.5%,0.4%,0.8%,Fri,Africa/Lagos
+03/08/2018,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85817,53.5,54.7,55.1,Fri,Africa/Lagos
+03/08/2018,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88687,0.3%,0.4%,0.3%,Fri,Africa/Lagos
+03/08/2018,10:03,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=85631,-0.2%,0.1%,1.1%,Fri,Africa/Lagos
+03/08/2018,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=93223,-0.6B,-2.3B,-2.7B,Fri,Africa/Lagos
+03/08/2018,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=86600,0.3%,0.3%,0.1%,Fri,Africa/Lagos
+03/08/2018,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=86601,157K,191K,248K,Fri,Africa/Lagos
+03/08/2018,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=86604,3.9%,3.9%,4.0%,Fri,Africa/Lagos
+03/08/2018,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=89341,-46.3B,-46.5B,-43.2B,Fri,Africa/Lagos
+03/08/2018,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86772,56.0,56.2,56.2,Fri,Africa/Lagos
+03/08/2018,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86775,55.7,58.6,59.1,Fri,Africa/Lagos
+05/08/2018,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=89858,,,,Sun,Africa/Lagos
+06/08/2018,02:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91625,0.1%,,0.0%,Mon,Africa/Lagos
+06/08/2018,,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90876,-3.2%,,-0.9%,Mon,Africa/Lagos
+06/08/2018,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91319,1.5%,,-1.7%,Mon,Africa/Lagos
+06/08/2018,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92750,-4.0%,-0.3%,2.6%,Mon,Africa/Lagos
+06/08/2018,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=88811,14.7,12.8,12.1,Mon,Africa/Lagos
+06/08/2018,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=89830,,,,Mon,Africa/Lagos
+06/08/2018,19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=august.2018#detail=87043,,,,Mon,Africa/Lagos
+06/08/2018,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=august.2018#detail=91246,52.0,,50.6,Mon,Africa/Lagos
+07/08/2018,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88257,0.5%,1.3%,1.1%,Tue,Africa/Lagos
+07/08/2018,00:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92304,-1.2%,-1.2%,-3.9%,Tue,Africa/Lagos
+07/08/2018,01:00,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92168,3.6%,1.7%,2.1%,Tue,Africa/Lagos
+07/08/2018,05:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=august.2018#detail=91105,,,,Tue,Africa/Lagos
+07/08/2018,,AUD,orange,Cash Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=91102,1.50%,1.50%,1.50%,Tue,Africa/Lagos
+07/08/2018,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=august.2018#detail=92047,105.2%,105.4%,106.9%,Tue,Africa/Lagos
+07/08/2018,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92751,-0.9%,-0.5%,2.4%,Tue,Africa/Lagos
+07/08/2018,,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=92754,19.3B,21.4B,20.4B,Tue,Africa/Lagos
+07/08/2018,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=85987,-6.2B,-5.6B,-6.0B,Tue,Africa/Lagos
+07/08/2018,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=august.2018#detail=90354,750B,,748B,Tue,Africa/Lagos
+07/08/2018,08:30,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=99535,1.4%,0.2%,0.9%,Tue,Africa/Lagos
+07/08/2018,15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=89705,61.8,64.2,63.1,Tue,Africa/Lagos
+07/08/2018,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=august.2018#detail=87152,6.66M,6.74M,6.66M,Tue,Africa/Lagos
+07/08/2018,15:01,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=august.2018#detail=87129,58.0,57.2,56.4,Tue,Africa/Lagos
+07/08/2018,15:15,NZD,orange,GDT Price Index,https://www.forexfactory.com/calendar?month=august.2018#detail=90982,0.0%,,-1.7%,Tue,Africa/Lagos
+07/08/2018,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89172,10.2B,16.2B,24.3B,Tue,Africa/Lagos
+07/08/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=august.2018#detail=99228,,,,Tue,Africa/Lagos
+08/08/2018,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=91947,2.0%,2.3%,2.2%,Wed,Africa/Lagos
+08/08/2018,,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=august.2018#detail=92414,,,,Wed,Africa/Lagos
+08/08/2018,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=august.2018#detail=91952,1.76T,1.84T,1.85T,Wed,Africa/Lagos
+08/08/2018,02:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91559,-1.1%,0.1%,1.0%,Wed,Africa/Lagos
+08/08/2018,04:00,NZD,red,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=90651,2.04%,,2.01%,Wed,Africa/Lagos
+08/08/2018,04:01,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99538,,,,Wed,Africa/Lagos
+08/08/2018,04:05,CNY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=90099,177B,229B,262B,Wed,Africa/Lagos
+08/08/2018,04:14,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=90103,28.1B,39.1B,41.6B,Wed,Africa/Lagos
+08/08/2018,06:02,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=91819,46.6,47.8,48.1,Wed,Africa/Lagos
+08/08/2018,10:36,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=88472,1.46|2.2,,1.43|2.3,Wed,Africa/Lagos
+08/08/2018,13:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93224,-2.3%,-0.1%,4.8%,Wed,Africa/Lagos
+08/08/2018,13:45,USD,orange,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99543,,,,Wed,Africa/Lagos
+08/08/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2018#detail=86369,-1.4M,-2.8M,3.8M,Wed,Africa/Lagos
+08/08/2018,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=87096,2.96|2.5,,2.86|2.6,Wed,Africa/Lagos
+08/08/2018,22:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=90688,1.75%,1.75%,1.75%,Wed,Africa/Lagos
+08/08/2018,,NZD,red,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=august.2018#detail=90690,,,,Wed,Africa/Lagos
+08/08/2018,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=august.2018#detail=90692,,,,Wed,Africa/Lagos
+08/08/2018,23:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=august.2018#detail=90694,,,,Wed,Africa/Lagos
+09/08/2018,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=88399,4%,4%,3%,Thu,Africa/Lagos
+09/08/2018,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92020,-8.8%,-1.2%,-3.7%,Thu,Africa/Lagos
+09/08/2018,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=91956,3.0%,3.1%,3.1%,Thu,Africa/Lagos
+09/08/2018,02:29,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90052,2.1%,2.0%,1.9%,Thu,Africa/Lagos
+09/08/2018,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90061,4.6%,4.4%,4.7%,Thu,Africa/Lagos
+09/08/2018,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=91699,0.85|4.7,,0.70|5.0,Thu,Africa/Lagos
+09/08/2018,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=90448,2.6%,2.6%,2.6%,Thu,Africa/Lagos
+09/08/2018,06:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=91871,13.0%,,11.4%,Thu,Africa/Lagos
+09/08/2018,09:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=august.2018#detail=88789,,,,Thu,Africa/Lagos
+09/08/2018,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=august.2018#detail=89801,206K,220K,246K,Thu,Africa/Lagos
+09/08/2018,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93226,0.1%,0.0%,0.0%,Thu,Africa/Lagos
+09/08/2018,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87427,0.0%,0.2%,0.3%,Thu,Africa/Lagos
+09/08/2018,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87424,0.1%,0.2%,0.3%,Thu,Africa/Lagos
+09/08/2018,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2018#detail=86385,213K,220K,219K,Thu,Africa/Lagos
+09/08/2018,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89477,0.1%,0.0%,0.0%,Thu,Africa/Lagos
+09/08/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2018#detail=86375,46B,49B,35B,Thu,Africa/Lagos
+09/08/2018,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=87098,3.09|2.3,,2.96|2.3,Thu,Africa/Lagos
+09/08/2018,23:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2018#detail=90641,51.2,,52.7,Thu,Africa/Lagos
+10/08/2018,00:50,JPY,orange,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=89113,0.5%,0.3%,-0.2%,Fri,Africa/Lagos
+10/08/2018,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92219,3.1%,2.9%,2.8%,Fri,Africa/Lagos
+10/08/2018,,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=89111,0.1%,0.0%,0.5%,Fri,Africa/Lagos
+10/08/2018,02:30,AUD,red,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=august.2018#detail=91055,,,,Fri,Africa/Lagos
+10/08/2018,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92146,-0.5%,-0.2%,0.2%,Fri,Africa/Lagos
+10/08/2018,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=86047,0.6%,0.5%,-0.2%,Fri,Africa/Lagos
+10/08/2018,,EUR,yellow,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=86022,0.2%,0.3%,0.2%,Fri,Africa/Lagos
+10/08/2018,09:03,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=85629,5.07B,3.41B,3.37B,Fri,Africa/Lagos
+10/08/2018,09:30,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=99478,0.1%,0.2%,0.3%,Fri,Africa/Lagos
+10/08/2018,,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87918,0.4%,0.3%,0.6%,Fri,Africa/Lagos
+10/08/2018,,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=88277,0.4%,0.4%,0.2%,Fri,Africa/Lagos
+10/08/2018,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=88507,-11.4B,-12.0B,-12.5B,Fri,Africa/Lagos
+10/08/2018,,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=88318,0.5%,0.3%,-0.4%,Fri,Africa/Lagos
+10/08/2018,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87956,1.4%,-0.2%,2.9%,Fri,Africa/Lagos
+10/08/2018,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=august.2018#detail=88303,0.5%,0.6%,0.4%,Fri,Africa/Lagos
+10/08/2018,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87916,0.4%,0.4%,-0.2%,Fri,Africa/Lagos
+10/08/2018,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=93229,54.1K,17.0K,31.8K,Fri,Africa/Lagos
+10/08/2018,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=93228,5.8%,5.9%,6.0%,Fri,Africa/Lagos
+10/08/2018,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87457,0.2%,0.2%,0.2%,Fri,Africa/Lagos
+10/08/2018,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87456,0.2%,0.2%,0.1%,Fri,Africa/Lagos
+10/08/2018,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=128609,2.9%,2.9%,2.9%,Fri,Africa/Lagos
+10/08/2018,14:06,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=august.2018#detail=87839,0.5%,,0.4%,Fri,Africa/Lagos
+10/08/2018,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=87058,-76.9B,-76.5B,-74.9B,Fri,Africa/Lagos
+12/08/2018,23:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=august.2018#detail=127196,55.1,,52.7,Sun,Africa/Lagos
+12/08/2018,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90833,0.7%,,0.5%,Sun,Africa/Lagos
+13/08/2018,12:26,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90141,8.5%,8.2%,8.0%,Mon,Africa/Lagos
+13/08/2018,12:27,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=august.2018#detail=90147,1450B,1210B,1840B,Mon,Africa/Lagos
+14/08/2018,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=91289,7,,6,Tue,Africa/Lagos
+14/08/2018,02:59,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90234,5.5%,6.0%,6.0%,Tue,Africa/Lagos
+14/08/2018,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90229,6.0%,6.3%,6.0%,Tue,Africa/Lagos
+14/08/2018,03:00,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90232,8.8%,9.2%,9.0%,Tue,Africa/Lagos
+14/08/2018,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=98771,5.1%,,4.8%,Tue,Africa/Lagos
+14/08/2018,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92096,-1.8%,-2.1%,-2.1%,Tue,Africa/Lagos
+14/08/2018,07:00,EUR,orange,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=92759,0.5%,0.4%,0.4%,Tue,Africa/Lagos
+14/08/2018,,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92757,0.3%,0.3%,0.3%,Tue,Africa/Lagos
+14/08/2018,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=86109,-0.1%,-0.1%,-0.1%,Tue,Africa/Lagos
+14/08/2018,08:15,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90488,0.1%,0.3%,0.2%,Tue,Africa/Lagos
+14/08/2018,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88010,2.4%,2.5%,2.5%,Tue,Africa/Lagos
+14/08/2018,,GBP,orange,Claimant Count Change,https://www.forexfactory.com/calendar?month=august.2018#detail=88014,6.2K,2.3K,9.0K,Tue,Africa/Lagos
+14/08/2018,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=88013,4.0%,4.2%,4.2%,Tue,Africa/Lagos
+14/08/2018,10:00,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=88691,0.4%,0.3%,0.3%,Tue,Africa/Lagos
+14/08/2018,,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=88905,-13.7,-20.1,-24.7,Tue,Africa/Lagos
+14/08/2018,,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88689,-0.7%,-0.3%,1.4%,Tue,Africa/Lagos
+14/08/2018,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=88898,-11.1,-16.4,-18.7,Tue,Africa/Lagos
+14/08/2018,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=august.2018#detail=87535,107.9,106.9,107.2,Tue,Africa/Lagos
+14/08/2018,13:30,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87390,0.0%,0.1%,-0.1%,Tue,Africa/Lagos
+14/08/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=august.2018#detail=99229,,,,Tue,Africa/Lagos
+15/08/2018,01:30,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=91177,-2.3%,,3.9%,Wed,Africa/Lagos
+15/08/2018,02:30,AUD,red,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=91644,0.6%,0.6%,0.5%,Wed,Africa/Lagos
+15/08/2018,,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=136753,1.21%,,1.11%,Wed,Africa/Lagos
+15/08/2018,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=93004,,,,Wed,Africa/Lagos
+15/08/2018,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=93005,,,,Wed,Africa/Lagos
+15/08/2018,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=87732,2.5%,2.5%,2.4%,Wed,Africa/Lagos
+15/08/2018,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87740,0.5%,0.1%,0.3%,Wed,Africa/Lagos
+15/08/2018,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=87735,3.2%,3.4%,3.4%,Wed,Africa/Lagos
+15/08/2018,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=87729,1.9%,1.9%,1.9%,Wed,Africa/Lagos
+15/08/2018,,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=87733,3.0%,2.7%,3.5%,Wed,Africa/Lagos
+15/08/2018,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87743,0.0%,0.1%,0.3%,Wed,Africa/Lagos
+15/08/2018,10:32,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=92909,0.94|1.6,,1.02|1.7,Wed,Africa/Lagos
+15/08/2018,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89283,0.6%,0.3%,0.2%,Wed,Africa/Lagos
+15/08/2018,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89280,0.5%,0.1%,0.2%,Wed,Africa/Lagos
+15/08/2018,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2018#detail=89551,25.6,20.1,22.6,Wed,Africa/Lagos
+15/08/2018,,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=87481,2.9%,2.4%,0.4%,Wed,Africa/Lagos
+15/08/2018,,USD,yellow,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=87484,-0.9%,-0.1%,2.9%,Wed,Africa/Lagos
+15/08/2018,14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=87364,78.1%,78.2%,78.1%,Wed,Africa/Lagos
+15/08/2018,,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87365,0.1%,0.3%,1.0%,Wed,Africa/Lagos
+15/08/2018,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89140,0.1%,0.2%,0.3%,Wed,Africa/Lagos
+15/08/2018,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=august.2018#detail=87554,67,67,68,Wed,Africa/Lagos
+15/08/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2018#detail=86372,6.8M,-2.6M,-1.4M,Wed,Africa/Lagos
+15/08/2018,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=august.2018#detail=89430,-36.5B,32.3B,45.5B,Wed,Africa/Lagos
+16/08/2018,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=91899,-0.05T,0.02T,0.08T,Thu,Africa/Lagos
+16/08/2018,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2018#detail=91148,4.0%,,3.9%,Thu,Africa/Lagos
+16/08/2018,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=91353,-3.9K,15.0K,58.2K,Thu,Africa/Lagos
+16/08/2018,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=91351,5.3%,5.4%,5.4%,Thu,Africa/Lagos
+16/08/2018,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88961,0.0%,0.5%,0.5%,Thu,Africa/Lagos
+16/08/2018,07:10,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90181,2.3%,,1.1%,Thu,Africa/Lagos
+16/08/2018,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87872,0.7%,0.2%,-0.5%,Thu,Africa/Lagos
+16/08/2018,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=88693,16.7B,17.0B,16.9B,Thu,Africa/Lagos
+16/08/2018,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93231,1.1%,1.0%,1.5%,Thu,Africa/Lagos
+16/08/2018,,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=89067,11.6K,,22.0K,Thu,Africa/Lagos
+16/08/2018,,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=august.2018#detail=87318,1.31M,1.31M,1.29M,Thu,Africa/Lagos
+16/08/2018,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=august.2018#detail=87316,1.17M,1.27M,1.16M,Thu,Africa/Lagos
+16/08/2018,,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2018#detail=89528,11.9,21.9,25.7,Thu,Africa/Lagos
+16/08/2018,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2018#detail=86380,212K,215K,214K,Thu,Africa/Lagos
+16/08/2018,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93448,-0.2%,,0.0%,Thu,Africa/Lagos
+16/08/2018,15:00,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=august.2018#detail=87163,4.36%,,4.63%,Thu,Africa/Lagos
+16/08/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2018#detail=86376,33B,30B,46B,Thu,Africa/Lagos
+16/08/2018,23:45,NZD,orange,PPI Input q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=90947,1.0%,0.2%,0.6%,Thu,Africa/Lagos
+16/08/2018,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=90945,0.9%,0.1%,0.2%,Thu,Africa/Lagos
+17/08/2018,00:34,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99546,,,,Fri,Africa/Lagos
+17/08/2018,08:30,AUD,orange,RBA Assist Gov Ellis Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99547,,,,Fri,Africa/Lagos
+17/08/2018,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=august.2018#detail=88860,23.5B,23.2B,24.4B,Fri,Africa/Lagos
+17/08/2018,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88699,2.1%,2.1%,2.1%,Fri,Africa/Lagos
+17/08/2018,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88696,1.1%,1.1%,1.1%,Fri,Africa/Lagos
+17/08/2018,13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93237,0.5%,0.1%,0.1%,Fri,Africa/Lagos
+17/08/2018,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=93234,1.9%,,1.9%,Fri,Africa/Lagos
+17/08/2018,,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=august.2018#detail=93232,11.55B,4.91B,3.01B,Fri,Africa/Lagos
+17/08/2018,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=93239,2.0%,,2.0%,Fri,Africa/Lagos
+17/08/2018,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=93241,2.1%,,2.0%,Fri,Africa/Lagos
+17/08/2018,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=99383,0.2%,,0.1%,Fri,Africa/Lagos
+17/08/2018,15:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=86594,95.3,98.1,97.9,Fri,Africa/Lagos
+17/08/2018,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90281,0.6%,0.4%,0.5%,Fri,Africa/Lagos
+17/08/2018,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2018#detail=86597,2.9%,,2.9%,Fri,Africa/Lagos
+20/08/2018,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88389,-2.3%,,-0.1%,Mon,Africa/Lagos
+20/08/2018,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92760,0.2%,0.4%,0.3%,Mon,Africa/Lagos
+20/08/2018,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=august.2018#detail=88938,,,,Mon,Africa/Lagos
+20/08/2018,14:15,CAD,orange,Gov Council Member Wilkins Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99548,,,,Mon,Africa/Lagos
+20/08/2018,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93473,0.2%,,0.0%,Mon,Africa/Lagos
+20/08/2018,16:00,USD,orange,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99561,,,,Mon,Africa/Lagos
+20/08/2018,17:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99557,,,,Mon,Africa/Lagos
+20/08/2018,23:00,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99554,,,,Mon,Africa/Lagos
+20/08/2018,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90798,0.6%,,-3.6%,Mon,Africa/Lagos
+21/08/2018,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2018#detail=91107,,,,Tue,Africa/Lagos
+21/08/2018,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=90849,3.2%,,5.8%,Tue,Africa/Lagos
+21/08/2018,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=90539,2.26B,2.85B,2.56B,Tue,Africa/Lagos
+21/08/2018,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=august.2018#detail=88347,-2.9B,-2.1B,3.3B,Tue,Africa/Lagos
+21/08/2018,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=august.2018#detail=88100,7,10,11,Tue,Africa/Lagos
+21/08/2018,13:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93242,-0.8%,0.7%,0.9%,Tue,Africa/Lagos
+21/08/2018,15:16,NZD,orange,GDT Price Index,https://www.forexfactory.com/calendar?month=august.2018#detail=90984,-3.6%,,0.0%,Tue,Africa/Lagos
+21/08/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=august.2018#detail=99232,,,,Tue,Africa/Lagos
+21/08/2018,23:45,NZD,red,Retail Sales q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=90894,1.1%,0.4%,0.3%,Tue,Africa/Lagos
+21/08/2018,,NZD,orange,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=90893,1.4%,0.8%,0.6%,Tue,Africa/Lagos
+22/08/2018,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91408,0.0%,,0.1%,Wed,Africa/Lagos
+22/08/2018,02:30,AUD,orange,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=91509,1.6%,0.7%,2.4%,Wed,Africa/Lagos
+22/08/2018,04:10,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99551,,,,Wed,Africa/Lagos
+22/08/2018,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91996,-0.8%,-0.7%,0.1%,Wed,Africa/Lagos
+22/08/2018,10:35,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=92934,0.33|1.2,,0.47|1.8,Wed,Africa/Lagos
+22/08/2018,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93243,-0.1%,-0.1%,1.4%,Wed,Africa/Lagos
+22/08/2018,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93244,-0.2%,-0.1%,2.0%,Wed,Africa/Lagos
+22/08/2018,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=august.2018#detail=89588,5.34M,5.40M,5.38M,Wed,Africa/Lagos
+22/08/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2018#detail=86373,-5.8M,-1.6M,6.8M,Wed,Africa/Lagos
+22/08/2018,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2018#detail=87023,,,,Wed,Africa/Lagos
+23/08/2018,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=91751,52.5,52.4,52.3,Thu,Africa/Lagos
+23/08/2018,08:15,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85822,53.7,53.5,53.3,Thu,Africa/Lagos
+23/08/2018,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85823,55.7,55.1,54.9,Thu,Africa/Lagos
+23/08/2018,08:30,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99558,,,,Thu,Africa/Lagos
+23/08/2018,,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85825,56.1,56.5,56.9,Thu,Africa/Lagos
+23/08/2018,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85828,55.2,54.3,54.1,Thu,Africa/Lagos
+23/08/2018,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85830,54.6,55.1,55.1,Thu,Africa/Lagos
+23/08/2018,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=85832,54.4,54.4,54.2,Thu,Africa/Lagos
+23/08/2018,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=august.2018#detail=88078,29,13,20,Thu,Africa/Lagos
+23/08/2018,12:30,EUR,orange,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=august.2018#detail=86172,,,,Thu,Africa/Lagos
+23/08/2018,13:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=93381,1.0%,,2.7%,Thu,Africa/Lagos
+23/08/2018,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2018#detail=86382,210K,215K,212K,Thu,Africa/Lagos
+23/08/2018,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90301,1.1%,,0.9%,Thu,Africa/Lagos
+23/08/2018,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=87205,0.2%,0.3%,0.4%,Thu,Africa/Lagos
+23/08/2018,14:45,USD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86781,54.5,55.1,55.3,Thu,Africa/Lagos
+23/08/2018,,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86778,55.2,55.9,56.0,Thu,Africa/Lagos
+23/08/2018,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=88832,-2,-1,-1,Thu,Africa/Lagos
+23/08/2018,,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=august.2018#detail=87320,627K,643K,638K,Thu,Africa/Lagos
+23/08/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2018#detail=86377,48B,47B,33B,Thu,Africa/Lagos
+23/08/2018,Day 1,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2018#detail=93482,,,,Thu,Africa/Lagos
+23/08/2018,23:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=90810,-143M,-400M,-288M,Thu,Africa/Lagos
+24/08/2018,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92335,0.8%,0.9%,0.8%,Fri,Africa/Lagos
+24/08/2018,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92209,1.1%,1.2%,1.1%,Fri,Africa/Lagos
+24/08/2018,07:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=92761,0.5%,0.5%,0.5%,Fri,Africa/Lagos
+24/08/2018,09:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=august.2018#detail=88442,39.6K,40.6K,40.3K,Fri,Africa/Lagos
+24/08/2018,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89236,0.2%,0.5%,0.2%,Fri,Africa/Lagos
+24/08/2018,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89233,-1.7%,-0.7%,0.8%,Fri,Africa/Lagos
+24/08/2018,13:59,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=august.2018#detail=93568,-0.3,-0.5,-1.3,Fri,Africa/Lagos
+24/08/2018,15:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99560,,,,Fri,Africa/Lagos
+24/08/2018,Day 2,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2018#detail=93484,,,,Fri,Africa/Lagos
+24/08/2018,17:55,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99563,,,,Fri,Africa/Lagos
+24/08/2018,21:15,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99566,,,,Fri,Africa/Lagos
+25/08/2018,Day 3,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2018#detail=93487,,,,Sat,Africa/Lagos
+25/08/2018,17:25,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99549,,,,Sat,Africa/Lagos
+27/08/2018,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2018#detail=89913,,,,Mon,Africa/Lagos
+27/08/2018,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=august.2018#detail=92860,103.8,101.9,101.7,Mon,Africa/Lagos
+27/08/2018,16:00,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99572,,,,Mon,Africa/Lagos
+28/08/2018,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92245,0.5%,0.3%,0.4%,Tue,Africa/Lagos
+28/08/2018,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=93606,4.0%,4.3%,4.5%,Tue,Africa/Lagos
+28/08/2018,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=93609,3.0%,3.0%,3.0%,Tue,Africa/Lagos
+28/08/2018,13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=august.2018#detail=89315,-72.2B,-68.6B,-67.9B,Tue,Africa/Lagos
+28/08/2018,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89456,0.7%,0.1%,0.1%,Tue,Africa/Lagos
+28/08/2018,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=87230,6.3%,6.4%,6.5%,Tue,Africa/Lagos
+28/08/2018,15:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=86909,133.4,126.6,127.9,Tue,Africa/Lagos
+28/08/2018,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2018#detail=89503,24,18,20,Tue,Africa/Lagos
+28/08/2018,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=august.2018#detail=99233,,,,Tue,Africa/Lagos
+29/08/2018,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88232,0.1%,,-0.3%,Wed,Africa/Lagos
+29/08/2018,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=91805,43.3,43.4,43.5,Wed,Africa/Lagos
+29/08/2018,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=august.2018#detail=92881,10.5,10.6,10.6,Wed,Africa/Lagos
+29/08/2018,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=86067,0.1%,0.3%,0.3%,Wed,Africa/Lagos
+29/08/2018,,EUR,yellow,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=86126,0.2%,0.2%,0.2%,Wed,Africa/Lagos
+29/08/2018,09:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=august.2018#detail=90424,-14.3,,-4.0,Wed,Africa/Lagos
+29/08/2018,13:30,CAD,orange,Current Account,https://www.forexfactory.com/calendar?month=august.2018#detail=93245,-15.9B,-15.3B,-17.5B,Wed,Africa/Lagos
+29/08/2018,,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=89647,4.2%,4.0%,4.1%,Wed,Africa/Lagos
+29/08/2018,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=89645,3.0%,3.0%,3.0%,Wed,Africa/Lagos
+29/08/2018,15:00,USD,yellow,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89590,-0.7%,0.3%,1.0%,Wed,Africa/Lagos
+29/08/2018,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2018#detail=86374,-2.6M,-0.7M,-5.8M,Wed,Africa/Lagos
+29/08/2018,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=90822,-10.3%,,-8.2%,Wed,Africa/Lagos
+30/08/2018,00:50,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92119,1.5%,1.3%,1.7%,Thu,Africa/Lagos
+30/08/2018,02:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=90618,-50.3,,-44.9,Thu,Africa/Lagos
+30/08/2018,02:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=august.2018#detail=91424,-2.5%,0.6%,1.2%,Thu,Africa/Lagos
+30/08/2018,,AUD,orange,Building Approvals m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91527,-5.2%,-2.2%,6.8%,Thu,Africa/Lagos
+30/08/2018,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92763,-0.2%,0.0%,0.5%,Thu,Africa/Lagos
+30/08/2018,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92768,0.1%,0.1%,0.3%,Thu,Africa/Lagos
+30/08/2018,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=august.2018#detail=90594,100.3,101.2,101.7,Thu,Africa/Lagos
+30/08/2018,,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=85444,2.2%,2.2%,2.2%,Thu,Africa/Lagos
+30/08/2018,08:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=august.2018#detail=92765,-8K,-8K,-6K,Thu,Africa/Lagos
+30/08/2018,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88195,0.9%,0.2%,-0.3%,Thu,Africa/Lagos
+30/08/2018,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=august.2018#detail=88197,65K,65K,65K,Thu,Africa/Lagos
+30/08/2018,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88194,4.0B,5.5B,5.4B,Thu,Africa/Lagos
+30/08/2018,10:23,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2018#detail=85554,3.25|1.4,,2.87|1.4,Thu,Africa/Lagos
+30/08/2018,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93246,0.0%,0.1%,0.5%,Thu,Africa/Lagos
+30/08/2018,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89388,0.2%,0.2%,0.1%,Thu,Africa/Lagos
+30/08/2018,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89393,0.4%,0.4%,0.4%,Thu,Africa/Lagos
+30/08/2018,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=89391,0.3%,0.3%,0.4%,Thu,Africa/Lagos
+30/08/2018,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2018#detail=86384,213K,214K,210K,Thu,Africa/Lagos
+30/08/2018,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2018#detail=86378,70B,58B,48B,Thu,Africa/Lagos
+30/08/2018,18:30,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=august.2018#detail=99568,,,,Thu,Africa/Lagos
+31/08/2018,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2018#detail=87818,-7,-10,-10,Fri,Africa/Lagos
+31/08/2018,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=92326,0.9%,0.8%,0.8%,Fri,Africa/Lagos
+31/08/2018,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=92315,2.5%,2.4%,2.4%,Fri,Africa/Lagos
+31/08/2018,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=92074,-0.1%,0.3%,-1.8%,Fri,Africa/Lagos
+31/08/2018,02:00,CNY,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=89997,51.3,51.0,51.2,Fri,Africa/Lagos
+31/08/2018,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=90005,54.2,53.8,54.0,Fri,Africa/Lagos
+31/08/2018,02:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91438,0.4%,0.3%,0.3%,Fri,Africa/Lagos
+31/08/2018,05:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=91580,-3.1%,,2.2%,Fri,Africa/Lagos
+31/08/2018,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=91847,-0.7%,-3.9%,-7.1%,Fri,Africa/Lagos
+31/08/2018,06:59,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88423,-0.5%,0.1%,0.7%,Fri,Africa/Lagos
+31/08/2018,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=88990,-0.4%,-0.1%,0.9%,Fri,Africa/Lagos
+31/08/2018,07:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=86105,0.5%,0.5%,-0.1%,Fri,Africa/Lagos
+31/08/2018,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=85552,10.4%,10.8%,10.8%,Fri,Africa/Lagos
+31/08/2018,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88705,1.0%,1.1%,1.1%,Fri,Africa/Lagos
+31/08/2018,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=august.2018#detail=88703,2.0%,2.1%,2.1%,Fri,Africa/Lagos
+31/08/2018,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=85633,0.5%,0.2%,0.3%,Fri,Africa/Lagos
+31/08/2018,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2018#detail=88701,8.2%,8.2%,8.2%,Fri,Africa/Lagos
+31/08/2018,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93250,0.7%,0.0%,0.6%,Fri,Africa/Lagos
+31/08/2018,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=august.2018#detail=93248,-0.2%,-0.3%,0.7%,Fri,Africa/Lagos
+31/08/2018,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=august.2018#detail=86907,63.6,63.0,65.5,Fri,Africa/Lagos
+31/08/2018,15:00,USD,yellow,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2018#detail=86590,96.2,95.5,95.3,Fri,Africa/Lagos
+31/08/2018,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2018#detail=86592,3.0%,,2.9%,Fri,Africa/Lagos

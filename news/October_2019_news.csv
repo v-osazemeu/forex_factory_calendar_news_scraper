@@ -1,430 +1,430 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/10/2019,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=107071,2.2%,2.3%,2.2%,Tue
-01/10/2019,00:50,JPY,yellow,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=107121,5,1,7,Tue
-01/10/2019,,JPY,yellow,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=107123,21,20,23,Tue
-01/10/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107483,,,,Tue
-01/10/2019,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=106996,48.9,49.3,48.9,Tue
-01/10/2019,02:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104301,-1.1%,2.1%,-9.7%,Tue
-01/10/2019,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=107106,-0.16|3.4,,-0.27|3.6,Tue
-01/10/2019,05:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=103935,0.75%,0.75%,1.00%,Tue
-01/10/2019,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=103936,,,,Tue
-01/10/2019,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105590,-0.2%,0.1%,0.0%,Tue
-01/10/2019,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=104248,1.8%,,6.3%,Tue
-01/10/2019,,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105131,-1.4%,1.6%,1.5%,Tue
-01/10/2019,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100365,47.7,48.2,48.8,Tue
-01/10/2019,,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110826,,,,Tue
-01/10/2019,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=104902,44.6,46.5,47.2,Tue
-01/10/2019,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100367,47.8,48.2,48.7,Tue
-01/10/2019,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100370,50.1,50.3,50.3,Tue
-01/10/2019,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100368,41.7,41.4,41.4,Tue
-01/10/2019,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100371,45.7,45.6,45.6,Tue
-01/10/2019,09:30,GBP,orange,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100364,48.3,47.0,47.4,Tue
-01/10/2019,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103315,0.9%,1.0%,1.0%,Tue
-01/10/2019,,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103312,1.0%,1.0%,0.9%,Tue
-01/10/2019,10:20,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110888,,,,Tue
-01/10/2019,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108780,0.0%,0.1%,0.2%,Tue
-01/10/2019,13:50,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110821,,,,Tue
-01/10/2019,14:15,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110827,,,,Tue
-01/10/2019,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=105390,51.0,,49.1,Tue
-01/10/2019,,USD,orange,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110822,,,,Tue
-01/10/2019,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100362,51.1,51.0,51.0,Tue
-01/10/2019,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=102159,47.8,50.4,49.1,Tue
-01/10/2019,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102715,0.1%,0.5%,0.0%,Tue
-01/10/2019,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=october.2019#detail=102190,49.7,50.5,46.0,Tue
-01/10/2019,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=october.2019#detail=110359,17.2M,17.0M,17.0M,Tue
-01/10/2019,15:51,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=october.2019#detail=104794,0.2%,,2.0%,Tue
-01/10/2019,18:30,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110876,,,,Tue
-01/10/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=october.2019#detail=100227,,,,Tue
-02/10/2019,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105678,-0.6%,,-0.4%,Wed
-02/10/2019,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107012,3.0%,3.1%,2.8%,Wed
-02/10/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107484,,,,Wed
-02/10/2019,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=107057,35.6,38.2,37.1,Wed
-02/10/2019,07:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105065,-0.1%,0.1%,0.0%,Wed
-02/10/2019,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=100758,13.9K,37.6K,54.4K,Wed
-02/10/2019,09:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=103590,43.3,45.0,45.0,Wed
-02/10/2019,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=102516,135K,140K,157K,Wed
-02/10/2019,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2019#detail=100061,3.1M,2.0M,2.4M,Wed
-02/10/2019,15:50,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110828,,,,Wed
-02/10/2019,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=october.2019#detail=103881,51.5,,51.4,Wed
-03/10/2019,01:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104759,0.0%,,0.3%,Thu
-03/10/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107486,,,,Thu
-03/10/2019,02:30,AUD,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=104201,5.93B,6.00B,7.25B,Thu
-03/10/2019,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107311,,,,Thu
-03/10/2019,07:45,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110829,,,,Thu
-03/10/2019,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100524,53.3,53.9,54.3,Thu
-03/10/2019,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100523,51.4,50.4,50.6,Thu
-03/10/2019,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100520,51.1,51.6,51.6,Thu
-03/10/2019,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100521,51.4,52.5,52.5,Thu
-03/10/2019,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100518,51.6,52.0,52.0,Thu
-03/10/2019,09:30,GBP,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100525,49.5,50.3,50.6,Thu
-03/10/2019,09:49,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=110999,0.12|1.4,,0.21|2.3,Thu
-03/10/2019,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=103318,-0.5%,-0.4%,0.1%,Thu
-03/10/2019,,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=103319,0.3%,0.3%,-0.5%,Thu
-03/10/2019,10:03,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=101021,-0.24|1.7,,-0.36|1.6,Thu
-03/10/2019,11:30,GBP,orange,Prime Minister Johnson Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111000,,,,Thu
-03/10/2019,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=102491,-24.8%,,39.0%,Thu
-03/10/2019,13:30,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110823,,,,Thu
-03/10/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2019#detail=99804,219K,215K,215K,Thu
-03/10/2019,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100527,50.9,50.9,50.9,Thu
-03/10/2019,15:00,GBP,orange,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110861,,,,Thu
-03/10/2019,,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=105766,52.6,55.1,56.4,Thu
-03/10/2019,,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102808,-0.1%,-0.5%,1.4%,Thu
-03/10/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2019#detail=99814,112B,106B,102B,Thu
-03/10/2019,23:35,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110824,,,,Thu
-04/10/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107488,,,,Fri
-04/10/2019,02:13,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104348,7.3%,,-7.2%,Fri
-04/10/2019,02:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104172,0.4%,0.5%,0.0%,Fri
-04/10/2019,,AUD,orange,RBA Financial Stability Review,https://www.forexfactory.com/calendar?month=october.2019#detail=103982,,,,Fri
-04/10/2019,03:00,AUD,orange,RBA Assist Gov Ellis Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110890,,,,Fri
-04/10/2019,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=101063,-123.1B,,-109.7B,Fri
-04/10/2019,09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=105569,-6.9B,-6.5B,-7.0B,Fri
-04/10/2019,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=108782,-1.0B,-1.1B,-1.4B,Fri
-04/10/2019,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102356,0.0%,0.3%,0.4%,Fri
-04/10/2019,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=102358,136K,145K,168K,Fri
-04/10/2019,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=102360,3.5%,3.7%,3.7%,Fri
-04/10/2019,,USD,orange,FOMC Member Rosengren Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110853,,,,Fri
-04/10/2019,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=102600,-54.9B,-54.7B,-54.0B,Fri
-04/10/2019,15:00,CAD,yellow,Ivey PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=105365,48.7,62.6,60.6,Fri
-04/10/2019,19:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110825,,,,Fri
-04/10/2019,19:10,USD,yellow,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110997,,,,Fri
-04/10/2019,20:45,USD,yellow,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110839,,,,Fri
-04/10/2019,21:00,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110996,,,,Fri
-05/10/2019,17:00,AUD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2019#detail=103785,,,,Sat
-06/10/2019,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=october.2019#detail=103882,42.6,,44.6,Sun
-06/10/2019,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107218,,,,Sun
-06/10/2019,23:45,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111005,,,,Sun
-07/10/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107489,,,,Mon
-07/10/2019,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=october.2019#detail=107788,91.7%,91.8%,93.7%,Mon
-07/10/2019,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106444,-0.6%,-0.4%,-2.1%,Mon
-07/10/2019,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=october.2019#detail=104935,777B,,767B,Mon
-07/10/2019,08:30,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105532,-0.4%,0.4%,0.2%,Mon
-07/10/2019,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=103096,-16.8,-12.9,-11.1,Mon
-07/10/2019,11:40,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105680,-1.7%,-0.8%,-0.5%,Mon
-07/10/2019,18:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111010,,,,Mon
-07/10/2019,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102691,17.9B,14.9B,23.0B,Mon
-08/10/2019,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107167,-0.2%,-0.2%,-1.0%,Tue
-08/10/2019,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107774,1.0%,0.9%,0.8%,Tue
-08/10/2019,00:53,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=october.2019#detail=107763,1.72T,1.68T,1.65T,Tue
-08/10/2019,01:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=103817,0,,1,Tue
-08/10/2019,,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104060,0.3%,,-2.6%,Tue
-08/10/2019,02:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=108058,51.3,52.1,52.1,Tue
-08/10/2019,05:10,GBP,yellow,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111001,,,,Tue
-08/10/2019,06:02,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=107045,46.7,43.4,42.8,Tue
-08/10/2019,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=105031,2.3%,2.1%,2.3%,Tue
-08/10/2019,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106445,0.3%,-0.2%,-0.4%,Tue
-08/10/2019,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=101062,-5.0B,-4.2B,-4.5B,Tue
-08/10/2019,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=100950,-0.6%,-0.1%,-0.6%,Tue
-08/10/2019,09:20,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111003,,,,Tue
-08/10/2019,10:30,GBP,orange,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111004,,,,Tue
-08/10/2019,10:57,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=october.2019#detail=102213,101.8,102.6,103.1,Tue
-08/10/2019,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=october.2019#detail=105457,221K,217K,227K,Tue
-08/10/2019,13:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108784,6.1%,2.3%,3.2%,Tue
-08/10/2019,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102364,-0.3%,0.2%,0.3%,Tue
-08/10/2019,,USD,orange,PPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102367,-0.3%,0.1%,0.1%,Tue
-08/10/2019,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=october.2019#detail=102007,52.6,51.2,50.8,Tue
-08/10/2019,18:35,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111007,,,,Tue
-08/10/2019,19:30,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111006,,,,Tue
-08/10/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=october.2019#detail=100228,,,,Tue
-09/10/2019,00:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=104039,-5.5%,,-1.7%,Wed
-09/10/2019,06:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107824,-35.5%,,-37.0%,Wed
-09/10/2019,09:30,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=october.2019#detail=103723,,,,Wed
-09/10/2019,,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=103714,,,,Wed
-09/10/2019,All Day,EUR,red,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=october.2019#detail=109057,,,,Wed
-09/10/2019,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=103050,0.2%,0.4%,0.4%,Wed
-09/10/2019,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=october.2019#detail=110998,7.05M,7.35M,7.17M,Wed
-09/10/2019,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2019#detail=100083,2.9M,1.8M,3.1M,Wed
-09/10/2019,16:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111008,,,,Wed
-09/10/2019,,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111009,,,,Wed
-09/10/2019,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=102109,1.59|2.4,,1.74|2.5,Wed
-09/10/2019,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=october.2019#detail=101965,,,,Wed
-09/10/2019,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104742,0.0%,,0.7%,Wed
-10/10/2019,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=105644,-2%,-7%,-4%,Thu
-10/10/2019,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107737,2.0%,2.1%,2.1%,Thu
-10/10/2019,,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=107751,-2.4%,0.0%,-6.6%,Thu
-10/10/2019,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107403,-1.1%,-1.1%,-0.9%,Thu
-10/10/2019,01:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104326,1.8%,3.6%,5.5%,Thu
-10/10/2019,01:38,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=october.2019#detail=104010,3.6%,,3.1%,Thu
-10/10/2019,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=107108,0.38|3.9,,0.14|3.5,Thu
-10/10/2019,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=106448,18.1B,19.4B,20.5B,Thu
-10/10/2019,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101115,-0.9%,0.2%,0.3%,Thu
-10/10/2019,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=100897,0.3%,0.2%,-0.8%,Thu
-10/10/2019,09:30,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106137,-0.1%,0.0%,0.4%,Thu
-10/10/2019,,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106143,-0.7%,0.1%,0.4%,Thu
-10/10/2019,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106145,0.2%,-0.4%,1.8%,Thu
-10/10/2019,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=106138,-9.8B,-10.0B,-9.6B,Thu
-10/10/2019,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=october.2019#detail=106141,0.4%,0.2%,0.3%,Thu
-10/10/2019,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106142,-0.6%,0.0%,0.1%,Thu
-10/10/2019,10:20,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111002,,,,Thu
-10/10/2019,12:30,EUR,red,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=october.2019#detail=103424,,,,Thu
-10/10/2019,12:56,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=october.2019#detail=105709,0.5%,,0.3%,Thu
-10/10/2019,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108785,0.1%,0.0%,-0.1%,Thu
-10/10/2019,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102361,0.1%,0.2%,0.3%,Thu
-10/10/2019,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102363,0.0%,0.1%,0.1%,Thu
-10/10/2019,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=128623,1.7%,1.8%,1.7%,Thu
-10/10/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2019#detail=99807,210K,215K,220K,Thu
-10/10/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2019#detail=99817,98B,95B,112B,Thu
-10/10/2019,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=102130,2.17|2.2,,2.27|2.2,Thu
-10/10/2019,22:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=104476,48.4,,48.4,Thu
-11/10/2019,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107022,2.4%,2.4%,2.4%,Fri
-11/10/2019,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106451,0.0%,0.0%,0.0%,Fri
-11/10/2019,All Day,EUR,red,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=october.2019#detail=109075,,,,Fri
-11/10/2019,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=108786,53.7K,11.2K,81.1K,Fri
-11/10/2019,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=108787,5.5%,5.7%,5.7%,Fri
-11/10/2019,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102370,0.2%,-0.1%,-0.2%,Fri
-11/10/2019,15:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=101692,96.0,92.0,93.2,Fri
-11/10/2019,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=october.2019#detail=101695,2.5%,,2.8%,Fri
-11/10/2019,18:15,USD,orange,FOMC Member Rosengren Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111011,,,,Fri
-13/10/2019,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=october.2019#detail=127210,54.4,,54.6,Sun
-14/10/2019,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107250,,,,Mon
-14/10/2019,03:55,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=108154,39.7B,35.1B,34.8B,Mon
-14/10/2019,03:58,CNY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=108153,275B,254B,240B,Mon
-14/10/2019,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106454,-0.4%,-0.2%,-0.8%,Mon
-14/10/2019,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=103321,0.4%,0.3%,-0.4%,Mon
-14/10/2019,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=106914,,,,Mon
-14/10/2019,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=106517,,,,Mon
-14/10/2019,13:10,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111291,,,,Mon
-14/10/2019,21:00,USD,yellow,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=103776,4.0,1.1,2.0,Mon
-14/10/2019,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104696,1.4%,,1.4%,Mon
-15/10/2019,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=october.2019#detail=103966,,,,Tue
-15/10/2019,,JPY,orange,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111290,,,,Tue
-15/10/2019,02:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108066,3.0%,2.9%,2.8%,Tue
-15/10/2019,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108067,-1.2%,-1.2%,-0.8%,Tue
-15/10/2019,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=107868,0.4%,0.6%,0.1%,Tue
-15/10/2019,05:32,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=107855,-1.2%,-1.2%,-1.2%,Tue
-15/10/2019,07:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105073,-0.3%,-0.1%,-0.2%,Tue
-15/10/2019,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101195,-0.3%,-0.3%,-0.3%,Tue
-15/10/2019,09:25,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111306,,,,Tue
-15/10/2019,09:30,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111292,,,,Tue
-15/10/2019,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=october.2019#detail=106011,3.8%,4.0%,3.9%,Tue
-15/10/2019,,GBP,yellow,Claimant Count Change,https://www.forexfactory.com/calendar?month=october.2019#detail=106016,21.1K,21.3K,16.3K,Tue
-15/10/2019,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=106013,3.9%,3.8%,3.8%,Tue
-15/10/2019,09:31,CNY,red,New Loans,https://www.forexfactory.com/calendar?month=october.2019#detail=108060,1690B,1350B,1210B,Tue
-15/10/2019,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108062,8.4%,8.3%,8.2%,Tue
-15/10/2019,10:00,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=101581,-22.8,-27.0,-22.5,Tue
-15/10/2019,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=101583,-23.5,-26.7,-22.4,Tue
-15/10/2019,10:35,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=103523,0.63|1.9,,0.55|1.9,Tue
-15/10/2019,13:30,GBP,orange,MPC Member Vlieghe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111293,,,,Tue
-15/10/2019,15:37,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=october.2019#detail=104796,0.5%,,0.2%,Tue
-15/10/2019,17:45,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111307,,,,Tue
-15/10/2019,22:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=104719,0.7%,0.6%,0.6%,Tue
-16/10/2019,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104145,-0.1%,,-0.2%,Wed
-16/10/2019,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105920,1.7%,1.8%,1.7%,Wed
-16/10/2019,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105925,-0.8%,0.2%,-0.3%,Wed
-16/10/2019,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105921,1.7%,1.7%,1.5%,Wed
-16/10/2019,,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105930,1.3%,0.9%,0.8%,Wed
-16/10/2019,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105927,-0.1%,0.0%,-0.1%,Wed
-16/10/2019,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105922,2.4%,2.7%,2.6%,Wed
-16/10/2019,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103322,1.0%,1.0%,1.0%,Wed
-16/10/2019,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103325,0.8%,0.9%,0.9%,Wed
-16/10/2019,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=103326,20.3B,18.6B,17.5B,Wed
-16/10/2019,10:33,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=101454,0.07|1.3,,0.05|1.2,Wed
-16/10/2019,13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108792,-0.4%,-0.3%,-0.1%,Wed
-16/10/2019,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108790,1.9%,1.8%,1.8%,Wed
-16/10/2019,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108794,2.2%,2.1%,2.1%,Wed
-16/10/2019,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108793,2.1%,2.1%,2.0%,Wed
-16/10/2019,,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=october.2019#detail=108788,4.99B,-1.80B,-1.87B,Wed
-16/10/2019,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102669,-0.1%,0.2%,0.2%,Wed
-16/10/2019,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102668,-0.3%,0.3%,0.6%,Wed
-16/10/2019,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108791,0.0%,,-0.1%,Wed
-16/10/2019,14:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111294,,,,Wed
-16/10/2019,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102738,0.0%,0.3%,0.3%,Wed
-16/10/2019,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=october.2019#detail=106565,71,68,68,Wed
-16/10/2019,15:45,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111302,,,,Wed
-16/10/2019,18:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111295,,,,Wed
-16/10/2019,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=october.2019#detail=101727,,,,Wed
-16/10/2019,20:00,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111299,,,,Wed
-16/10/2019,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=october.2019#detail=102986,-41.1B,74.3B,83.8B,Wed
-16/10/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=october.2019#detail=100229,,,,Wed
-16/10/2019,23:15,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111297,,,,Wed
-16/10/2019,23:30,GBP,orange,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111296,,,,Wed
-17/10/2019,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=104105,14.7K,15.3K,37.9K,Thu
-17/10/2019,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=104107,5.2%,5.3%,5.3%,Thu
-17/10/2019,,AUD,yellow,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=103796,-2,,5,Thu
-17/10/2019,05:30,AUD,yellow,RBA Annual Report,https://www.forexfactory.com/calendar?month=october.2019#detail=103904,,,,Thu
-17/10/2019,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=105108,4.02B,2.47B,1.72B,Thu
-17/10/2019,08:11,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108064,6.5%,,6.9%,Thu
-17/10/2019,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=100924,2.59B,6.21B,7.62B,Thu
-17/10/2019,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106245,0.0%,-0.1%,-0.3%,Thu
-17/10/2019,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=october.2019#detail=103603,,,,Thu
-17/10/2019,09:56,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=111298,0.25|2.5,,0.12|1.4,Thu
-17/10/2019,Day 1,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=october.2019#detail=111678,,,,Thu
-17/10/2019,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108795,0.8%,0.7%,-1.3%,Thu
-17/10/2019,,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=105432,28.2K,,109.9K,Thu
-17/10/2019,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=106580,5.6,7.3,12.0,Thu
-17/10/2019,,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=october.2019#detail=102906,1.39M,1.34M,1.43M,Thu
-17/10/2019,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=october.2019#detail=102908,1.26M,1.32M,1.39M,Thu
-17/10/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2019#detail=99810,214K,212K,210K,Thu
-17/10/2019,14:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102083,-0.4%,-0.1%,0.8%,Thu
-17/10/2019,,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=102080,77.5%,77.7%,77.9%,Thu
-17/10/2019,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=109515,-0.5%,,-0.2%,Thu
-17/10/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2019#detail=99819,104B,100B,98B,Thu
-17/10/2019,16:00,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2019#detail=100085,9.3M,2.7M,2.9M,Thu
-17/10/2019,19:00,USD,orange,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111300,,,,Thu
-17/10/2019,,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111303,,,,Thu
-17/10/2019,21:00,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111682,,,,Thu
-17/10/2019,21:20,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111304,,,,Thu
-18/10/2019,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107193,0.3%,0.3%,0.5%,Fri
-18/10/2019,03:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=october.2019#detail=101816,6.0%,6.1%,6.2%,Fri
-18/10/2019,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108068,5.4%,5.5%,5.5%,Fri
-18/10/2019,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108069,5.8%,5.0%,4.4%,Fri
-18/10/2019,,CNY,yellow,NBS Press Conference,https://www.forexfactory.com/calendar?month=october.2019#detail=108125,,,,Fri
-18/10/2019,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108070,7.8%,7.8%,7.5%,Fri
-18/10/2019,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=108071,5.2%,,5.2%,Fri
-18/10/2019,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=october.2019#detail=103499,26.6B,21.3B,21.6B,Fri
-18/10/2019,Day 2,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=october.2019#detail=111680,,,,Fri
-18/10/2019,15:00,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111305,,,,Fri
-18/10/2019,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106941,-0.1%,0.1%,-0.2%,Fri
-18/10/2019,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=october.2019#detail=107659,,,,Fri
-18/10/2019,16:30,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111301,,,,Fri
-18/10/2019,18:45,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111686,,,,Fri
-18/10/2019,19:25,CAD,orange,Gov Council Member Lane Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111581,,,,Fri
-18/10/2019,22:15,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111685,,,,Fri
-19/10/2019,14:50,GBP,red,Parliament Brexit Vote,https://www.forexfactory.com/calendar?month=october.2019#detail=111687,Pass,,,Sat
-19/10/2019,Day 2,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=october.2019#detail=107661,,,,Sat
-20/10/2019,Day 3,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=october.2019#detail=107662,,,,Sun
-21/10/2019,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105615,0.6%,,-0.2%,Mon
-21/10/2019,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=107880,-0.10T,-0.17T,-0.12T,Mon
-21/10/2019,02:30,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=134359,4.20%,4.15%,4.20%,Mon
-21/10/2019,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=134307,4.85%,4.85%,4.85%,Mon
-21/10/2019,,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=136767,0.53%,,0.58%,Mon
-21/10/2019,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=104731,4.8%,,6.0%,Mon
-21/10/2019,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=107728,0.0%,0.1%,0.2%,Mon
-21/10/2019,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106457,0.1%,-0.1%,-0.5%,Mon
-21/10/2019,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=october.2019#detail=101504,,,,Mon
-21/10/2019,All Day,CAD,orange,Federal Election,https://www.forexfactory.com/calendar?month=october.2019#detail=105440,,,,Mon
-21/10/2019,16:00,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111684,,,,Mon
-22/10/2019,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=111690,,,,Tue
-22/10/2019,09:30,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=october.2019#detail=106226,8.7B,8.9B,4.9B,Tue
-22/10/2019,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=october.2019#detail=103549,-37,-25,-28,Tue
-22/10/2019,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108798,-0.2%,0.0%,0.0%,Tue
-22/10/2019,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108797,-0.1%,0.4%,0.6%,Tue
-22/10/2019,15:00,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=october.2019#detail=106897,5.38M,5.45M,5.50M,Tue
-22/10/2019,15:05,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=106833,8,-7,-9,Tue
-22/10/2019,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=109308,0.2%,,-0.3%,Tue
-22/10/2019,,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=october.2019#detail=105414,,,,Tue
-22/10/2019,19:16,GBP,red,Parliament Brexit Vote,https://www.forexfactory.com/calendar?month=october.2019#detail=111689,Pass,,,Tue
-22/10/2019,19:32,GBP,red,Parliament Brexit Vote,https://www.forexfactory.com/calendar?month=october.2019#detail=111691,Reject,,,Tue
-22/10/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=october.2019#detail=100230,,,,Tue
-22/10/2019,22:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=104658,-1242M,-1375M,-1628M,Tue
-22/10/2019,23:20,AUD,orange,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111683,,,,Tue
-23/10/2019,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=106794,0.3%,0.3%,0.4%,Wed
-23/10/2019,10:34,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=111681,-0.41|2.3,,-0.61|2.4,Wed
-23/10/2019,13:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108800,-1.2%,0.3%,1.4%,Wed
-23/10/2019,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102959,0.2%,0.4%,0.4%,Wed
-23/10/2019,14:15,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=111308,-8,-7,-7,Wed
-23/10/2019,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2019#detail=100087,-1.7M,2.5M,9.3M,Wed
-23/10/2019,23:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=108928,50.1,,50.3,Wed
-23/10/2019,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=108931,50.8,,52.5,Wed
-24/10/2019,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=106998,48.5,49.2,48.9,Thu
-24/10/2019,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=100778,13.9%,13.8%,14.0%,Thu
-24/10/2019,08:15,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101321,52.9,51.6,51.1,Thu
-24/10/2019,,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101318,50.5,50.0,50.1,Thu
-24/10/2019,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101324,41.9,42.0,41.7,Thu
-24/10/2019,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101325,51.2,52.0,51.4,Thu
-24/10/2019,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101315,45.7,46.1,45.7,Thu
-24/10/2019,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101316,51.8,51.9,51.6,Thu
-24/10/2019,09:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=october.2019#detail=105557,42.3K,42.2K,42.5K,Thu
-24/10/2019,12:45,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=109198,,,,Thu
-24/10/2019,,EUR,orange,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=103393,0.00%,0.00%,0.00%,Thu
-24/10/2019,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=october.2019#detail=103394,,,,Thu
-24/10/2019,,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102781,-0.3%,-0.2%,0.3%,Thu
-24/10/2019,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102780,-1.1%,-0.5%,0.3%,Thu
-24/10/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2019#detail=99812,212K,216K,218K,Thu
-24/10/2019,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108174,1.1%,,1.1%,Thu
-24/10/2019,,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=october.2019#detail=104875,-4.6,-6.0,-5.7,Thu
-24/10/2019,14:45,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101389,51.5,50.7,51.1,Thu
-24/10/2019,,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101391,51.0,51.0,50.9,Thu
-24/10/2019,15:00,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=october.2019#detail=102935,701K,710K,706K,Thu
-24/10/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2019#detail=99822,87B,87B,104B,Thu
-25/10/2019,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=october.2019#detail=101532,9.6,9.8,9.8,Fri
-25/10/2019,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=october.2019#detail=101478,94.6,94.5,94.6,Fri
-25/10/2019,15:00,USD,yellow,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=101696,95.5,96.0,96.0,Fri
-25/10/2019,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=october.2019#detail=101699,2.5%,,2.5%,Fri
-25/10/2019,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=101753,82.8B,83.5B,-200.3B,Fri
-27/10/2019,03:00,CHF,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2019#detail=99642,,,,Sun
-27/10/2019,,EUR,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2019#detail=99645,,,,Sun
-27/10/2019,,GBP,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2019#detail=99644,,,,Sun
-27/10/2019,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107207,,,,Sun
-28/10/2019,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107435,0.5%,0.5%,0.5%,Mon
-28/10/2019,08:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106460,0.6%,0.1%,-0.6%,Mon
-28/10/2019,10:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103469,5.5%,5.7%,5.8%,Mon
-28/10/2019,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103476,3.4%,3.4%,3.4%,Mon
-28/10/2019,12:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=october.2019#detail=103570,-10,-20,-16,Mon
-28/10/2019,13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=106862,-70.4B,-73.5B,-73.1B,Mon
-28/10/2019,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106864,-0.3%,0.3%,0.2%,Mon
-28/10/2019,16:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111699,,,,Mon
-28/10/2019,18:00,GBP,yellow,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111696,,,,Mon
-28/10/2019,20:00,GBP,red,Parliament Brexit Vote,https://www.forexfactory.com/calendar?month=october.2019#detail=111698,Reject,,,Mon
-29/10/2019,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107417,0.5%,0.7%,0.5%,Tue
-29/10/2019,07:45,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111694,,,,Tue
-29/10/2019,07:58,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105591,0.2%,0.0%,-0.2%,Tue
-29/10/2019,10:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101886,0.7%,0.3%,0.4%,Tue
-29/10/2019,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=october.2019#detail=101889,66K,65K,66K,Tue
-29/10/2019,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101890,4.6B,4.6B,4.6B,Tue
-29/10/2019,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=102042,2.0%,2.1%,2.0%,Tue
-29/10/2019,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=101985,125.9,128.2,126.3,Tue
-29/10/2019,,USD,yellow,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106898,1.5%,0.9%,1.4%,Tue
-29/10/2019,21:23,GBP,red,Parliament Brexit Vote,https://www.forexfactory.com/calendar?month=october.2019#detail=111700,Pass,Pass,,Tue
-29/10/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=october.2019#detail=100231,,,,Tue
-30/10/2019,00:50,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107838,9.1%,6.0%,1.8%,Wed
-30/10/2019,01:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105682,-0.4%,,-0.6%,Wed
-30/10/2019,01:21,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104350,5.7%,,7.3%,Wed
-30/10/2019,01:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=104392,0.5%,0.5%,0.6%,Wed
-30/10/2019,,AUD,red,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=104394,0.4%,0.4%,0.4%,Wed
-30/10/2019,07:30,EUR,yellow,French Flash GDP q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=101128,0.3%,0.2%,0.3%,Wed
-30/10/2019,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106461,0.1%,0.0%,0.0%,Wed
-30/10/2019,08:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101095,-0.4%,0.0%,0.1%,Wed
-30/10/2019,09:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=october.2019#detail=105153,94.7,93.5,93.1,Wed
-30/10/2019,,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=100807,0.1%,0.1%,0.1%,Wed
-30/10/2019,09:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=101613,6K,2K,-9K,Wed
-30/10/2019,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=october.2019#detail=104997,-30.5,,-15.4,Wed
-30/10/2019,11:21,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=100832,1.06|1.3,,0.88|1.4,Wed
-30/10/2019,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=102523,125K,125K,93K,Wed
-30/10/2019,13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=102854,1.9%,1.6%,2.0%,Wed
-30/10/2019,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=102853,1.7%,1.8%,2.4%,Wed
-30/10/2019,15:00,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=october.2019#detail=105495,,,,Wed
-30/10/2019,,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=105501,,,,Wed
-30/10/2019,,CAD,orange,Overnight Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=105499,1.75%,1.75%,1.75%,Wed
-30/10/2019,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2019#detail=100090,5.7M,0.5M,-1.7M,Wed
-30/10/2019,16:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=october.2019#detail=105498,,,,Wed
-30/10/2019,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=101939,1.75%,1.75%,2.00%,Wed
-30/10/2019,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=101942,,,,Wed
-30/10/2019,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=october.2019#detail=108987,,,,Wed
-30/10/2019,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104706,7.2%,,0.9%,Wed
-31/10/2019,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=107805,1.4%,0.4%,-1.2%,Thu
-31/10/2019,01:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=104453,-42.4,,-53.5,Thu
-31/10/2019,01:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=103751,-14,-13,-12,Thu
-31/10/2019,01:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104302,7.6%,0.1%,-0.6%,Thu
-31/10/2019,,AUD,yellow,Import Prices q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=104370,0.4%,0.5%,0.9%,Thu
-31/10/2019,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104223,0.2%,0.3%,0.2%,Thu
-31/10/2019,02:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=108072,49.3,49.9,49.8,Thu
-31/10/2019,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=108073,52.8,53.7,53.7,Thu
-31/10/2019,04:32,JPY,red,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=october.2019#detail=106599,,,,Thu
-31/10/2019,,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=106622,,,,Thu
-31/10/2019,,JPY,yellow,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=106621,-0.10%,-0.10%,-0.10%,Thu
-31/10/2019,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=107059,36.2,35.3,35.6,Thu
-31/10/2019,06:02,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107133,-4.9%,-6.6%,-7.1%,Thu
-31/10/2019,07:30,JPY,orange,BOJ Press Conference,https://www.forexfactory.com/calendar?month=october.2019#detail=106634,,,,Thu
-31/10/2019,08:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106464,0.1%,0.3%,-0.1%,Thu
-31/10/2019,08:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101188,-0.1%,0.1%,-0.3%,Thu
-31/10/2019,09:00,EUR,orange,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=100789,0.4%,0.4%,0.4%,Thu
-31/10/2019,10:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=100857,9.9%,9.6%,9.6%,Thu
-31/10/2019,11:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103332,0.7%,0.7%,0.8%,Thu
-31/10/2019,,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103331,1.1%,1.0%,1.0%,Thu
-31/10/2019,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=100979,0.0%,-0.1%,-0.6%,Thu
-31/10/2019,,EUR,yellow,Prelim Flash GDP q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=103334,0.2%,0.1%,0.2%,Thu
-31/10/2019,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=103337,7.5%,7.4%,7.5%,Thu
-31/10/2019,12:00,EUR,yellow,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=100992,0.1%,0.0%,0.1%,Thu
-31/10/2019,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=102518,-33.5%,,-24.8%,Thu
-31/10/2019,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108802,0.1%,0.2%,0.0%,Thu
-31/10/2019,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108804,0.0%,2.5%,-1.8%,Thu
-31/10/2019,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108808,-0.1%,0.2%,0.2%,Thu
-31/10/2019,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102607,0.0%,0.1%,0.1%,Thu
-31/10/2019,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=102409,0.7%,0.7%,0.6%,Thu
-31/10/2019,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102606,0.2%,0.3%,0.2%,Thu
-31/10/2019,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102603,0.3%,0.3%,0.5%,Thu
-31/10/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2019#detail=99813,218K,215K,213K,Thu
-31/10/2019,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=106817,43.2,48.4,47.1,Thu
-31/10/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2019#detail=99825,89B,47B,87B,Thu
-31/10/2019,16:30,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111695,,,,Thu
-31/10/2019,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=103883,51.6,,54.7,Thu
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/10/2019,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=107071,2.2%,2.3%,2.2%,Tue,Africa/Lagos
+01/10/2019,00:50,JPY,yellow,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=107121,5,1,7,Tue,Africa/Lagos
+01/10/2019,,JPY,yellow,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=107123,21,20,23,Tue,Africa/Lagos
+01/10/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107483,,,,Tue,Africa/Lagos
+01/10/2019,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=106996,48.9,49.3,48.9,Tue,Africa/Lagos
+01/10/2019,02:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104301,-1.1%,2.1%,-9.7%,Tue,Africa/Lagos
+01/10/2019,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=107106,-0.16|3.4,,-0.27|3.6,Tue,Africa/Lagos
+01/10/2019,05:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=103935,0.75%,0.75%,1.00%,Tue,Africa/Lagos
+01/10/2019,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=103936,,,,Tue,Africa/Lagos
+01/10/2019,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105590,-0.2%,0.1%,0.0%,Tue,Africa/Lagos
+01/10/2019,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=104248,1.8%,,6.3%,Tue,Africa/Lagos
+01/10/2019,,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105131,-1.4%,1.6%,1.5%,Tue,Africa/Lagos
+01/10/2019,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100365,47.7,48.2,48.8,Tue,Africa/Lagos
+01/10/2019,,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110826,,,,Tue,Africa/Lagos
+01/10/2019,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=104902,44.6,46.5,47.2,Tue,Africa/Lagos
+01/10/2019,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100367,47.8,48.2,48.7,Tue,Africa/Lagos
+01/10/2019,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100370,50.1,50.3,50.3,Tue,Africa/Lagos
+01/10/2019,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100368,41.7,41.4,41.4,Tue,Africa/Lagos
+01/10/2019,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100371,45.7,45.6,45.6,Tue,Africa/Lagos
+01/10/2019,09:30,GBP,orange,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100364,48.3,47.0,47.4,Tue,Africa/Lagos
+01/10/2019,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103315,0.9%,1.0%,1.0%,Tue,Africa/Lagos
+01/10/2019,,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103312,1.0%,1.0%,0.9%,Tue,Africa/Lagos
+01/10/2019,10:20,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110888,,,,Tue,Africa/Lagos
+01/10/2019,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108780,0.0%,0.1%,0.2%,Tue,Africa/Lagos
+01/10/2019,13:50,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110821,,,,Tue,Africa/Lagos
+01/10/2019,14:15,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110827,,,,Tue,Africa/Lagos
+01/10/2019,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=105390,51.0,,49.1,Tue,Africa/Lagos
+01/10/2019,,USD,orange,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110822,,,,Tue,Africa/Lagos
+01/10/2019,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100362,51.1,51.0,51.0,Tue,Africa/Lagos
+01/10/2019,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=102159,47.8,50.4,49.1,Tue,Africa/Lagos
+01/10/2019,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102715,0.1%,0.5%,0.0%,Tue,Africa/Lagos
+01/10/2019,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=october.2019#detail=102190,49.7,50.5,46.0,Tue,Africa/Lagos
+01/10/2019,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=october.2019#detail=110359,17.2M,17.0M,17.0M,Tue,Africa/Lagos
+01/10/2019,15:51,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=october.2019#detail=104794,0.2%,,2.0%,Tue,Africa/Lagos
+01/10/2019,18:30,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110876,,,,Tue,Africa/Lagos
+01/10/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=october.2019#detail=100227,,,,Tue,Africa/Lagos
+02/10/2019,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105678,-0.6%,,-0.4%,Wed,Africa/Lagos
+02/10/2019,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107012,3.0%,3.1%,2.8%,Wed,Africa/Lagos
+02/10/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107484,,,,Wed,Africa/Lagos
+02/10/2019,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=107057,35.6,38.2,37.1,Wed,Africa/Lagos
+02/10/2019,07:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105065,-0.1%,0.1%,0.0%,Wed,Africa/Lagos
+02/10/2019,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=100758,13.9K,37.6K,54.4K,Wed,Africa/Lagos
+02/10/2019,09:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=103590,43.3,45.0,45.0,Wed,Africa/Lagos
+02/10/2019,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=102516,135K,140K,157K,Wed,Africa/Lagos
+02/10/2019,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2019#detail=100061,3.1M,2.0M,2.4M,Wed,Africa/Lagos
+02/10/2019,15:50,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110828,,,,Wed,Africa/Lagos
+02/10/2019,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=october.2019#detail=103881,51.5,,51.4,Wed,Africa/Lagos
+03/10/2019,01:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104759,0.0%,,0.3%,Thu,Africa/Lagos
+03/10/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107486,,,,Thu,Africa/Lagos
+03/10/2019,02:30,AUD,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=104201,5.93B,6.00B,7.25B,Thu,Africa/Lagos
+03/10/2019,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107311,,,,Thu,Africa/Lagos
+03/10/2019,07:45,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110829,,,,Thu,Africa/Lagos
+03/10/2019,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100524,53.3,53.9,54.3,Thu,Africa/Lagos
+03/10/2019,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100523,51.4,50.4,50.6,Thu,Africa/Lagos
+03/10/2019,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100520,51.1,51.6,51.6,Thu,Africa/Lagos
+03/10/2019,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100521,51.4,52.5,52.5,Thu,Africa/Lagos
+03/10/2019,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100518,51.6,52.0,52.0,Thu,Africa/Lagos
+03/10/2019,09:30,GBP,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100525,49.5,50.3,50.6,Thu,Africa/Lagos
+03/10/2019,09:49,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=110999,0.12|1.4,,0.21|2.3,Thu,Africa/Lagos
+03/10/2019,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=103318,-0.5%,-0.4%,0.1%,Thu,Africa/Lagos
+03/10/2019,,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=103319,0.3%,0.3%,-0.5%,Thu,Africa/Lagos
+03/10/2019,10:03,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=101021,-0.24|1.7,,-0.36|1.6,Thu,Africa/Lagos
+03/10/2019,11:30,GBP,orange,Prime Minister Johnson Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111000,,,,Thu,Africa/Lagos
+03/10/2019,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=102491,-24.8%,,39.0%,Thu,Africa/Lagos
+03/10/2019,13:30,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110823,,,,Thu,Africa/Lagos
+03/10/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2019#detail=99804,219K,215K,215K,Thu,Africa/Lagos
+03/10/2019,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=100527,50.9,50.9,50.9,Thu,Africa/Lagos
+03/10/2019,15:00,GBP,orange,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110861,,,,Thu,Africa/Lagos
+03/10/2019,,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=105766,52.6,55.1,56.4,Thu,Africa/Lagos
+03/10/2019,,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102808,-0.1%,-0.5%,1.4%,Thu,Africa/Lagos
+03/10/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2019#detail=99814,112B,106B,102B,Thu,Africa/Lagos
+03/10/2019,23:35,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110824,,,,Thu,Africa/Lagos
+04/10/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107488,,,,Fri,Africa/Lagos
+04/10/2019,02:13,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104348,7.3%,,-7.2%,Fri,Africa/Lagos
+04/10/2019,02:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104172,0.4%,0.5%,0.0%,Fri,Africa/Lagos
+04/10/2019,,AUD,orange,RBA Financial Stability Review,https://www.forexfactory.com/calendar?month=october.2019#detail=103982,,,,Fri,Africa/Lagos
+04/10/2019,03:00,AUD,orange,RBA Assist Gov Ellis Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110890,,,,Fri,Africa/Lagos
+04/10/2019,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=101063,-123.1B,,-109.7B,Fri,Africa/Lagos
+04/10/2019,09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=105569,-6.9B,-6.5B,-7.0B,Fri,Africa/Lagos
+04/10/2019,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=108782,-1.0B,-1.1B,-1.4B,Fri,Africa/Lagos
+04/10/2019,,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102356,0.0%,0.3%,0.4%,Fri,Africa/Lagos
+04/10/2019,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=102358,136K,145K,168K,Fri,Africa/Lagos
+04/10/2019,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=102360,3.5%,3.7%,3.7%,Fri,Africa/Lagos
+04/10/2019,,USD,orange,FOMC Member Rosengren Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110853,,,,Fri,Africa/Lagos
+04/10/2019,,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=102600,-54.9B,-54.7B,-54.0B,Fri,Africa/Lagos
+04/10/2019,15:00,CAD,yellow,Ivey PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=105365,48.7,62.6,60.6,Fri,Africa/Lagos
+04/10/2019,19:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110825,,,,Fri,Africa/Lagos
+04/10/2019,19:10,USD,yellow,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110997,,,,Fri,Africa/Lagos
+04/10/2019,20:45,USD,yellow,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110839,,,,Fri,Africa/Lagos
+04/10/2019,21:00,USD,yellow,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=110996,,,,Fri,Africa/Lagos
+05/10/2019,17:00,AUD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2019#detail=103785,,,,Sat,Africa/Lagos
+06/10/2019,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=october.2019#detail=103882,42.6,,44.6,Sun,Africa/Lagos
+06/10/2019,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107218,,,,Sun,Africa/Lagos
+06/10/2019,23:45,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111005,,,,Sun,Africa/Lagos
+07/10/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107489,,,,Mon,Africa/Lagos
+07/10/2019,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=october.2019#detail=107788,91.7%,91.8%,93.7%,Mon,Africa/Lagos
+07/10/2019,07:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106444,-0.6%,-0.4%,-2.1%,Mon,Africa/Lagos
+07/10/2019,08:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=october.2019#detail=104935,777B,,767B,Mon,Africa/Lagos
+07/10/2019,08:30,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105532,-0.4%,0.4%,0.2%,Mon,Africa/Lagos
+07/10/2019,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=103096,-16.8,-12.9,-11.1,Mon,Africa/Lagos
+07/10/2019,11:40,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105680,-1.7%,-0.8%,-0.5%,Mon,Africa/Lagos
+07/10/2019,18:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111010,,,,Mon,Africa/Lagos
+07/10/2019,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102691,17.9B,14.9B,23.0B,Mon,Africa/Lagos
+08/10/2019,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107167,-0.2%,-0.2%,-1.0%,Tue,Africa/Lagos
+08/10/2019,,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107774,1.0%,0.9%,0.8%,Tue,Africa/Lagos
+08/10/2019,00:53,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=october.2019#detail=107763,1.72T,1.68T,1.65T,Tue,Africa/Lagos
+08/10/2019,01:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=103817,0,,1,Tue,Africa/Lagos
+08/10/2019,,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104060,0.3%,,-2.6%,Tue,Africa/Lagos
+08/10/2019,02:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=108058,51.3,52.1,52.1,Tue,Africa/Lagos
+08/10/2019,05:10,GBP,yellow,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111001,,,,Tue,Africa/Lagos
+08/10/2019,06:02,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=107045,46.7,43.4,42.8,Tue,Africa/Lagos
+08/10/2019,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=105031,2.3%,2.1%,2.3%,Tue,Africa/Lagos
+08/10/2019,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106445,0.3%,-0.2%,-0.4%,Tue,Africa/Lagos
+08/10/2019,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=101062,-5.0B,-4.2B,-4.5B,Tue,Africa/Lagos
+08/10/2019,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=100950,-0.6%,-0.1%,-0.6%,Tue,Africa/Lagos
+08/10/2019,09:20,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111003,,,,Tue,Africa/Lagos
+08/10/2019,10:30,GBP,orange,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111004,,,,Tue,Africa/Lagos
+08/10/2019,10:57,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=october.2019#detail=102213,101.8,102.6,103.1,Tue,Africa/Lagos
+08/10/2019,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=october.2019#detail=105457,221K,217K,227K,Tue,Africa/Lagos
+08/10/2019,13:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108784,6.1%,2.3%,3.2%,Tue,Africa/Lagos
+08/10/2019,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102364,-0.3%,0.2%,0.3%,Tue,Africa/Lagos
+08/10/2019,,USD,orange,PPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102367,-0.3%,0.1%,0.1%,Tue,Africa/Lagos
+08/10/2019,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=october.2019#detail=102007,52.6,51.2,50.8,Tue,Africa/Lagos
+08/10/2019,18:35,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111007,,,,Tue,Africa/Lagos
+08/10/2019,19:30,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111006,,,,Tue,Africa/Lagos
+08/10/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=october.2019#detail=100228,,,,Tue,Africa/Lagos
+09/10/2019,00:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=104039,-5.5%,,-1.7%,Wed,Africa/Lagos
+09/10/2019,06:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107824,-35.5%,,-37.0%,Wed,Africa/Lagos
+09/10/2019,09:30,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=october.2019#detail=103723,,,,Wed,Africa/Lagos
+09/10/2019,,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=103714,,,,Wed,Africa/Lagos
+09/10/2019,All Day,EUR,red,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=october.2019#detail=109057,,,,Wed,Africa/Lagos
+09/10/2019,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=103050,0.2%,0.4%,0.4%,Wed,Africa/Lagos
+09/10/2019,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=october.2019#detail=110998,7.05M,7.35M,7.17M,Wed,Africa/Lagos
+09/10/2019,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2019#detail=100083,2.9M,1.8M,3.1M,Wed,Africa/Lagos
+09/10/2019,16:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111008,,,,Wed,Africa/Lagos
+09/10/2019,,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111009,,,,Wed,Africa/Lagos
+09/10/2019,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=102109,1.59|2.4,,1.74|2.5,Wed,Africa/Lagos
+09/10/2019,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=october.2019#detail=101965,,,,Wed,Africa/Lagos
+09/10/2019,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104742,0.0%,,0.7%,Wed,Africa/Lagos
+10/10/2019,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=105644,-2%,-7%,-4%,Thu,Africa/Lagos
+10/10/2019,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107737,2.0%,2.1%,2.1%,Thu,Africa/Lagos
+10/10/2019,,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=107751,-2.4%,0.0%,-6.6%,Thu,Africa/Lagos
+10/10/2019,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107403,-1.1%,-1.1%,-0.9%,Thu,Africa/Lagos
+10/10/2019,01:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104326,1.8%,3.6%,5.5%,Thu,Africa/Lagos
+10/10/2019,01:38,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=october.2019#detail=104010,3.6%,,3.1%,Thu,Africa/Lagos
+10/10/2019,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=107108,0.38|3.9,,0.14|3.5,Thu,Africa/Lagos
+10/10/2019,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=106448,18.1B,19.4B,20.5B,Thu,Africa/Lagos
+10/10/2019,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101115,-0.9%,0.2%,0.3%,Thu,Africa/Lagos
+10/10/2019,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=100897,0.3%,0.2%,-0.8%,Thu,Africa/Lagos
+10/10/2019,09:30,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106137,-0.1%,0.0%,0.4%,Thu,Africa/Lagos
+10/10/2019,,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106143,-0.7%,0.1%,0.4%,Thu,Africa/Lagos
+10/10/2019,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106145,0.2%,-0.4%,1.8%,Thu,Africa/Lagos
+10/10/2019,,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=106138,-9.8B,-10.0B,-9.6B,Thu,Africa/Lagos
+10/10/2019,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=october.2019#detail=106141,0.4%,0.2%,0.3%,Thu,Africa/Lagos
+10/10/2019,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106142,-0.6%,0.0%,0.1%,Thu,Africa/Lagos
+10/10/2019,10:20,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111002,,,,Thu,Africa/Lagos
+10/10/2019,12:30,EUR,red,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=october.2019#detail=103424,,,,Thu,Africa/Lagos
+10/10/2019,12:56,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=october.2019#detail=105709,0.5%,,0.3%,Thu,Africa/Lagos
+10/10/2019,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108785,0.1%,0.0%,-0.1%,Thu,Africa/Lagos
+10/10/2019,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102361,0.1%,0.2%,0.3%,Thu,Africa/Lagos
+10/10/2019,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102363,0.0%,0.1%,0.1%,Thu,Africa/Lagos
+10/10/2019,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=128623,1.7%,1.8%,1.7%,Thu,Africa/Lagos
+10/10/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2019#detail=99807,210K,215K,220K,Thu,Africa/Lagos
+10/10/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2019#detail=99817,98B,95B,112B,Thu,Africa/Lagos
+10/10/2019,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=102130,2.17|2.2,,2.27|2.2,Thu,Africa/Lagos
+10/10/2019,22:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=104476,48.4,,48.4,Thu,Africa/Lagos
+11/10/2019,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107022,2.4%,2.4%,2.4%,Fri,Africa/Lagos
+11/10/2019,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106451,0.0%,0.0%,0.0%,Fri,Africa/Lagos
+11/10/2019,All Day,EUR,red,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=october.2019#detail=109075,,,,Fri,Africa/Lagos
+11/10/2019,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=108786,53.7K,11.2K,81.1K,Fri,Africa/Lagos
+11/10/2019,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=108787,5.5%,5.7%,5.7%,Fri,Africa/Lagos
+11/10/2019,,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102370,0.2%,-0.1%,-0.2%,Fri,Africa/Lagos
+11/10/2019,15:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=101692,96.0,92.0,93.2,Fri,Africa/Lagos
+11/10/2019,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=october.2019#detail=101695,2.5%,,2.8%,Fri,Africa/Lagos
+11/10/2019,18:15,USD,orange,FOMC Member Rosengren Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111011,,,,Fri,Africa/Lagos
+13/10/2019,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=october.2019#detail=127210,54.4,,54.6,Sun,Africa/Lagos
+14/10/2019,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107250,,,,Mon,Africa/Lagos
+14/10/2019,03:55,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=108154,39.7B,35.1B,34.8B,Mon,Africa/Lagos
+14/10/2019,03:58,CNY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=108153,275B,254B,240B,Mon,Africa/Lagos
+14/10/2019,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106454,-0.4%,-0.2%,-0.8%,Mon,Africa/Lagos
+14/10/2019,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=103321,0.4%,0.3%,-0.4%,Mon,Africa/Lagos
+14/10/2019,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=106914,,,,Mon,Africa/Lagos
+14/10/2019,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=106517,,,,Mon,Africa/Lagos
+14/10/2019,13:10,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111291,,,,Mon,Africa/Lagos
+14/10/2019,21:00,USD,yellow,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=103776,4.0,1.1,2.0,Mon,Africa/Lagos
+14/10/2019,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104696,1.4%,,1.4%,Mon,Africa/Lagos
+15/10/2019,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=october.2019#detail=103966,,,,Tue,Africa/Lagos
+15/10/2019,,JPY,orange,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111290,,,,Tue,Africa/Lagos
+15/10/2019,02:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108066,3.0%,2.9%,2.8%,Tue,Africa/Lagos
+15/10/2019,,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108067,-1.2%,-1.2%,-0.8%,Tue,Africa/Lagos
+15/10/2019,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=107868,0.4%,0.6%,0.1%,Tue,Africa/Lagos
+15/10/2019,05:32,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=107855,-1.2%,-1.2%,-1.2%,Tue,Africa/Lagos
+15/10/2019,07:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105073,-0.3%,-0.1%,-0.2%,Tue,Africa/Lagos
+15/10/2019,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101195,-0.3%,-0.3%,-0.3%,Tue,Africa/Lagos
+15/10/2019,09:25,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111306,,,,Tue,Africa/Lagos
+15/10/2019,09:30,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111292,,,,Tue,Africa/Lagos
+15/10/2019,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=october.2019#detail=106011,3.8%,4.0%,3.9%,Tue,Africa/Lagos
+15/10/2019,,GBP,yellow,Claimant Count Change,https://www.forexfactory.com/calendar?month=october.2019#detail=106016,21.1K,21.3K,16.3K,Tue,Africa/Lagos
+15/10/2019,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=106013,3.9%,3.8%,3.8%,Tue,Africa/Lagos
+15/10/2019,09:31,CNY,red,New Loans,https://www.forexfactory.com/calendar?month=october.2019#detail=108060,1690B,1350B,1210B,Tue,Africa/Lagos
+15/10/2019,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108062,8.4%,8.3%,8.2%,Tue,Africa/Lagos
+15/10/2019,10:00,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=101581,-22.8,-27.0,-22.5,Tue,Africa/Lagos
+15/10/2019,,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=101583,-23.5,-26.7,-22.4,Tue,Africa/Lagos
+15/10/2019,10:35,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=103523,0.63|1.9,,0.55|1.9,Tue,Africa/Lagos
+15/10/2019,13:30,GBP,orange,MPC Member Vlieghe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111293,,,,Tue,Africa/Lagos
+15/10/2019,15:37,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=october.2019#detail=104796,0.5%,,0.2%,Tue,Africa/Lagos
+15/10/2019,17:45,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111307,,,,Tue,Africa/Lagos
+15/10/2019,22:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=104719,0.7%,0.6%,0.6%,Tue,Africa/Lagos
+16/10/2019,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104145,-0.1%,,-0.2%,Wed,Africa/Lagos
+16/10/2019,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105920,1.7%,1.8%,1.7%,Wed,Africa/Lagos
+16/10/2019,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105925,-0.8%,0.2%,-0.3%,Wed,Africa/Lagos
+16/10/2019,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105921,1.7%,1.7%,1.5%,Wed,Africa/Lagos
+16/10/2019,,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105930,1.3%,0.9%,0.8%,Wed,Africa/Lagos
+16/10/2019,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105927,-0.1%,0.0%,-0.1%,Wed,Africa/Lagos
+16/10/2019,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105922,2.4%,2.7%,2.6%,Wed,Africa/Lagos
+16/10/2019,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103322,1.0%,1.0%,1.0%,Wed,Africa/Lagos
+16/10/2019,,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103325,0.8%,0.9%,0.9%,Wed,Africa/Lagos
+16/10/2019,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=103326,20.3B,18.6B,17.5B,Wed,Africa/Lagos
+16/10/2019,10:33,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=101454,0.07|1.3,,0.05|1.2,Wed,Africa/Lagos
+16/10/2019,13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108792,-0.4%,-0.3%,-0.1%,Wed,Africa/Lagos
+16/10/2019,,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108790,1.9%,1.8%,1.8%,Wed,Africa/Lagos
+16/10/2019,,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108794,2.2%,2.1%,2.1%,Wed,Africa/Lagos
+16/10/2019,,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108793,2.1%,2.1%,2.0%,Wed,Africa/Lagos
+16/10/2019,,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=october.2019#detail=108788,4.99B,-1.80B,-1.87B,Wed,Africa/Lagos
+16/10/2019,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102669,-0.1%,0.2%,0.2%,Wed,Africa/Lagos
+16/10/2019,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102668,-0.3%,0.3%,0.6%,Wed,Africa/Lagos
+16/10/2019,13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108791,0.0%,,-0.1%,Wed,Africa/Lagos
+16/10/2019,14:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111294,,,,Wed,Africa/Lagos
+16/10/2019,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102738,0.0%,0.3%,0.3%,Wed,Africa/Lagos
+16/10/2019,,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=october.2019#detail=106565,71,68,68,Wed,Africa/Lagos
+16/10/2019,15:45,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111302,,,,Wed,Africa/Lagos
+16/10/2019,18:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111295,,,,Wed,Africa/Lagos
+16/10/2019,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=october.2019#detail=101727,,,,Wed,Africa/Lagos
+16/10/2019,20:00,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111299,,,,Wed,Africa/Lagos
+16/10/2019,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=october.2019#detail=102986,-41.1B,74.3B,83.8B,Wed,Africa/Lagos
+16/10/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=october.2019#detail=100229,,,,Wed,Africa/Lagos
+16/10/2019,23:15,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111297,,,,Wed,Africa/Lagos
+16/10/2019,23:30,GBP,orange,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111296,,,,Wed,Africa/Lagos
+17/10/2019,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=104105,14.7K,15.3K,37.9K,Thu,Africa/Lagos
+17/10/2019,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=104107,5.2%,5.3%,5.3%,Thu,Africa/Lagos
+17/10/2019,,AUD,yellow,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=103796,-2,,5,Thu,Africa/Lagos
+17/10/2019,05:30,AUD,yellow,RBA Annual Report,https://www.forexfactory.com/calendar?month=october.2019#detail=103904,,,,Thu,Africa/Lagos
+17/10/2019,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=105108,4.02B,2.47B,1.72B,Thu,Africa/Lagos
+17/10/2019,08:11,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108064,6.5%,,6.9%,Thu,Africa/Lagos
+17/10/2019,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=100924,2.59B,6.21B,7.62B,Thu,Africa/Lagos
+17/10/2019,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106245,0.0%,-0.1%,-0.3%,Thu,Africa/Lagos
+17/10/2019,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=october.2019#detail=103603,,,,Thu,Africa/Lagos
+17/10/2019,09:56,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=111298,0.25|2.5,,0.12|1.4,Thu,Africa/Lagos
+17/10/2019,Day 1,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=october.2019#detail=111678,,,,Thu,Africa/Lagos
+17/10/2019,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108795,0.8%,0.7%,-1.3%,Thu,Africa/Lagos
+17/10/2019,,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=105432,28.2K,,109.9K,Thu,Africa/Lagos
+17/10/2019,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=106580,5.6,7.3,12.0,Thu,Africa/Lagos
+17/10/2019,,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=october.2019#detail=102906,1.39M,1.34M,1.43M,Thu,Africa/Lagos
+17/10/2019,,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=october.2019#detail=102908,1.26M,1.32M,1.39M,Thu,Africa/Lagos
+17/10/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2019#detail=99810,214K,212K,210K,Thu,Africa/Lagos
+17/10/2019,14:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102083,-0.4%,-0.1%,0.8%,Thu,Africa/Lagos
+17/10/2019,,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=102080,77.5%,77.7%,77.9%,Thu,Africa/Lagos
+17/10/2019,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=109515,-0.5%,,-0.2%,Thu,Africa/Lagos
+17/10/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2019#detail=99819,104B,100B,98B,Thu,Africa/Lagos
+17/10/2019,16:00,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2019#detail=100085,9.3M,2.7M,2.9M,Thu,Africa/Lagos
+17/10/2019,19:00,USD,orange,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111300,,,,Thu,Africa/Lagos
+17/10/2019,,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111303,,,,Thu,Africa/Lagos
+17/10/2019,21:00,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111682,,,,Thu,Africa/Lagos
+17/10/2019,21:20,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111304,,,,Thu,Africa/Lagos
+18/10/2019,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107193,0.3%,0.3%,0.5%,Fri,Africa/Lagos
+18/10/2019,03:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=october.2019#detail=101816,6.0%,6.1%,6.2%,Fri,Africa/Lagos
+18/10/2019,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108068,5.4%,5.5%,5.5%,Fri,Africa/Lagos
+18/10/2019,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108069,5.8%,5.0%,4.4%,Fri,Africa/Lagos
+18/10/2019,,CNY,yellow,NBS Press Conference,https://www.forexfactory.com/calendar?month=october.2019#detail=108125,,,,Fri,Africa/Lagos
+18/10/2019,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=108070,7.8%,7.8%,7.5%,Fri,Africa/Lagos
+18/10/2019,,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=108071,5.2%,,5.2%,Fri,Africa/Lagos
+18/10/2019,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=october.2019#detail=103499,26.6B,21.3B,21.6B,Fri,Africa/Lagos
+18/10/2019,Day 2,EUR,red,EU Economic Summit,https://www.forexfactory.com/calendar?month=october.2019#detail=111680,,,,Fri,Africa/Lagos
+18/10/2019,15:00,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111305,,,,Fri,Africa/Lagos
+18/10/2019,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106941,-0.1%,0.1%,-0.2%,Fri,Africa/Lagos
+18/10/2019,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=october.2019#detail=107659,,,,Fri,Africa/Lagos
+18/10/2019,16:30,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111301,,,,Fri,Africa/Lagos
+18/10/2019,18:45,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111686,,,,Fri,Africa/Lagos
+18/10/2019,19:25,CAD,orange,Gov Council Member Lane Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111581,,,,Fri,Africa/Lagos
+18/10/2019,22:15,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111685,,,,Fri,Africa/Lagos
+19/10/2019,14:50,GBP,red,Parliament Brexit Vote,https://www.forexfactory.com/calendar?month=october.2019#detail=111687,Pass,,,Sat,Africa/Lagos
+19/10/2019,Day 2,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=october.2019#detail=107661,,,,Sat,Africa/Lagos
+20/10/2019,Day 3,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=october.2019#detail=107662,,,,Sun,Africa/Lagos
+21/10/2019,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105615,0.6%,,-0.2%,Mon,Africa/Lagos
+21/10/2019,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=107880,-0.10T,-0.17T,-0.12T,Mon,Africa/Lagos
+21/10/2019,02:30,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=134359,4.20%,4.15%,4.20%,Mon,Africa/Lagos
+21/10/2019,,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=134307,4.85%,4.85%,4.85%,Mon,Africa/Lagos
+21/10/2019,,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=136767,0.53%,,0.58%,Mon,Africa/Lagos
+21/10/2019,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=104731,4.8%,,6.0%,Mon,Africa/Lagos
+21/10/2019,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=107728,0.0%,0.1%,0.2%,Mon,Africa/Lagos
+21/10/2019,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106457,0.1%,-0.1%,-0.5%,Mon,Africa/Lagos
+21/10/2019,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=october.2019#detail=101504,,,,Mon,Africa/Lagos
+21/10/2019,All Day,CAD,orange,Federal Election,https://www.forexfactory.com/calendar?month=october.2019#detail=105440,,,,Mon,Africa/Lagos
+21/10/2019,16:00,GBP,yellow,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111684,,,,Mon,Africa/Lagos
+22/10/2019,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=111690,,,,Tue,Africa/Lagos
+22/10/2019,09:30,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=october.2019#detail=106226,8.7B,8.9B,4.9B,Tue,Africa/Lagos
+22/10/2019,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=october.2019#detail=103549,-37,-25,-28,Tue,Africa/Lagos
+22/10/2019,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108798,-0.2%,0.0%,0.0%,Tue,Africa/Lagos
+22/10/2019,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108797,-0.1%,0.4%,0.6%,Tue,Africa/Lagos
+22/10/2019,15:00,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=october.2019#detail=106897,5.38M,5.45M,5.50M,Tue,Africa/Lagos
+22/10/2019,15:05,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=106833,8,-7,-9,Tue,Africa/Lagos
+22/10/2019,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=109308,0.2%,,-0.3%,Tue,Africa/Lagos
+22/10/2019,,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=october.2019#detail=105414,,,,Tue,Africa/Lagos
+22/10/2019,19:16,GBP,red,Parliament Brexit Vote,https://www.forexfactory.com/calendar?month=october.2019#detail=111689,Pass,,,Tue,Africa/Lagos
+22/10/2019,19:32,GBP,red,Parliament Brexit Vote,https://www.forexfactory.com/calendar?month=october.2019#detail=111691,Reject,,,Tue,Africa/Lagos
+22/10/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=october.2019#detail=100230,,,,Tue,Africa/Lagos
+22/10/2019,22:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=104658,-1242M,-1375M,-1628M,Tue,Africa/Lagos
+22/10/2019,23:20,AUD,orange,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111683,,,,Tue,Africa/Lagos
+23/10/2019,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=106794,0.3%,0.3%,0.4%,Wed,Africa/Lagos
+23/10/2019,10:34,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=111681,-0.41|2.3,,-0.61|2.4,Wed,Africa/Lagos
+23/10/2019,13:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108800,-1.2%,0.3%,1.4%,Wed,Africa/Lagos
+23/10/2019,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102959,0.2%,0.4%,0.4%,Wed,Africa/Lagos
+23/10/2019,14:15,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=111308,-8,-7,-7,Wed,Africa/Lagos
+23/10/2019,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2019#detail=100087,-1.7M,2.5M,9.3M,Wed,Africa/Lagos
+23/10/2019,23:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=108928,50.1,,50.3,Wed,Africa/Lagos
+23/10/2019,,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=108931,50.8,,52.5,Wed,Africa/Lagos
+24/10/2019,01:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=106998,48.5,49.2,48.9,Thu,Africa/Lagos
+24/10/2019,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=100778,13.9%,13.8%,14.0%,Thu,Africa/Lagos
+24/10/2019,08:15,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101321,52.9,51.6,51.1,Thu,Africa/Lagos
+24/10/2019,,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101318,50.5,50.0,50.1,Thu,Africa/Lagos
+24/10/2019,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101324,41.9,42.0,41.7,Thu,Africa/Lagos
+24/10/2019,,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101325,51.2,52.0,51.4,Thu,Africa/Lagos
+24/10/2019,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101315,45.7,46.1,45.7,Thu,Africa/Lagos
+24/10/2019,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101316,51.8,51.9,51.6,Thu,Africa/Lagos
+24/10/2019,09:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=october.2019#detail=105557,42.3K,42.2K,42.5K,Thu,Africa/Lagos
+24/10/2019,12:45,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=109198,,,,Thu,Africa/Lagos
+24/10/2019,,EUR,orange,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=103393,0.00%,0.00%,0.00%,Thu,Africa/Lagos
+24/10/2019,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=october.2019#detail=103394,,,,Thu,Africa/Lagos
+24/10/2019,,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102781,-0.3%,-0.2%,0.3%,Thu,Africa/Lagos
+24/10/2019,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102780,-1.1%,-0.5%,0.3%,Thu,Africa/Lagos
+24/10/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2019#detail=99812,212K,216K,218K,Thu,Africa/Lagos
+24/10/2019,14:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108174,1.1%,,1.1%,Thu,Africa/Lagos
+24/10/2019,,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=october.2019#detail=104875,-4.6,-6.0,-5.7,Thu,Africa/Lagos
+24/10/2019,14:45,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101389,51.5,50.7,51.1,Thu,Africa/Lagos
+24/10/2019,,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=101391,51.0,51.0,50.9,Thu,Africa/Lagos
+24/10/2019,15:00,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=october.2019#detail=102935,701K,710K,706K,Thu,Africa/Lagos
+24/10/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2019#detail=99822,87B,87B,104B,Thu,Africa/Lagos
+25/10/2019,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=october.2019#detail=101532,9.6,9.8,9.8,Fri,Africa/Lagos
+25/10/2019,09:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=october.2019#detail=101478,94.6,94.5,94.6,Fri,Africa/Lagos
+25/10/2019,15:00,USD,yellow,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=october.2019#detail=101696,95.5,96.0,96.0,Fri,Africa/Lagos
+25/10/2019,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=october.2019#detail=101699,2.5%,,2.5%,Fri,Africa/Lagos
+25/10/2019,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=101753,82.8B,83.5B,-200.3B,Fri,Africa/Lagos
+27/10/2019,03:00,CHF,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2019#detail=99642,,,,Sun,Africa/Lagos
+27/10/2019,,EUR,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2019#detail=99645,,,,Sun,Africa/Lagos
+27/10/2019,,GBP,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2019#detail=99644,,,,Sun,Africa/Lagos
+27/10/2019,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2019#detail=107207,,,,Sun,Africa/Lagos
+28/10/2019,00:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107435,0.5%,0.5%,0.5%,Mon,Africa/Lagos
+28/10/2019,08:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106460,0.6%,0.1%,-0.6%,Mon,Africa/Lagos
+28/10/2019,10:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103469,5.5%,5.7%,5.8%,Mon,Africa/Lagos
+28/10/2019,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103476,3.4%,3.4%,3.4%,Mon,Africa/Lagos
+28/10/2019,12:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=october.2019#detail=103570,-10,-20,-16,Mon,Africa/Lagos
+28/10/2019,13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=october.2019#detail=106862,-70.4B,-73.5B,-73.1B,Mon,Africa/Lagos
+28/10/2019,,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106864,-0.3%,0.3%,0.2%,Mon,Africa/Lagos
+28/10/2019,16:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111699,,,,Mon,Africa/Lagos
+28/10/2019,18:00,GBP,yellow,MPC Member Tenreyro Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111696,,,,Mon,Africa/Lagos
+28/10/2019,20:00,GBP,red,Parliament Brexit Vote,https://www.forexfactory.com/calendar?month=october.2019#detail=111698,Reject,,,Mon,Africa/Lagos
+29/10/2019,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107417,0.5%,0.7%,0.5%,Tue,Africa/Lagos
+29/10/2019,07:45,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111694,,,,Tue,Africa/Lagos
+29/10/2019,07:58,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=105591,0.2%,0.0%,-0.2%,Tue,Africa/Lagos
+29/10/2019,10:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101886,0.7%,0.3%,0.4%,Tue,Africa/Lagos
+29/10/2019,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=october.2019#detail=101889,66K,65K,66K,Tue,Africa/Lagos
+29/10/2019,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101890,4.6B,4.6B,4.6B,Tue,Africa/Lagos
+29/10/2019,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=102042,2.0%,2.1%,2.0%,Tue,Africa/Lagos
+29/10/2019,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=101985,125.9,128.2,126.3,Tue,Africa/Lagos
+29/10/2019,,USD,yellow,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106898,1.5%,0.9%,1.4%,Tue,Africa/Lagos
+29/10/2019,21:23,GBP,red,Parliament Brexit Vote,https://www.forexfactory.com/calendar?month=october.2019#detail=111700,Pass,Pass,,Tue,Africa/Lagos
+29/10/2019,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=october.2019#detail=100231,,,,Tue,Africa/Lagos
+30/10/2019,00:50,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107838,9.1%,6.0%,1.8%,Wed,Africa/Lagos
+30/10/2019,01:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=105682,-0.4%,,-0.6%,Wed,Africa/Lagos
+30/10/2019,01:21,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104350,5.7%,,7.3%,Wed,Africa/Lagos
+30/10/2019,01:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=104392,0.5%,0.5%,0.6%,Wed,Africa/Lagos
+30/10/2019,,AUD,red,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=104394,0.4%,0.4%,0.4%,Wed,Africa/Lagos
+30/10/2019,07:30,EUR,yellow,French Flash GDP q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=101128,0.3%,0.2%,0.3%,Wed,Africa/Lagos
+30/10/2019,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106461,0.1%,0.0%,0.0%,Wed,Africa/Lagos
+30/10/2019,08:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101095,-0.4%,0.0%,0.1%,Wed,Africa/Lagos
+30/10/2019,09:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=october.2019#detail=105153,94.7,93.5,93.1,Wed,Africa/Lagos
+30/10/2019,,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=100807,0.1%,0.1%,0.1%,Wed,Africa/Lagos
+30/10/2019,09:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=101613,6K,2K,-9K,Wed,Africa/Lagos
+30/10/2019,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=october.2019#detail=104997,-30.5,,-15.4,Wed,Africa/Lagos
+30/10/2019,11:21,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2019#detail=100832,1.06|1.3,,0.88|1.4,Wed,Africa/Lagos
+30/10/2019,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=october.2019#detail=102523,125K,125K,93K,Wed,Africa/Lagos
+30/10/2019,13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=102854,1.9%,1.6%,2.0%,Wed,Africa/Lagos
+30/10/2019,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=102853,1.7%,1.8%,2.4%,Wed,Africa/Lagos
+30/10/2019,15:00,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=october.2019#detail=105495,,,,Wed,Africa/Lagos
+30/10/2019,,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=105501,,,,Wed,Africa/Lagos
+30/10/2019,,CAD,orange,Overnight Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=105499,1.75%,1.75%,1.75%,Wed,Africa/Lagos
+30/10/2019,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2019#detail=100090,5.7M,0.5M,-1.7M,Wed,Africa/Lagos
+30/10/2019,16:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=october.2019#detail=105498,,,,Wed,Africa/Lagos
+30/10/2019,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=101939,1.75%,1.75%,2.00%,Wed,Africa/Lagos
+30/10/2019,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=101942,,,,Wed,Africa/Lagos
+30/10/2019,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=october.2019#detail=108987,,,,Wed,Africa/Lagos
+30/10/2019,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104706,7.2%,,0.9%,Wed,Africa/Lagos
+31/10/2019,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=107805,1.4%,0.4%,-1.2%,Thu,Africa/Lagos
+31/10/2019,01:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=104453,-42.4,,-53.5,Thu,Africa/Lagos
+31/10/2019,01:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=103751,-14,-13,-12,Thu,Africa/Lagos
+31/10/2019,01:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104302,7.6%,0.1%,-0.6%,Thu,Africa/Lagos
+31/10/2019,,AUD,yellow,Import Prices q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=104370,0.4%,0.5%,0.9%,Thu,Africa/Lagos
+31/10/2019,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=104223,0.2%,0.3%,0.2%,Thu,Africa/Lagos
+31/10/2019,02:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=108072,49.3,49.9,49.8,Thu,Africa/Lagos
+31/10/2019,,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=108073,52.8,53.7,53.7,Thu,Africa/Lagos
+31/10/2019,04:32,JPY,red,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=october.2019#detail=106599,,,,Thu,Africa/Lagos
+31/10/2019,,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=october.2019#detail=106622,,,,Thu,Africa/Lagos
+31/10/2019,,JPY,yellow,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=106621,-0.10%,-0.10%,-0.10%,Thu,Africa/Lagos
+31/10/2019,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2019#detail=107059,36.2,35.3,35.6,Thu,Africa/Lagos
+31/10/2019,06:02,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=107133,-4.9%,-6.6%,-7.1%,Thu,Africa/Lagos
+31/10/2019,07:30,JPY,orange,BOJ Press Conference,https://www.forexfactory.com/calendar?month=october.2019#detail=106634,,,,Thu,Africa/Lagos
+31/10/2019,08:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=106464,0.1%,0.3%,-0.1%,Thu,Africa/Lagos
+31/10/2019,08:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=101188,-0.1%,0.1%,-0.3%,Thu,Africa/Lagos
+31/10/2019,09:00,EUR,orange,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=100789,0.4%,0.4%,0.4%,Thu,Africa/Lagos
+31/10/2019,10:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=100857,9.9%,9.6%,9.6%,Thu,Africa/Lagos
+31/10/2019,11:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103332,0.7%,0.7%,0.8%,Thu,Africa/Lagos
+31/10/2019,,EUR,yellow,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=103331,1.1%,1.0%,1.0%,Thu,Africa/Lagos
+31/10/2019,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=100979,0.0%,-0.1%,-0.6%,Thu,Africa/Lagos
+31/10/2019,,EUR,yellow,Prelim Flash GDP q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=103334,0.2%,0.1%,0.2%,Thu,Africa/Lagos
+31/10/2019,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2019#detail=103337,7.5%,7.4%,7.5%,Thu,Africa/Lagos
+31/10/2019,12:00,EUR,yellow,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=100992,0.1%,0.0%,0.1%,Thu,Africa/Lagos
+31/10/2019,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=october.2019#detail=102518,-33.5%,,-24.8%,Thu,Africa/Lagos
+31/10/2019,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108802,0.1%,0.2%,0.0%,Thu,Africa/Lagos
+31/10/2019,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108804,0.0%,2.5%,-1.8%,Thu,Africa/Lagos
+31/10/2019,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=108808,-0.1%,0.2%,0.2%,Thu,Africa/Lagos
+31/10/2019,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102607,0.0%,0.1%,0.1%,Thu,Africa/Lagos
+31/10/2019,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=october.2019#detail=102409,0.7%,0.7%,0.6%,Thu,Africa/Lagos
+31/10/2019,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102606,0.2%,0.3%,0.2%,Thu,Africa/Lagos
+31/10/2019,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=october.2019#detail=102603,0.3%,0.3%,0.5%,Thu,Africa/Lagos
+31/10/2019,,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2019#detail=99813,218K,215K,213K,Thu,Africa/Lagos
+31/10/2019,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=october.2019#detail=106817,43.2,48.4,47.1,Thu,Africa/Lagos
+31/10/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2019#detail=99825,89B,47B,87B,Thu,Africa/Lagos
+31/10/2019,16:30,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=october.2019#detail=111695,,,,Thu,Africa/Lagos
+31/10/2019,22:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2019#detail=103883,51.6,,54.7,Thu,Africa/Lagos
