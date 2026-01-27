@@ -98,6 +98,38 @@ The scraper accepts flexible month/year formats:
 - **Statistics Tracking**: Provides detailed success/failure statistics after completion
 - **Configurable**: Customize retry behavior via command line or configuration file
 
+### Incremental Update Mode
+By default, the scraper operates in **update mode**, which intelligently merges new data with existing CSV files:
+
+- **Smart Merging**: Detects new events and updated records based on unique event IDs
+- **No Duplicates**: Existing records are preserved; only new or changed data is added
+- **Change Detection**: Compares `actual`, `forecast`, and `previous` values to detect updates
+- **Automatic Sorting**: Results are sorted by date and time after merging
+
+```bash
+# Default behavior: Update existing CSV with new data
+python3 scraper.py --months this
+
+# Force overwrite mode: Replace existing CSV completely
+python3 scraper.py --months this --overwrite
+```
+
+#### Update Mode vs Overwrite Mode
+
+| Mode | Behavior |
+|------|----------|
+| **Update (default)** | Loads existing CSV, adds new events, updates changed records, preserves everything else |
+| **Overwrite (`--overwrite`)** | Completely replaces the existing CSV with freshly scraped data |
+
+#### Recommended Mode by Scenario
+
+| Scenario | Recommended Mode |
+|----------|-----------------|
+| Daily/weekly updates to capture new data releases | Update (default) |
+| Suspect corrupted or incorrect data | `--overwrite` |
+| First-time scrape of a month | Either (no difference) |
+| Re-scraping historical months | `--overwrite` |
+
 For detailed retry mechanism documentation, see `RETRY_DOCUMENTATION.md`.
 
 The scraped data will be reformatted and saved as CSV files in the "news" directory with filenames in the format "MONTH_YEAR_news.csv" for each month processed.

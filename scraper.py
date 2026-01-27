@@ -128,8 +128,16 @@ def scroll_to_end(driver):
         previous_position = current_position
 
 
-def parse_table(driver, month, year, max_retries=None):
-    """Parse table with retry logic"""
+def parse_table(driver, month, year, max_retries=None, update_mode=True):
+    """Parse table with retry logic
+    
+    Args:
+        driver: Selenium WebDriver instance
+        month: Month name (e.g., 'January')
+        year: Year string
+        max_retries: Maximum retry attempts
+        update_mode: If True, merge with existing CSV; if False, overwrite
+    """
     if max_retries is None:
         max_retries = RETRY_CONFIG['max_retries']
     
@@ -172,7 +180,7 @@ def parse_table(driver, month, year, max_retries=None):
             if row_data:
                 data.append(row_data)
 
-        save_csv(data, month, year)
+        save_csv(data, month, year, update_mode=update_mode)
         return data, month
     
     return exponential_backoff_retry(
@@ -232,8 +240,16 @@ def parse_month_year_string(date_str):
         raise ValueError(f"Invalid date format: {date_str}. Use format like 'jan 2007' or 'january 2007'")
 
 
-def scrape_month(month, year, url_param=None, max_retries=None):
-    """Scrape a single month with retry logic"""
+def scrape_month(month, year, url_param=None, max_retries=None, update_mode=True):
+    """Scrape a single month with retry logic
+    
+    Args:
+        month: Month name (e.g., 'January')
+        year: Year
+        url_param: Optional URL parameter for the month
+        max_retries: Maximum retry attempts
+        update_mode: If True, merge with existing CSV; if False, overwrite
+    """
     if max_retries is None:
         max_retries = RETRY_CONFIG['max_retries']
     
@@ -258,7 +274,7 @@ def scrape_month(month, year, url_param=None, max_retries=None):
             scroll_to_end(driver)
 
             print(f"[INFO] Scraping data for {month} {year}")
-            result = parse_table(driver, month, str(year), max_retries=2)
+            result = parse_table(driver, month, str(year), max_retries=2, update_mode=update_mode)
             
             return result
             
@@ -293,8 +309,18 @@ def main():
                         help='Base delay in seconds for exponential backoff (default: 1)')
     parser.add_argument("--max-delay", type=float, default=None,
                         help='Maximum delay in seconds for exponential backoff (default: 60)')
+    parser.add_argument("--overwrite", action="store_true",
+                        help='Overwrite existing CSV files instead of updating them with new data')
 
     args = parser.parse_args()
+    
+    # Determine update mode (default is True, --overwrite sets it to False)
+    update_mode = not args.overwrite
+    
+    if update_mode:
+        print("[INFO] Update mode: Will merge new data with existing CSV files")
+    else:
+        print("[INFO] Overwrite mode: Will replace existing CSV files")
     
     # Override retry configuration if provided
     if args.retries is not None:
@@ -321,7 +347,7 @@ def main():
             months_to_scrape = generate_month_range(start_date, end_date)
             
             for month, year in months_to_scrape:
-                scrape_month(month, year)
+                scrape_month(month, year, update_mode=update_mode)
                 
         except ValueError as e:
             print(f"[ERROR] {e}")
@@ -339,17 +365,17 @@ def main():
                 now = datetime.now()
                 month = now.strftime("%B")
                 year = now.year
-                scrape_month(month, year, param)
+                scrape_month(month, year, param, update_mode=update_mode)
             elif param == "next":
                 now = datetime.now()
                 next_month = (now.month % 12) + 1
                 year = now.year if now.month < 12 else now.year + 1
                 month = datetime(year, next_month, 1).strftime("%B")
-                scrape_month(month, year, param)
+                scrape_month(month, year, param, update_mode=update_mode)
             else:
                 month = param.capitalize()
                 year = datetime.now().year
-                scrape_month(month, year, param)
+                scrape_month(month, year, param, update_mode=update_mode)
     
     else:
         print("[ERROR] Please provide both --start and --end together for date range scraping. Only one was provided.")
