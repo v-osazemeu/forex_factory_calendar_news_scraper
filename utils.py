@@ -97,11 +97,11 @@ def merge_csv_data(existing_df, new_df):
         new_row = new_df[new_df['_merge_key'] == key].iloc[0]
         existing_idx = result_df[result_df['_merge_key'] == key].index[0]
         
-        # Check if the record has actually changed (compare actual, forecast, previous)
+        # Check if the record has actually changed (compare time, actual, forecast, previous)
         existing_row = result_df.loc[existing_idx]
         has_changes = False
         
-        for col in ['actual', 'forecast', 'previous']:
+        for col in ['time', 'actual', 'forecast', 'previous']:
             if col in new_row and col in existing_row:
                 new_val = str(new_row[col]).strip() if pd.notna(new_row[col]) else ''
                 existing_val = str(existing_row[col]).strip() if pd.notna(existing_row[col]) else ''
@@ -187,7 +187,9 @@ def reformat_data(data: list, year: str) -> list:
                 current_date = date_parts["date"]
                 current_day = date_parts["day"]
 
-        if "time" in new_row:
+        # Only update current_time if the time cell has an actual value
+        # This ensures events with empty time cells inherit the time from the previous event
+        if "time" in new_row and new_row["time"] and new_row["time"].strip() and new_row["time"] != "empty":
             current_time = new_row["time"].strip()
 
         if len(row) == 1:
