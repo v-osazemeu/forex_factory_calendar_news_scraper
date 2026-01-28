@@ -271,9 +271,6 @@ def convert_time_zone(date_str, time_str, from_zone_str, to_zone_str):
     if not time_str or not date_str:
         return time_str
 
-    if time_str.lower() in ["all day", "tentative"]:
-        return time_str
-
     try:
         from_zone = pytz.timezone(from_zone_str)
         to_zone = pytz.timezone(to_zone_str)

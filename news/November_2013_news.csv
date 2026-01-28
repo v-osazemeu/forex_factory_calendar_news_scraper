@@ -11,24 +11,24 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 01/11/2013,13:10,USD,red,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52397,,,,Fri,Africa/Lagos
 01/11/2013,13:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=59537,55.6,,54.2,Fri,Africa/Lagos
 01/11/2013,14:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=46732,56.4,55.3,56.2,Fri,Africa/Lagos
-01/11/2013,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=november.2013#detail=46744,55.5,55.1,56.5,Fri,Africa/Lagos
+01/11/2013,14:00,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=november.2013#detail=46744,55.5,55.1,56.5,Fri,Africa/Lagos
 01/11/2013,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=november.2013#detail=46466,15.2M,15.5M,15.3M,Fri,Africa/Lagos
 03/11/2013,01:00,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=44782,56.3,,55.4,Sun,Africa/Lagos
 03/11/2013,07:00,CAD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2013#detail=44150,,,,Sun,Africa/Lagos
-03/11/2013,,USD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2013#detail=44149,,,,Sun,Africa/Lagos
+03/11/2013,07:00,USD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=november.2013#detail=44149,,,,Sun,Africa/Lagos
 03/11/2013,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44463,0.1%,,0.2%,Sun,Africa/Lagos
 04/11/2013,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44649,1.3%,,1.0%,Mon,Africa/Lagos
 04/11/2013,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2013#detail=48198,,,,Mon,Africa/Lagos
 04/11/2013,00:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44549,0.8%,0.5%,0.5%,Mon,Africa/Lagos
-04/11/2013,,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44424,-0.1%,,0.2%,Mon,Africa/Lagos
-04/11/2013,,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44377,1.9%,2.3%,2.7%,Mon,Africa/Lagos
+04/11/2013,00:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44424,-0.1%,,0.2%,Mon,Africa/Lagos
+04/11/2013,00:30,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44377,1.9%,2.3%,2.7%,Mon,Africa/Lagos
 04/11/2013,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47237,50.9,51.0,50.7,Mon,Africa/Lagos
 04/11/2013,08:45,EUR,orange,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47233,50.7,51.1,50.8,Mon,Africa/Lagos
 04/11/2013,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=59033,49.1,49.4,49.4,Mon,Africa/Lagos
 04/11/2013,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=59035,51.7,51.5,51.5,Mon,Africa/Lagos
 04/11/2013,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47229,51.3,51.3,51.3,Mon,Africa/Lagos
 04/11/2013,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=november.2013#detail=47729,9.3,6.6,6.1,Mon,Africa/Lagos
-04/11/2013,,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=45822,59.4,58.9,58.9,Mon,Africa/Lagos
+04/11/2013,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=45822,59.4,58.9,58.9,Mon,Africa/Lagos
 04/11/2013,Aug Data,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46393,-0.1%,0.2%,-2.8%,Mon,Africa/Lagos
 04/11/2013,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46394,1.7%,1.9%,-0.1%,Mon,Africa/Lagos
 04/11/2013,16:40,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52402,,,,Mon,Africa/Lagos
@@ -40,19 +40,19 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 05/11/2013,00:00,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46143,0.8%,,0.7%,Tue,Africa/Lagos
 05/11/2013,01:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=54044,52.6,,52.4,Tue,Africa/Lagos
 05/11/2013,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=44240,2.50%,2.50%,2.50%,Tue,Africa/Lagos
-05/11/2013,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=november.2013#detail=44241,,,,Tue,Africa/Lagos
+05/11/2013,03:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=november.2013#detail=44241,,,,Tue,Africa/Lagos
 05/11/2013,05:30,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52404,,,,Tue,Africa/Lagos
 05/11/2013,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=november.2013#detail=47440,87.0K,31.3K,25.6K,Tue,Africa/Lagos
 05/11/2013,08:15,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45388,-0.1%,0.1%,0.3%,Tue,Africa/Lagos
 05/11/2013,09:30,EUR,orange,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=november.2013#detail=48849,,,,Tue,Africa/Lagos
-05/11/2013,,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=45836,62.5,60.4,60.3,Tue,Africa/Lagos
+05/11/2013,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=45836,62.5,60.4,60.3,Tue,Africa/Lagos
 05/11/2013,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46876,0.1%,0.3%,0.0%,Tue,Africa/Lagos
 05/11/2013,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=november.2013#detail=56310,-1.8%,,-1.9%,Tue,Africa/Lagos
 05/11/2013,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=46756,55.4,54.2,54.4,Tue,Africa/Lagos
-05/11/2013,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=november.2013#detail=48076,41.4,41.1,38.4,Tue,Africa/Lagos
+05/11/2013,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=november.2013#detail=48076,41.4,41.1,38.4,Tue,Africa/Lagos
 05/11/2013,21:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44637,1.2%,0.5%,0.4%,Tue,Africa/Lagos
-05/11/2013,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=44638,6.2%,6.2%,6.4%,Tue,Africa/Lagos
-05/11/2013,,NZD,yellow,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44666,0.4%,0.5%,0.4%,Tue,Africa/Lagos
+05/11/2013,21:45,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=44638,6.2%,6.2%,6.4%,Tue,Africa/Lagos
+05/11/2013,21:45,NZD,yellow,Labor Cost Index q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44666,0.4%,0.5%,0.4%,Tue,Africa/Lagos
 05/11/2013,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2013#detail=44941,,,,Tue,Africa/Lagos
 06/11/2013,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46119,-0.5%,,-0.2%,Wed,Africa/Lagos
 06/11/2013,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=44550,-0.28B,-0.51B,-0.69B,Wed,Africa/Lagos
@@ -64,18 +64,18 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 06/11/2013,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=59222,52.9,52.3,52.3,Wed,Africa/Lagos
 06/11/2013,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47265,51.6,50.9,50.9,Wed,Africa/Lagos
 06/11/2013,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46180,1.2%,1.2%,-1.2%,Wed,Africa/Lagos
-06/11/2013,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46168,0.9%,0.7%,-1.1%,Wed,Africa/Lagos
+06/11/2013,09:30,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46168,0.9%,0.7%,-1.1%,Wed,Africa/Lagos
 06/11/2013,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46900,-0.6%,-0.3%,0.5%,Wed,Africa/Lagos
 06/11/2013,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47055,3.3%,0.6%,-0.3%,Wed,Africa/Lagos
 06/11/2013,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45693,-4.2%,,19.1%,Wed,Africa/Lagos
 06/11/2013,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47956,1.7%,7.8%,-20.0%,Wed,Africa/Lagos
 06/11/2013,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=46799,62.8,54.7,51.9,Wed,Africa/Lagos
-06/11/2013,,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=november.2013#detail=46216,0.7%,,0.8%,Wed,Africa/Lagos
-06/11/2013,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=48062,0.7%,0.7%,0.7%,Wed,Africa/Lagos
+06/11/2013,15:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=november.2013#detail=46216,0.7%,,0.8%,Wed,Africa/Lagos
+06/11/2013,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=48062,0.7%,0.7%,0.7%,Wed,Africa/Lagos
 06/11/2013,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2013#detail=45628,1.6M,1.7M,4.1M,Wed,Africa/Lagos
 06/11/2013,22:26,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=november.2013#detail=44287,54.4,,47.6,Wed,Africa/Lagos
 07/11/2013,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=november.2013#detail=44410,1.1K,10.3K,3.3K,Thu,Africa/Lagos
-07/11/2013,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=44411,5.7%,5.7%,5.7%,Thu,Africa/Lagos
+07/11/2013,00:30,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=44411,5.7%,5.7%,5.7%,Thu,Africa/Lagos
 07/11/2013,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=november.2013#detail=45224,109.5%,109.4%,106.8%,Thu,Africa/Lagos
 07/11/2013,06:45,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=november.2013#detail=45365,-5,-2,-9,Thu,Africa/Lagos
 07/11/2013,08:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=november.2013#detail=45344,435B,,433B,Thu,Africa/Lagos
@@ -83,12 +83,12 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 07/11/2013,09:58,EUR,orange,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2013#detail=47598,2.41|2.0,,2.37|1.9,Thu,Africa/Lagos
 07/11/2013,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47044,-0.9%,0.2%,1.6%,Thu,Africa/Lagos
 07/11/2013,12:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=november.2013#detail=45752,375B,375B,375B,Thu,Africa/Lagos
-07/11/2013,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=45754,0.50%,0.50%,0.50%,Thu,Africa/Lagos
+07/11/2013,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=45754,0.50%,0.50%,0.50%,Thu,Africa/Lagos
 07/11/2013,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=45717,0.25%,0.50%,0.50%,Thu,Africa/Lagos
 07/11/2013,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=november.2013#detail=45716,,,,Thu,Africa/Lagos
-07/11/2013,,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46539,2.8%,2.0%,2.5%,Thu,Africa/Lagos
-07/11/2013,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2013#detail=45524,336K,336K,345K,Thu,Africa/Lagos
-07/11/2013,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46552,1.9%,1.5%,0.6%,Thu,Africa/Lagos
+07/11/2013,13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46539,2.8%,2.0%,2.5%,Thu,Africa/Lagos
+07/11/2013,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2013#detail=45524,336K,336K,345K,Thu,Africa/Lagos
+07/11/2013,13:30,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46552,1.9%,1.5%,0.6%,Thu,Africa/Lagos
 07/11/2013,15:00,USD,orange,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=november.2013#detail=46637,6.41%,,6.96%,Thu,Africa/Lagos
 07/11/2013,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2013#detail=45575,35B,40B,38B,Thu,Africa/Lagos
 07/11/2013,18:30,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52411,,,,Thu,Africa/Lagos
@@ -100,36 +100,36 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 08/11/2013,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=45460,3.2%,3.2%,3.2%,Fri,Africa/Lagos
 08/11/2013,07:00,EUR,orange,German Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=47019,18.8B,17.2B,15.8B,Fri,Africa/Lagos
 08/11/2013,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46995,-0.5%,0.4%,0.7%,Fri,Africa/Lagos
-08/11/2013,,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=47478,-80.8B,,-93.6B,Fri,Africa/Lagos
-08/11/2013,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=47007,-5.8B,-4.7B,-5.1B,Fri,Africa/Lagos
+08/11/2013,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=47478,-80.8B,,-93.6B,Fri,Africa/Lagos
+08/11/2013,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=47007,-5.8B,-4.7B,-5.1B,Fri,Africa/Lagos
 08/11/2013,08:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45412,1.0%,2.6%,2.5%,Fri,Africa/Lagos
 08/11/2013,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=46131,-9.8B,-9.1B,-9.6B,Fri,Africa/Lagos
-08/11/2013,,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=54211,-0.9%,1.3%,0.1%,Fri,Africa/Lagos
+08/11/2013,09:30,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=54211,-0.9%,1.3%,0.1%,Fri,Africa/Lagos
 08/11/2013,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=november.2013#detail=46821,198K,192K,196K,Fri,Africa/Lagos
 08/11/2013,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=november.2013#detail=47850,13.2K,12.7K,11.9K,Fri,Africa/Lagos
-08/11/2013,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=47852,6.9%,7.0%,6.9%,Fri,Africa/Lagos
-08/11/2013,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=november.2013#detail=45666,204K,121K,163K,Fri,Africa/Lagos
-08/11/2013,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=45667,7.3%,7.3%,7.2%,Fri,Africa/Lagos
-08/11/2013,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45668,0.1%,0.2%,0.1%,Fri,Africa/Lagos
-08/11/2013,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46452,0.1%,0.1%,0.1%,Fri,Africa/Lagos
-08/11/2013,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46450,0.2%,0.3%,0.3%,Fri,Africa/Lagos
-08/11/2013,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46429,0.5%,0.3%,0.5%,Fri,Africa/Lagos
+08/11/2013,13:30,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=47852,6.9%,7.0%,6.9%,Fri,Africa/Lagos
+08/11/2013,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=november.2013#detail=45666,204K,121K,163K,Fri,Africa/Lagos
+08/11/2013,13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=45667,7.3%,7.3%,7.2%,Fri,Africa/Lagos
+08/11/2013,13:30,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45668,0.1%,0.2%,0.1%,Fri,Africa/Lagos
+08/11/2013,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46452,0.1%,0.1%,0.1%,Fri,Africa/Lagos
+08/11/2013,13:30,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46450,0.2%,0.3%,0.3%,Fri,Africa/Lagos
+08/11/2013,13:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46429,0.5%,0.3%,0.5%,Fri,Africa/Lagos
 08/11/2013,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2013#detail=46690,72.0,74.6,73.2,Fri,Africa/Lagos
-08/11/2013,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2013#detail=46691,3.1%,,3.0%,Fri,Africa/Lagos
+08/11/2013,14:55,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2013#detail=46691,3.1%,,3.0%,Fri,Africa/Lagos
 08/11/2013,18:10,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52412,,,,Fri,Africa/Lagos
 08/11/2013,20:30,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52406,,,,Fri,Africa/Lagos
 09/11/2013,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=39650,3.2%,3.3%,3.1%,Sat,Africa/Lagos
-09/11/2013,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=44817,-1.5%,-1.3%,-1.3%,Sat,Africa/Lagos
+09/11/2013,01:30,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=44817,-1.5%,-1.3%,-1.3%,Sat,Africa/Lagos
 09/11/2013,05:30,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=44851,10.3%,10.1%,10.2%,Sat,Africa/Lagos
-09/11/2013,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2013#detail=44850,20.1%,20.2%,20.2%,Sat,Africa/Lagos
-09/11/2013,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=44852,13.3%,13.4%,13.3%,Sat,Africa/Lagos
+09/11/2013,05:30,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2013#detail=44850,20.1%,20.2%,20.2%,Sat,Africa/Lagos
+09/11/2013,05:30,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=44852,13.3%,13.4%,13.3%,Sat,Africa/Lagos
 10/11/2013,23:50,JPY,orange,Current Account,https://www.forexfactory.com/calendar?month=november.2013#detail=45188,-0.13T,-0.10T,0.35T,Sun,Africa/Lagos
-10/11/2013,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45176,2.0%,,2.0%,Sun,Africa/Lagos
+10/11/2013,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45176,2.0%,,2.0%,Sun,Africa/Lagos
 11/11/2013,00:30,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44340,4.4%,3.6%,-4.0%,Mon,Africa/Lagos
 11/11/2013,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=november.2013#detail=45069,51.8,54.2,52.8,Mon,Africa/Lagos
 11/11/2013,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=november.2013#detail=48266,,,,Mon,Africa/Lagos
 11/11/2013,08:09,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=november.2013#detail=44884,506B,581B,787B,Mon,Africa/Lagos
-11/11/2013,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=44885,14.3%,14.2%,14.2%,Mon,Africa/Lagos
+11/11/2013,08:09,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=44885,14.3%,14.2%,14.2%,Mon,Africa/Lagos
 11/11/2013,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47109,0.2%,0.2%,-0.2%,Mon,Africa/Lagos
 11/11/2013,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2013#detail=48153,,,,Mon,Africa/Lagos
 11/11/2013,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2013#detail=48182,,,,Mon,Africa/Lagos
@@ -137,77 +137,77 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 11/11/2013,19:25,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=november.2013#detail=48420,91.6,93.5,93.9,Mon,Africa/Lagos
 11/11/2013,21:00,NZD,yellow,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44625,1.6%,,0.8%,Mon,Africa/Lagos
 11/11/2013,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45296,-0.2%,0.2%,0.6%,Mon,Africa/Lagos
-11/11/2013,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45004,4.1%,3.9%,3.9%,Mon,Africa/Lagos
+11/11/2013,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45004,4.1%,3.9%,3.9%,Mon,Africa/Lagos
 12/11/2013,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=45889,57%,59%,53%,Tue,Africa/Lagos
 12/11/2013,00:30,AUD,red,NAB Business Confidence,https://www.forexfactory.com/calendar?month=november.2013#detail=44301,5,,12,Tue,Africa/Lagos
 12/11/2013,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2013#detail=52413,1.62|4.4,,1.63|4.1,Tue,Africa/Lagos
 12/11/2013,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2013#detail=45057,41.2,46.3,45.4,Tue,Africa/Lagos
 12/11/2013,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45272,8.4%,,-6.3%,Tue,Africa/Lagos
 12/11/2013,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47397,-0.2%,-0.2%,-0.2%,Tue,Africa/Lagos
-12/11/2013,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47351,-1.0%,0.3%,0.7%,Tue,Africa/Lagos
+12/11/2013,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47351,-1.0%,0.3%,0.7%,Tue,Africa/Lagos
 12/11/2013,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46059,2.2%,2.5%,2.7%,Tue,Africa/Lagos
-12/11/2013,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46095,-0.6%,-0.8%,-1.0%,Tue,Africa/Lagos
-12/11/2013,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46083,2.6%,3.0%,3.2%,Tue,Africa/Lagos
-12/11/2013,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46071,1.7%,2.0%,2.2%,Tue,Africa/Lagos
-12/11/2013,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45941,3.8%,4.1%,3.7%,Tue,Africa/Lagos
-12/11/2013,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46107,-0.3%,0.0%,0.0%,Tue,Africa/Lagos
+12/11/2013,09:30,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46095,-0.6%,-0.8%,-1.0%,Tue,Africa/Lagos
+12/11/2013,09:30,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46083,2.6%,3.0%,3.2%,Tue,Africa/Lagos
+12/11/2013,09:30,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46071,1.7%,2.0%,2.2%,Tue,Africa/Lagos
+12/11/2013,09:30,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45941,3.8%,4.1%,3.7%,Tue,Africa/Lagos
+12/11/2013,09:30,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46107,-0.3%,0.0%,0.0%,Tue,Africa/Lagos
 12/11/2013,10:00,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=48280,1.5%,,1.2%,Tue,Africa/Lagos
 12/11/2013,20:00,NZD,red,RBNZ Financial Stability Report,https://www.forexfactory.com/calendar?month=november.2013#detail=44555,,,,Tue,Africa/Lagos
 12/11/2013,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44681,-1.0%,,0.0%,Tue,Africa/Lagos
 12/11/2013,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2013#detail=44328,1.9%,,-2.1%,Tue,Africa/Lagos
 12/11/2013,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45212,-2.1%,-1.8%,5.4%,Tue,Africa/Lagos
-12/11/2013,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45152,2.5%,2.5%,2.2%,Tue,Africa/Lagos
+12/11/2013,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45152,2.5%,2.5%,2.2%,Tue,Africa/Lagos
 13/11/2013,00:00,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52420,,,,Wed,Africa/Lagos
 13/11/2013,00:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44510,-0.7%,,-0.3%,Wed,Africa/Lagos
-13/11/2013,,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44436,0.5%,0.8%,0.7%,Wed,Africa/Lagos
+13/11/2013,00:30,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44436,0.5%,0.8%,0.7%,Wed,Africa/Lagos
 13/11/2013,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=november.2013#detail=46035,-41.7K,-33.2K,-44.7K,Wed,Africa/Lagos
-13/11/2013,,GBP,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=46023,7.6%,7.6%,7.7%,Wed,Africa/Lagos
-13/11/2013,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46047,0.7%,0.7%,0.8%,Wed,Africa/Lagos
+13/11/2013,09:30,GBP,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=46023,7.6%,7.6%,7.7%,Wed,Africa/Lagos
+13/11/2013,09:30,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46047,0.7%,0.7%,0.8%,Wed,Africa/Lagos
 13/11/2013,10:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46912,-0.5%,-0.2%,1.0%,Wed,Africa/Lagos
 13/11/2013,10:30,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=49417,,,,Wed,Africa/Lagos
-13/11/2013,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=november.2013#detail=45984,,,,Wed,Africa/Lagos
+13/11/2013,10:30,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=november.2013#detail=45984,,,,Wed,Africa/Lagos
 13/11/2013,12:10,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52419,,,,Wed,Africa/Lagos
 13/11/2013,18:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2013#detail=47681,2.75|2.7,,2.66|2.6,Wed,Africa/Lagos
 13/11/2013,19:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=44214,-91.6B,-104.3B,75.1B,Wed,Africa/Lagos
 13/11/2013,21:30,NZD,orange,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2013#detail=44591,55.7,,54.2,Wed,Africa/Lagos
 13/11/2013,21:45,NZD,red,Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44690,0.3%,0.9%,1.5%,Wed,Africa/Lagos
-13/11/2013,,NZD,orange,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44689,-0.1%,1.4%,2.1%,Wed,Africa/Lagos
+13/11/2013,21:45,NZD,orange,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44689,-0.1%,1.4%,2.1%,Wed,Africa/Lagos
 13/11/2013,23:50,JPY,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=45315,0.5%,0.4%,0.9%,Wed,Africa/Lagos
-13/11/2013,,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45314,-0.3%,-0.5%,-0.5%,Wed,Africa/Lagos
+13/11/2013,23:50,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45314,-0.3%,-0.5%,-0.5%,Wed,Africa/Lagos
 14/11/2013,00:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2013#detail=44327,1.9%,,2.0%,Thu,Africa/Lagos
-14/11/2013,,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52415,,,,Thu,Africa/Lagos
+14/11/2013,00:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52415,,,,Thu,Africa/Lagos
 14/11/2013,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45248,1.3%,1.5%,1.5%,Thu,Africa/Lagos
 14/11/2013,06:30,EUR,orange,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46972,-0.1%,0.1%,0.5%,Thu,Africa/Lagos
 14/11/2013,07:00,EUR,orange,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=47063,0.3%,0.3%,0.7%,Thu,Africa/Lagos
 14/11/2013,07:45,EUR,orange,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=47451,-0.1%,-0.1%,-0.2%,Thu,Africa/Lagos
-14/11/2013,,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47353,-0.1%,0.0%,-0.2%,Thu,Africa/Lagos
+14/11/2013,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47353,-0.1%,0.0%,-0.2%,Thu,Africa/Lagos
 14/11/2013,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45400,-0.4%,0.3%,0.1%,Thu,Africa/Lagos
 14/11/2013,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=november.2013#detail=47466,,,,Thu,Africa/Lagos
-14/11/2013,,EUR,orange,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=47102,-0.1%,-0.2%,-0.3%,Thu,Africa/Lagos
+14/11/2013,09:00,EUR,orange,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=47102,-0.1%,-0.2%,-0.3%,Thu,Africa/Lagos
 14/11/2013,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46192,-0.7%,0.0%,0.6%,Thu,Africa/Lagos
 14/11/2013,10:00,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46936,0.1%,0.2%,0.3%,Thu,Africa/Lagos
 14/11/2013,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=november.2013#detail=52416,,,,Thu,Africa/Lagos
 14/11/2013,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=47927,-0.4B,-1.2B,-1.1B,Thu,Africa/Lagos
-14/11/2013,,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47811,0.0%,0.2%,0.1%,Thu,Africa/Lagos
-14/11/2013,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=46300,-41.8B,-38.7B,-38.7B,Thu,Africa/Lagos
-14/11/2013,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2013#detail=45525,339K,331K,341K,Thu,Africa/Lagos
-14/11/2013,,USD,orange,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46561,1.9%,1.3%,2.3%,Thu,Africa/Lagos
-14/11/2013,,USD,orange,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46565,-0.6%,1.1%,0.0%,Thu,Africa/Lagos
+14/11/2013,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47811,0.0%,0.2%,0.1%,Thu,Africa/Lagos
+14/11/2013,13:30,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=46300,-41.8B,-38.7B,-38.7B,Thu,Africa/Lagos
+14/11/2013,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2013#detail=45525,339K,331K,341K,Thu,Africa/Lagos
+14/11/2013,13:30,USD,orange,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46561,1.9%,1.3%,2.3%,Thu,Africa/Lagos
+14/11/2013,13:30,USD,orange,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46565,-0.6%,1.1%,0.0%,Thu,Africa/Lagos
 14/11/2013,15:00,USD,red,Fed Chair Yellen Testifies,https://www.forexfactory.com/calendar?month=november.2013#detail=52421,,,,Thu,Africa/Lagos
 14/11/2013,15:30,CAD,yellow,BOC Review,https://www.forexfactory.com/calendar?month=november.2013#detail=46806,,,,Thu,Africa/Lagos
-14/11/2013,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2013#detail=45576,20B,21B,35B,Thu,Africa/Lagos
+14/11/2013,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2013#detail=45576,20B,21B,35B,Thu,Africa/Lagos
 14/11/2013,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2013#detail=45627,2.6M,0.7M,1.6M,Thu,Africa/Lagos
 14/11/2013,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2013#detail=47717,3.81|2.2,,3.76|2.6,Thu,Africa/Lagos
 14/11/2013,18:45,GBP,orange,MPC Member Miles Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52759,,,,Thu,Africa/Lagos
 15/11/2013,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=47085,0.79B,1.63B,1.07B,Fri,Africa/Lagos
 15/11/2013,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46864,0.7%,0.7%,0.7%,Fri,Africa/Lagos
-15/11/2013,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46852,0.8%,0.8%,0.8%,Fri,Africa/Lagos
+15/11/2013,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46852,0.8%,0.8%,0.8%,Fri,Africa/Lagos
 15/11/2013,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=november.2013#detail=52417,,,,Fri,Africa/Lagos
 15/11/2013,13:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47824,0.6%,0.5%,0.0%,Fri,Africa/Lagos
-15/11/2013,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2013#detail=48017,-2.2,5.2,1.5,Fri,Africa/Lagos
-15/11/2013,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46526,-0.7%,-0.4%,0.1%,Fri,Africa/Lagos
+15/11/2013,13:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2013#detail=48017,-2.2,5.2,1.5,Fri,Africa/Lagos
+15/11/2013,13:30,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46526,-0.7%,-0.4%,0.1%,Fri,Africa/Lagos
 15/11/2013,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=46418,78.1%,78.3%,78.3%,Fri,Africa/Lagos
-15/11/2013,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46406,-0.1%,0.1%,0.7%,Fri,Africa/Lagos
+15/11/2013,14:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46406,-0.1%,0.1%,0.7%,Fri,Africa/Lagos
 15/11/2013,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46276,0.4%,0.5%,0.8%,Fri,Africa/Lagos
 17/11/2013,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=november.2013#detail=127139,58.2,,56.2,Sun,Africa/Lagos
 17/11/2013,23:48,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45901,-2.4%,,2.8%,Sun,Africa/Lagos
@@ -223,18 +223,18 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 18/11/2013,23:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=48321,0.3%,,-0.2%,Mon,Africa/Lagos
 19/11/2013,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2013#detail=44252,,,,Tue,Africa/Lagos
 19/11/2013,02:00,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=november.2013#detail=44909,5.8%,,6.2%,Tue,Africa/Lagos
-19/11/2013,,NZD,orange,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44596,2.34%,,2.36%,Tue,Africa/Lagos
+19/11/2013,02:00,NZD,orange,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44596,2.34%,,2.36%,Tue,Africa/Lagos
 19/11/2013,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2013#detail=47968,54.6,54.6,52.8,Tue,Africa/Lagos
-19/11/2013,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2013#detail=47980,60.2,63.1,59.1,Tue,Africa/Lagos
+19/11/2013,10:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=november.2013#detail=47980,60.2,63.1,59.1,Tue,Africa/Lagos
 19/11/2013,10:34,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2013#detail=47665,2.73|1.8,,2.74|1.8,Tue,Africa/Lagos
 19/11/2013,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=november.2013#detail=56311,0.1%,,-1.8%,Tue,Africa/Lagos
-19/11/2013,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46557,0.4%,0.5%,0.5%,Tue,Africa/Lagos
+19/11/2013,13:30,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46557,0.4%,0.5%,0.5%,Tue,Africa/Lagos
 19/11/2013,13:45,USD,orange,Treasury Sec Lew Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52898,,,,Tue,Africa/Lagos
 19/11/2013,15:00,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52900,,,,Tue,Africa/Lagos
 19/11/2013,19:15,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52888,,,,Tue,Africa/Lagos
 19/11/2013,20:00,USD,yellow,President Obama Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52978,,,,Tue,Africa/Lagos
 19/11/2013,21:45,NZD,orange,PPI Input q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44657,2.2%,0.6%,0.6%,Tue,Africa/Lagos
-19/11/2013,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44658,2.4%,1.0%,1.0%,Tue,Africa/Lagos
+19/11/2013,21:45,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44658,2.4%,1.0%,1.0%,Tue,Africa/Lagos
 19/11/2013,22:45,CAD,orange,Gov Council Member Murray Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52885,,,,Tue,Africa/Lagos
 19/11/2013,Sep Data,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=53912,-0.1%,,0.3%,Tue,Africa/Lagos
 19/11/2013,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44509,0.1%,,-0.1%,Tue,Africa/Lagos
@@ -245,18 +245,18 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 20/11/2013,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45200,0.4%,0.5%,0.3%,Wed,Africa/Lagos
 20/11/2013,07:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47377,-0.2%,0.1%,0.3%,Wed,Africa/Lagos
 20/11/2013,09:30,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=november.2013#detail=49182,0-0-9,0-0-9,0-0-9,Wed,Africa/Lagos
-20/11/2013,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=november.2013#detail=45978,0-0-9,0-0-9,0-0-9,Wed,Africa/Lagos
+20/11/2013,09:30,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=november.2013#detail=45978,0-0-9,0-0-9,0-0-9,Wed,Africa/Lagos
 20/11/2013,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=november.2013#detail=45376,31.6,,24.9,Wed,Africa/Lagos
 20/11/2013,10:20,GBP,orange,MPC Member Dale Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52981,,,,Wed,Africa/Lagos
 20/11/2013,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47771,0.2%,0.4%,0.4%,Wed,Africa/Lagos
-20/11/2013,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46478,0.1%,0.1%,0.1%,Wed,Africa/Lagos
-20/11/2013,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46366,0.2%,0.1%,0.3%,Wed,Africa/Lagos
-20/11/2013,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=128552,1.0%,1.0%,1.2%,Wed,Africa/Lagos
-20/11/2013,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46379,0.4%,0.1%,0.0%,Wed,Africa/Lagos
-20/11/2013,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46490,-0.1%,0.0%,0.2%,Wed,Africa/Lagos
+20/11/2013,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46478,0.1%,0.1%,0.1%,Wed,Africa/Lagos
+20/11/2013,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46366,0.2%,0.1%,0.3%,Wed,Africa/Lagos
+20/11/2013,13:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=128552,1.0%,1.0%,1.2%,Wed,Africa/Lagos
+20/11/2013,13:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46379,0.4%,0.1%,0.0%,Wed,Africa/Lagos
+20/11/2013,13:30,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46490,-0.1%,0.0%,0.2%,Wed,Africa/Lagos
 20/11/2013,15:00,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=november.2013#detail=46620,5.12M,5.17M,5.29M,Wed,Africa/Lagos
-20/11/2013,,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46318,0.6%,0.3%,0.4%,Wed,Africa/Lagos
-20/11/2013,,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52891,,,,Wed,Africa/Lagos
+20/11/2013,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46318,0.6%,0.3%,0.4%,Wed,Africa/Lagos
+20/11/2013,15:00,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52891,,,,Wed,Africa/Lagos
 20/11/2013,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2013#detail=45629,0.4M,-0.2M,2.6M,Wed,Africa/Lagos
 20/11/2013,17:10,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52892,,,,Wed,Africa/Lagos
 20/11/2013,18:30,GBP,orange,MPC Member Weale Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52982,,,,Wed,Africa/Lagos
@@ -268,22 +268,22 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 21/11/2013,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=45436,2.43B,2.45B,2.40B,Thu,Africa/Lagos
 21/11/2013,07:19,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=november.2013#detail=44978,,,,Thu,Africa/Lagos
 21/11/2013,08:00,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47180,47.8,49.6,49.1,Thu,Africa/Lagos
-21/11/2013,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47185,48.8,51.3,50.9,Thu,Africa/Lagos
+21/11/2013,08:00,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47185,48.8,51.3,50.9,Thu,Africa/Lagos
 21/11/2013,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47189,52.5,52.3,51.7,Thu,Africa/Lagos
-21/11/2013,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47193,54.5,53.1,52.9,Thu,Africa/Lagos
+21/11/2013,08:30,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47193,54.5,53.1,52.9,Thu,Africa/Lagos
 21/11/2013,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47197,51.5,51.6,51.3,Thu,Africa/Lagos
-21/11/2013,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47201,50.9,51.9,51.6,Thu,Africa/Lagos
+21/11/2013,09:00,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47201,50.9,51.9,51.6,Thu,Africa/Lagos
 21/11/2013,09:05,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52893,,,,Thu,Africa/Lagos
 21/11/2013,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=november.2013#detail=46228,6.4B,4.8B,8.6B,Thu,Africa/Lagos
 21/11/2013,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=november.2013#detail=45848,11,0,-4,Thu,Africa/Lagos
 21/11/2013,11:30,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=53135,,,,Thu,Africa/Lagos
 21/11/2013,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46502,-0.2%,-0.2%,-0.1%,Thu,Africa/Lagos
-21/11/2013,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2013#detail=45526,323K,333K,344K,Thu,Africa/Lagos
-21/11/2013,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46514,0.2%,0.1%,0.1%,Thu,Africa/Lagos
+21/11/2013,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2013#detail=45526,323K,333K,344K,Thu,Africa/Lagos
+21/11/2013,13:30,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46514,0.2%,0.1%,0.1%,Thu,Africa/Lagos
 21/11/2013,14:00,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=46780,54.3,52.6,51.8,Thu,Africa/Lagos
 21/11/2013,14:45,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52979,,,,Thu,Africa/Lagos
 21/11/2013,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2013#detail=47741,-15,-14,-15,Thu,Africa/Lagos
-21/11/2013,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2013#detail=48053,6.5,15.8,19.8,Thu,Africa/Lagos
+21/11/2013,15:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2013#detail=48053,6.5,15.8,19.8,Thu,Africa/Lagos
 21/11/2013,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2013#detail=45577,-45B,-34B,20B,Thu,Africa/Lagos
 21/11/2013,16:00,EUR,red,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52983,,,,Thu,Africa/Lagos
 21/11/2013,18:00,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52894,,,,Thu,Africa/Lagos
@@ -293,12 +293,12 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 22/11/2013,07:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=47064,0.3%,0.3%,0.3%,Fri,Africa/Lagos
 22/11/2013,08:55,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=53134,,,,Fri,Africa/Lagos
 22/11/2013,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=november.2013#detail=47309,109.3,107.9,107.4,Fri,Africa/Lagos
-22/11/2013,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47097,-0.3%,0.4%,0.0%,Fri,Africa/Lagos
+22/11/2013,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47097,-0.3%,0.4%,0.0%,Fri,Africa/Lagos
 22/11/2013,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=november.2013#detail=53136,,,,Fri,Africa/Lagos
 22/11/2013,13:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47915,0.2%,0.0%,0.2%,Fri,Africa/Lagos
-22/11/2013,,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47796,0.0%,0.2%,0.5%,Fri,Africa/Lagos
-22/11/2013,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47913,-0.2%,0.2%,0.2%,Fri,Africa/Lagos
-22/11/2013,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47793,1.0%,0.3%,0.1%,Fri,Africa/Lagos
+22/11/2013,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47796,0.0%,0.2%,0.5%,Fri,Africa/Lagos
+22/11/2013,13:30,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47913,-0.2%,0.2%,0.2%,Fri,Africa/Lagos
+22/11/2013,13:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47793,1.0%,0.3%,0.1%,Fri,Africa/Lagos
 22/11/2013,13:40,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=52895,,,,Fri,Africa/Lagos
 22/11/2013,14:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=november.2013#detail=47297,-4.3,-6.9,-7.7,Fri,Africa/Lagos
 22/11/2013,15:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=november.2013#detail=49352,3.91M,3.89M,3.84M,Fri,Africa/Lagos
@@ -311,13 +311,13 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 25/11/2013,21:15,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=53304,,,,Mon,Africa/Lagos
 25/11/2013,22:15,AUD,orange,RBA Deputy Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=53137,,,,Mon,Africa/Lagos
 25/11/2013,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=november.2013#detail=51506,,,,Mon,Africa/Lagos
-25/11/2013,,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45164,0.8%,0.9%,0.7%,Mon,Africa/Lagos
+25/11/2013,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45164,0.8%,0.9%,0.7%,Mon,Africa/Lagos
 26/11/2013,10:00,GBP,red,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=november.2013#detail=46000,,,,Tue,Africa/Lagos
 26/11/2013,Sep Data,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=november.2013#detail=46587,0.97M,0.94M,0.93M,Tue,Africa/Lagos
 26/11/2013,13:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=47800,1.5%,,-0.8%,Tue,Africa/Lagos
-26/11/2013,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=november.2013#detail=46588,1.03M,0.94M,0.97M,Tue,Africa/Lagos
+26/11/2013,13:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=november.2013#detail=46588,1.03M,0.94M,0.97M,Tue,Africa/Lagos
 26/11/2013,14:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46648,13.3%,13.0%,12.8%,Tue,Africa/Lagos
-26/11/2013,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46608,0.3%,0.5%,0.4%,Tue,Africa/Lagos
+26/11/2013,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46608,0.3%,0.5%,0.4%,Tue,Africa/Lagos
 26/11/2013,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=november.2013#detail=48028,13,3,1,Tue,Africa/Lagos
 26/11/2013,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2013#detail=46708,70.4,72.2,72.4,Tue,Africa/Lagos
 26/11/2013,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=november.2013#detail=44724,-168M,-345M,-216M,Tue,Africa/Lagos
@@ -325,23 +325,23 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 27/11/2013,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=november.2013#detail=45424,1.28,,1.56,Wed,Africa/Lagos
 27/11/2013,09:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=november.2013#detail=47752,7.4,7.1,7.1,Wed,Africa/Lagos
 27/11/2013,09:30,GBP,red,Second Estimate GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46245,0.8%,0.8%,0.8%,Wed,Africa/Lagos
-27/11/2013,,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46249,1.4%,2.3%,-2.7%,Wed,Africa/Lagos
-27/11/2013,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=november.2013#detail=46156,0.7%,0.4%,0.6%,Wed,Africa/Lagos
+27/11/2013,09:30,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=46249,1.4%,2.3%,-2.7%,Wed,Africa/Lagos
+27/11/2013,09:30,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=november.2013#detail=46156,0.7%,0.4%,0.6%,Wed,Africa/Lagos
 27/11/2013,10:33,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2013#detail=47588,1.69|1.7,,1.71|1.7,Wed,Africa/Lagos
 27/11/2013,11:00,EUR,yellow,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=november.2013#detail=58840,,,,Wed,Africa/Lagos
-27/11/2013,,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=november.2013#detail=45861,1,12,2,Wed,Africa/Lagos
+27/11/2013,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=november.2013#detail=45861,1,12,2,Wed,Africa/Lagos
 27/11/2013,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46342,-0.1%,0.5%,-0.2%,Wed,Africa/Lagos
-27/11/2013,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2013#detail=45527,316K,331K,326K,Wed,Africa/Lagos
-27/11/2013,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46354,-2.0%,-1.5%,3.8%,Wed,Africa/Lagos
+27/11/2013,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=november.2013#detail=45527,316K,331K,326K,Wed,Africa/Lagos
+27/11/2013,13:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46354,-2.0%,-1.5%,3.8%,Wed,Africa/Lagos
 27/11/2013,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=46720,63.0,60.6,65.9,Wed,Africa/Lagos
 27/11/2013,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=november.2013#detail=46692,75.1,73.1,72.0,Wed,Africa/Lagos
-27/11/2013,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2013#detail=46693,2.9%,,3.1%,Wed,Africa/Lagos
+27/11/2013,14:55,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=november.2013#detail=46693,2.9%,,3.1%,Wed,Africa/Lagos
 27/11/2013,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=48065,0.2%,0.1%,0.9%,Wed,Africa/Lagos
 27/11/2013,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=november.2013#detail=45630,3.0M,0.5M,0.4M,Wed,Africa/Lagos
 27/11/2013,17:00,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=november.2013#detail=45578,-13B,-11B,-45B,Wed,Africa/Lagos
 27/11/2013,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45260,2.3%,2.2%,3.0%,Wed,Africa/Lagos
 28/11/2013,00:00,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44363,-3.8%,,6.4%,Thu,Africa/Lagos
-28/11/2013,,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=november.2013#detail=48298,60.5,,53.2,Thu,Africa/Lagos
+28/11/2013,00:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=november.2013#detail=48298,60.5,,53.2,Thu,Africa/Lagos
 28/11/2013,00:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=44516,3.6%,-1.1%,1.6%,Thu,Africa/Lagos
 28/11/2013,06:45,CHF,orange,GDP q/q,https://www.forexfactory.com/calendar?month=november.2013#detail=45469,0.5%,0.5%,0.5%,Thu,Africa/Lagos
 28/11/2013,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47366,-0.7%,-0.2%,0.0%,Thu,Africa/Lagos
@@ -349,38 +349,38 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 28/11/2013,08:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=54174,0.2%,0.1%,-0.1%,Thu,Africa/Lagos
 28/11/2013,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=november.2013#detail=47417,10K,0K,3K,Thu,Africa/Lagos
 28/11/2013,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=48096,1.4%,1.8%,2.0%,Thu,Africa/Lagos
-28/11/2013,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=48097,-2.1%,-1.9%,-2.0%,Thu,Africa/Lagos
+28/11/2013,09:00,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=48097,-2.1%,-1.9%,-2.0%,Thu,Africa/Lagos
 28/11/2013,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=47285,48.0,,47.7,Thu,Africa/Lagos
 28/11/2013,10:10,EUR,orange,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2013#detail=47629,4.01|1.5,,4.11|1.5,Thu,Africa/Lagos
 28/11/2013,10:30,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=november.2013#detail=53138,,,,Thu,Africa/Lagos
-28/11/2013,,GBP,orange,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=november.2013#detail=45992,,,,Thu,Africa/Lagos
-28/11/2013,,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=november.2013#detail=57070,,,,Thu,Africa/Lagos
+28/11/2013,10:30,GBP,orange,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=november.2013#detail=45992,,,,Thu,Africa/Lagos
+28/11/2013,10:30,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=november.2013#detail=57070,,,,Thu,Africa/Lagos
 28/11/2013,10:33,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=november.2013#detail=47670,3.61|1.7,,3.74|1.5,Thu,Africa/Lagos
 28/11/2013,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=november.2013#detail=48183,,,,Thu,Africa/Lagos
 28/11/2013,13:30,CAD,orange,Current Account,https://www.forexfactory.com/calendar?month=november.2013#detail=47945,-15.5B,-14.3B,-15.9B,Thu,Africa/Lagos
-28/11/2013,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47876,-2.3%,-2.1%,-1.2%,Thu,Africa/Lagos
-28/11/2013,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47874,-0.3%,-0.3%,-0.2%,Thu,Africa/Lagos
+28/11/2013,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47876,-2.3%,-2.1%,-1.2%,Thu,Africa/Lagos
+28/11/2013,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47874,-0.3%,-0.3%,-0.2%,Thu,Africa/Lagos
 28/11/2013,21:45,NZD,orange,Building Consents m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44626,-0.6%,,1.4%,Thu,Africa/Lagos
 28/11/2013,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=november.2013#detail=45028,55.1,,54.2,Thu,Africa/Lagos
 28/11/2013,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45139,0.9%,1.2%,3.7%,Thu,Africa/Lagos
-28/11/2013,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45114,0.6%,0.4%,0.3%,Thu,Africa/Lagos
-28/11/2013,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45113,0.9%,0.9%,0.7%,Thu,Africa/Lagos
-28/11/2013,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=45091,4.0%,3.9%,4.0%,Thu,Africa/Lagos
+28/11/2013,23:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45114,0.6%,0.4%,0.3%,Thu,Africa/Lagos
+28/11/2013,23:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45113,0.9%,0.9%,0.7%,Thu,Africa/Lagos
+28/11/2013,23:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=45091,4.0%,3.9%,4.0%,Thu,Africa/Lagos
 28/11/2013,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45236,0.5%,2.1%,1.5%,Thu,Africa/Lagos
 29/11/2013,00:05,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=november.2013#detail=45877,-12,-8,-11,Fri,Africa/Lagos
 29/11/2013,00:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=44527,0.3%,0.4%,0.3%,Fri,Africa/Lagos
 29/11/2013,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=45040,7.1%,5.5%,19.4%,Fri,Africa/Lagos
 29/11/2013,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47031,-0.8%,0.5%,-0.6%,Fri,Africa/Lagos
-29/11/2013,,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45925,0.6%,0.6%,1.0%,Fri,Africa/Lagos
+29/11/2013,07:00,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=45925,0.6%,0.6%,1.0%,Fri,Africa/Lagos
 29/11/2013,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46983,-0.2%,0.3%,-0.1%,Fri,Africa/Lagos
 29/11/2013,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=november.2013#detail=45448,1.85,1.82,1.71,Fri,Africa/Lagos
 29/11/2013,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=47442,12.5%,12.5%,12.5%,Fri,Africa/Lagos
-29/11/2013,,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=47447,12.3%,12.2%,12.1%,Fri,Africa/Lagos
+29/11/2013,09:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=47447,12.3%,12.2%,12.1%,Fri,Africa/Lagos
 29/11/2013,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46204,1.7B,2.1B,2.2B,Fri,Africa/Lagos
-29/11/2013,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46011,0.1%,1.1%,0.5%,Fri,Africa/Lagos
-29/11/2013,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=november.2013#detail=45913,68K,68K,67K,Fri,Africa/Lagos
+29/11/2013,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=46011,0.1%,1.1%,0.5%,Fri,Africa/Lagos
+29/11/2013,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=november.2013#detail=45913,68K,68K,67K,Fri,Africa/Lagos
 29/11/2013,10:00,EUR,red,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=46841,0.9%,0.8%,0.7%,Fri,Africa/Lagos
-29/11/2013,,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=54113,1.0%,,0.8%,Fri,Africa/Lagos
-29/11/2013,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=46889,12.1%,12.2%,12.2%,Fri,Africa/Lagos
-29/11/2013,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47330,-0.4%,0.2%,-0.2%,Fri,Africa/Lagos
+29/11/2013,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=november.2013#detail=54113,1.0%,,0.8%,Fri,Africa/Lagos
+29/11/2013,10:00,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=november.2013#detail=46889,12.1%,12.2%,12.2%,Fri,Africa/Lagos
+29/11/2013,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47330,-0.4%,0.2%,-0.2%,Fri,Africa/Lagos
 29/11/2013,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=november.2013#detail=47891,0.3%,0.1%,0.3%,Fri,Africa/Lagos

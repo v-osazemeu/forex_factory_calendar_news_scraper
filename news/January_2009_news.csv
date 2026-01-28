@@ -21,21 +21,21 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 02/01/2009,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=58966,32.7,33.4,33.5,Fri,Africa/Lagos
 02/01/2009,09:00,EUR,orange,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=10925,33.9,34.5,34.5,Fri,Africa/Lagos
 02/01/2009,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=10836,34.9,33.5,34.5,Fri,Africa/Lagos
-02/01/2009,,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=january.2009#detail=13123,,,,Fri,Africa/Lagos
-02/01/2009,,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13253,1.5B,1.1B,1.2B,Fri,Africa/Lagos
-02/01/2009,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=january.2009#detail=12395,27K,33K,31K,Fri,Africa/Lagos
+02/01/2009,09:30,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=january.2009#detail=13123,,,,Fri,Africa/Lagos
+02/01/2009,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13253,1.5B,1.1B,1.2B,Fri,Africa/Lagos
+02/01/2009,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=january.2009#detail=12395,27K,33K,31K,Fri,Africa/Lagos
 02/01/2009,10:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12249,-2.2%,-1.6%,-2.7%,Fri,Africa/Lagos
 02/01/2009,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=10724,32.4,35.5,36.2,Fri,Africa/Lagos
-02/01/2009,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=january.2009#detail=10725,18.0,20.5,25.5,Fri,Africa/Lagos
+02/01/2009,15:00,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=january.2009#detail=10725,18.0,20.5,25.5,Fri,Africa/Lagos
 03/01/2009,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=42295,48.9,,45.4,Sat,Africa/Lagos
 03/01/2009,22:30,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14814,,,,Sat,Africa/Lagos
-03/01/2009,,USD,orange,FOMC Member Kroszner Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14816,,,,Sat,Africa/Lagos
+03/01/2009,22:30,USD,orange,FOMC Member Kroszner Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14816,,,,Sat,Africa/Lagos
 04/01/2009,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=18315,41.2,,38.8,Sun,Africa/Lagos
 04/01/2009,18:15,USD,orange,FOMC Member Yellen Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14817,,,,Sun,Africa/Lagos
 04/01/2009,22:30,USD,orange,FOMC Member Yellen Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14818,,,,Sun,Africa/Lagos
 05/01/2009,08:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=11098,36.9,34.8,35.2,Mon,Africa/Lagos
 05/01/2009,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=january.2009#detail=13770,-34.4,-44.0,-42.3,Mon,Africa/Lagos
-05/01/2009,,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=10841,29.3,30.5,31.8,Mon,Africa/Lagos
+05/01/2009,09:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=10841,29.3,30.5,31.8,Mon,Africa/Lagos
 05/01/2009,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=9490,-0.1%,-0.2%,-0.4%,Mon,Africa/Lagos
 05/01/2009,15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11115,-0.6%,-1.3%,-0.4%,Mon,Africa/Lagos
 05/01/2009,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=january.2009#detail=12956,10.3M,10.0M,10.2M,Mon,Africa/Lagos
@@ -53,11 +53,11 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 06/01/2009,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=10838,40.2,39.0,40.1,Tue,Africa/Lagos
 06/01/2009,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13722,1.6%,1.8%,2.1%,Tue,Africa/Lagos
 06/01/2009,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12772,-13.4%,-9.0%,-12.9%,Tue,Africa/Lagos
-06/01/2009,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12771,-2.6%,-0.9%,-0.1%,Tue,Africa/Lagos
-06/01/2009,,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=january.2009#detail=56213,-8.6%,,-13.8%,Tue,Africa/Lagos
+06/01/2009,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12771,-2.6%,-0.9%,-0.1%,Tue,Africa/Lagos
+06/01/2009,13:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=january.2009#detail=56213,-8.6%,,-13.8%,Tue,Africa/Lagos
 06/01/2009,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=10726,40.6,36.9,37.3,Tue,Africa/Lagos
-06/01/2009,,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13327,-4.0%,-0.9%,-4.2%,Tue,Africa/Lagos
-06/01/2009,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11535,-4.6%,-2.5%,-6.0%,Tue,Africa/Lagos
+06/01/2009,15:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13327,-4.0%,-0.9%,-4.2%,Tue,Africa/Lagos
+06/01/2009,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11535,-4.6%,-2.5%,-6.0%,Tue,Africa/Lagos
 06/01/2009,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=january.2009#detail=14833,,,,Tue,Africa/Lagos
 06/01/2009,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=12851,-520M,-838M,-996M,Tue,Africa/Lagos
 07/01/2009,00:06,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=14475,-1.1%,,4.5%,Wed,Africa/Lagos
@@ -76,7 +76,7 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 07/01/2009,17:00,USD,yellow,Treasury Sec Paulson Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15085,,,,Wed,Africa/Lagos
 07/01/2009,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=january.2009#detail=10830,30.9,,32.0,Wed,Africa/Lagos
 08/01/2009,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12820,-12.8%,-1.4%,-3.1%,Thu,Africa/Lagos
-08/01/2009,,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=12819,1.45B,2.05B,2.96B,Thu,Africa/Lagos
+08/01/2009,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=12819,1.45B,2.05B,2.96B,Thu,Africa/Lagos
 08/01/2009,01:00,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15089,,,,Thu,Africa/Lagos
 08/01/2009,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2009#detail=48998,1.28|2.3,,1.38|2.9,Thu,Africa/Lagos
 08/01/2009,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13576,2.8%,2.8%,2.7%,Thu,Africa/Lagos
@@ -84,12 +84,12 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 08/01/2009,08:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=january.2009#detail=43992,139.7K,,171.2K,Thu,Africa/Lagos
 08/01/2009,08:15,CHF,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13536,-0.5%,-0.4%,-0.7%,Thu,Africa/Lagos
 08/01/2009,10:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2009#detail=13676,-30,-26,-25,Thu,Africa/Lagos
-08/01/2009,,EUR,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=21671,-0.2%,-0.2%,-0.2%,Thu,Africa/Lagos
-08/01/2009,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13646,7.8%,7.8%,7.7%,Thu,Africa/Lagos
+08/01/2009,10:00,EUR,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=21671,-0.2%,-0.2%,-0.2%,Thu,Africa/Lagos
+08/01/2009,10:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13646,7.8%,7.8%,7.7%,Thu,Africa/Lagos
 08/01/2009,10:03,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2009#detail=43346,3.67|1.6,,4.28|3.1,Thu,Africa/Lagos
 08/01/2009,11:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11684,-6.0%,-1.8%,-6.3%,Thu,Africa/Lagos
 08/01/2009,12:00,GBP,red,MPC Rate Statement,https://www.forexfactory.com/calendar?month=january.2009#detail=11621,,,,Thu,Africa/Lagos
-08/01/2009,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=11622,1.50%,1.50%,2.00%,Thu,Africa/Lagos
+08/01/2009,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=11622,1.50%,1.50%,2.00%,Thu,Africa/Lagos
 08/01/2009,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2009#detail=14679,467K,545K,491K,Thu,Africa/Lagos
 08/01/2009,15:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=13854,39.1,37.5,40.2,Thu,Africa/Lagos
 08/01/2009,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2009#detail=11712,-47B,-78B,-143B,Thu,Africa/Lagos
@@ -102,21 +102,21 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 09/01/2009,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=january.2009#detail=14408,81.5%,81.4%,85.2%,Fri,Africa/Lagos
 09/01/2009,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=9069,0.7%,0.4%,-2.2%,Fri,Africa/Lagos
 09/01/2009,07:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13878,-2.4%,-0.7%,-3.7%,Fri,Africa/Lagos
-09/01/2009,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=13866,-6.2B,-6.2B,-7.0B,Fri,Africa/Lagos
+09/01/2009,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=13866,-6.2B,-6.2B,-7.0B,Fri,Africa/Lagos
 09/01/2009,08:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15084,,,,Fri,Africa/Lagos
 09/01/2009,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=10805,-2.9%,-0.5%,-1.4%,Fri,Africa/Lagos
-09/01/2009,,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12457,-2.0%,-2.0%,-3.0%,Fri,Africa/Lagos
-09/01/2009,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=10804,-2.3%,-0.5%,-1.6%,Fri,Africa/Lagos
-09/01/2009,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12458,0.0%,-0.7%,-0.8%,Fri,Africa/Lagos
+09/01/2009,09:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12457,-2.0%,-2.0%,-3.0%,Fri,Africa/Lagos
+09/01/2009,09:30,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=10804,-2.3%,-0.5%,-1.6%,Fri,Africa/Lagos
+09/01/2009,09:30,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12458,0.0%,-0.7%,-0.8%,Fri,Africa/Lagos
 09/01/2009,10:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12986,0.6%,0.1%,-1.0%,Fri,Africa/Lagos
 09/01/2009,11:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11671,-3.1%,-2.0%,-1.8%,Fri,Africa/Lagos
 09/01/2009,12:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=january.2009#detail=13448,-34.4K,-21.0K,-70.6K,Fri,Africa/Lagos
-09/01/2009,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13447,6.6%,6.5%,6.3%,Fri,Africa/Lagos
+09/01/2009,12:00,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13447,6.6%,6.5%,6.3%,Fri,Africa/Lagos
 09/01/2009,13:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=january.2009#detail=14194,177K,170K,178K,Fri,Africa/Lagos
 09/01/2009,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13494,-11.8%,-4.5%,-15.5%,Fri,Africa/Lagos
-09/01/2009,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=january.2009#detail=10591,-524K,-520K,-584K,Fri,Africa/Lagos
-09/01/2009,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=10592,7.2%,7.0%,6.7%,Fri,Africa/Lagos
-09/01/2009,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=10593,0.3%,0.2%,0.4%,Fri,Africa/Lagos
+09/01/2009,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=january.2009#detail=10591,-524K,-520K,-584K,Fri,Africa/Lagos
+09/01/2009,13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=10592,7.2%,7.0%,6.7%,Fri,Africa/Lagos
+09/01/2009,13:30,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=10593,0.3%,0.2%,0.4%,Fri,Africa/Lagos
 09/01/2009,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11696,-0.6%,-0.8%,-1.2%,Fri,Africa/Lagos
 09/01/2009,17:30,USD,orange,FOMC Member Lacker Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14516,,,,Fri,Africa/Lagos
 10/01/2009,00:01,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=january.2009#detail=13265,-1.5%,,-1.1%,Sat,Africa/Lagos
@@ -129,12 +129,12 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 12/01/2009,17:40,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14837,,,,Mon,Africa/Lagos
 12/01/2009,21:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=january.2009#detail=11874,-64,,-19,Mon,Africa/Lagos
 12/01/2009,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13829,3.7%,,3.2%,Mon,Africa/Lagos
-12/01/2009,,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=january.2009#detail=14518,0.65T,0.62T,1.11T,Mon,Africa/Lagos
-12/01/2009,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14324,1.8%,1.7%,1.8%,Mon,Africa/Lagos
+12/01/2009,23:50,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=january.2009#detail=14518,0.65T,0.62T,1.11T,Mon,Africa/Lagos
+12/01/2009,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14324,1.8%,1.7%,1.8%,Mon,Africa/Lagos
 13/01/2009,00:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=12693,-3.3%,,-2.6%,Tue,Africa/Lagos
-13/01/2009,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=12298,-74%,-74%,-76%,Tue,Africa/Lagos
+13/01/2009,00:01,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=12298,-74%,-74%,-76%,Tue,Africa/Lagos
 13/01/2009,02:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=january.2009#detail=24355,772B,,477B,Tue,Africa/Lagos
-13/01/2009,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=24260,17.8%,15.0%,14.8%,Tue,Africa/Lagos
+13/01/2009,02:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=24260,17.8%,15.0%,14.8%,Tue,Africa/Lagos
 13/01/2009,04:00,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=18369,39.0B,34.0B,40.1B,Tue,Africa/Lagos
 13/01/2009,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=january.2009#detail=14407,15.9,20.4,21.0,Tue,Africa/Lagos
 13/01/2009,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11894,-3.0%,-1.7%,-3.3%,Tue,Africa/Lagos
@@ -147,12 +147,12 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 13/01/2009,12:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=january.2009#detail=48362,85.2,,87.8,Tue,Africa/Lagos
 13/01/2009,13:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14515,,,,Tue,Africa/Lagos
 13/01/2009,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=13222,1.3B,3.2B,2.3B,Tue,Africa/Lagos
-13/01/2009,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=11523,-40.4B,-51.4B,-56.7B,Tue,Africa/Lagos
+13/01/2009,13:30,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=11523,-40.4B,-51.4B,-56.7B,Tue,Africa/Lagos
 13/01/2009,14:30,USD,yellow,Assist Treasury Sec Kashkari Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15092,,,,Tue,Africa/Lagos
 13/01/2009,15:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=january.2009#detail=49293,2.79M,,3.00M,Tue,Africa/Lagos
-13/01/2009,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=january.2009#detail=14731,45.4,43.5,45.0,Tue,Africa/Lagos
+13/01/2009,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=january.2009#detail=14731,45.4,43.5,45.0,Tue,Africa/Lagos
 13/01/2009,19:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=14806,-83.6B,-82.0B,-164.4B,Tue,Africa/Lagos
-13/01/2009,,USD,orange,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15225,,,,Tue,Africa/Lagos
+13/01/2009,19:00,USD,orange,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15225,,,,Tue,Africa/Lagos
 13/01/2009,21:45,NZD,red,Building Consents m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12932,4.3%,,-19.7%,Tue,Africa/Lagos
 13/01/2009,22:00,USD,orange,FOMC Member Lacker Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14801,,,,Tue,Africa/Lagos
 14/01/2009,00:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13083,1.3%,1.0%,1.4%,Wed,Africa/Lagos
@@ -161,46 +161,46 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 14/01/2009,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=14358,-2.3%,-1.3%,-2.0%,Wed,Africa/Lagos
 14/01/2009,10:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13758,-1.6%,-2.1%,-1.6%,Wed,Africa/Lagos
 14/01/2009,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11414,-3.1%,-1.3%,-2.5%,Wed,Africa/Lagos
-14/01/2009,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11415,-2.7%,-1.2%,-2.1%,Wed,Africa/Lagos
-14/01/2009,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11547,-4.2%,-5.4%,-7.0%,Wed,Africa/Lagos
+14/01/2009,13:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11415,-2.7%,-1.2%,-2.1%,Wed,Africa/Lagos
+14/01/2009,13:30,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11547,-4.2%,-5.4%,-7.0%,Wed,Africa/Lagos
 14/01/2009,15:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11609,-0.7%,-0.5%,-0.6%,Wed,Africa/Lagos
 14/01/2009,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2009#detail=14621,1.2M,2.1M,6.7M,Wed,Africa/Lagos
 14/01/2009,19:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=january.2009#detail=10991,,,,Wed,Africa/Lagos
 14/01/2009,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13783,-16.2%,-8.2%,-4.4%,Wed,Africa/Lagos
-14/01/2009,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13782,1.1%,0.8%,2.8%,Wed,Africa/Lagos
+14/01/2009,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13782,1.1%,0.8%,2.8%,Wed,Africa/Lagos
 15/01/2009,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=january.2009#detail=13510,-1.2K,-21.0K,-16.2K,Thu,Africa/Lagos
-15/01/2009,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13509,4.5%,4.5%,4.4%,Thu,Africa/Lagos
-15/01/2009,,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=january.2009#detail=11378,,,,Thu,Africa/Lagos
+15/01/2009,00:30,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13509,4.5%,4.5%,4.4%,Thu,Africa/Lagos
+15/01/2009,00:30,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=january.2009#detail=11378,,,,Thu,Africa/Lagos
 15/01/2009,02:10,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=january.2009#detail=19306,23.6%,,26.3%,Thu,Africa/Lagos
 15/01/2009,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11847,0.3%,0.3%,0.3%,Thu,Africa/Lagos
 15/01/2009,10:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13724,1.8%,1.8%,1.9%,Thu,Africa/Lagos
-15/01/2009,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13723,1.6%,1.6%,1.6%,Thu,Africa/Lagos
+15/01/2009,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13723,1.6%,1.6%,1.6%,Thu,Africa/Lagos
 15/01/2009,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=10627,2.00%,2.00%,2.50%,Thu,Africa/Lagos
 15/01/2009,13:30,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13424,-7.0%,-7.3%,-1.8%,Thu,Africa/Lagos
-15/01/2009,,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=january.2009#detail=10628,,,,Thu,Africa/Lagos
-15/01/2009,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11475,-1.9%,-2.0%,-2.2%,Thu,Africa/Lagos
-15/01/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2009#detail=14680,524K,512K,470K,Thu,Africa/Lagos
-15/01/2009,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11476,0.2%,0.1%,0.1%,Thu,Africa/Lagos
-15/01/2009,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2009#detail=14002,-22.2,-25.0,-25.8,Thu,Africa/Lagos
+15/01/2009,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=january.2009#detail=10628,,,,Thu,Africa/Lagos
+15/01/2009,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11475,-1.9%,-2.0%,-2.2%,Thu,Africa/Lagos
+15/01/2009,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2009#detail=14680,524K,512K,470K,Thu,Africa/Lagos
+15/01/2009,13:30,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11476,0.2%,0.1%,0.1%,Thu,Africa/Lagos
+15/01/2009,13:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2009#detail=14002,-22.2,-25.0,-25.8,Thu,Africa/Lagos
 15/01/2009,15:00,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2009#detail=10972,-24.3,-35.0,-32.9,Thu,Africa/Lagos
-15/01/2009,,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15224,,,,Thu,Africa/Lagos
+15/01/2009,15:00,USD,yellow,FOMC Member Tarullo Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15224,,,,Thu,Africa/Lagos
 15/01/2009,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2009#detail=11713,-94B,-105B,-47B,Thu,Africa/Lagos
 15/01/2009,16:00,CHF,orange,Gov Board Member Jordan Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=13372,,,,Thu,Africa/Lagos
 15/01/2009,18:40,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14813,,,,Thu,Africa/Lagos
-15/01/2009,,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15086,,,,Thu,Africa/Lagos
+15/01/2009,18:40,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15086,,,,Thu,Africa/Lagos
 15/01/2009,20:45,USD,orange,FOMC Member Yellen Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14675,,,,Thu,Africa/Lagos
 16/01/2009,00:30,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15087,,,,Fri,Africa/Lagos
 16/01/2009,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13548,-0.7%,-0.6%,-1.4%,Fri,Africa/Lagos
 16/01/2009,08:30,GBP,orange,MPC Member Gieve Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15090,,,,Fri,Africa/Lagos
 16/01/2009,09:59,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=13710,-4.9B,-4.8B,-2.1B,Fri,Africa/Lagos
 16/01/2009,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11500,0.0%,0.1%,0.0%,Fri,Africa/Lagos
-16/01/2009,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=128494,0.1%,-0.2%,1.1%,Fri,Africa/Lagos
-16/01/2009,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11499,-0.7%,-0.8%,-1.7%,Fri,Africa/Lagos
+16/01/2009,13:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=128494,0.1%,-0.2%,1.1%,Fri,Africa/Lagos
+16/01/2009,13:30,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11499,-0.7%,-0.8%,-1.7%,Fri,Africa/Lagos
 16/01/2009,14:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=january.2009#detail=12137,-21.7B,11.0B,-0.4B,Fri,Africa/Lagos
 16/01/2009,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=11130,73.6%,74.6%,75.2%,Fri,Africa/Lagos
-16/01/2009,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11129,-2.0%,-0.9%,-1.3%,Fri,Africa/Lagos
+16/01/2009,14:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11129,-2.0%,-0.9%,-1.3%,Fri,Africa/Lagos
 16/01/2009,14:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2009#detail=10675,61.9,59.2,60.1,Fri,Africa/Lagos
-16/01/2009,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2009#detail=10713,2.0%,,1.7%,Fri,Africa/Lagos
+16/01/2009,14:55,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2009#detail=10713,2.0%,,1.7%,Fri,Africa/Lagos
 16/01/2009,17:00,CHF,orange,Gov Board Member Hildebrand Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=13373,,,,Fri,Africa/Lagos
 16/01/2009,17:15,USD,orange,FOMC Member Lacker Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=14676,,,,Fri,Africa/Lagos
 18/01/2009,23:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13097,-0.2%,,-0.6%,Sun,Africa/Lagos
@@ -214,32 +214,32 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 19/01/2009,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2009#detail=12011,,,,Mon,Africa/Lagos
 19/01/2009,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=january.2009#detail=12807,-4.30B,1.20B,2.84B,Mon,Africa/Lagos
 19/01/2009,21:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=12887,-0.5%,-0.4%,1.5%,Mon,Africa/Lagos
-19/01/2009,,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13990,-0.2%,,0.8%,Mon,Africa/Lagos
+19/01/2009,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13990,-0.2%,,0.8%,Mon,Africa/Lagos
 19/01/2009,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=14336,-0.9%,-0.8%,0.5%,Mon,Africa/Lagos
 20/01/2009,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2009#detail=49066,1.88|3.3,,2.43|3.2,Tue,Africa/Lagos
 20/01/2009,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2009#detail=14519,26.2,27.2,28.4,Tue,Africa/Lagos
 20/01/2009,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13138,3.1%,2.6%,4.1%,Tue,Africa/Lagos
-20/01/2009,,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13139,1.1%,1.4%,2.0%,Tue,Africa/Lagos
-20/01/2009,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13140,0.9%,0.8%,3.0%,Tue,Africa/Lagos
+20/01/2009,09:30,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13139,1.1%,1.4%,2.0%,Tue,Africa/Lagos
+20/01/2009,09:30,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13140,0.9%,0.8%,3.0%,Tue,Africa/Lagos
 20/01/2009,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=january.2009#detail=11914,-31.0,-43.5,-45.2,Tue,Africa/Lagos
-20/01/2009,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=january.2009#detail=11915,-30.8,-46.0,-46.1,Tue,Africa/Lagos
+20/01/2009,10:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=january.2009#detail=11915,-30.8,-46.0,-46.1,Tue,Africa/Lagos
 20/01/2009,13:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13412,-6.4%,-2.9%,-0.2%,Tue,Africa/Lagos
 20/01/2009,14:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=january.2009#detail=10554,,,,Tue,Africa/Lagos
-20/01/2009,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=10553,1.00%,1.00%,1.50%,Tue,Africa/Lagos
+20/01/2009,14:00,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=10553,1.00%,1.00%,1.50%,Tue,Africa/Lagos
 20/01/2009,20:20,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15240,,,,Tue,Africa/Lagos
 20/01/2009,21:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12864,0.3%,0.0%,0.8%,Tue,Africa/Lagos
-20/01/2009,,NZD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12863,0.0%,-0.9%,-1.3%,Tue,Africa/Lagos
+20/01/2009,21:45,NZD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12863,0.0%,-0.9%,-1.3%,Tue,Africa/Lagos
 20/01/2009,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2009#detail=14766,-2.2%,,7.5%,Tue,Africa/Lagos
 21/01/2009,07:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11859,-1.0%,-1.1%,-1.5%,Wed,Africa/Lagos
 21/01/2009,08:00,EUR,yellow,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15242,,,,Wed,Africa/Lagos
 21/01/2009,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=14370,-1.08B,-1.75B,-0.06B,Wed,Africa/Lagos
 21/01/2009,09:30,EUR,red,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15227,,,,Wed,Africa/Lagos
-21/01/2009,,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=january.2009#detail=10729,77.9K,82.0K,83.1K,Wed,Africa/Lagos
-21/01/2009,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=january.2009#detail=11623,0-9-0,0-9-0,0-9-0,Wed,Africa/Lagos
-21/01/2009,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=january.2009#detail=10730,3.1%,3.3%,3.3%,Wed,Africa/Lagos
-21/01/2009,,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=january.2009#detail=13300,14.9B,10.8B,16.5B,Wed,Africa/Lagos
-21/01/2009,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13301,1.7%,0.9%,1.2%,Wed,Africa/Lagos
-21/01/2009,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=10731,6.1%,6.1%,6.0%,Wed,Africa/Lagos
+21/01/2009,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=january.2009#detail=10729,77.9K,82.0K,83.1K,Wed,Africa/Lagos
+21/01/2009,09:30,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=january.2009#detail=11623,0-9-0,0-9-0,0-9-0,Wed,Africa/Lagos
+21/01/2009,09:30,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=january.2009#detail=10730,3.1%,3.3%,3.3%,Wed,Africa/Lagos
+21/01/2009,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=january.2009#detail=13300,14.9B,10.8B,16.5B,Wed,Africa/Lagos
+21/01/2009,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13301,1.7%,0.9%,1.2%,Wed,Africa/Lagos
+21/01/2009,09:30,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=10731,6.1%,6.1%,6.0%,Wed,Africa/Lagos
 21/01/2009,09:45,GBP,orange,MPC Member Tucker Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15229,,,,Wed,Africa/Lagos
 21/01/2009,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13436,-1.6%,-1.6%,-1.6%,Wed,Africa/Lagos
 21/01/2009,15:00,USD,orange,Treasury Sec Geithner Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15241,,,,Wed,Africa/Lagos
@@ -250,26 +250,26 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 22/01/2009,00:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2009#detail=12737,2.7%,,2.5%,Thu,Africa/Lagos
 22/01/2009,00:30,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13071,1.8%,,-5.2%,Thu,Africa/Lagos
 22/01/2009,02:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=january.2009#detail=18420,6.8%,7.2%,9.0%,Thu,Africa/Lagos
-22/01/2009,,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=18461,5.7%,4.2%,5.4%,Thu,Africa/Lagos
-22/01/2009,,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=18518,1.2%,1.7%,2.4%,Thu,Africa/Lagos
-22/01/2009,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=january.2009#detail=19749,26.1%,26.0%,26.8%,Thu,Africa/Lagos
-22/01/2009,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=january.2009#detail=23233,,,,Thu,Africa/Lagos
-22/01/2009,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=18545,-1.1%,-0.1%,2.0%,Thu,Africa/Lagos
-22/01/2009,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=23245,19.0%,19.6%,20.8%,Thu,Africa/Lagos
+22/01/2009,02:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=18461,5.7%,4.2%,5.4%,Thu,Africa/Lagos
+22/01/2009,02:00,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=18518,1.2%,1.7%,2.4%,Thu,Africa/Lagos
+22/01/2009,02:00,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=january.2009#detail=19749,26.1%,26.0%,26.8%,Thu,Africa/Lagos
+22/01/2009,02:00,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=january.2009#detail=23233,,,,Thu,Africa/Lagos
+22/01/2009,02:00,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=18545,-1.1%,-0.1%,2.0%,Thu,Africa/Lagos
+22/01/2009,02:00,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=23245,19.0%,19.6%,20.8%,Thu,Africa/Lagos
 22/01/2009,04:43,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=january.2009#detail=13904,,,,Thu,Africa/Lagos
-22/01/2009,,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13902,0.10%,0.10%,0.10%,Thu,Africa/Lagos
+22/01/2009,04:43,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13902,0.10%,0.10%,0.10%,Thu,Africa/Lagos
 22/01/2009,07:35,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=january.2009#detail=13903,,,,Thu,Africa/Lagos
 22/01/2009,07:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13930,-0.9%,-0.2%,0.3%,Thu,Africa/Lagos
 22/01/2009,09:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=january.2009#detail=10663,,,,Thu,Africa/Lagos
 22/01/2009,10:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=january.2009#detail=13606,-66.7,,-76.2,Thu,Africa/Lagos
-22/01/2009,,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13664,-4.5%,-5.0%,-5.7%,Thu,Africa/Lagos
+22/01/2009,10:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13664,-4.5%,-5.0%,-5.7%,Thu,Africa/Lagos
 22/01/2009,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=january.2009#detail=12310,-48,-39,-35,Thu,Africa/Lagos
 22/01/2009,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13199,-2.3%,-1.5%,-1.3%,Thu,Africa/Lagos
-22/01/2009,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13198,-2.4%,-1.8%,-1.0%,Thu,Africa/Lagos
-22/01/2009,,CAD,yellow,Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13400,-0.6%,-0.7%,-0.6%,Thu,Africa/Lagos
-22/01/2009,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=january.2009#detail=11154,0.55M,0.60M,0.62M,Thu,Africa/Lagos
-22/01/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2009#detail=14681,589K,545K,527K,Thu,Africa/Lagos
-22/01/2009,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=january.2009#detail=11153,0.55M,0.61M,0.65M,Thu,Africa/Lagos
+22/01/2009,13:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13198,-2.4%,-1.8%,-1.0%,Thu,Africa/Lagos
+22/01/2009,13:30,CAD,yellow,Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13400,-0.6%,-0.7%,-0.6%,Thu,Africa/Lagos
+22/01/2009,13:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=january.2009#detail=11154,0.55M,0.60M,0.62M,Thu,Africa/Lagos
+22/01/2009,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2009#detail=14681,589K,545K,527K,Thu,Africa/Lagos
+22/01/2009,13:30,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=january.2009#detail=11153,0.55M,0.61M,0.65M,Thu,Africa/Lagos
 22/01/2009,15:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12597,-1.8%,-1.2%,-1.1%,Thu,Africa/Lagos
 22/01/2009,15:30,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=january.2009#detail=14320,,,,Thu,Africa/Lagos
 22/01/2009,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2009#detail=14622,6.1M,1.1M,1.2M,Thu,Africa/Lagos
@@ -278,18 +278,18 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 23/01/2009,00:30,AUD,yellow,Import Prices q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=12386,10.8%,5.3%,5.0%,Fri,Africa/Lagos
 23/01/2009,05:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=january.2009#detail=14091,,,,Fri,Africa/Lagos
 23/01/2009,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=14117,38.1,34.0,34.9,Fri,Africa/Lagos
-23/01/2009,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=14118,42.9,40.1,40.6,Fri,Africa/Lagos
-23/01/2009,,EUR,yellow,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=43869,13.9%,13.4%,11.3%,Fri,Africa/Lagos
+23/01/2009,08:00,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=14118,42.9,40.1,40.6,Fri,Africa/Lagos
+23/01/2009,08:00,EUR,yellow,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=43869,13.9%,13.4%,11.3%,Fri,Africa/Lagos
 23/01/2009,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=14119,32.0,32.0,32.7,Fri,Africa/Lagos
-23/01/2009,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=14120,45.4,45.5,46.6,Fri,Africa/Lagos
+23/01/2009,08:30,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=14120,45.4,45.5,46.6,Fri,Africa/Lagos
 23/01/2009,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=14121,34.5,33.3,33.9,Fri,Africa/Lagos
-23/01/2009,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=14122,42.5,41.7,42.1,Fri,Africa/Lagos
-23/01/2009,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=14394,-0.2%,-0.3%,-0.4%,Fri,Africa/Lagos
+23/01/2009,09:00,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=14122,42.5,41.7,42.1,Fri,Africa/Lagos
+23/01/2009,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=14394,-0.2%,-0.3%,-0.4%,Fri,Africa/Lagos
 23/01/2009,09:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=13237,-1.5%,-1.2%,-0.6%,Fri,Africa/Lagos
-23/01/2009,,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13174,1.6%,-0.7%,0.3%,Fri,Africa/Lagos
-23/01/2009,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=january.2009#detail=13277,-0.4%,-0.6%,-0.3%,Fri,Africa/Lagos
+23/01/2009,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13174,1.6%,-0.7%,0.3%,Fri,Africa/Lagos
+23/01/2009,09:30,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=january.2009#detail=13277,-0.4%,-0.6%,-0.3%,Fri,Africa/Lagos
 23/01/2009,12:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12909,-0.4%,-0.3%,0.7%,Fri,Africa/Lagos
-23/01/2009,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12908,-0.7%,-0.4%,-0.3%,Fri,Africa/Lagos
+23/01/2009,12:00,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12908,-0.7%,-0.4%,-0.3%,Fri,Africa/Lagos
 23/01/2009,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=january.2009#detail=14014,-27.7,-33.0,-31.3,Fri,Africa/Lagos
 23/01/2009,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2009#detail=11714,-176B,-174B,-94B,Fri,Africa/Lagos
 25/01/2009,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2009#detail=12751,,,,Sun,Africa/Lagos
@@ -299,14 +299,14 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 26/01/2009,14:59,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=january.2009#detail=13339,4.74M,4.40M,4.45M,Mon,Africa/Lagos
 26/01/2009,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=14026,0.3%,-0.2%,-0.4%,Mon,Africa/Lagos
 26/01/2009,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=january.2009#detail=13923,,,,Mon,Africa/Lagos
-26/01/2009,,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14105,-2.5%,-2.4%,-2.0%,Mon,Africa/Lagos
+26/01/2009,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14105,-2.5%,-2.4%,-2.0%,Mon,Africa/Lagos
 27/01/2009,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2009#detail=23295,,,,Tue,Africa/Lagos
 27/01/2009,00:30,AUD,red,PPI q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=12515,1.3%,0.4%,2.0%,Tue,Africa/Lagos
-27/01/2009,,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=january.2009#detail=13059,-20,,-30,Tue,Africa/Lagos
+27/01/2009,00:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=january.2009#detail=13059,-20,,-30,Tue,Africa/Lagos
 27/01/2009,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11882,-4.0%,-2.9%,-3.4%,Tue,Africa/Lagos
 27/01/2009,09:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=january.2009#detail=13630,1.15,,0.96,Tue,Africa/Lagos
-27/01/2009,,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=january.2009#detail=11938,83.0,81.0,82.7,Tue,Africa/Lagos
-27/01/2009,,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=january.2009#detail=13021,-16.0B,-8.0B,-6.0B,Tue,Africa/Lagos
+27/01/2009,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=january.2009#detail=11938,83.0,81.0,82.7,Tue,Africa/Lagos
+27/01/2009,09:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=january.2009#detail=13021,-16.0B,-8.0B,-6.0B,Tue,Africa/Lagos
 27/01/2009,11:00,GBP,red,CBI Realized Sales,https://www.forexfactory.com/calendar?month=january.2009#detail=12322,-47,-53,-55,Tue,Africa/Lagos
 27/01/2009,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13954,-18.2%,-18.4%,-18.1%,Tue,Africa/Lagos
 27/01/2009,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=january.2009#detail=12944,-49,-50,-55,Tue,Africa/Lagos
@@ -314,8 +314,8 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 27/01/2009,16:05,CAD,orange,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15591,,,,Tue,Africa/Lagos
 27/01/2009,21:00,CAD,orange,Annual Budget Release,https://www.forexfactory.com/calendar?month=january.2009#detail=14489,,,,Tue,Africa/Lagos
 27/01/2009,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=14079,-1.0%,,-0.2%,Tue,Africa/Lagos
-28/01/2009,00:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=12519,-0.3%,-0.4%,1.2%,Wed,Africa/Lagos
-28/01/2009,,AUD,orange,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=12520,0.6%,0.8%,1.2%,Wed,Africa/Lagos
+28/01/2009,00:30,AUD,red,CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12519,-0.3%,-0.4%,1.2%,Wed,Africa/Lagos
+28/01/2009,00:30,AUD,orange,Trimmed Mean CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12520,0.6%,0.8%,1.2%,Wed,Africa/Lagos
 28/01/2009,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2009#detail=23296,,,,Wed,Africa/Lagos
 28/01/2009,07:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=january.2009#detail=14207,2.2,2.0,2.2,Wed,Africa/Lagos
 28/01/2009,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11825,-0.5%,-0.3%,0.3%,Wed,Africa/Lagos
@@ -323,37 +323,37 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 28/01/2009,10:30,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=january.2009#detail=13618,-0.87,-0.53,-0.45,Wed,Africa/Lagos
 28/01/2009,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=january.2009#detail=14623,6.2M,2.8M,6.1M,Wed,Africa/Lagos
 28/01/2009,19:15,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=10537,<0.25%,<0.25%,<0.25%,Wed,Africa/Lagos
-28/01/2009,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=january.2009#detail=10538,,,,Wed,Africa/Lagos
+28/01/2009,19:15,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=january.2009#detail=10538,,,,Wed,Africa/Lagos
 28/01/2009,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=12580,3.50%,4.00%,5.00%,Wed,Africa/Lagos
-28/01/2009,,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=january.2009#detail=15868,,,,Wed,Africa/Lagos
-28/01/2009,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=january.2009#detail=12581,,,,Wed,Africa/Lagos
+28/01/2009,20:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=january.2009#detail=15868,,,,Wed,Africa/Lagos
+28/01/2009,20:00,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=january.2009#detail=12581,,,,Wed,Africa/Lagos
 28/01/2009,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=january.2009#detail=12852,-347M,-100M,-588M,Wed,Africa/Lagos
 28/01/2009,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14245,-2.7%,-1.6%,-0.9%,Wed,Africa/Lagos
 29/01/2009,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2009#detail=23297,,,,Thu,Africa/Lagos
 29/01/2009,07:00,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12421,-1.3%,-1.8%,-2.5%,Thu,Africa/Lagos
 29/01/2009,08:52,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=january.2009#detail=11802,56K,32K,33K,Thu,Africa/Lagos
 29/01/2009,09:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13689,7.3%,7.6%,7.7%,Thu,Africa/Lagos
-29/01/2009,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13688,5.8%,6.5%,7.1%,Thu,Africa/Lagos
-29/01/2009,,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=43600,44.0,,41.4,Thu,Africa/Lagos
+29/01/2009,09:00,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13688,5.8%,6.5%,7.1%,Thu,Africa/Lagos
+29/01/2009,09:00,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=43600,44.0,,41.4,Thu,Africa/Lagos
 29/01/2009,Day 2,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2009#detail=15593,,,,Thu,Africa/Lagos
 29/01/2009,10:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2009#detail=13677,-31,-31,-30,Thu,Africa/Lagos
 29/01/2009,10:32,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=january.2009#detail=43377,4.62|1.5,,4.43|1.4,Thu,Africa/Lagos
 29/01/2009,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12774,-15.4%,-10.1%,-13.4%,Thu,Africa/Lagos
-29/01/2009,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12773,-1.9%,-2.1%,-2.7%,Thu,Africa/Lagos
-29/01/2009,,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11318,-3.6%,-2.6%,-1.7%,Thu,Africa/Lagos
-29/01/2009,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2009#detail=14682,588K,580K,585K,Thu,Africa/Lagos
-29/01/2009,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11317,-2.6%,-1.9%,-3.7%,Thu,Africa/Lagos
+29/01/2009,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12773,-1.9%,-2.1%,-2.7%,Thu,Africa/Lagos
+29/01/2009,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11318,-3.6%,-2.6%,-1.7%,Thu,Africa/Lagos
+29/01/2009,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=january.2009#detail=14682,588K,580K,585K,Thu,Africa/Lagos
+29/01/2009,13:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=11317,-2.6%,-1.9%,-3.7%,Thu,Africa/Lagos
 29/01/2009,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=january.2009#detail=11058,331K,395K,388K,Thu,Africa/Lagos
 29/01/2009,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=january.2009#detail=11715,-186B,-180B,-176B,Thu,Africa/Lagos
 29/01/2009,17:00,GBP,orange,MPC Member Blanchflower Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15589,,,,Thu,Africa/Lagos
 29/01/2009,21:45,NZD,red,Building Consents m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12933,-6.0%,,4.0%,Thu,Africa/Lagos
 29/01/2009,23:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=14067,-1.0%,,-0.2%,Thu,Africa/Lagos
-29/01/2009,,NZD,red,RBNZ Gov Bollard Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15865,,,,Thu,Africa/Lagos
+29/01/2009,23:00,NZD,red,RBNZ Gov Bollard Speaks,https://www.forexfactory.com/calendar?month=january.2009#detail=15865,,,,Thu,Africa/Lagos
 29/01/2009,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=14502,29.6,,30.8,Thu,Africa/Lagos
 29/01/2009,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14521,-4.6%,-3.6%,-0.5%,Thu,Africa/Lagos
-29/01/2009,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14219,0.5%,0.6%,0.8%,Thu,Africa/Lagos
-29/01/2009,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14220,0.2%,0.3%,1.0%,Thu,Africa/Lagos
-29/01/2009,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=14244,4.4%,4.1%,3.9%,Thu,Africa/Lagos
+29/01/2009,23:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14219,0.5%,0.6%,0.8%,Thu,Africa/Lagos
+29/01/2009,23:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14220,0.2%,0.3%,1.0%,Thu,Africa/Lagos
+29/01/2009,23:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=14244,4.4%,4.1%,3.9%,Thu,Africa/Lagos
 29/01/2009,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=14243,-9.6%,-8.9%,-8.5%,Thu,Africa/Lagos
 30/01/2009,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=january.2009#detail=23298,,,,Fri,Africa/Lagos
 30/01/2009,00:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=january.2009#detail=12433,-37,-35,-33,Fri,Africa/Lagos
@@ -361,13 +361,14 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 30/01/2009,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=14520,-5.8%,-7.6%,0.0%,Fri,Africa/Lagos
 30/01/2009,Day 3,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2009#detail=15594,,,,Fri,Africa/Lagos
 30/01/2009,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=13254,2.2B,1.3B,1.6B,Fri,Africa/Lagos
-30/01/2009,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=january.2009#detail=12396,31K,27K,27K,Fri,Africa/Lagos
+30/01/2009,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=january.2009#detail=12396,31K,27K,27K,Fri,Africa/Lagos
 30/01/2009,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=january.2009#detail=13725,1.1%,1.4%,1.6%,Fri,Africa/Lagos
-30/01/2009,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13647,8.0%,7.9%,7.9%,Fri,Africa/Lagos
+30/01/2009,10:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=january.2009#detail=13647,8.0%,7.9%,7.9%,Fri,Africa/Lagos
 30/01/2009,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=january.2009#detail=12759,-0.7%,-0.5%,-0.1%,Fri,Africa/Lagos
-30/01/2009,,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=11390,-3.8%,-5.4%,-0.5%,Fri,Africa/Lagos
-30/01/2009,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=11391,-0.1%,0.3%,3.9%,Fri,Africa/Lagos
-30/01/2009,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=11587,0.5%,0.7%,0.7%,Fri,Africa/Lagos
+30/01/2009,13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=11390,-3.8%,-5.4%,-0.5%,Fri,Africa/Lagos
+30/01/2009,13:30,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=11391,-0.1%,0.3%,3.9%,Fri,Africa/Lagos
+30/01/2009,13:30,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=january.2009#detail=11587,0.5%,0.7%,0.7%,Fri,Africa/Lagos
 30/01/2009,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=january.2009#detail=12674,33.3,34.3,34.1,Fri,Africa/Lagos
 30/01/2009,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=january.2009#detail=10676,61.2,61.8,61.9,Fri,Africa/Lagos
-30/01/2009,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2009#detail=10699,2.2%,,2.0%,Fri,Africa/Lagos
+30/01/2009,14:55,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=january.2009#detail=10699,2.2%,,2.0%,Fri,Africa/Lagos
+31/01/2009,Day 4,All,orange,WEF Annual Meetings,https://www.forexfactory.com/calendar?month=january.2009#detail=15595,,,,Sat,Africa/Lagos

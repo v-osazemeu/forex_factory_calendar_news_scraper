@@ -1,399 +1,399 @@
-date,time,currency,impact,actual,forecast,previous,day,event,detail,timezone
-01/03/2016,00:30,AUD,red,-7.5%,-2.9%,8.6%,Tue,,,Africa/Lagos
-01/03/2016,,AUD,orange,-21.1B,-19.8B,-18.8B,Tue,,,Africa/Lagos
-01/03/2016,01:00,CNY,red,49.0,49.4,49.4,Tue,,,Africa/Lagos
-01/03/2016,,CNY,orange,52.7,,53.5,Tue,,,Africa/Lagos
-01/03/2016,01:45,CNY,red,48.0,48.4,48.4,Tue,,,Africa/Lagos
-01/03/2016,02:00,JPY,yellow,50.1,50.2,50.2,Tue,,,Africa/Lagos
-01/03/2016,03:30,AUD,red,2.00%,2.00%,2.00%,Tue,,,Africa/Lagos
-01/03/2016,,AUD,red,,,,Tue,,,Africa/Lagos
-01/03/2016,03:45,JPY,yellow,-0.02|3.2,,0.08|3.1,Tue,,,Africa/Lagos
-01/03/2016,04:30,USD,orange,,,,Tue,,,Africa/Lagos
-01/03/2016,05:30,AUD,yellow,-21.6%,,-24.8%,Tue,,,Africa/Lagos
-01/03/2016,08:15,CHF,yellow,0.2%,-1.2%,-1.7%,Tue,,,Africa/Lagos
-01/03/2016,,EUR,orange,54.1,54.3,55.4,Tue,,,Africa/Lagos
-01/03/2016,08:30,CHF,yellow,51.6,49.6,50.0,Tue,,,Africa/Lagos
-01/03/2016,08:45,EUR,yellow,52.2,52.2,53.2,Tue,,,Africa/Lagos
-01/03/2016,08:50,EUR,yellow,50.2,50.3,50.3,Tue,,,Africa/Lagos
-01/03/2016,08:55,EUR,orange,-10K,-10K,-19K,Tue,,,Africa/Lagos
-01/03/2016,,EUR,yellow,50.5,50.2,50.2,Tue,,,Africa/Lagos
-01/03/2016,09:00,EUR,yellow,51.2,51.0,51.0,Tue,,,Africa/Lagos
-01/03/2016,,EUR,yellow,11.5%,11.3%,11.6%,Tue,,,Africa/Lagos
-01/03/2016,09:30,GBP,red,50.8,52.3,52.9,Tue,,,Africa/Lagos
-01/03/2016,10:00,EUR,orange,10.3%,10.4%,10.4%,Tue,,,Africa/Lagos
-01/03/2016,13:30,CAD,red,0.2%,0.1%,0.3%,Tue,,,Africa/Lagos
-01/03/2016,14:26,NZD,red,1.4%,,-2.8%,Tue,,,Africa/Lagos
-01/03/2016,14:30,CAD,yellow,49.4,,49.3,Tue,,,Africa/Lagos
-01/03/2016,14:45,USD,yellow,51.3,51.0,51.0,Tue,,,Africa/Lagos
-01/03/2016,15:00,USD,red,49.5,48.5,48.2,Tue,,,Africa/Lagos
-01/03/2016,,USD,yellow,1.5%,0.5%,0.6%,Tue,,,Africa/Lagos
-01/03/2016,,USD,yellow,38.5,35.5,33.5,Tue,,,Africa/Lagos
-01/03/2016,,USD,yellow,46.8,46.9,47.8,Tue,,,Africa/Lagos
-01/03/2016,All Day,USD,yellow,17.4M,17.7M,17.5M,Tue,,,Africa/Lagos
-01/03/2016,All Day,USD,yellow,17.5M,17.6M,17.6M,Tue,,,Africa/Lagos
-01/03/2016,21:30,USD,yellow,,,,Tue,,,Africa/Lagos
-01/03/2016,23:50,JPY,yellow,29.0%,27.9%,28.9%,Tue,,,Africa/Lagos
-02/03/2016,00:00,AUD,yellow,3.1%,,6.0%,Wed,,,Africa/Lagos
-02/03/2016,00:01,GBP,yellow,-2.0%,,-1.8%,Wed,,,Africa/Lagos
-02/03/2016,00:30,AUD,red,0.6%,0.5%,1.1%,Wed,,,Africa/Lagos
-02/03/2016,06:45,CHF,yellow,0.4%,0.2%,-0.1%,Wed,,,Africa/Lagos
-02/03/2016,08:00,EUR,orange,2.2K,0.2K,57.2K,Wed,,,Africa/Lagos
-02/03/2016,09:30,GBP,red,54.2,55.5,55.0,Wed,,,Africa/Lagos
-02/03/2016,10:00,EUR,yellow,-1.0%,-0.9%,-0.8%,Wed,,,Africa/Lagos
-02/03/2016,,GBP,orange,,,,Wed,,,Africa/Lagos
-02/03/2016,13:15,USD,red,214K,185K,193K,Wed,,,Africa/Lagos
-02/03/2016,14:00,GBP,orange,,,,Wed,,,Africa/Lagos
-02/03/2016,15:30,USD,red,10.4M,2.5M,3.5M,Wed,,,Africa/Lagos
-02/03/2016,19:00,USD,yellow,,,,Wed,,,Africa/Lagos
-02/03/2016,22:15,AUD,yellow,51.8,,48.4,Wed,,,Africa/Lagos
-03/03/2016,00:00,NZD,yellow,0.4%,,-2.3%,Thu,,,Africa/Lagos
-03/03/2016,00:30,AUD,red,-2.94B,-3.22B,-3.52B,Thu,,,Africa/Lagos
-03/03/2016,01:45,CNY,orange,51.2,52.6,52.4,Thu,,,Africa/Lagos
-03/03/2016,07:00,GBP,yellow,0.3%,0.4%,0.3%,Thu,,,Africa/Lagos
-03/03/2016,08:15,EUR,yellow,54.1,53.9,54.6,Thu,,,Africa/Lagos
-03/03/2016,08:30,GBP,orange,-1.4%,0.1%,1.7%,Thu,,,Africa/Lagos
-03/03/2016,08:45,EUR,yellow,53.8,52.7,53.6,Thu,,,Africa/Lagos
-03/03/2016,08:50,EUR,yellow,49.2,49.8,49.8,Thu,,,Africa/Lagos
-03/03/2016,08:55,EUR,yellow,55.3,55.1,55.1,Thu,,,Africa/Lagos
-03/03/2016,09:00,EUR,yellow,53.3,53.0,53.0,Thu,,,Africa/Lagos
-03/03/2016,09:30,GBP,red,52.7,55.1,55.6,Thu,,,Africa/Lagos
-03/03/2016,09:58,EUR,yellow,0.63|1.6,,0.67|4.1,Thu,,,Africa/Lagos
-03/03/2016,10:00,EUR,yellow,0.4%,0.1%,0.6%,Thu,,,Africa/Lagos
-03/03/2016,12:30,USD,yellow,21.8%,,41.6%,Thu,,,Africa/Lagos
-03/03/2016,13:30,USD,red,278K,271K,272K,Thu,,,Africa/Lagos
-03/03/2016,,USD,orange,-2.2%,-3.2%,-3.0%,Thu,,,Africa/Lagos
-03/03/2016,,USD,yellow,3.3%,4.8%,4.5%,Thu,,,Africa/Lagos
-03/03/2016,14:45,USD,yellow,49.7,49.8,49.8,Thu,,,Africa/Lagos
-03/03/2016,15:00,USD,red,53.4,53.2,53.5,Thu,,,Africa/Lagos
-03/03/2016,,USD,orange,1.6%,2.1%,-2.9%,Thu,,,Africa/Lagos
-03/03/2016,15:30,USD,yellow,-48B,-49B,-117B,Thu,,,Africa/Lagos
-03/03/2016,17:45,GBP,orange,,,,Thu,,,Africa/Lagos
-04/03/2016,00:00,JPY,yellow,0.4%,0.2%,-0.2%,Fri,,,Africa/Lagos
-04/03/2016,00:30,AUD,red,0.3%,0.4%,0.0%,Fri,,,Africa/Lagos
-04/03/2016,09:10,EUR,yellow,50.1,,48.9,Fri,,,Africa/Lagos
-04/03/2016,13:30,CAD,red,-0.7B,-1.0B,-0.6B,Fri,,,Africa/Lagos
-04/03/2016,,CAD,orange,0.1%,0.2%,0.4%,Fri,,,Africa/Lagos
-04/03/2016,,USD,red,-0.1%,0.2%,0.5%,Fri,,,Africa/Lagos
-04/03/2016,,USD,red,242K,195K,172K,Fri,,,Africa/Lagos
-04/03/2016,,USD,red,4.9%,4.9%,4.9%,Fri,,,Africa/Lagos
-04/03/2016,,USD,orange,-45.7B,-43.8B,-44.7B,Fri,,,Africa/Lagos
-04/03/2016,15:00,CAD,orange,53.4,58.2,66.0,Fri,,,Africa/Lagos
-06/03/2016,22:30,AUD,yellow,46.1,,46.3,Sun,,,Africa/Lagos
-07/03/2016,00:30,AUD,yellow,-1.2%,,0.9%,Mon,,,Africa/Lagos
-07/03/2016,03:40,JPY,red,,,,Mon,,,Africa/Lagos
-07/03/2016,05:00,JPY,yellow,101.4%,101.6%,102.1%,Mon,,,Africa/Lagos
-07/03/2016,07:00,EUR,orange,-0.1%,-0.4%,-0.2%,Mon,,,Africa/Lagos
-07/03/2016,08:00,CHF,orange,571B,,575B,Mon,,,Africa/Lagos
-07/03/2016,09:10,GBP,orange,,,,Mon,,,Africa/Lagos
-07/03/2016,09:30,EUR,yellow,5.5,8.8,6.0,Mon,,,Africa/Lagos
-07/03/2016,All Day,EUR,orange,,,,Mon,,,Africa/Lagos
-07/03/2016,15:00,USD,yellow,-2.4,,-0.8,Mon,,,Africa/Lagos
-07/03/2016,18:00,USD,orange,,,,Mon,,,Africa/Lagos
-07/03/2016,,USD,orange,,,,Mon,,,Africa/Lagos
-07/03/2016,20:00,USD,yellow,10.5B,16.8B,21.4B,Mon,,,Africa/Lagos
-07/03/2016,21:45,NZD,yellow,-1.9%,,3.6%,Mon,,,Africa/Lagos
-07/03/2016,23:20,AUD,orange,,,,Mon,,,Africa/Lagos
-07/03/2016,23:50,JPY,orange,1.49T,1.66T,1.69T,Mon,,,Africa/Lagos
-07/03/2016,,JPY,orange,-0.3%,-0.4%,-0.4%,Mon,,,Africa/Lagos
-07/03/2016,,JPY,yellow,2.2%,,2.3%,Mon,,,Africa/Lagos
-07/03/2016,,JPY,yellow,1.5%,1.5%,1.5%,Mon,,,Africa/Lagos
-08/03/2016,00:01,GBP,yellow,0.1%,,2.6%,Tue,,,Africa/Lagos
-08/03/2016,00:30,AUD,orange,3,,3,Tue,,,Africa/Lagos
-08/03/2016,02:36,CNY,red,210B,339B,406B,Tue,,,Africa/Lagos
-08/03/2016,02:41,CNY,yellow,32.6B,51.2B,63.3B,Tue,,,Africa/Lagos
-08/03/2016,03:45,JPY,yellow,0.77|4.2,,1.07|3.0,Tue,,,Africa/Lagos
-08/03/2016,05:00,JPY,yellow,40.1,42.3,42.5,Tue,,,Africa/Lagos
-08/03/2016,06:00,JPY,yellow,44.6,47.5,46.6,Tue,,,Africa/Lagos
-08/03/2016,06:45,CHF,yellow,3.4%,3.5%,3.4%,Tue,,,Africa/Lagos
-08/03/2016,07:00,EUR,yellow,3.3%,0.6%,-0.3%,Tue,,,Africa/Lagos
-08/03/2016,07:45,EUR,yellow,-9.2B,,-70.5B,Tue,,,Africa/Lagos
-08/03/2016,,EUR,yellow,-3.7B,-3.7B,-3.7B,Tue,,,Africa/Lagos
-08/03/2016,08:15,CHF,yellow,0.2%,-0.1%,-0.4%,Tue,,,Africa/Lagos
-08/03/2016,09:15,GBP,red,,,,Tue,,,Africa/Lagos
-08/03/2016,10:00,EUR,yellow,0.3%,0.3%,0.3%,Tue,,,Africa/Lagos
-08/03/2016,All Day,EUR,orange,,,,Tue,,,Africa/Lagos
-08/03/2016,11:00,USD,yellow,92.9,94.5,93.9,Tue,,,Africa/Lagos
-08/03/2016,13:13,CAD,yellow,213K,181K,165K,Tue,,,Africa/Lagos
-08/03/2016,13:30,CAD,orange,-9.8%,-2.2%,7.7%,Tue,,,Africa/Lagos
-08/03/2016,17:00,GBP,orange,,,,Tue,,,Africa/Lagos
-08/03/2016,21:30,USD,yellow,,,,Tue,,,Africa/Lagos
-08/03/2016,23:30,AUD,orange,-2.2%,,4.2%,Tue,,,Africa/Lagos
-08/03/2016,23:50,JPY,yellow,3.1%,3.2%,3.2%,Tue,,,Africa/Lagos
-09/03/2016,00:30,AUD,orange,-3.9%,-2.7%,2.7%,Wed,,,Africa/Lagos
-09/03/2016,05:59,JPY,yellow,-22.6%,,-17.2%,Wed,,,Africa/Lagos
-09/03/2016,09:30,GBP,red,0.7%,0.2%,-0.3%,Wed,,,Africa/Lagos
-09/03/2016,,GBP,yellow,0.3%,0.6%,-1.1%,Wed,,,Africa/Lagos
-09/03/2016,14:37,GBP,yellow,0.3%,,0.4%,Wed,,,Africa/Lagos
-09/03/2016,15:00,CAD,red,,,,Wed,,,Africa/Lagos
-09/03/2016,,CAD,red,0.50%,0.50%,0.50%,Wed,,,Africa/Lagos
-09/03/2016,,USD,yellow,0.3%,-0.2%,0.0%,Wed,,,Africa/Lagos
-09/03/2016,15:30,USD,red,3.9M,3.0M,10.4M,Wed,,,Africa/Lagos
-09/03/2016,18:01,USD,yellow,1.90|2.5,,1.73|2.6,Wed,,,Africa/Lagos
-09/03/2016,20:00,NZD,red,2.25%,2.50%,2.50%,Wed,,,Africa/Lagos
-09/03/2016,,NZD,red,,,,Wed,,,Africa/Lagos
-09/03/2016,,NZD,orange,,,,Wed,,,Africa/Lagos
-09/03/2016,20:05,NZD,red,,,,Wed,,,Africa/Lagos
-09/03/2016,23:10,NZD,red,,,,Wed,,,Africa/Lagos
-09/03/2016,23:50,JPY,yellow,-3.4%,-3.4%,-3.2%,Wed,,,Africa/Lagos
-10/03/2016,00:00,AUD,yellow,3.4%,,3.6%,Thu,,,Africa/Lagos
-10/03/2016,00:01,GBP,yellow,50%,52%,48%,Thu,,,Africa/Lagos
-10/03/2016,01:30,CNY,red,2.3%,1.8%,1.8%,Thu,,,Africa/Lagos
-10/03/2016,,CNY,orange,-4.9%,-4.9%,-5.3%,Thu,,,Africa/Lagos
-10/03/2016,06:30,EUR,yellow,0.2%,0.2%,0.2%,Thu,,,Africa/Lagos
-10/03/2016,07:00,EUR,yellow,18.9B,19.2B,20.3B,Thu,,,Africa/Lagos
-10/03/2016,07:45,EUR,yellow,1.3%,0.8%,-0.6%,Thu,,,Africa/Lagos
-10/03/2016,09:00,EUR,yellow,11.5%,11.5%,11.5%,Thu,,,Africa/Lagos
-10/03/2016,12:45,EUR,red,0.00%,0.05%,0.05%,Thu,,,Africa/Lagos
-10/03/2016,,EUR,red,,,,Thu,,,Africa/Lagos
-10/03/2016,13:30,CAD,orange,0.1%,0.2%,0.1%,Thu,,,Africa/Lagos
-10/03/2016,,CAD,yellow,81.1%,81.9%,81.6%,Thu,,,Africa/Lagos
-10/03/2016,,EUR,red,,,,Thu,,,Africa/Lagos
-10/03/2016,,USD,red,259K,272K,277K,Thu,,,Africa/Lagos
-10/03/2016,15:30,USD,yellow,-57B,-51B,-48B,Thu,,,Africa/Lagos
-10/03/2016,18:01,USD,yellow,2.72|2.3,,2.50|2.1,Thu,,,Africa/Lagos
-10/03/2016,19:00,USD,yellow,-192.6B,-198.3B,55.2B,Thu,,,Africa/Lagos
-10/03/2016,21:15,CAD,orange,,,,Thu,,,Africa/Lagos
-10/03/2016,21:30,NZD,yellow,56.0,,58.0,Thu,,,Africa/Lagos
-10/03/2016,21:45,NZD,yellow,-0.6%,,2.0%,Thu,,,Africa/Lagos
-10/03/2016,23:50,JPY,orange,-7.9,4.2,3.8,Thu,,,Africa/Lagos
-11/03/2016,07:00,EUR,yellow,0.4%,0.4%,0.4%,Fri,,,Africa/Lagos
-11/03/2016,,EUR,yellow,-0.5%,0.2%,-0.4%,Fri,,,Africa/Lagos
-11/03/2016,07:18,CNY,yellow,2.7%,,3.2%,Fri,,,Africa/Lagos
-11/03/2016,09:00,EUR,yellow,1.9%,0.9%,-0.6%,Fri,,,Africa/Lagos
-11/03/2016,09:30,GBP,orange,-10.3B,-10.3B,-9.9B,Fri,,,Africa/Lagos
-11/03/2016,,GBP,yellow,-0.2%,-1.3%,2.1%,Fri,,,Africa/Lagos
-11/03/2016,,GBP,yellow,1.8%,,2.0%,Fri,,,Africa/Lagos
-11/03/2016,11:30,CNY,yellow,13.3%,13.8%,14.0%,Fri,,,Africa/Lagos
-11/03/2016,,CNY,yellow,727B,1200B,2510B,Fri,,,Africa/Lagos
-11/03/2016,13:30,CAD,red,-2.3K,10.2K,-5.7K,Fri,,,Africa/Lagos
-11/03/2016,,CAD,red,7.3%,7.2%,7.2%,Fri,,,Africa/Lagos
-11/03/2016,,USD,orange,-0.3%,-0.7%,-1.0%,Fri,,,Africa/Lagos
-12/03/2016,05:30,CNY,red,5.4%,5.6%,5.9%,Sat,,,Africa/Lagos
-12/03/2016,,CNY,orange,10.2%,9.5%,10.0%,Sat,,,Africa/Lagos
-12/03/2016,,CNY,yellow,10.2%,10.9%,11.1%,Sat,,,Africa/Lagos
-13/03/2016,07:00,CAD,gray,,,,Sun,,,Africa/Lagos
-13/03/2016,,USD,gray,,,,Sun,,,Africa/Lagos
-13/03/2016,21:30,NZD,yellow,56.9,,54.9,Sun,,,Africa/Lagos
-13/03/2016,23:50,JPY,yellow,15.0%,2.0%,4.2%,Sun,,,Africa/Lagos
-14/03/2016,10:00,EUR,yellow,2.1%,1.7%,-0.5%,Mon,,,Africa/Lagos
-14/03/2016,19:00,NZD,red,,,,Mon,,,Africa/Lagos
-15/03/2016,00:30,AUD,red,,,,Tue,,,Africa/Lagos
-15/03/2016,,AUD,yellow,-0.1%,,0.4%,Tue,,,Africa/Lagos
-15/03/2016,03:35,JPY,red,-0.10%,,-0.10%,Tue,,,Africa/Lagos
-15/03/2016,,JPY,red,,,,Tue,,,Africa/Lagos
-15/03/2016,04:30,JPY,yellow,3.7%,3.7%,3.7%,Tue,,,Africa/Lagos
-15/03/2016,,JPY,yellow,1.5%,0.4%,-0.6%,Tue,,,Africa/Lagos
-15/03/2016,06:32,JPY,red,,,,Tue,,,Africa/Lagos
-15/03/2016,07:45,EUR,yellow,0.3%,0.2%,0.2%,Tue,,,Africa/Lagos
-15/03/2016,10:00,EUR,yellow,0.3%,0.2%,0.3%,Tue,,,Africa/Lagos
-15/03/2016,12:30,USD,red,-0.1%,-0.2%,-0.4%,Tue,,,Africa/Lagos
-15/03/2016,,USD,red,-0.2%,-0.2%,0.1%,Tue,,,Africa/Lagos
-15/03/2016,,USD,red,-0.1%,-0.1%,-0.4%,Tue,,,Africa/Lagos
-15/03/2016,,USD,orange,0.0%,0.1%,0.4%,Tue,,,Africa/Lagos
-15/03/2016,,USD,orange,0.6,-10.3,-16.6,Tue,,,Africa/Lagos
-15/03/2016,14:00,USD,yellow,0.1%,0.0%,0.1%,Tue,,,Africa/Lagos
-15/03/2016,,USD,yellow,58,59,58,Tue,,,Africa/Lagos
-15/03/2016,14:09,NZD,red,-2.9%,,1.4%,Tue,,,Africa/Lagos
-15/03/2016,20:00,USD,yellow,-12.0B,3.2B,-29.4B,Tue,,,Africa/Lagos
-15/03/2016,20:30,USD,yellow,,,,Tue,,,Africa/Lagos
-15/03/2016,21:45,NZD,orange,-2.61B,-2.97B,-4.74B,Tue,,,Africa/Lagos
-15/03/2016,23:30,AUD,yellow,-0.2%,,0.1%,Tue,,,Africa/Lagos
-16/03/2016,09:30,GBP,red,2.1%,2.0%,1.9%,Wed,,,Africa/Lagos
-16/03/2016,,GBP,red,-18.0K,-8.8K,-28.4K,Wed,,,Africa/Lagos
-16/03/2016,,GBP,orange,5.1%,5.1%,5.1%,Wed,,,Africa/Lagos
-16/03/2016,10:32,EUR,yellow,0.30|1.4,,0.26|1.2,Wed,,,Africa/Lagos
-16/03/2016,12:30,CAD,red,2.3%,0.4%,1.4%,Wed,,,Africa/Lagos
-16/03/2016,,CAD,orange,13.51B,10.20B,-1.40B,Wed,,,Africa/Lagos
-16/03/2016,,GBP,red,,,,Wed,,,Africa/Lagos
-16/03/2016,,USD,red,1.17M,1.20M,1.20M,Wed,,,Africa/Lagos
-16/03/2016,,USD,red,0.3%,0.2%,0.3%,Wed,,,Africa/Lagos
-16/03/2016,,USD,red,-0.2%,-0.2%,0.0%,Wed,,,Africa/Lagos
-16/03/2016,,USD,red,1.0%,0.9%,1.4%,Wed,,,Africa/Lagos
-16/03/2016,,USD,orange,1.18M,1.15M,1.12M,Wed,,,Africa/Lagos
-16/03/2016,13:15,USD,orange,76.7%,76.9%,77.1%,Wed,,,Africa/Lagos
-16/03/2016,,USD,orange,-0.5%,-0.2%,0.8%,Wed,,,Africa/Lagos
-16/03/2016,13:30,GBP,yellow,0.2%,,0.3%,Wed,,,Africa/Lagos
-16/03/2016,14:30,USD,red,1.3M,2.9M,3.9M,Wed,,,Africa/Lagos
-16/03/2016,18:00,USD,red,0.50%,0.50%,0.50%,Wed,,,Africa/Lagos
-16/03/2016,,USD,red,,,,Wed,,,Africa/Lagos
-16/03/2016,,USD,red,,,,Wed,,,Africa/Lagos
-16/03/2016,18:30,USD,red,,,,Wed,,,Africa/Lagos
-16/03/2016,21:45,NZD,red,0.9%,0.7%,0.9%,Wed,,,Africa/Lagos
-16/03/2016,22:05,AUD,orange,,,,Wed,,,Africa/Lagos
-16/03/2016,23:50,JPY,yellow,0.17T,0.24T,0.07T,Wed,,,Africa/Lagos
-17/03/2016,00:30,AUD,red,0.3K,11.6K,-7.4K,Thu,,,Africa/Lagos
-17/03/2016,,AUD,red,5.8%,6.0%,6.0%,Thu,,,Africa/Lagos
-17/03/2016,,AUD,yellow,,,,Thu,,,Africa/Lagos
-17/03/2016,06:30,JPY,red,,,,Thu,,,Africa/Lagos
-17/03/2016,06:45,CHF,yellow,,,,Thu,,,Africa/Lagos
-17/03/2016,08:15,CHF,orange,-0.6%,0.2%,-0.4%,Thu,,,Africa/Lagos
-17/03/2016,08:30,CHF,red,-0.75%,-0.75%,-0.75%,Thu,,,Africa/Lagos
-17/03/2016,,CHF,red,,,,Thu,,,Africa/Lagos
-17/03/2016,09:02,EUR,yellow,0.04B,4.33B,6.02B,Thu,,,Africa/Lagos
-17/03/2016,09:43,EUR,yellow,1.48|2.0,,1.69|1.9,Thu,,,Africa/Lagos
-17/03/2016,10:00,EUR,orange,-0.2%,-0.2%,-0.2%,Thu,,,Africa/Lagos
-17/03/2016,,EUR,yellow,0.8%,0.7%,0.7%,Thu,,,Africa/Lagos
-17/03/2016,,EUR,yellow,21.2B,20.2B,22.5B,Thu,,,Africa/Lagos
-17/03/2016,12:00,GBP,red,,,,Thu,,,Africa/Lagos
-17/03/2016,,GBP,red,0-0-9,0-0-9,0-0-9,Thu,,,Africa/Lagos
-17/03/2016,,GBP,red,0.50%,0.50%,0.50%,Thu,,,Africa/Lagos
-17/03/2016,,GBP,orange,375B,375B,375B,Thu,,,Africa/Lagos
-17/03/2016,,GBP,orange,0-0-9,0-0-9,0-0-9,Thu,,,Africa/Lagos
-17/03/2016,12:30,CAD,orange,0.0%,0.3%,1.8%,Thu,,,Africa/Lagos
-17/03/2016,,USD,red,12.4,-1.4,-2.8,Thu,,,Africa/Lagos
-17/03/2016,,USD,red,265K,267K,258K,Thu,,,Africa/Lagos
-17/03/2016,,USD,orange,-125B,-117B,-130B,Thu,,,Africa/Lagos
-17/03/2016,14:00,USD,orange,5.54M,5.57M,5.28M,Thu,,,Africa/Lagos
-17/03/2016,,USD,yellow,0.1%,0.2%,-0.2%,Thu,,,Africa/Lagos
-17/03/2016,14:30,USD,yellow,-1B,-9B,-57B,Thu,,,Africa/Lagos
-17/03/2016,23:50,JPY,orange,,,,Thu,,,Africa/Lagos
-18/03/2016,07:00,EUR,yellow,-0.5%,-0.2%,-0.7%,Fri,,,Africa/Lagos
-18/03/2016,12:30,CAD,red,0.5%,0.5%,0.3%,Fri,,,Africa/Lagos
-18/03/2016,,CAD,red,1.2%,0.6%,-1.7%,Fri,,,Africa/Lagos
-18/03/2016,,CAD,orange,0.2%,0.3%,0.2%,Fri,,,Africa/Lagos
-18/03/2016,,CAD,orange,2.1%,0.7%,-2.1%,Fri,,,Africa/Lagos
-18/03/2016,13:00,USD,orange,,,,Fri,,,Africa/Lagos
-18/03/2016,14:00,USD,red,90.0,92.1,91.7,Fri,,,Africa/Lagos
-18/03/2016,,USD,yellow,2.7%,,2.5%,Fri,,,Africa/Lagos
-18/03/2016,15:00,USD,orange,,,,Fri,,,Africa/Lagos
-18/03/2016,18:00,USD,orange,,,,Fri,,,Africa/Lagos
-20/03/2016,21:03,NZD,yellow,109.6,,110.7,Sun,,,Africa/Lagos
-20/03/2016,21:45,NZD,yellow,-1.6%,,2.7%,Sun,,,Africa/Lagos
-21/03/2016,All Day,JPY,gray,,,,Mon,,,Africa/Lagos
-21/03/2016,00:01,GBP,yellow,1.3%,,2.9%,Mon,,,Africa/Lagos
-21/03/2016,02:00,NZD,yellow,7.3%,,8.3%,Mon,,,Africa/Lagos
-21/03/2016,09:00,EUR,yellow,25.4B,26.3B,28.6B,Mon,,,Africa/Lagos
-21/03/2016,11:00,EUR,yellow,,,,Mon,,,Africa/Lagos
-21/03/2016,,GBP,yellow,-14,-13,-17,Mon,,,Africa/Lagos
-21/03/2016,14:00,USD,orange,5.08M,5.32M,5.47M,Mon,,,Africa/Lagos
-21/03/2016,14:30,AUD,yellow,-0.4%,,-0.2%,Mon,,,Africa/Lagos
-21/03/2016,15:00,EUR,yellow,-10,-8,-9,Mon,,,Africa/Lagos
-22/03/2016,00:30,AUD,orange,0.2%,0.1%,2.0%,Tue,,,Africa/Lagos
-22/03/2016,00:45,AUD,orange,,,,Tue,,,Africa/Lagos
-22/03/2016,02:00,JPY,yellow,49.1,50.6,50.1,Tue,,,Africa/Lagos
-22/03/2016,04:30,JPY,yellow,2.0%,1.9%,-0.9%,Tue,,,Africa/Lagos
-22/03/2016,05:15,AUD,red,,,,Tue,,,Africa/Lagos
-22/03/2016,07:00,CHF,yellow,4.07B,2.88B,3.51B,Tue,,,Africa/Lagos
-22/03/2016,08:00,EUR,orange,49.6,50.2,50.2,Tue,,,Africa/Lagos
-22/03/2016,,EUR,orange,51.2,49.5,49.2,Tue,,,Africa/Lagos
-22/03/2016,08:30,EUR,orange,50.4,50.9,50.5,Tue,,,Africa/Lagos
-22/03/2016,,EUR,orange,55.5,55.1,55.3,Tue,,,Africa/Lagos
-22/03/2016,09:00,EUR,red,106.7,106.1,105.7,Tue,,,Africa/Lagos
-22/03/2016,,EUR,orange,51.4,51.4,51.2,Tue,,,Africa/Lagos
-22/03/2016,,EUR,orange,54.0,53.5,53.3,Tue,,,Africa/Lagos
-22/03/2016,09:30,GBP,red,0.3%,0.4%,0.3%,Tue,,,Africa/Lagos
-22/03/2016,,GBP,orange,0.1%,0.4%,-1.1%,Tue,,,Africa/Lagos
-22/03/2016,,GBP,orange,6.5B,5.4B,-14.4B,Tue,,,Africa/Lagos
-22/03/2016,,GBP,orange,1.3%,1.3%,1.3%,Tue,,,Africa/Lagos
-22/03/2016,,GBP,yellow,1.2%,1.2%,1.2%,Tue,,,Africa/Lagos
-22/03/2016,,GBP,yellow,7.9%,6.9%,6.7%,Tue,,,Africa/Lagos
-22/03/2016,,GBP,yellow,0.1%,0.0%,-0.1%,Tue,,,Africa/Lagos
-22/03/2016,10:00,EUR,red,4.3,6.3,1.0,Tue,,,Africa/Lagos
-22/03/2016,,EUR,orange,10.6,8.2,13.6,Tue,,,Africa/Lagos
-22/03/2016,13:00,USD,yellow,0.5%,0.5%,0.5%,Tue,,,Africa/Lagos
-22/03/2016,13:30,GBP,orange,,,,Tue,,,Africa/Lagos
-22/03/2016,13:45,USD,yellow,51.4,51.6,51.0,Tue,,,Africa/Lagos
-22/03/2016,13:59,USD,yellow,22,-1,-4,Tue,,,Africa/Lagos
-22/03/2016,20:00,CAD,orange,,,,Tue,,,Africa/Lagos
-22/03/2016,20:30,USD,yellow,,,,Tue,,,Africa/Lagos
-23/03/2016,10:00,CHF,yellow,2.5,,-5.9,Wed,,,Africa/Lagos
-23/03/2016,10:32,EUR,yellow,0.94|1.2,,0.77|1.6,Wed,,,Africa/Lagos
-23/03/2016,12:40,EUR,orange,,,,Wed,,,Africa/Lagos
-23/03/2016,13:00,USD,orange,,,,Wed,,,Africa/Lagos
-23/03/2016,13:58,EUR,yellow,-4.2,-6.0,-6.6,Wed,,,Africa/Lagos
-23/03/2016,14:00,CHF,yellow,,,,Wed,,,Africa/Lagos
-23/03/2016,,USD,orange,512K,512K,502K,Wed,,,Africa/Lagos
-23/03/2016,14:30,USD,red,9.4M,2.5M,1.3M,Wed,,,Africa/Lagos
-23/03/2016,21:45,NZD,red,339M,75M,13M,Wed,,,Africa/Lagos
-23/03/2016,23:50,JPY,yellow,,,,Wed,,,Africa/Lagos
-24/03/2016,07:00,EUR,yellow,9.4,9.5,9.5,Thu,,,Africa/Lagos
-24/03/2016,,EUR,yellow,-0.6%,-0.3%,-1.5%,Thu,,,Africa/Lagos
-24/03/2016,09:00,EUR,yellow,,,,Thu,,,Africa/Lagos
-24/03/2016,09:30,GBP,red,-0.4%,-0.7%,2.3%,Thu,,,Africa/Lagos
-24/03/2016,,GBP,yellow,45.9K,47.8K,46.9K,Thu,,,Africa/Lagos
-24/03/2016,10:00,EUR,yellow,0.0%,0.0%,-0.1%,Thu,,,Africa/Lagos
-24/03/2016,10:30,EUR,orange,7.3B,24.3B,18.3B,Thu,,,Africa/Lagos
-24/03/2016,11:00,GBP,yellow,7,12,10,Thu,,,Africa/Lagos
-24/03/2016,12:15,USD,orange,,,,Thu,,,Africa/Lagos
-24/03/2016,12:30,USD,red,-1.0%,-0.2%,1.7%,Thu,,,Africa/Lagos
-24/03/2016,,USD,red,265K,267K,259K,Thu,,,Africa/Lagos
-24/03/2016,,USD,orange,-2.8%,-3.0%,4.7%,Thu,,,Africa/Lagos
-24/03/2016,13:45,USD,yellow,51.0,51.3,49.7,Thu,,,Africa/Lagos
-24/03/2016,14:30,USD,yellow,15B,20B,-1B,Thu,,,Africa/Lagos
-24/03/2016,All Day,NZD,gray,,,,Thu,,,Africa/Lagos
-24/03/2016,All Day,AUD,gray,,,,Thu,,,Africa/Lagos
-24/03/2016,23:30,JPY,orange,-0.3%,-0.2%,-0.1%,Thu,,,Africa/Lagos
-24/03/2016,,JPY,yellow,0.0%,0.1%,0.0%,Thu,,,Africa/Lagos
-24/03/2016,23:50,JPY,yellow,0.2%,0.2%,0.3%,Thu,,,Africa/Lagos
-25/03/2016,05:00,JPY,yellow,1.1%,1.1%,1.1%,Fri,,,Africa/Lagos
-25/03/2016,All Day,CHF,gray,,,,Fri,,,Africa/Lagos
-25/03/2016,All Day,EUR,gray,,,,Fri,,,Africa/Lagos
-25/03/2016,All Day,GBP,gray,,,,Fri,,,Africa/Lagos
-25/03/2016,All Day,CAD,gray,,,,Fri,,,Africa/Lagos
-25/03/2016,12:30,USD,red,1.4%,1.0%,1.0%,Fri,,,Africa/Lagos
-25/03/2016,,USD,yellow,0.9%,0.9%,0.9%,Fri,,,Africa/Lagos
-27/03/2016,01:00,CHF,gray,,,,Sun,,,Africa/Lagos
-27/03/2016,,EUR,gray,,,,Sun,,,Africa/Lagos
-27/03/2016,,GBP,gray,,,,Sun,,,Africa/Lagos
-27/03/2016,All Day,NZD,gray,,,,Sun,,,Africa/Lagos
-27/03/2016,All Day,AUD,gray,,,,Sun,,,Africa/Lagos
-28/03/2016,All Day,CHF,gray,,,,Mon,,,Africa/Lagos
-28/03/2016,All Day,EUR,gray,,,,Mon,,,Africa/Lagos
-28/03/2016,All Day,EUR,gray,,,,Mon,,,Africa/Lagos
-28/03/2016,All Day,EUR,gray,,,,Mon,,,Africa/Lagos
-28/03/2016,All Day,GBP,gray,,,,Mon,,,Africa/Lagos
-28/03/2016,13:30,USD,orange,0.1%,0.2%,0.3%,Mon,,,Africa/Lagos
-28/03/2016,,USD,orange,0.1%,0.2%,0.1%,Mon,,,Africa/Lagos
-28/03/2016,,USD,yellow,-62.9B,-62.3B,-62.4B,Mon,,,Africa/Lagos
-28/03/2016,,USD,yellow,0.2%,0.1%,0.5%,Mon,,,Africa/Lagos
-28/03/2016,15:00,USD,orange,3.5%,1.2%,-3.0%,Mon,,,Africa/Lagos
-29/03/2016,00:30,JPY,orange,1.2%,-1.8%,-3.1%,Tue,,,Africa/Lagos
-29/03/2016,,JPY,yellow,3.3%,3.2%,3.2%,Tue,,,Africa/Lagos
-29/03/2016,00:50,JPY,orange,0.5%,1.6%,-0.2%,Tue,,,Africa/Lagos
-29/03/2016,09:00,EUR,orange,5.0%,5.0%,5.0%,Tue,,,Africa/Lagos
-29/03/2016,,EUR,yellow,1.6%,1.4%,1.4%,Tue,,,Africa/Lagos
-29/03/2016,11:00,GBP,yellow,,,,Tue,,,Africa/Lagos
-29/03/2016,13:30,CAD,orange,-2.6%,-0.8%,-0.4%,Tue,,,Africa/Lagos
-29/03/2016,,CAD,yellow,-1.1%,-0.2%,0.5%,Tue,,,Africa/Lagos
-29/03/2016,14:00,USD,yellow,5.7%,5.7%,5.6%,Tue,,,Africa/Lagos
-29/03/2016,15:00,USD,red,96.2,93.9,94.0,Tue,,,Africa/Lagos
-29/03/2016,17:20,USD,red,,,,Tue,,,Africa/Lagos
-29/03/2016,21:30,USD,yellow,,,,Tue,,,Africa/Lagos
-29/03/2016,22:45,NZD,yellow,10.8%,,-7.8%,Tue,,,Africa/Lagos
-30/03/2016,00:50,JPY,yellow,-6.2%,-5.8%,3.7%,Wed,,,Africa/Lagos
-30/03/2016,07:00,CHF,yellow,1.53,,1.45,Wed,,,Africa/Lagos
-30/03/2016,All Day,EUR,orange,0.8%,0.6%,0.4%,Wed,,,Africa/Lagos
-30/03/2016,08:00,CHF,orange,102.5,101.9,102.6,Wed,,,Africa/Lagos
-30/03/2016,10:20,EUR,yellow,1.24|1.4,,1.50|1.3,Wed,,,Africa/Lagos
-30/03/2016,13:15,USD,red,200K,195K,205K,Wed,,,Africa/Lagos
-30/03/2016,15:30,USD,red,2.3M,3.1M,9.4M,Wed,,,Africa/Lagos
-30/03/2016,19:35,CAD,yellow,,,,Wed,,,Africa/Lagos
-31/03/2016,00:05,GBP,yellow,0,-1,0,Thu,,,Africa/Lagos
-31/03/2016,01:00,AUD,yellow,-5.3%,,3.1%,Thu,,,Africa/Lagos
-31/03/2016,,NZD,orange,3.2,,7.1,Thu,,,Africa/Lagos
-31/03/2016,01:30,AUD,yellow,0.6%,0.5%,0.5%,Thu,,,Africa/Lagos
-31/03/2016,06:00,JPY,yellow,7.8%,-2.2%,0.2%,Thu,,,Africa/Lagos
-31/03/2016,07:00,EUR,orange,-0.4%,0.3%,-0.1%,Thu,,,Africa/Lagos
-31/03/2016,07:45,EUR,yellow,0.6%,0.1%,1.0%,Thu,,,Africa/Lagos
-31/03/2016,,EUR,yellow,0.7%,0.5%,0.3%,Thu,,,Africa/Lagos
-31/03/2016,08:00,EUR,orange,-0.8%,-0.6%,-0.8%,Thu,,,Africa/Lagos
-31/03/2016,,GBP,red,,,,Thu,,,Africa/Lagos
-31/03/2016,08:55,EUR,orange,0K,-6K,-9K,Thu,,,Africa/Lagos
-31/03/2016,09:30,GBP,red,-32.7B,-21.1B,-20.1B,Thu,,,Africa/Lagos
-31/03/2016,,GBP,orange,0.6%,0.5%,0.5%,Thu,,,Africa/Lagos
-31/03/2016,,GBP,orange,4.9B,5.1B,5.4B,Thu,,,Africa/Lagos
-31/03/2016,,GBP,yellow,0.9%,0.8%,0.8%,Thu,,,Africa/Lagos
-31/03/2016,,GBP,yellow,0.9%,0.1%,0.1%,Thu,,,Africa/Lagos
-31/03/2016,,GBP,yellow,74K,74K,74K,Thu,,,Africa/Lagos
-31/03/2016,,GBP,yellow,-2.0%,-2.0%,-2.1%,Thu,,,Africa/Lagos
-31/03/2016,10:00,EUR,orange,1.0%,0.9%,0.8%,Thu,,,Africa/Lagos
-31/03/2016,,EUR,orange,-0.1%,-0.1%,-0.2%,Thu,,,Africa/Lagos
-31/03/2016,,EUR,yellow,0.2%,0.1%,-0.2%,Thu,,,Africa/Lagos
-31/03/2016,12:30,USD,yellow,31.7%,,21.8%,Thu,,,Africa/Lagos
-31/03/2016,13:30,CAD,red,0.6%,0.3%,0.2%,Thu,,,Africa/Lagos
-31/03/2016,,USD,red,276K,266K,265K,Thu,,,Africa/Lagos
-31/03/2016,14:45,USD,orange,53.6,50.5,47.6,Thu,,,Africa/Lagos
-31/03/2016,15:30,USD,yellow,-25B,-20B,15B,Thu,,,Africa/Lagos
-31/03/2016,17:30,CHF,orange,,,,Thu,,,Africa/Lagos
-31/03/2016,22:00,USD,orange,,,,Thu,,,Africa/Lagos
-31/03/2016,23:30,AUD,yellow,58.1,,53.5,Thu,,,Africa/Lagos
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/03/2016,00:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60503,-7.5%,-2.9%,8.6%,Tue,Africa/Lagos
+01/03/2016,00:30,AUD,orange,Current Account,https://www.forexfactory.com/calendar?month=march.2016#detail=60531,-21.1B,-19.8B,-18.8B,Tue,Africa/Lagos
+01/03/2016,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=62786,49.0,49.4,49.4,Tue,Africa/Lagos
+01/03/2016,01:00,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=62787,52.7,,53.5,Tue,Africa/Lagos
+01/03/2016,01:45,CNY,red,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=63099,48.0,48.4,48.4,Tue,Africa/Lagos
+01/03/2016,02:00,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=63785,50.1,50.2,50.2,Tue,Africa/Lagos
+01/03/2016,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=60730,2.00%,2.00%,2.00%,Tue,Africa/Lagos
+01/03/2016,03:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=march.2016#detail=60731,,,,Tue,Africa/Lagos
+01/03/2016,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2016#detail=63658,-0.02|3.2,,0.08|3.1,Tue,Africa/Lagos
+01/03/2016,04:30,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63908,,,,Tue,Africa/Lagos
+01/03/2016,05:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=60751,-21.6%,,-24.8%,Tue,Africa/Lagos
+01/03/2016,08:15,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62189,0.2%,-1.2%,-1.7%,Tue,Africa/Lagos
+01/03/2016,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60012,54.1,54.3,55.4,Tue,Africa/Lagos
+01/03/2016,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=62217,51.6,49.6,50.0,Tue,Africa/Lagos
+01/03/2016,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60013,52.2,52.2,53.2,Tue,Africa/Lagos
+01/03/2016,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60010,50.2,50.3,50.3,Tue,Africa/Lagos
+01/03/2016,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=march.2016#detail=60873,-10K,-10K,-19K,Tue,Africa/Lagos
+01/03/2016,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60011,50.5,50.2,50.2,Tue,Africa/Lagos
+01/03/2016,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60008,51.2,51.0,51.0,Tue,Africa/Lagos
+01/03/2016,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=60889,11.5%,11.3%,11.6%,Tue,Africa/Lagos
+01/03/2016,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60009,50.8,52.3,52.9,Tue,Africa/Lagos
+01/03/2016,10:00,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=60918,10.3%,10.4%,10.4%,Tue,Africa/Lagos
+01/03/2016,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63236,0.2%,0.1%,0.3%,Tue,Africa/Lagos
+01/03/2016,14:26,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=march.2016#detail=61325,1.4%,,-2.8%,Tue,Africa/Lagos
+01/03/2016,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60178,49.4,,49.3,Tue,Africa/Lagos
+01/03/2016,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60152,51.3,51.0,51.0,Tue,Africa/Lagos
+01/03/2016,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=61731,49.5,48.5,48.2,Tue,Africa/Lagos
+01/03/2016,15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61733,1.5%,0.5%,0.6%,Tue,Africa/Lagos
+01/03/2016,15:00,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=march.2016#detail=61732,38.5,35.5,33.5,Tue,Africa/Lagos
+01/03/2016,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=march.2016#detail=62285,46.8,46.9,47.8,Tue,Africa/Lagos
+01/03/2016,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=march.2016#detail=110316,17.4M,17.7M,17.5M,Tue,Africa/Lagos
+01/03/2016,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=march.2016#detail=62081,17.5M,17.6M,17.6M,Tue,Africa/Lagos
+01/03/2016,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=march.2016#detail=98964,,,,Tue,Africa/Lagos
+01/03/2016,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63471,29.0%,27.9%,28.9%,Tue,Africa/Lagos
+02/03/2016,00:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60661,3.1%,,6.0%,Wed,Africa/Lagos
+02/03/2016,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62872,-2.0%,,-1.8%,Wed,Africa/Lagos
+02/03/2016,00:30,AUD,red,GDP q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=60559,0.6%,0.5%,1.1%,Wed,Africa/Lagos
+02/03/2016,06:45,CHF,yellow,GDP q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=61800,0.4%,0.2%,-0.1%,Wed,Africa/Lagos
+02/03/2016,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=march.2016#detail=60906,2.2K,0.2K,57.2K,Wed,Africa/Lagos
+02/03/2016,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60160,54.2,55.5,55.0,Wed,Africa/Lagos
+02/03/2016,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61028,-1.0%,-0.9%,-0.8%,Wed,Africa/Lagos
+02/03/2016,10:00,GBP,orange,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63909,,,,Wed,Africa/Lagos
+02/03/2016,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=march.2016#detail=62229,214K,185K,193K,Wed,Africa/Lagos
+02/03/2016,14:00,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63910,,,,Wed,Africa/Lagos
+02/03/2016,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2016#detail=62547,10.4M,2.5M,3.5M,Wed,Africa/Lagos
+02/03/2016,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=march.2016#detail=59620,,,,Wed,Africa/Lagos
+02/03/2016,22:15,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=march.2016#detail=60638,51.8,,48.4,Wed,Africa/Lagos
+03/03/2016,00:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61299,0.4%,,-2.3%,Thu,Africa/Lagos
+03/03/2016,00:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=60470,-2.94B,-3.22B,-3.52B,Thu,Africa/Lagos
+03/03/2016,01:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=63153,51.2,52.6,52.4,Thu,Africa/Lagos
+03/03/2016,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60319,0.3%,0.4%,0.3%,Thu,Africa/Lagos
+03/03/2016,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60081,54.1,53.9,54.6,Thu,Africa/Lagos
+03/03/2016,08:30,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60320,-1.4%,0.1%,1.7%,Thu,Africa/Lagos
+03/03/2016,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60082,53.8,52.7,53.6,Thu,Africa/Lagos
+03/03/2016,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60083,49.2,49.8,49.8,Thu,Africa/Lagos
+03/03/2016,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60084,55.3,55.1,55.1,Thu,Africa/Lagos
+03/03/2016,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60080,53.3,53.0,53.0,Thu,Africa/Lagos
+03/03/2016,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60079,52.7,55.1,55.6,Thu,Africa/Lagos
+03/03/2016,09:58,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2016#detail=60396,0.63|1.6,,0.67|4.1,Thu,Africa/Lagos
+03/03/2016,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61029,0.4%,0.1%,0.6%,Thu,Africa/Lagos
+03/03/2016,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62236,21.8%,,41.6%,Thu,Africa/Lagos
+03/03/2016,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2016#detail=62551,278K,271K,272K,Thu,Africa/Lagos
+03/03/2016,13:30,USD,orange,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=61920,-2.2%,-3.2%,-3.0%,Thu,Africa/Lagos
+03/03/2016,13:30,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=61921,3.3%,4.8%,4.5%,Thu,Africa/Lagos
+03/03/2016,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60142,49.7,49.8,49.8,Thu,Africa/Lagos
+03/03/2016,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=61734,53.4,53.2,53.5,Thu,Africa/Lagos
+03/03/2016,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62649,1.6%,2.1%,-2.9%,Thu,Africa/Lagos
+03/03/2016,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2016#detail=61947,-48B,-49B,-117B,Thu,Africa/Lagos
+03/03/2016,17:45,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63911,,,,Thu,Africa/Lagos
+04/03/2016,00:00,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63713,0.4%,0.2%,-0.2%,Fri,Africa/Lagos
+04/03/2016,00:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60474,0.3%,0.4%,0.0%,Fri,Africa/Lagos
+04/03/2016,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60835,50.1,,48.9,Fri,Africa/Lagos
+04/03/2016,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=63389,-0.7B,-1.0B,-0.6B,Fri,Africa/Lagos
+04/03/2016,13:30,CAD,orange,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=63287,0.1%,0.2%,0.4%,Fri,Africa/Lagos
+04/03/2016,13:30,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61737,-0.1%,0.2%,0.5%,Fri,Africa/Lagos
+04/03/2016,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=march.2016#detail=61735,242K,195K,172K,Fri,Africa/Lagos
+04/03/2016,13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=61736,4.9%,4.9%,4.9%,Fri,Africa/Lagos
+04/03/2016,13:30,USD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=61585,-45.7B,-43.8B,-44.7B,Fri,Africa/Lagos
+04/03/2016,15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=63181,53.4,58.2,66.0,Fri,Africa/Lagos
+06/03/2016,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=march.2016#detail=60650,46.1,,46.3,Sun,Africa/Lagos
+07/03/2016,00:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60984,-1.2%,,0.9%,Mon,Africa/Lagos
+07/03/2016,03:40,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63912,,,,Mon,Africa/Lagos
+07/03/2016,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=march.2016#detail=63574,101.4%,101.6%,102.1%,Mon,Africa/Lagos
+07/03/2016,07:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62666,-0.1%,-0.4%,-0.2%,Mon,Africa/Lagos
+07/03/2016,08:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=march.2016#detail=62429,571B,,575B,Mon,Africa/Lagos
+07/03/2016,09:10,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63919,,,,Mon,Africa/Lagos
+07/03/2016,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=march.2016#detail=60765,5.5,8.8,6.0,Mon,Africa/Lagos
+07/03/2016,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=march.2016#detail=63913,,,,Mon,Africa/Lagos
+07/03/2016,15:00,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62239,-2.4,,-0.8,Mon,Africa/Lagos
+07/03/2016,18:00,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63915,,,,Mon,Africa/Lagos
+07/03/2016,18:00,USD,orange,FOMC Member Fischer Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63916,,,,Mon,Africa/Lagos
+07/03/2016,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61867,10.5B,16.8B,21.4B,Mon,Africa/Lagos
+07/03/2016,21:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=61479,-1.9%,,3.6%,Mon,Africa/Lagos
+07/03/2016,23:20,AUD,orange,RBA Deputy Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63917,,,,Mon,Africa/Lagos
+07/03/2016,23:50,JPY,orange,Current Account,https://www.forexfactory.com/calendar?month=march.2016#detail=63690,1.49T,1.66T,1.69T,Mon,Africa/Lagos
+07/03/2016,23:50,JPY,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=63557,-0.3%,-0.4%,-0.4%,Mon,Africa/Lagos
+07/03/2016,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63427,2.2%,,2.3%,Mon,Africa/Lagos
+07/03/2016,23:50,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63556,1.5%,1.5%,1.5%,Mon,Africa/Lagos
+08/03/2016,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62989,0.1%,,2.6%,Tue,Africa/Lagos
+08/03/2016,00:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=march.2016#detail=60712,3,,3,Tue,Africa/Lagos
+08/03/2016,02:36,CNY,red,Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=62813,210B,339B,406B,Tue,Africa/Lagos
+08/03/2016,02:41,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=62812,32.6B,51.2B,63.3B,Tue,Africa/Lagos
+08/03/2016,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2016#detail=63670,0.77|4.2,,1.07|3.0,Tue,Africa/Lagos
+08/03/2016,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2016#detail=63522,40.1,42.3,42.5,Tue,Africa/Lagos
+08/03/2016,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=march.2016#detail=63546,44.6,47.5,46.6,Tue,Africa/Lagos
+08/03/2016,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=62417,3.4%,3.5%,3.4%,Tue,Africa/Lagos
+08/03/2016,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62678,3.3%,0.6%,-0.3%,Tue,Africa/Lagos
+08/03/2016,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=61212,-9.2B,,-70.5B,Tue,Africa/Lagos
+08/03/2016,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=61218,-3.7B,-3.7B,-3.7B,Tue,Africa/Lagos
+08/03/2016,08:15,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61535,0.2%,-0.1%,-0.4%,Tue,Africa/Lagos
+08/03/2016,09:15,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63920,,,,Tue,Africa/Lagos
+08/03/2016,10:00,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=61030,0.3%,0.3%,0.3%,Tue,Africa/Lagos
+08/03/2016,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=march.2016#detail=63914,,,,Tue,Africa/Lagos
+08/03/2016,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=march.2016#detail=62385,92.9,94.5,93.9,Tue,Africa/Lagos
+08/03/2016,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=march.2016#detail=63193,213K,181K,165K,Tue,Africa/Lagos
+08/03/2016,13:30,CAD,orange,Building Permits m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63317,-9.8%,-2.2%,7.7%,Tue,Africa/Lagos
+08/03/2016,17:00,GBP,orange,MPC Member Weale Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63921,,,,Tue,Africa/Lagos
+08/03/2016,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=march.2016#detail=98967,,,,Tue,Africa/Lagos
+08/03/2016,23:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2016#detail=60972,-2.2%,,4.2%,Tue,Africa/Lagos
+08/03/2016,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63459,3.1%,3.2%,3.2%,Tue,Africa/Lagos
+09/03/2016,00:30,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60565,-3.9%,-2.7%,2.7%,Wed,Africa/Lagos
+09/03/2016,05:59,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63586,-22.6%,,-17.2%,Wed,Africa/Lagos
+09/03/2016,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=59927,0.7%,0.2%,-0.3%,Wed,Africa/Lagos
+09/03/2016,09:30,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=59926,0.3%,0.6%,-1.1%,Wed,Africa/Lagos
+09/03/2016,14:37,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=march.2016#detail=62860,0.3%,,0.4%,Wed,Africa/Lagos
+09/03/2016,15:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=march.2016#detail=62757,,,,Wed,Africa/Lagos
+09/03/2016,15:00,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=62758,0.50%,0.50%,0.50%,Wed,Africa/Lagos
+09/03/2016,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62093,0.3%,-0.2%,0.0%,Wed,Africa/Lagos
+09/03/2016,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2016#detail=62552,3.9M,3.0M,10.4M,Wed,Africa/Lagos
+09/03/2016,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2016#detail=60443,1.90|2.5,,1.73|2.6,Wed,Africa/Lagos
+09/03/2016,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=61396,2.25%,2.50%,2.50%,Wed,Africa/Lagos
+09/03/2016,20:00,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=march.2016#detail=61397,,,,Wed,Africa/Lagos
+09/03/2016,20:00,NZD,orange,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=march.2016#detail=61399,,,,Wed,Africa/Lagos
+09/03/2016,20:05,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=march.2016#detail=61398,,,,Wed,Africa/Lagos
+09/03/2016,23:10,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63922,,,,Wed,Africa/Lagos
+09/03/2016,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63490,-3.4%,-3.4%,-3.2%,Wed,Africa/Lagos
+10/03/2016,00:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2016#detail=60676,3.4%,,3.6%,Thu,Africa/Lagos
+10/03/2016,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=60321,50%,52%,48%,Thu,Africa/Lagos
+10/03/2016,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62886,2.3%,1.8%,1.8%,Thu,Africa/Lagos
+10/03/2016,01:30,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62887,-4.9%,-4.9%,-5.3%,Thu,Africa/Lagos
+10/03/2016,06:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=60867,0.2%,0.2%,0.2%,Thu,Africa/Lagos
+10/03/2016,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=62690,18.9B,19.2B,20.3B,Thu,Africa/Lagos
+10/03/2016,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61224,1.3%,0.8%,-0.6%,Thu,Africa/Lagos
+10/03/2016,09:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=60884,11.5%,11.5%,11.5%,Thu,Africa/Lagos
+10/03/2016,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=62846,0.00%,0.05%,0.05%,Thu,Africa/Lagos
+10/03/2016,12:45,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=march.2016#detail=109142,,,,Thu,Africa/Lagos
+10/03/2016,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63329,0.1%,0.2%,0.1%,Thu,Africa/Lagos
+10/03/2016,13:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=63283,81.1%,81.9%,81.6%,Thu,Africa/Lagos
+10/03/2016,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=march.2016#detail=62847,,,,Thu,Africa/Lagos
+10/03/2016,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2016#detail=62554,259K,272K,277K,Thu,Africa/Lagos
+10/03/2016,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2016#detail=61946,-57B,-51B,-48B,Thu,Africa/Lagos
+10/03/2016,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2016#detail=60449,2.72|2.3,,2.50|2.1,Thu,Africa/Lagos
+10/03/2016,19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=62273,-192.6B,-198.3B,55.2B,Thu,Africa/Lagos
+10/03/2016,21:15,CAD,orange,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63918,,,,Thu,Africa/Lagos
+10/03/2016,21:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2016#detail=61311,56.0,,58.0,Thu,Africa/Lagos
+10/03/2016,21:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61461,-0.6%,,2.0%,Thu,Africa/Lagos
+10/03/2016,23:50,JPY,orange,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2016#detail=63680,-7.9,4.2,3.8,Thu,Africa/Lagos
+11/03/2016,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62727,0.4%,0.4%,0.4%,Fri,Africa/Lagos
+11/03/2016,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62750,-0.5%,0.2%,-0.4%,Fri,Africa/Lagos
+11/03/2016,07:18,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62949,2.7%,,3.2%,Fri,Africa/Lagos
+11/03/2016,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61168,1.9%,0.9%,-0.6%,Fri,Africa/Lagos
+11/03/2016,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=59771,-10.3B,-10.3B,-9.9B,Fri,Africa/Lagos
+11/03/2016,09:30,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=59912,-0.2%,-1.3%,2.1%,Fri,Africa/Lagos
+11/03/2016,09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2016#detail=62983,1.8%,,2.0%,Fri,Africa/Lagos
+11/03/2016,11:30,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63078,13.3%,13.8%,14.0%,Fri,Africa/Lagos
+11/03/2016,11:30,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=march.2016#detail=63077,727B,1200B,2510B,Fri,Africa/Lagos
+11/03/2016,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=march.2016#detail=63343,-2.3K,10.2K,-5.7K,Fri,Africa/Lagos
+11/03/2016,13:30,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=63344,7.3%,7.2%,7.2%,Fri,Africa/Lagos
+11/03/2016,13:30,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61903,-0.3%,-0.7%,-1.0%,Fri,Africa/Lagos
+12/03/2016,05:30,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62926,5.4%,5.6%,5.9%,Sat,Africa/Lagos
+12/03/2016,05:30,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62928,10.2%,9.5%,10.0%,Sat,Africa/Lagos
+12/03/2016,05:30,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62927,10.2%,10.9%,11.1%,Sat,Africa/Lagos
+13/03/2016,07:00,CAD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2016#detail=59592,,,,Sun,Africa/Lagos
+13/03/2016,07:00,USD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2016#detail=59594,,,,Sun,Africa/Lagos
+13/03/2016,21:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=march.2016#detail=127167,56.9,,54.9,Sun,Africa/Lagos
+13/03/2016,23:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63534,15.0%,2.0%,4.2%,Sun,Africa/Lagos
+14/03/2016,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61031,2.1%,1.7%,-0.5%,Mon,Africa/Lagos
+14/03/2016,19:00,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63923,,,,Mon,Africa/Lagos
+15/03/2016,00:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=march.2016#detail=60937,,,,Tue,Africa/Lagos
+15/03/2016,00:30,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60586,-0.1%,,0.4%,Tue,Africa/Lagos
+15/03/2016,03:35,JPY,red,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=65251,-0.10%,,-0.10%,Tue,Africa/Lagos
+15/03/2016,03:35,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=march.2016#detail=63442,,,,Tue,Africa/Lagos
+15/03/2016,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63634,3.7%,3.7%,3.7%,Tue,Africa/Lagos
+15/03/2016,04:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63646,1.5%,0.4%,-0.6%,Tue,Africa/Lagos
+15/03/2016,06:32,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=march.2016#detail=63450,,,,Tue,Africa/Lagos
+15/03/2016,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63889,0.3%,0.2%,0.2%,Tue,Africa/Lagos
+15/03/2016,10:00,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=60859,0.3%,0.2%,0.3%,Tue,Africa/Lagos
+15/03/2016,12:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62032,-0.1%,-0.2%,-0.4%,Tue,Africa/Lagos
+15/03/2016,12:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62128,-0.2%,-0.2%,0.1%,Tue,Africa/Lagos
+15/03/2016,12:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62029,-0.1%,-0.1%,-0.4%,Tue,Africa/Lagos
+15/03/2016,12:30,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62132,0.0%,0.1%,0.4%,Tue,Africa/Lagos
+15/03/2016,12:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2016#detail=62361,0.6,-10.3,-16.6,Tue,Africa/Lagos
+15/03/2016,14:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61855,0.1%,0.0%,0.1%,Tue,Africa/Lagos
+15/03/2016,14:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=march.2016#detail=62373,58,59,58,Tue,Africa/Lagos
+15/03/2016,14:09,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=march.2016#detail=61323,-2.9%,,1.4%,Tue,Africa/Lagos
+15/03/2016,20:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=march.2016#detail=62069,-12.0B,3.2B,-29.4B,Tue,Africa/Lagos
+15/03/2016,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=march.2016#detail=98970,,,,Tue,Africa/Lagos
+15/03/2016,21:45,NZD,orange,Current Account,https://www.forexfactory.com/calendar?month=march.2016#detail=61447,-2.61B,-2.97B,-4.74B,Tue,Africa/Lagos
+15/03/2016,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60700,-0.2%,,0.1%,Tue,Africa/Lagos
+16/03/2016,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=march.2016#detail=59861,2.1%,2.0%,1.9%,Wed,Africa/Lagos
+16/03/2016,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=march.2016#detail=59859,-18.0K,-8.8K,-28.4K,Wed,Africa/Lagos
+16/03/2016,09:30,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=59860,5.1%,5.1%,5.1%,Wed,Africa/Lagos
+16/03/2016,10:32,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2016#detail=60399,0.30|1.4,,0.26|1.2,Wed,Africa/Lagos
+16/03/2016,12:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63273,2.3%,0.4%,1.4%,Wed,Africa/Lagos
+16/03/2016,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=march.2016#detail=63249,13.51B,10.20B,-1.40B,Wed,Africa/Lagos
+16/03/2016,12:30,GBP,red,Annual Budget Release,https://www.forexfactory.com/calendar?month=march.2016#detail=59647,,,,Wed,Africa/Lagos
+16/03/2016,12:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=march.2016#detail=62153,1.17M,1.20M,1.20M,Wed,Africa/Lagos
+16/03/2016,12:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62106,0.3%,0.2%,0.3%,Wed,Africa/Lagos
+16/03/2016,12:30,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62105,-0.2%,-0.2%,0.0%,Wed,Africa/Lagos
+16/03/2016,12:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=128580,1.0%,0.9%,1.4%,Wed,Africa/Lagos
+16/03/2016,12:30,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=march.2016#detail=62156,1.18M,1.15M,1.12M,Wed,Africa/Lagos
+16/03/2016,13:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=61879,76.7%,76.9%,77.1%,Wed,Africa/Lagos
+16/03/2016,13:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61882,-0.5%,-0.2%,0.8%,Wed,Africa/Lagos
+16/03/2016,13:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63809,0.2%,,0.3%,Wed,Africa/Lagos
+16/03/2016,14:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2016#detail=62553,1.3M,2.9M,3.9M,Wed,Africa/Lagos
+16/03/2016,18:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=59600,0.50%,0.50%,0.50%,Wed,Africa/Lagos
+16/03/2016,18:00,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=march.2016#detail=59597,,,,Wed,Africa/Lagos
+16/03/2016,18:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=march.2016#detail=59601,,,,Wed,Africa/Lagos
+16/03/2016,18:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=march.2016#detail=59599,,,,Wed,Africa/Lagos
+16/03/2016,21:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=61471,0.9%,0.7%,0.9%,Wed,Africa/Lagos
+16/03/2016,22:05,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63924,,,,Wed,Africa/Lagos
+16/03/2016,23:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=63702,0.17T,0.24T,0.07T,Wed,Africa/Lagos
+17/03/2016,00:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=march.2016#detail=60537,0.3K,11.6K,-7.4K,Thu,Africa/Lagos
+17/03/2016,00:30,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=60549,5.8%,6.0%,6.0%,Thu,Africa/Lagos
+17/03/2016,00:30,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=march.2016#detail=60959,,,,Thu,Africa/Lagos
+17/03/2016,06:30,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63929,,,,Thu,Africa/Lagos
+17/03/2016,06:45,CHF,yellow,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=march.2016#detail=62411,,,,Thu,Africa/Lagos
+17/03/2016,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61547,-0.6%,0.2%,-0.4%,Thu,Africa/Lagos
+17/03/2016,08:30,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=62439,-0.75%,-0.75%,-0.75%,Thu,Africa/Lagos
+17/03/2016,08:30,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=march.2016#detail=62444,,,,Thu,Africa/Lagos
+17/03/2016,09:02,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=61126,0.04B,4.33B,6.02B,Thu,Africa/Lagos
+17/03/2016,09:43,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2016#detail=63928,1.48|2.0,,1.69|1.9,Thu,Africa/Lagos
+17/03/2016,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=61035,-0.2%,-0.2%,-0.2%,Thu,Africa/Lagos
+17/03/2016,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=61034,0.8%,0.7%,0.7%,Thu,Africa/Lagos
+17/03/2016,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=61033,21.2B,20.2B,22.5B,Thu,Africa/Lagos
+17/03/2016,12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=march.2016#detail=59664,,,,Thu,Africa/Lagos
+17/03/2016,12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=march.2016#detail=59666,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+17/03/2016,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=59663,0.50%,0.50%,0.50%,Thu,Africa/Lagos
+17/03/2016,12:00,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=march.2016#detail=59662,375B,375B,375B,Thu,Africa/Lagos
+17/03/2016,12:00,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=march.2016#detail=59665,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+17/03/2016,12:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63261,0.0%,0.3%,1.8%,Thu,Africa/Lagos
+17/03/2016,12:30,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2016#detail=61992,12.4,-1.4,-2.8,Thu,Africa/Lagos
+17/03/2016,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2016#detail=62555,265K,267K,258K,Thu,Africa/Lagos
+17/03/2016,12:30,USD,orange,Current Account,https://www.forexfactory.com/calendar?month=march.2016#detail=62051,-125B,-117B,-130B,Thu,Africa/Lagos
+17/03/2016,14:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=march.2016#detail=62248,5.54M,5.57M,5.28M,Thu,Africa/Lagos
+17/03/2016,14:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63401,0.1%,0.2%,-0.2%,Thu,Africa/Lagos
+17/03/2016,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2016#detail=61948,-1B,-9B,-57B,Thu,Africa/Lagos
+17/03/2016,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=march.2016#detail=63481,,,,Thu,Africa/Lagos
+18/03/2016,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62739,-0.5%,-0.2%,-0.7%,Fri,Africa/Lagos
+18/03/2016,12:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63295,0.5%,0.5%,0.3%,Fri,Africa/Lagos
+18/03/2016,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63207,1.2%,0.6%,-1.7%,Fri,Africa/Lagos
+18/03/2016,12:30,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63296,0.2%,0.3%,0.2%,Fri,Africa/Lagos
+18/03/2016,12:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63208,2.1%,0.7%,-2.1%,Fri,Africa/Lagos
+18/03/2016,13:00,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63925,,,,Fri,Africa/Lagos
+18/03/2016,14:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2016#detail=61675,90.0,92.1,91.7,Fri,Africa/Lagos
+18/03/2016,14:00,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2016#detail=61677,2.7%,,2.5%,Fri,Africa/Lagos
+18/03/2016,15:00,USD,orange,FOMC Member Rosengren Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63926,,,,Fri,Africa/Lagos
+18/03/2016,18:00,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63927,,,,Fri,Africa/Lagos
+20/03/2016,21:03,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2016#detail=61520,109.6,,110.7,Sun,Africa/Lagos
+20/03/2016,21:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61509,-1.6%,,2.7%,Sun,Africa/Lagos
+21/03/2016,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=63114,,,,Mon,Africa/Lagos
+21/03/2016,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60322,1.3%,,2.9%,Mon,Africa/Lagos
+21/03/2016,02:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=61352,7.3%,,8.3%,Mon,Africa/Lagos
+21/03/2016,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=march.2016#detail=61036,25.4B,26.3B,28.6B,Mon,Africa/Lagos
+21/03/2016,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=march.2016#detail=61264,,,,Mon,Africa/Lagos
+21/03/2016,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=march.2016#detail=60296,-14,-13,-17,Mon,Africa/Lagos
+21/03/2016,14:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=march.2016#detail=62327,5.08M,5.32M,5.47M,Mon,Africa/Lagos
+21/03/2016,14:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60996,-0.4%,,-0.2%,Mon,Africa/Lagos
+21/03/2016,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2016#detail=60813,-10,-8,-9,Mon,Africa/Lagos
+22/03/2016,00:30,AUD,orange,HPI q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=60576,0.2%,0.1%,2.0%,Tue,Africa/Lagos
+22/03/2016,00:45,AUD,orange,RBA Assist Gov Edey Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63932,,,,Tue,Africa/Lagos
+22/03/2016,02:00,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=63797,49.1,50.6,50.1,Tue,Africa/Lagos
+22/03/2016,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63598,2.0%,1.9%,-0.9%,Tue,Africa/Lagos
+22/03/2016,05:15,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63933,,,,Tue,Africa/Lagos
+22/03/2016,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=61559,4.07B,2.88B,3.51B,Tue,Africa/Lagos
+22/03/2016,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60206,49.6,50.2,50.2,Tue,Africa/Lagos
+22/03/2016,08:00,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60207,51.2,49.5,49.2,Tue,Africa/Lagos
+22/03/2016,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60208,50.4,50.9,50.5,Tue,Africa/Lagos
+22/03/2016,08:30,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60209,55.5,55.1,55.3,Tue,Africa/Lagos
+22/03/2016,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=march.2016#detail=60825,106.7,106.1,105.7,Tue,Africa/Lagos
+22/03/2016,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60204,51.4,51.4,51.2,Tue,Africa/Lagos
+22/03/2016,09:00,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60205,54.0,53.5,53.3,Tue,Africa/Lagos
+22/03/2016,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=59793,0.3%,0.4%,0.3%,Tue,Africa/Lagos
+22/03/2016,09:30,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=59795,0.1%,0.4%,-1.1%,Tue,Africa/Lagos
+22/03/2016,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=march.2016#detail=59948,6.5B,5.4B,-14.4B,Tue,Africa/Lagos
+22/03/2016,09:30,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=59798,1.3%,1.3%,1.3%,Tue,Africa/Lagos
+22/03/2016,09:30,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=59794,1.2%,1.2%,1.2%,Tue,Africa/Lagos
+22/03/2016,09:30,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=59797,7.9%,6.9%,6.7%,Tue,Africa/Lagos
+22/03/2016,09:30,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=59796,0.1%,0.0%,-0.1%,Tue,Africa/Lagos
+22/03/2016,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=march.2016#detail=60778,4.3,6.3,1.0,Tue,Africa/Lagos
+22/03/2016,10:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=march.2016#detail=60783,10.6,8.2,13.6,Tue,Africa/Lagos
+22/03/2016,13:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62349,0.5%,0.5%,0.5%,Tue,Africa/Lagos
+22/03/2016,13:30,GBP,orange,MPC Member Forbes Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63936,,,,Tue,Africa/Lagos
+22/03/2016,13:45,USD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60210,51.4,51.6,51.0,Tue,Africa/Lagos
+22/03/2016,13:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2016#detail=63930,22,-1,-4,Tue,Africa/Lagos
+22/03/2016,20:00,CAD,orange,Annual Budget Release,https://www.forexfactory.com/calendar?month=march.2016#detail=63931,,,,Tue,Africa/Lagos
+22/03/2016,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=march.2016#detail=98973,,,,Tue,Africa/Lagos
+23/03/2016,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=march.2016#detail=62512,2.5,,-5.9,Wed,Africa/Lagos
+23/03/2016,10:32,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2016#detail=63935,0.94|1.2,,0.77|1.6,Wed,Africa/Lagos
+23/03/2016,12:40,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63937,,,,Wed,Africa/Lagos
+23/03/2016,13:00,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63938,,,,Wed,Africa/Lagos
+23/03/2016,13:58,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=march.2016#detail=60849,-4.2,-6.0,-6.6,Wed,Africa/Lagos
+23/03/2016,14:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=march.2016#detail=62450,,,,Wed,Africa/Lagos
+23/03/2016,14:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=march.2016#detail=62177,512K,512K,502K,Wed,Africa/Lagos
+23/03/2016,14:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2016#detail=62556,9.4M,2.5M,1.3M,Wed,Africa/Lagos
+23/03/2016,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=61497,339M,75M,13M,Wed,Africa/Lagos
+23/03/2016,23:50,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=march.2016#detail=63820,,,,Wed,Africa/Lagos
+24/03/2016,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=march.2016#detail=60801,9.4,9.5,9.5,Thu,Africa/Lagos
+24/03/2016,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61380,-0.6%,-0.3%,-1.5%,Thu,Africa/Lagos
+24/03/2016,09:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=march.2016#detail=63009,,,,Thu,Africa/Lagos
+24/03/2016,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=59888,-0.4%,-0.7%,2.3%,Thu,Africa/Lagos
+24/03/2016,09:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=march.2016#detail=62963,45.9K,47.8K,46.9K,Thu,Africa/Lagos
+24/03/2016,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61139,0.0%,0.0%,-0.1%,Thu,Africa/Lagos
+24/03/2016,10:30,EUR,orange,Long Term Refinancing Operation,https://www.forexfactory.com/calendar?month=march.2016#detail=63053,7.3B,24.3B,18.3B,Thu,Africa/Lagos
+24/03/2016,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=march.2016#detail=60286,7,12,10,Thu,Africa/Lagos
+24/03/2016,12:15,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63934,,,,Thu,Africa/Lagos
+24/03/2016,12:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62005,-1.0%,-0.2%,1.7%,Thu,Africa/Lagos
+24/03/2016,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2016#detail=62558,265K,267K,259K,Thu,Africa/Lagos
+24/03/2016,12:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62008,-2.8%,-3.0%,4.7%,Thu,Africa/Lagos
+24/03/2016,13:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=60211,51.0,51.3,49.7,Thu,Africa/Lagos
+24/03/2016,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2016#detail=61949,15B,20B,-1B,Thu,Africa/Lagos
+24/03/2016,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=61290,,,,Thu,Africa/Lagos
+24/03/2016,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=60616,,,,Thu,Africa/Lagos
+24/03/2016,23:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63764,-0.3%,-0.2%,-0.1%,Thu,Africa/Lagos
+24/03/2016,23:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63763,0.0%,0.1%,0.0%,Thu,Africa/Lagos
+24/03/2016,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63502,0.2%,0.2%,0.3%,Thu,Africa/Lagos
+25/03/2016,05:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63061,1.1%,1.1%,1.1%,Fri,Africa/Lagos
+25/03/2016,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=61526,,,,Fri,Africa/Lagos
+25/03/2016,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=62503,,,,Fri,Africa/Lagos
+25/03/2016,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=62465,,,,Fri,Africa/Lagos
+25/03/2016,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=62473,,,,Fri,Africa/Lagos
+25/03/2016,12:30,USD,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=61647,1.4%,1.0%,1.0%,Fri,Africa/Lagos
+25/03/2016,12:30,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=61648,0.9%,0.9%,0.9%,Fri,Africa/Lagos
+27/03/2016,01:00,CHF,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2016#detail=60467,,,,Sun,Africa/Lagos
+27/03/2016,01:00,EUR,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2016#detail=59589,,,,Sun,Africa/Lagos
+27/03/2016,01:00,GBP,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2016#detail=59588,,,,Sun,Africa/Lagos
+27/03/2016,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=61291,,,,Sun,Africa/Lagos
+27/03/2016,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=60617,,,,Sun,Africa/Lagos
+28/03/2016,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=61527,,,,Mon,Africa/Lagos
+28/03/2016,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=62483,,,,Mon,Africa/Lagos
+28/03/2016,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=62493,,,,Mon,Africa/Lagos
+28/03/2016,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=62504,,,,Mon,Africa/Lagos
+28/03/2016,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2016#detail=62466,,,,Mon,Africa/Lagos
+28/03/2016,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61601,0.1%,0.2%,0.3%,Mon,Africa/Lagos
+28/03/2016,13:30,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61602,0.1%,0.2%,0.1%,Mon,Africa/Lagos
+28/03/2016,13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=march.2016#detail=62057,-62.9B,-62.3B,-62.4B,Mon,Africa/Lagos
+28/03/2016,13:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61603,0.2%,0.1%,0.5%,Mon,Africa/Lagos
+28/03/2016,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62328,3.5%,1.2%,-3.0%,Mon,Africa/Lagos
+29/03/2016,00:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63737,1.2%,-1.8%,-3.1%,Tue,Africa/Lagos
+29/03/2016,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2016#detail=63749,3.3%,3.2%,3.2%,Tue,Africa/Lagos
+29/03/2016,00:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63622,0.5%,1.6%,-0.2%,Tue,Africa/Lagos
+29/03/2016,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63031,5.0%,5.0%,5.0%,Tue,Africa/Lagos
+29/03/2016,09:00,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63030,1.6%,1.4%,1.4%,Tue,Africa/Lagos
+29/03/2016,11:00,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=march.2016#detail=63001,,,,Tue,Africa/Lagos
+29/03/2016,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63369,-2.6%,-0.8%,-0.4%,Tue,Africa/Lagos
+29/03/2016,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63370,-1.1%,-0.2%,0.5%,Tue,Africa/Lagos
+29/03/2016,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62313,5.7%,5.7%,5.6%,Tue,Africa/Lagos
+29/03/2016,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2016#detail=62296,96.2,93.9,94.0,Tue,Africa/Lagos
+29/03/2016,17:20,USD,red,Fed Chair Yellen Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63943,,,,Tue,Africa/Lagos
+29/03/2016,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=march.2016#detail=98974,,,,Tue,Africa/Lagos
+29/03/2016,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61426,10.8%,,-7.8%,Tue,Africa/Lagos
+30/03/2016,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63610,-6.2%,-5.8%,3.7%,Wed,Africa/Lagos
+30/03/2016,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=march.2016#detail=62524,1.53,,1.45,Wed,Africa/Lagos
+30/03/2016,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62715,0.8%,0.6%,0.4%,Wed,Africa/Lagos
+30/03/2016,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=march.2016#detail=62205,102.5,101.9,102.6,Wed,Africa/Lagos
+30/03/2016,10:20,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2016#detail=60405,1.24|1.4,,1.50|1.3,Wed,Africa/Lagos
+30/03/2016,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=march.2016#detail=62230,200K,195K,205K,Wed,Africa/Lagos
+30/03/2016,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2016#detail=62557,2.3M,3.1M,9.4M,Wed,Africa/Lagos
+30/03/2016,19:35,CAD,yellow,Gov Council Member Patterson Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63939,,,,Wed,Africa/Lagos
+31/03/2016,00:05,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2016#detail=62964,0,-1,0,Thu,Africa/Lagos
+31/03/2016,01:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60662,-5.3%,,3.1%,Thu,Africa/Lagos
+31/03/2016,01:00,NZD,orange,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=march.2016#detail=61275,3.2,,7.1,Thu,Africa/Lagos
+31/03/2016,01:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=60949,0.6%,0.5%,0.5%,Thu,Africa/Lagos
+31/03/2016,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=63725,7.8%,-2.2%,0.2%,Thu,Africa/Lagos
+31/03/2016,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=62702,-0.4%,0.3%,-0.1%,Thu,Africa/Lagos
+31/03/2016,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61192,0.6%,0.1%,1.0%,Thu,Africa/Lagos
+31/03/2016,07:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61180,0.7%,0.5%,0.3%,Thu,Africa/Lagos
+31/03/2016,08:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=61252,-0.8%,-0.6%,-0.8%,Thu,Africa/Lagos
+31/03/2016,08:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63944,,,,Thu,Africa/Lagos
+31/03/2016,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=march.2016#detail=60874,0K,-6K,-9K,Thu,Africa/Lagos
+31/03/2016,09:30,GBP,red,Current Account,https://www.forexfactory.com/calendar?month=march.2016#detail=59979,-32.7B,-21.1B,-20.1B,Thu,Africa/Lagos
+31/03/2016,09:30,GBP,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=59974,0.6%,0.5%,0.5%,Thu,Africa/Lagos
+31/03/2016,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=59742,4.9B,5.1B,5.4B,Thu,Africa/Lagos
+31/03/2016,09:30,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=march.2016#detail=59900,0.9%,0.8%,0.8%,Thu,Africa/Lagos
+31/03/2016,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=59743,0.9%,0.1%,0.1%,Thu,Africa/Lagos
+31/03/2016,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=march.2016#detail=59744,74K,74K,74K,Thu,Africa/Lagos
+31/03/2016,09:30,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=march.2016#detail=59992,-2.0%,-2.0%,-2.1%,Thu,Africa/Lagos
+31/03/2016,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=61037,1.0%,0.9%,0.8%,Thu,Africa/Lagos
+31/03/2016,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=61038,-0.1%,-0.1%,-0.2%,Thu,Africa/Lagos
+31/03/2016,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=61156,0.2%,0.1%,-0.2%,Thu,Africa/Lagos
+31/03/2016,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=march.2016#detail=62241,31.7%,,21.8%,Thu,Africa/Lagos
+31/03/2016,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=march.2016#detail=63237,0.6%,0.3%,0.2%,Thu,Africa/Lagos
+31/03/2016,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2016#detail=62559,276K,266K,265K,Thu,Africa/Lagos
+31/03/2016,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=march.2016#detail=61657,53.6,50.5,47.6,Thu,Africa/Lagos
+31/03/2016,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2016#detail=61950,-25B,-20B,15B,Thu,Africa/Lagos
+31/03/2016,17:30,CHF,orange,Gov Board Member Maechler Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63940,,,,Thu,Africa/Lagos
+31/03/2016,22:00,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=march.2016#detail=63941,,,,Thu,Africa/Lagos
+31/03/2016,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2016#detail=60627,58.1,,53.5,Thu,Africa/Lagos

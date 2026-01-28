@@ -1,393 +1,393 @@
-date,time,currency,impact,actual,forecast,previous,day,event,detail,timezone
-01/10/2015,00:30,AUD,yellow,52.1,,51.7,Thu,,,Africa/Lagos
-01/10/2015,00:50,JPY,orange,12,13,15,Thu,,,Africa/Lagos
-01/10/2015,,JPY,orange,25,21,23,Thu,,,Africa/Lagos
-01/10/2015,All Day,CNY,gray,,,,Thu,,,Africa/Lagos
-01/10/2015,01:15,USD,orange,,,,Thu,,,Africa/Lagos
-01/10/2015,02:00,CNY,red,49.8,49.7,49.7,Thu,,,Africa/Lagos
-01/10/2015,,CNY,orange,53.4,,53.4,Thu,,,Africa/Lagos
-01/10/2015,02:35,JPY,yellow,51.0,50.9,50.9,Thu,,,Africa/Lagos
-01/10/2015,02:45,CNY,red,47.2,47.2,47.0,Thu,,,Africa/Lagos
-01/10/2015,,CNY,orange,50.5,51.2,51.5,Thu,,,Africa/Lagos
-01/10/2015,04:45,JPY,yellow,0.34|3.0,,0.42|3.5,Thu,,,Africa/Lagos
-01/10/2015,08:00,AUD,yellow,-21.3%,,-21.4%,Thu,,,Africa/Lagos
-01/10/2015,08:15,CHF,orange,-0.3%,0.3%,0.1%,Thu,,,Africa/Lagos
-01/10/2015,,EUR,orange,51.7,53.0,53.2,Thu,,,Africa/Lagos
-01/10/2015,08:30,CHF,yellow,49.5,51.9,52.2,Thu,,,Africa/Lagos
-01/10/2015,08:45,EUR,yellow,52.7,53.4,53.8,Thu,,,Africa/Lagos
-01/10/2015,08:50,EUR,yellow,50.6,50.4,50.4,Thu,,,Africa/Lagos
-01/10/2015,08:55,EUR,yellow,52.3,52.6,52.5,Thu,,,Africa/Lagos
-01/10/2015,09:00,EUR,yellow,52.0,52.0,52.0,Thu,,,Africa/Lagos
-01/10/2015,09:30,GBP,red,51.5,51.3,51.6,Thu,,,Africa/Lagos
-01/10/2015,,GBP,yellow,,,,Thu,,,Africa/Lagos
-01/10/2015,09:45,EUR,yellow,1.84|1.8,,2.15|2.5,Thu,,,Africa/Lagos
-01/10/2015,09:56,EUR,yellow,0.98|2.2,,1.21|1.7,Thu,,,Africa/Lagos
-01/10/2015,12:30,USD,yellow,93.2%,,2.9%,Thu,,,Africa/Lagos
-01/10/2015,13:30,USD,red,277K,273K,267K,Thu,,,Africa/Lagos
-01/10/2015,14:30,CAD,yellow,48.6,,49.4,Thu,,,Africa/Lagos
-01/10/2015,14:45,USD,yellow,53.1,53.0,53.0,Thu,,,Africa/Lagos
-01/10/2015,15:00,USD,red,50.2,50.8,51.1,Thu,,,Africa/Lagos
-01/10/2015,,USD,yellow,0.7%,0.6%,0.4%,Thu,,,Africa/Lagos
-01/10/2015,,USD,yellow,38.0,40.0,39.0,Thu,,,Africa/Lagos
-01/10/2015,15:30,USD,yellow,98B,101B,106B,Thu,,,Africa/Lagos
-01/10/2015,All Day,USD,yellow,18.2M,17.5M,17.8M,Thu,,,Africa/Lagos
-01/10/2015,17:00,CHF,red,,,,Thu,,,Africa/Lagos
-01/10/2015,19:30,USD,orange,,,,Thu,,,Africa/Lagos
-02/10/2015,00:30,JPY,orange,2.9%,0.4%,-0.2%,Fri,,,Africa/Lagos
-02/10/2015,,JPY,yellow,3.4%,3.3%,3.3%,Fri,,,Africa/Lagos
-02/10/2015,00:50,JPY,yellow,35.1%,34.2%,33.3%,Fri,,,Africa/Lagos
-02/10/2015,01:00,NZD,yellow,5.5%,,-5.2%,Fri,,,Africa/Lagos
-02/10/2015,All Day,CNY,gray,,,,Fri,,,Africa/Lagos
-02/10/2015,02:00,AUD,yellow,2.3%,,-1.8%,Fri,,,Africa/Lagos
-02/10/2015,02:30,AUD,red,0.4%,0.4%,-0.1%,Fri,,,Africa/Lagos
-02/10/2015,,EUR,red,,,,Fri,,,Africa/Lagos
-02/10/2015,08:00,EUR,orange,26.1K,17.9K,21.7K,Fri,,,Africa/Lagos
-02/10/2015,09:30,GBP,red,59.9,57.5,57.3,Fri,,,Africa/Lagos
-02/10/2015,10:00,EUR,yellow,-0.8%,-0.5%,-0.2%,Fri,,,Africa/Lagos
-02/10/2015,13:30,USD,red,0.0%,0.2%,0.4%,Fri,,,Africa/Lagos
-02/10/2015,,USD,red,142K,201K,136K,Fri,,,Africa/Lagos
-02/10/2015,,USD,red,5.1%,5.1%,5.1%,Fri,,,Africa/Lagos
-02/10/2015,15:00,USD,orange,-1.7%,-0.9%,0.2%,Fri,,,Africa/Lagos
-02/10/2015,18:30,USD,orange,,,,Fri,,,Africa/Lagos
-03/10/2015,16:00,USD,orange,,,,Sat,,,Africa/Lagos
-03/10/2015,17:00,AUD,gray,,,,Sat,,,Africa/Lagos
-04/10/2015,All Day,AUD,gray,,,,Sun,,,Africa/Lagos
-04/10/2015,23:30,AUD,yellow,52.3,,55.6,Sun,,,Africa/Lagos
-05/10/2015,00:30,AUD,yellow,0.3%,,0.1%,Mon,,,Africa/Lagos
-05/10/2015,All Day,CNY,gray,,,,Mon,,,Africa/Lagos
-05/10/2015,01:30,AUD,orange,3.9%,,1.3%,Mon,,,Africa/Lagos
-05/10/2015,02:30,JPY,yellow,0.5%,0.7%,0.9%,Mon,,,Africa/Lagos
-05/10/2015,08:15,EUR,yellow,55.1,59.7,59.6,Mon,,,Africa/Lagos
-05/10/2015,08:45,EUR,yellow,53.3,54.8,54.6,Mon,,,Africa/Lagos
-05/10/2015,08:50,EUR,yellow,51.9,51.2,51.2,Mon,,,Africa/Lagos
-05/10/2015,08:55,EUR,yellow,54.1,54.4,54.3,Mon,,,Africa/Lagos
-05/10/2015,09:00,EUR,yellow,53.7,54.0,54.0,Mon,,,Africa/Lagos
-05/10/2015,09:30,EUR,yellow,11.7,12.2,13.6,Mon,,,Africa/Lagos
-05/10/2015,,GBP,red,53.3,56.4,55.6,Mon,,,Africa/Lagos
-05/10/2015,10:00,EUR,yellow,0.0%,-0.1%,0.6%,Mon,,,Africa/Lagos
-05/10/2015,Day 1,EUR,orange,,,,Mon,,,Africa/Lagos
-05/10/2015,14:45,USD,yellow,55.1,55.7,55.6,Mon,,,Africa/Lagos
-05/10/2015,15:00,USD,red,56.9,58.0,59.0,Mon,,,Africa/Lagos
-05/10/2015,,USD,yellow,0.0,,1.2,Mon,,,Africa/Lagos
-05/10/2015,22:00,NZD,red,-14,,5,Mon,,,Africa/Lagos
-06/10/2015,All Day,CNY,gray,,,,Tue,,,Africa/Lagos
-06/10/2015,01:30,AUD,red,-3.10B,-2.48B,-2.79B,Tue,,,Africa/Lagos
-06/10/2015,04:30,AUD,red,2.00%,2.00%,2.00%,Tue,,,Africa/Lagos
-06/10/2015,,AUD,red,,,,Tue,,,Africa/Lagos
-06/10/2015,07:00,EUR,orange,-1.8%,0.5%,-2.2%,Tue,,,Africa/Lagos
-06/10/2015,08:00,GBP,orange,-0.9%,0.1%,2.7%,Tue,,,Africa/Lagos
-06/10/2015,08:15,CHF,yellow,0.1%,0.1%,-0.2%,Tue,,,Africa/Lagos
-06/10/2015,09:10,EUR,yellow,51.9,,51.4,Tue,,,Africa/Lagos
-06/10/2015,09:30,GBP,yellow,-10.9B,-12.5B,-12.1B,Tue,,,Africa/Lagos
-06/10/2015,All Day,EUR,orange,,,,Tue,,,Africa/Lagos
-06/10/2015,Day 2,EUR,orange,,,,Tue,,,Africa/Lagos
-06/10/2015,13:30,CAD,red,-2.5B,-1.1B,-0.8B,Tue,,,Africa/Lagos
-06/10/2015,,USD,red,-48.3B,-47.6B,-41.8B,Tue,,,Africa/Lagos
-06/10/2015,15:00,CAD,orange,53.7,54.1,58.0,Tue,,,Africa/Lagos
-06/10/2015,,USD,yellow,47.3,44.6,42.0,Tue,,,Africa/Lagos
-06/10/2015,15:49,NZD,red,9.9%,,16.5%,Tue,,,Africa/Lagos
-06/10/2015,18:00,EUR,red,,,,Tue,,,Africa/Lagos
-06/10/2015,22:30,USD,orange,,,,Tue,,,Africa/Lagos
-06/10/2015,23:28,AUD,yellow,51.9,,53.8,Tue,,,Africa/Lagos
-07/10/2015,00:01,GBP,yellow,-1.9%,,-1.4%,Wed,,,Africa/Lagos
-07/10/2015,All Day,CNY,gray,,,,Wed,,,Africa/Lagos
-07/10/2015,04:00,JPY,red,,,,Wed,,,Africa/Lagos
-07/10/2015,06:00,JPY,yellow,103.5%,103.4%,105.0%,Wed,,,Africa/Lagos
-07/10/2015,07:00,EUR,yellow,-1.2%,0.3%,1.2%,Wed,,,Africa/Lagos
-07/10/2015,07:31,JPY,red,,,,Wed,,,Africa/Lagos
-07/10/2015,07:45,EUR,yellow,-3.0B,-3.6B,-3.2B,Wed,,,Africa/Lagos
-07/10/2015,08:00,CHF,orange,542B,,540B,Wed,,,Africa/Lagos
-07/10/2015,08:05,AUD,orange,,,,Wed,,,Africa/Lagos
-07/10/2015,09:30,GBP,red,0.5%,0.4%,-0.7%,Wed,,,Africa/Lagos
-07/10/2015,,GBP,yellow,1.0%,0.3%,-0.3%,Wed,,,Africa/Lagos
-07/10/2015,10:32,EUR,yellow,0.62|1.1,,0.69|1.2,Wed,,,Africa/Lagos
-07/10/2015,13:30,CAD,red,-3.7%,0.5%,0.7%,Wed,,,Africa/Lagos
-07/10/2015,15:00,GBP,orange,0.5%,,0.5%,Wed,,,Africa/Lagos
-07/10/2015,15:30,USD,orange,3.1M,2.2M,4.0M,Wed,,,Africa/Lagos
-07/10/2015,18:01,USD,yellow,2.07|2.6,,2.24|2.7,Wed,,,Africa/Lagos
-07/10/2015,20:00,USD,yellow,16.0B,18.8B,18.9B,Wed,,,Africa/Lagos
-08/10/2015,00:01,GBP,yellow,44%,54%,53%,Thu,,,Africa/Lagos
-08/10/2015,00:50,JPY,orange,-5.7%,3.3%,-3.6%,Thu,,,Africa/Lagos
-08/10/2015,,JPY,orange,1.59T,1.28T,1.32T,Thu,,,Africa/Lagos
-08/10/2015,04:45,JPY,yellow,1.35|3.3,,1.41|3.1,Thu,,,Africa/Lagos
-08/10/2015,06:00,JPY,yellow,,,,Thu,,,Africa/Lagos
-08/10/2015,,JPY,yellow,47.5,48.6,49.3,Thu,,,Africa/Lagos
-08/10/2015,06:45,CHF,yellow,3.4%,3.4%,3.3%,Thu,,,Africa/Lagos
-08/10/2015,07:00,EUR,yellow,19.6B,20.2B,22.4B,Thu,,,Africa/Lagos
-08/10/2015,12:00,GBP,red,,,,Thu,,,Africa/Lagos
-08/10/2015,,GBP,red,1-0-8,1-0-8,1-0-8,Thu,,,Africa/Lagos
-08/10/2015,,GBP,red,0.50%,0.50%,0.50%,Thu,,,Africa/Lagos
-08/10/2015,,GBP,orange,375B,375B,375B,Thu,,,Africa/Lagos
-08/10/2015,,GBP,orange,0-0-9,0-0-9,0-0-9,Thu,,,Africa/Lagos
-08/10/2015,12:30,EUR,orange,,,,Thu,,,Africa/Lagos
-08/10/2015,13:13,CAD,yellow,231K,202K,214K,Thu,,,Africa/Lagos
-08/10/2015,13:30,CAD,orange,0.3%,0.2%,0.1%,Thu,,,Africa/Lagos
-08/10/2015,,USD,red,263K,274K,276K,Thu,,,Africa/Lagos
-08/10/2015,15:30,USD,yellow,95B,101B,98B,Thu,,,Africa/Lagos
-08/10/2015,18:03,USD,yellow,2.91|2.5,,2.98|2.5,Thu,,,Africa/Lagos
-08/10/2015,19:00,GBP,red,,,,Thu,,,Africa/Lagos
-08/10/2015,,USD,red,,,,Thu,,,Africa/Lagos
-08/10/2015,20:30,USD,orange,,,,Thu,,,Africa/Lagos
-09/10/2015,01:30,AUD,orange,2.9%,4.9%,-0.3%,Fri,,,Africa/Lagos
-09/10/2015,07:45,EUR,yellow,-89.7B,,-79.8B,Fri,,,Africa/Lagos
-09/10/2015,,EUR,yellow,1.6%,0.6%,-1.1%,Fri,,,Africa/Lagos
-09/10/2015,09:00,EUR,yellow,-0.5%,-0.3%,1.1%,Fri,,,Africa/Lagos
-09/10/2015,09:30,GBP,orange,-11.1B,-10.0B,-12.2B,Fri,,,Africa/Lagos
-09/10/2015,,GBP,yellow,-4.3%,1.0%,-1.0%,Fri,,,Africa/Lagos
-09/10/2015,13:30,CAD,red,12.1K,10.5K,12.0K,Fri,,,Africa/Lagos
-09/10/2015,,CAD,red,7.1%,6.9%,7.0%,Fri,,,Africa/Lagos
-09/10/2015,,USD,orange,-0.1%,-0.5%,-1.6%,Fri,,,Africa/Lagos
-09/10/2015,14:10,USD,orange,,,,Fri,,,Africa/Lagos
-09/10/2015,15:00,USD,yellow,0.1%,0.1%,-0.3%,Fri,,,Africa/Lagos
-09/10/2015,Day 1,All,yellow,,,,Fri,,,Africa/Lagos
-09/10/2015,15:30,CAD,orange,,,,Fri,,,Africa/Lagos
-09/10/2015,18:10,USD,orange,,,,Fri,,,Africa/Lagos
-09/10/2015,22:15,EUR,orange,,,,Fri,,,Africa/Lagos
-10/10/2015,Day 2,All,yellow,,,,Sat,,,Africa/Lagos
-10/10/2015,19:45,CAD,red,,,,Sat,,,Africa/Lagos
-10/10/2015,20:30,GBP,orange,,,,Sat,,,Africa/Lagos
-11/10/2015,Day 3,All,yellow,,,,Sun,,,Africa/Lagos
-12/10/2015,All Day,JPY,gray,,,,Mon,,,Africa/Lagos
-12/10/2015,10:26,CNY,yellow,9.0%,,9.2%,Mon,,,Africa/Lagos
-12/10/2015,All Day,CAD,gray,,,,Mon,,,Africa/Lagos
-12/10/2015,All Day,USD,gray,,,,Mon,,,Africa/Lagos
-12/10/2015,13:10,USD,orange,,,,Mon,,,Africa/Lagos
-12/10/2015,14:00,GBP,orange,,,,Mon,,,Africa/Lagos
-12/10/2015,14:30,GBP,yellow,0.2%,,-0.2%,Mon,,,Africa/Lagos
-12/10/2015,15:30,USD,orange,,,,Mon,,,Africa/Lagos
-12/10/2015,18:20,CAD,red,,,,Mon,,,Africa/Lagos
-12/10/2015,21:30,USD,orange,,,,Mon,,,Africa/Lagos
-12/10/2015,22:40,AUD,orange,,,,Mon,,,Africa/Lagos
-12/10/2015,22:45,NZD,yellow,-0.5%,,-0.5%,Mon,,,Africa/Lagos
-13/10/2015,00:01,GBP,yellow,2.6%,,-1.0%,Tue,,,Africa/Lagos
-13/10/2015,00:50,JPY,orange,,,,Tue,,,Africa/Lagos
-13/10/2015,,JPY,yellow,2.6%,,2.7%,Tue,,,Africa/Lagos
-13/10/2015,01:30,AUD,red,5,,1,Tue,,,Africa/Lagos
-13/10/2015,03:00,CNY,red,376B,292B,368B,Tue,,,Africa/Lagos
-13/10/2015,04:08,CNY,yellow,60.3B,46.9B,60.2B,Tue,,,Africa/Lagos
-13/10/2015,06:00,JPY,yellow,40.6,41.6,41.7,Tue,,,Africa/Lagos
-13/10/2015,06:58,JPY,yellow,-19.1%,,-16.5%,Tue,,,Africa/Lagos
-13/10/2015,07:00,EUR,yellow,-0.2%,-0.2%,-0.2%,Tue,,,Africa/Lagos
-13/10/2015,,EUR,yellow,-0.6%,-0.3%,-0.8%,Tue,,,Africa/Lagos
-13/10/2015,08:15,CHF,orange,-0.1%,-0.1%,-0.7%,Tue,,,Africa/Lagos
-13/10/2015,09:30,GBP,red,-0.1%,0.0%,0.0%,Tue,,,Africa/Lagos
-13/10/2015,,GBP,orange,,,,Tue,,,Africa/Lagos
-13/10/2015,,GBP,orange,0.6%,0.2%,-3.0%,Tue,,,Africa/Lagos
-13/10/2015,,GBP,orange,0.8%,1.0%,1.1%,Tue,,,Africa/Lagos
-13/10/2015,,GBP,yellow,1.0%,1.1%,1.0%,Tue,,,Africa/Lagos
-13/10/2015,,GBP,yellow,5.2%,5.5%,5.2%,Tue,,,Africa/Lagos
-13/10/2015,,GBP,yellow,-0.1%,-0.2%,-0.5%,Tue,,,Africa/Lagos
-13/10/2015,10:00,EUR,red,1.9,6.8,12.1,Tue,,,Africa/Lagos
-13/10/2015,,EUR,orange,30.1,30.1,33.3,Tue,,,Africa/Lagos
-13/10/2015,,GBP,orange,,,,Tue,,,Africa/Lagos
-13/10/2015,11:00,GBP,orange,,,,Tue,,,Africa/Lagos
-13/10/2015,,USD,yellow,96.1,95.6,95.9,Tue,,,Africa/Lagos
-13/10/2015,18:00,GBP,orange,,,,Tue,,,Africa/Lagos
-13/10/2015,21:10,NZD,red,,,,Tue,,,Africa/Lagos
-14/10/2015,00:30,AUD,orange,4.2%,,-5.6%,Wed,,,Africa/Lagos
-14/10/2015,00:50,JPY,yellow,3.8%,4.3%,4.2%,Wed,,,Africa/Lagos
-14/10/2015,,JPY,yellow,-3.9%,-3.9%,-3.6%,Wed,,,Africa/Lagos
-14/10/2015,02:30,CNY,red,1.6%,1.8%,2.0%,Wed,,,Africa/Lagos
-14/10/2015,,CNY,orange,-5.9%,-5.9%,-5.9%,Wed,,,Africa/Lagos
-14/10/2015,07:45,EUR,yellow,-0.4%,-0.4%,0.3%,Wed,,,Africa/Lagos
-14/10/2015,09:30,GBP,red,3.0%,3.1%,2.9%,Wed,,,Africa/Lagos
-14/10/2015,,GBP,red,4.6K,-2.3K,1.2K,Wed,,,Africa/Lagos
-14/10/2015,,GBP,orange,5.4%,5.5%,5.5%,Wed,,,Africa/Lagos
-14/10/2015,10:00,CHF,yellow,18.3,,9.7,Wed,,,Africa/Lagos
-14/10/2015,,EUR,yellow,-0.5%,-0.4%,0.8%,Wed,,,Africa/Lagos
-14/10/2015,13:30,USD,red,-0.3%,-0.1%,-0.1%,Wed,,,Africa/Lagos
-14/10/2015,,USD,red,-0.5%,-0.2%,0.0%,Wed,,,Africa/Lagos
-14/10/2015,,USD,red,0.1%,0.2%,0.0%,Wed,,,Africa/Lagos
-14/10/2015,,USD,orange,-0.3%,0.1%,0.3%,Wed,,,Africa/Lagos
-14/10/2015,15:00,USD,yellow,0.0%,0.1%,0.0%,Wed,,,Africa/Lagos
-14/10/2015,19:00,USD,yellow,,,,Wed,,,Africa/Lagos
-14/10/2015,22:30,NZD,yellow,55.4,,55.1,Wed,,,Africa/Lagos
-15/10/2015,01:00,AUD,orange,3.5%,,3.2%,Thu,,,Africa/Lagos
-15/10/2015,01:30,AUD,red,-5.1K,7.2K,18.1K,Thu,,,Africa/Lagos
-15/10/2015,,AUD,red,6.2%,6.2%,6.2%,Thu,,,Africa/Lagos
-15/10/2015,,AUD,yellow,5.5%,,-1.7%,Thu,,,Africa/Lagos
-15/10/2015,05:30,JPY,yellow,-1.2%,-0.5%,-0.5%,Thu,,,Africa/Lagos
-15/10/2015,,JPY,yellow,0.1%,0.0%,0.2%,Thu,,,Africa/Lagos
-15/10/2015,09:00,CNY,yellow,13.1%,13.1%,13.3%,Thu,,,Africa/Lagos
-15/10/2015,,CNY,yellow,1050B,900B,810B,Thu,,,Africa/Lagos
-15/10/2015,09:48,EUR,yellow,1.77|2.2,,1.84|1.8,Thu,,,Africa/Lagos
-15/10/2015,13:30,USD,red,0.2%,0.1%,0.1%,Thu,,,Africa/Lagos
-15/10/2015,,USD,red,-0.2%,-0.2%,-0.1%,Thu,,,Africa/Lagos
-15/10/2015,,USD,red,0.0%,-0.1%,0.2%,Thu,,,Africa/Lagos
-15/10/2015,,USD,red,255K,269K,262K,Thu,,,Africa/Lagos
-15/10/2015,,USD,orange,-11.4,-7.3,-14.7,Thu,,,Africa/Lagos
-15/10/2015,15:00,USD,red,-4.5,-1.8,-6.0,Thu,,,Africa/Lagos
-15/10/2015,15:30,USD,orange,,,,Thu,,,Africa/Lagos
-15/10/2015,,USD,yellow,100B,92B,95B,Thu,,,Africa/Lagos
-15/10/2015,16:00,USD,orange,7.6M,2.2M,3.1M,Thu,,,Africa/Lagos
-15/10/2015,20:26,USD,yellow,91.1B,93.8B,-64.4B,Thu,,,Africa/Lagos
-15/10/2015,22:45,NZD,red,0.3%,0.2%,0.4%,Thu,,,Africa/Lagos
-16/10/2015,01:30,AUD,orange,,,,Fri,,,Africa/Lagos
-16/10/2015,07:35,JPY,red,,,,Fri,,,Africa/Lagos
-16/10/2015,09:00,EUR,yellow,1.85B,4.23B,8.07B,Fri,,,Africa/Lagos
-16/10/2015,10:00,EUR,orange,-0.1%,-0.1%,-0.1%,Fri,,,Africa/Lagos
-16/10/2015,,EUR,yellow,0.9%,0.9%,0.9%,Fri,,,Africa/Lagos
-16/10/2015,,EUR,yellow,19.8B,22.2B,22.4B,Fri,,,Africa/Lagos
-16/10/2015,11:30,GBP,orange,,,,Fri,,,Africa/Lagos
-16/10/2015,13:30,CAD,red,-0.2%,-0.8%,1.7%,Fri,,,Africa/Lagos
-16/10/2015,,CAD,orange,3.11B,2.21B,-10.09B,Fri,,,Africa/Lagos
-16/10/2015,14:15,USD,orange,77.5%,77.4%,77.8%,Fri,,,Africa/Lagos
-16/10/2015,,USD,orange,-0.2%,-0.2%,-0.1%,Fri,,,Africa/Lagos
-16/10/2015,15:00,USD,red,92.1,88.8,87.2,Fri,,,Africa/Lagos
-16/10/2015,,USD,orange,5.37M,5.77M,5.67M,Fri,,,Africa/Lagos
-16/10/2015,,USD,yellow,2.7%,,2.8%,Fri,,,Africa/Lagos
-16/10/2015,21:00,USD,yellow,20.4B,24.3B,7.7B,Fri,,,Africa/Lagos
-18/10/2015,22:30,NZD,yellow,59.3,,57.6,Sun,,,Africa/Lagos
-19/10/2015,00:01,GBP,yellow,0.6%,,0.9%,Mon,,,Africa/Lagos
-19/10/2015,03:00,CNY,red,6.9%,6.8%,7.0%,Mon,,,Africa/Lagos
-19/10/2015,,CNY,red,5.7%,6.0%,6.1%,Mon,,,Africa/Lagos
-19/10/2015,,CNY,orange,10.3%,10.8%,10.9%,Mon,,,Africa/Lagos
-19/10/2015,,CNY,orange,,,,Mon,,,Africa/Lagos
-19/10/2015,,CNY,yellow,10.9%,10.8%,10.8%,Mon,,,Africa/Lagos
-19/10/2015,15:00,USD,orange,,,,Mon,,,Africa/Lagos
-19/10/2015,,USD,yellow,64,62,61,Mon,,,Africa/Lagos
-19/10/2015,All Day,CAD,orange,,,,Mon,,,Africa/Lagos
-19/10/2015,21:30,USD,orange,,,,Mon,,,Africa/Lagos
-20/10/2015,01:30,AUD,red,,,,Tue,,,Africa/Lagos
-20/10/2015,07:00,CHF,orange,3.05B,2.51B,2.86B,Tue,,,Africa/Lagos
-20/10/2015,,EUR,yellow,-0.4%,-0.1%,-0.5%,Tue,,,Africa/Lagos
-20/10/2015,09:00,EUR,yellow,17.7B,20.1B,25.6B,Tue,,,Africa/Lagos
-20/10/2015,10:45,GBP,orange,,,,Tue,,,Africa/Lagos
-20/10/2015,11:00,GBP,red,,,,Tue,,,Africa/Lagos
-20/10/2015,13:30,CAD,orange,-0.1%,0.2%,-0.1%,Tue,,,Africa/Lagos
-20/10/2015,,USD,red,1.10M,1.16M,1.16M,Tue,,,Africa/Lagos
-20/10/2015,,USD,orange,1.21M,1.14M,1.13M,Tue,,,Africa/Lagos
-20/10/2015,14:00,USD,orange,,,,Tue,,,Africa/Lagos
-20/10/2015,14:15,USD,orange,,,,Tue,,,Africa/Lagos
-20/10/2015,15:04,NZD,red,-3.1%,,9.9%,Tue,,,Africa/Lagos
-20/10/2015,16:00,USD,orange,,,,Tue,,,Africa/Lagos
-20/10/2015,22:45,NZD,yellow,4.2%,,0.5%,Tue,,,Africa/Lagos
-21/10/2015,00:00,AUD,yellow,-0.4%,,0.3%,Wed,,,Africa/Lagos
-21/10/2015,00:30,AUD,yellow,0.1%,,-0.3%,Wed,,,Africa/Lagos
-21/10/2015,00:50,JPY,yellow,-0.36T,-0.07T,-0.37T,Wed,,,Africa/Lagos
-21/10/2015,03:00,NZD,yellow,7.3%,,10.4%,Wed,,,Africa/Lagos
-21/10/2015,05:30,JPY,yellow,-0.2%,-0.1%,-0.1%,Wed,,,Africa/Lagos
-21/10/2015,09:30,GBP,orange,8.6B,9.1B,10.8B,Wed,,,Africa/Lagos
-21/10/2015,15:00,CAD,red,,,,Wed,,,Africa/Lagos
-21/10/2015,,CAD,red,,,,Wed,,,Africa/Lagos
-21/10/2015,,CAD,red,0.50%,0.50%,0.50%,Wed,,,Africa/Lagos
-21/10/2015,15:30,USD,orange,8.0M,3.5M,7.6M,Wed,,,Africa/Lagos
-21/10/2015,16:15,CAD,red,,,,Wed,,,Africa/Lagos
-21/10/2015,18:00,GBP,red,,,,Wed,,,Africa/Lagos
-21/10/2015,18:30,USD,orange,,,,Wed,,,Africa/Lagos
-21/10/2015,22:30,AUD,yellow,,,,Wed,,,Africa/Lagos
-21/10/2015,23:45,AUD,orange,,,,Wed,,,Africa/Lagos
-22/10/2015,01:30,AUD,orange,0,,4,Thu,,,Africa/Lagos
-22/10/2015,08:00,EUR,orange,21.2%,21.9%,22.4%,Thu,,,Africa/Lagos
-22/10/2015,09:20,GBP,orange,,,,Thu,,,Africa/Lagos
-22/10/2015,09:30,GBP,red,1.9%,0.3%,-0.4%,Thu,,,Africa/Lagos
-22/10/2015,12:45,EUR,red,0.05%,0.05%,0.05%,Thu,,,Africa/Lagos
-22/10/2015,13:30,CAD,red,0.0%,0.2%,0.1%,Thu,,,Africa/Lagos
-22/10/2015,,CAD,orange,0.5%,0.1%,0.6%,Thu,,,Africa/Lagos
-22/10/2015,,EUR,red,,,,Thu,,,Africa/Lagos
-22/10/2015,,USD,red,259K,266K,256K,Thu,,,Africa/Lagos
-22/10/2015,14:00,USD,yellow,0.3%,0.4%,0.5%,Thu,,,Africa/Lagos
-22/10/2015,15:00,EUR,yellow,-8,-7,-7,Thu,,,Africa/Lagos
-22/10/2015,,USD,orange,5.55M,5.38M,5.30M,Thu,,,Africa/Lagos
-22/10/2015,,USD,yellow,-0.2%,0.0%,0.0%,Thu,,,Africa/Lagos
-22/10/2015,15:30,USD,yellow,81B,89B,100B,Thu,,,Africa/Lagos
-23/10/2015,02:35,JPY,yellow,52.5,50.6,51.0,Fri,,,Africa/Lagos
-23/10/2015,03:00,CNY,yellow,1.6%,,1.0%,Fri,,,Africa/Lagos
-23/10/2015,08:00,EUR,red,50.7,50.2,50.6,Fri,,,Africa/Lagos
-23/10/2015,,EUR,orange,52.3,51.9,51.9,Fri,,,Africa/Lagos
-23/10/2015,08:30,EUR,red,51.6,51.8,52.3,Fri,,,Africa/Lagos
-23/10/2015,,EUR,orange,55.2,54.0,54.1,Fri,,,Africa/Lagos
-23/10/2015,09:00,EUR,orange,52.0,51.8,52.0,Fri,,,Africa/Lagos
-23/10/2015,,EUR,orange,54.2,53.6,53.7,Fri,,,Africa/Lagos
-23/10/2015,10:00,EUR,yellow,0.3%,0.3%,0.3%,Fri,,,Africa/Lagos
-23/10/2015,13:30,CAD,red,0.2%,0.3%,0.2%,Fri,,,Africa/Lagos
-23/10/2015,,CAD,orange,-0.2%,-0.1%,0.0%,Fri,,,Africa/Lagos
-23/10/2015,14:00,EUR,yellow,-4.0,-6.6,-6.8,Fri,,,Africa/Lagos
-23/10/2015,14:45,USD,yellow,54.0,52.8,53.1,Fri,,,Africa/Lagos
-25/10/2015,02:00,CHF,gray,,,,Sun,,,Africa/Lagos
-25/10/2015,,EUR,gray,,,,Sun,,,Africa/Lagos
-25/10/2015,,GBP,gray,,,,Sun,,,Africa/Lagos
-25/10/2015,All Day,NZD,gray,,,,Sun,,,Africa/Lagos
-26/10/2015,09:00,EUR,red,108.2,108.1,108.5,Mon,,,Africa/Lagos
-26/10/2015,09:30,GBP,yellow,44.5K,46.2K,46.6K,Mon,,,Africa/Lagos
-26/10/2015,11:00,EUR,yellow,,,,Mon,,,Africa/Lagos
-26/10/2015,,GBP,yellow,-18,-8,-7,Mon,,,Africa/Lagos
-26/10/2015,14:00,USD,orange,468K,546K,529K,Mon,,,Africa/Lagos
-26/10/2015,21:45,NZD,red,-1222M,-822M,-1079M,Mon,,,Africa/Lagos
-26/10/2015,23:50,JPY,yellow,0.6%,0.6%,0.8%,Mon,,,Africa/Lagos
-27/10/2015,07:00,CHF,yellow,1.65,,1.64,Tue,,,Africa/Lagos
-27/10/2015,09:00,EUR,orange,4.9%,5.0%,4.9%,Tue,,,Africa/Lagos
-27/10/2015,,EUR,yellow,1.1%,1.1%,1.0%,Tue,,,Africa/Lagos
-27/10/2015,09:30,GBP,red,0.5%,0.6%,0.7%,Tue,,,Africa/Lagos
-27/10/2015,,GBP,yellow,0.9%,1.0%,0.8%,Tue,,,Africa/Lagos
-27/10/2015,10:36,GBP,yellow,1.82|1.7,,1.95|1.4,Tue,,,Africa/Lagos
-27/10/2015,12:30,USD,red,-0.4%,0.0%,-0.2%,Tue,,,Africa/Lagos
-27/10/2015,,USD,orange,-1.2%,-1.1%,-2.3%,Tue,,,Africa/Lagos
-27/10/2015,13:00,USD,yellow,5.1%,5.1%,4.9%,Tue,,,Africa/Lagos
-27/10/2015,13:45,USD,yellow,54.4,55.3,55.1,Tue,,,Africa/Lagos
-27/10/2015,13:59,USD,yellow,-1,-3,-5,Tue,,,Africa/Lagos
-27/10/2015,14:00,USD,red,97.6,102.5,102.6,Tue,,,Africa/Lagos
-27/10/2015,15:20,CAD,orange,,,,Tue,,,Africa/Lagos
-27/10/2015,23:50,JPY,orange,-0.2%,0.4%,0.8%,Tue,,,Africa/Lagos
-28/10/2015,00:30,AUD,red,0.5%,0.7%,0.7%,Wed,,,Africa/Lagos
-28/10/2015,,AUD,orange,0.3%,0.5%,0.6%,Wed,,,Africa/Lagos
-28/10/2015,07:00,EUR,yellow,9.4,9.5,9.6,Wed,,,Africa/Lagos
-28/10/2015,,EUR,yellow,-0.7%,-0.2%,-1.5%,Wed,,,Africa/Lagos
-28/10/2015,10:34,EUR,yellow,0.44|1.2,,0.62|1.1,Wed,,,Africa/Lagos
-28/10/2015,12:30,USD,orange,-58.6B,-64.9B,-67.2B,Wed,,,Africa/Lagos
-28/10/2015,14:30,USD,orange,3.4M,3.7M,8.0M,Wed,,,Africa/Lagos
-28/10/2015,18:00,USD,red,<0.25%,<0.25%,<0.25%,Wed,,,Africa/Lagos
-28/10/2015,,USD,red,,,,Wed,,,Africa/Lagos
-28/10/2015,20:00,NZD,red,2.75%,2.75%,2.75%,Wed,,,Africa/Lagos
-28/10/2015,,NZD,red,,,,Wed,,,Africa/Lagos
-28/10/2015,23:50,JPY,yellow,1.0%,-0.5%,-1.2%,Wed,,,Africa/Lagos
-29/10/2015,00:00,AUD,yellow,-4.0%,,2.3%,Thu,,,Africa/Lagos
-29/10/2015,00:30,AUD,orange,1.4%,1.6%,1.4%,Thu,,,Africa/Lagos
-29/10/2015,06:58,GBP,yellow,0.6%,0.5%,0.5%,Thu,,,Africa/Lagos
-29/10/2015,All Day,EUR,orange,0.0%,-0.1%,-0.2%,Thu,,,Africa/Lagos
-29/10/2015,08:00,EUR,orange,-0.7%,-0.6%,-0.9%,Thu,,,Africa/Lagos
-29/10/2015,08:55,EUR,orange,-5K,-4K,2K,Thu,,,Africa/Lagos
-29/10/2015,09:30,GBP,orange,4.9B,4.4B,4.7B,Thu,,,Africa/Lagos
-29/10/2015,,GBP,yellow,-1.0%,-0.2%,-0.5%,Thu,,,Africa/Lagos
-29/10/2015,,GBP,yellow,69K,73K,71K,Thu,,,Africa/Lagos
-29/10/2015,10:22,EUR,yellow,1.48|1.7,,1.82|1.3,Thu,,,Africa/Lagos
-29/10/2015,11:00,GBP,yellow,19,35,49,Thu,,,Africa/Lagos
-29/10/2015,12:30,CAD,orange,3.0%,1.2%,-6.8%,Thu,,,Africa/Lagos
-29/10/2015,,CAD,yellow,-0.3%,-0.1%,-0.3%,Thu,,,Africa/Lagos
-29/10/2015,,USD,red,1.5%,1.6%,3.9%,Thu,,,Africa/Lagos
-29/10/2015,,USD,red,260K,264K,259K,Thu,,,Africa/Lagos
-29/10/2015,,USD,orange,1.2%,1.5%,2.1%,Thu,,,Africa/Lagos
-29/10/2015,13:10,USD,orange,,,,Thu,,,Africa/Lagos
-29/10/2015,14:00,USD,orange,-2.3%,1.1%,-1.4%,Thu,,,Africa/Lagos
-29/10/2015,14:30,USD,yellow,63B,70B,81B,Thu,,,Africa/Lagos
-29/10/2015,21:45,NZD,yellow,-5.7%,,-5.3%,Thu,,,Africa/Lagos
-29/10/2015,23:30,JPY,red,-0.2%,-0.2%,-0.2%,Thu,,,Africa/Lagos
-29/10/2015,,JPY,orange,-0.4%,1.2%,2.9%,Thu,,,Africa/Lagos
-29/10/2015,,JPY,yellow,-0.1%,-0.2%,-0.1%,Thu,,,Africa/Lagos
-29/10/2015,,JPY,yellow,3.4%,3.4%,3.4%,Thu,,,Africa/Lagos
-29/10/2015,23:54,NZD,red,10.5,,-18.9,Thu,,,Africa/Lagos
-29/10/2015,23:57,GBP,yellow,2,4,3,Thu,,,Africa/Lagos
-30/10/2015,00:30,AUD,orange,0.9%,0.3%,0.3%,Fri,,,Africa/Lagos
-30/10/2015,,AUD,yellow,0.8%,0.5%,0.6%,Fri,,,Africa/Lagos
-30/10/2015,03:22,JPY,red,,,,Fri,,,Africa/Lagos
-30/10/2015,05:00,JPY,yellow,2.6%,6.5%,8.8%,Fri,,,Africa/Lagos
-30/10/2015,06:00,JPY,red,,,,Fri,,,Africa/Lagos
-30/10/2015,06:32,JPY,red,,,,Fri,,,Africa/Lagos
-30/10/2015,07:00,EUR,orange,0.0%,0.4%,-0.7%,Fri,,,Africa/Lagos
-30/10/2015,07:45,EUR,yellow,0.0%,0.2%,0.1%,Fri,,,Africa/Lagos
-30/10/2015,08:00,CHF,orange,99.8,100.1,100.3,Fri,,,Africa/Lagos
-30/10/2015,,EUR,orange,0.8%,0.9%,1.0%,Fri,,,Africa/Lagos
-30/10/2015,09:00,EUR,yellow,11.8%,11.9%,11.9%,Fri,,,Africa/Lagos
-30/10/2015,10:00,EUR,orange,1.0%,0.9%,0.9%,Fri,,,Africa/Lagos
-30/10/2015,,EUR,orange,0.0%,0.0%,-0.1%,Fri,,,Africa/Lagos
-30/10/2015,,EUR,orange,10.8%,11.0%,10.9%,Fri,,,Africa/Lagos
-30/10/2015,,EUR,yellow,0.2%,0.1%,-0.4%,Fri,,,Africa/Lagos
-30/10/2015,12:30,CAD,red,0.1%,0.1%,0.3%,Fri,,,Africa/Lagos
-30/10/2015,,USD,red,0.6%,0.6%,0.2%,Fri,,,Africa/Lagos
-30/10/2015,,USD,orange,0.1%,0.2%,0.1%,Fri,,,Africa/Lagos
-30/10/2015,,USD,orange,0.1%,0.2%,0.4%,Fri,,,Africa/Lagos
-30/10/2015,,USD,yellow,0.1%,0.2%,0.4%,Fri,,,Africa/Lagos
-30/10/2015,13:45,USD,orange,56.2,49.5,48.7,Fri,,,Africa/Lagos
-30/10/2015,14:00,USD,orange,,,,Fri,,,Africa/Lagos
-30/10/2015,,USD,orange,90.0,92.6,92.1,Fri,,,Africa/Lagos
-30/10/2015,,USD,yellow,2.7%,,2.7%,Fri,,,Africa/Lagos
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/10/2015,00:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2015#detail=54738,52.1,,51.7,Thu,Africa/Lagos
+01/10/2015,00:50,JPY,orange,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2015#detail=56918,12,13,15,Thu,Africa/Lagos
+01/10/2015,00:50,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2015#detail=56917,25,21,23,Thu,Africa/Lagos
+01/10/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2015#detail=58674,,,,Thu,Africa/Lagos
+01/10/2015,01:15,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=59644,,,,Thu,Africa/Lagos
+01/10/2015,02:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=54675,49.8,49.7,49.7,Thu,Africa/Lagos
+01/10/2015,02:00,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=54688,53.4,,53.4,Thu,Africa/Lagos
+01/10/2015,02:35,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55404,51.0,50.9,50.9,Thu,Africa/Lagos
+01/10/2015,02:45,CNY,red,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55405,47.2,47.2,47.0,Thu,Africa/Lagos
+01/10/2015,02:45,CNY,orange,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55482,50.5,51.2,51.5,Thu,Africa/Lagos
+01/10/2015,04:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=56955,0.34|3.0,,0.42|3.5,Thu,Africa/Lagos
+01/10/2015,08:00,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=54910,-21.3%,,-21.4%,Thu,Africa/Lagos
+01/10/2015,08:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56453,-0.3%,0.3%,0.1%,Thu,Africa/Lagos
+01/10/2015,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55411,51.7,53.0,53.2,Thu,Africa/Lagos
+01/10/2015,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55406,49.5,51.9,52.2,Thu,Africa/Lagos
+01/10/2015,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55410,52.7,53.4,53.8,Thu,Africa/Lagos
+01/10/2015,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=59079,50.6,50.4,50.4,Thu,Africa/Lagos
+01/10/2015,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=59083,52.3,52.6,52.5,Thu,Africa/Lagos
+01/10/2015,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55409,52.0,52.0,52.0,Thu,Africa/Lagos
+01/10/2015,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55408,51.5,51.3,51.6,Thu,Africa/Lagos
+01/10/2015,09:30,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=october.2015#detail=58062,,,,Thu,Africa/Lagos
+01/10/2015,09:45,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=59586,1.84|1.8,,2.15|2.5,Thu,Africa/Lagos
+01/10/2015,09:56,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=56488,0.98|2.2,,1.21|1.7,Thu,Africa/Lagos
+01/10/2015,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=54558,93.2%,,2.9%,Thu,Africa/Lagos
+01/10/2015,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2015#detail=54332,277K,273K,267K,Thu,Africa/Lagos
+01/10/2015,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=59560,48.6,,49.4,Thu,Africa/Lagos
+01/10/2015,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55407,53.1,53.0,53.0,Thu,Africa/Lagos
+01/10/2015,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=58011,50.2,50.8,51.1,Thu,Africa/Lagos
+01/10/2015,15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57705,0.7%,0.6%,0.4%,Thu,Africa/Lagos
+01/10/2015,15:00,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=october.2015#detail=58017,38.0,40.0,39.0,Thu,Africa/Lagos
+01/10/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2015#detail=54435,98B,101B,106B,Thu,Africa/Lagos
+01/10/2015,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=october.2015#detail=58090,18.2M,17.5M,17.8M,Thu,Africa/Lagos
+01/10/2015,17:00,CHF,red,Gov Board Member Zurbrugg Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60365,,,,Thu,Africa/Lagos
+01/10/2015,19:30,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=59645,,,,Thu,Africa/Lagos
+02/10/2015,00:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56783,2.9%,0.4%,-0.2%,Fri,Africa/Lagos
+02/10/2015,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=56785,3.4%,3.3%,3.3%,Fri,Africa/Lagos
+02/10/2015,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56932,35.1%,34.2%,33.3%,Fri,Africa/Lagos
+02/10/2015,01:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55059,5.5%,,-5.2%,Fri,Africa/Lagos
+02/10/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2015#detail=58675,,,,Fri,Africa/Lagos
+02/10/2015,02:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54961,2.3%,,-1.8%,Fri,Africa/Lagos
+02/10/2015,02:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54886,0.4%,0.4%,-0.1%,Fri,Africa/Lagos
+02/10/2015,02:30,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60364,,,,Fri,Africa/Lagos
+02/10/2015,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=october.2015#detail=56607,26.1K,17.9K,21.7K,Fri,Africa/Lagos
+02/10/2015,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55521,59.9,57.5,57.3,Fri,Africa/Lagos
+02/10/2015,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57325,-0.8%,-0.5%,-0.2%,Fri,Africa/Lagos
+02/10/2015,13:30,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54477,0.0%,0.2%,0.4%,Fri,Africa/Lagos
+02/10/2015,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=october.2015#detail=54481,142K,201K,136K,Fri,Africa/Lagos
+02/10/2015,13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=54479,5.1%,5.1%,5.1%,Fri,Africa/Lagos
+02/10/2015,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57801,-1.7%,-0.9%,0.2%,Fri,Africa/Lagos
+02/10/2015,18:30,USD,orange,FOMC Member Fischer Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=59961,,,,Fri,Africa/Lagos
+03/10/2015,16:00,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=59962,,,,Sat,Africa/Lagos
+03/10/2015,17:00,AUD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2015#detail=54280,,,,Sat,Africa/Lagos
+04/10/2015,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2015#detail=58372,,,,Sun,Africa/Lagos
+04/10/2015,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=october.2015#detail=54739,52.3,,55.6,Sun,Africa/Lagos
+05/10/2015,00:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54838,0.3%,,0.1%,Mon,Africa/Lagos
+05/10/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2015#detail=58676,,,,Mon,Africa/Lagos
+05/10/2015,01:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54826,3.9%,,1.3%,Mon,Africa/Lagos
+05/10/2015,02:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=57003,0.5%,0.7%,0.9%,Mon,Africa/Lagos
+05/10/2015,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55487,55.1,59.7,59.6,Mon,Africa/Lagos
+05/10/2015,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55486,53.3,54.8,54.6,Mon,Africa/Lagos
+05/10/2015,08:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=59263,51.9,51.2,51.2,Mon,Africa/Lagos
+05/10/2015,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=59264,54.1,54.4,54.3,Mon,Africa/Lagos
+05/10/2015,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55485,53.7,54.0,54.0,Mon,Africa/Lagos
+05/10/2015,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=october.2015#detail=58158,11.7,12.2,13.6,Mon,Africa/Lagos
+05/10/2015,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55484,53.3,56.4,55.6,Mon,Africa/Lagos
+05/10/2015,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57326,0.0%,-0.1%,0.6%,Mon,Africa/Lagos
+05/10/2015,Day 1,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=october.2015#detail=59967,,,,Mon,Africa/Lagos
+05/10/2015,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55483,55.1,55.7,55.6,Mon,Africa/Lagos
+05/10/2015,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=58029,56.9,58.0,59.0,Mon,Africa/Lagos
+05/10/2015,15:00,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58362,0.0,,1.2,Mon,Africa/Lagos
+05/10/2015,22:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=october.2015#detail=55194,-14,,5,Mon,Africa/Lagos
+06/10/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2015#detail=58677,,,,Tue,Africa/Lagos
+06/10/2015,01:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=54874,-3.10B,-2.48B,-2.79B,Tue,Africa/Lagos
+06/10/2015,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=54787,2.00%,2.00%,2.00%,Tue,Africa/Lagos
+06/10/2015,04:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=october.2015#detail=54788,,,,Tue,Africa/Lagos
+06/10/2015,07:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57522,-1.8%,0.5%,-2.2%,Tue,Africa/Lagos
+06/10/2015,08:00,GBP,orange,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55585,-0.9%,0.1%,2.7%,Tue,Africa/Lagos
+06/10/2015,08:15,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56465,0.1%,0.1%,-0.2%,Tue,Africa/Lagos
+06/10/2015,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=57486,51.9,,51.4,Tue,Africa/Lagos
+06/10/2015,09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=october.2015#detail=55615,-10.9B,-12.5B,-12.1B,Tue,Africa/Lagos
+06/10/2015,All Day,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=october.2015#detail=59965,,,,Tue,Africa/Lagos
+06/10/2015,Day 2,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=october.2015#detail=59966,,,,Tue,Africa/Lagos
+06/10/2015,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=57765,-2.5B,-1.1B,-0.8B,Tue,Africa/Lagos
+06/10/2015,13:30,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=57759,-48.3B,-47.6B,-41.8B,Tue,Africa/Lagos
+06/10/2015,15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=58723,53.7,54.1,58.0,Tue,Africa/Lagos
+06/10/2015,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=october.2015#detail=58138,47.3,44.6,42.0,Tue,Africa/Lagos
+06/10/2015,15:49,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=october.2015#detail=56356,9.9%,,16.5%,Tue,Africa/Lagos
+06/10/2015,18:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60366,,,,Tue,Africa/Lagos
+06/10/2015,22:30,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=59968,,,,Tue,Africa/Lagos
+06/10/2015,23:28,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=october.2015#detail=54740,51.9,,53.8,Tue,Africa/Lagos
+07/10/2015,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=55826,-1.9%,,-1.4%,Wed,Africa/Lagos
+07/10/2015,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2015#detail=58678,,,,Wed,Africa/Lagos
+07/10/2015,04:00,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=october.2015#detail=57112,,,,Wed,Africa/Lagos
+07/10/2015,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=october.2015#detail=56801,103.5%,103.4%,105.0%,Wed,Africa/Lagos
+07/10/2015,07:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57509,-1.2%,0.3%,1.2%,Wed,Africa/Lagos
+07/10/2015,07:31,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=october.2015#detail=57113,,,,Wed,Africa/Lagos
+07/10/2015,07:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=56559,-3.0B,-3.6B,-3.2B,Wed,Africa/Lagos
+07/10/2015,08:00,CHF,orange,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=october.2015#detail=56429,542B,,540B,Wed,Africa/Lagos
+07/10/2015,08:05,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60368,,,,Wed,Africa/Lagos
+07/10/2015,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55896,0.5%,0.4%,-0.7%,Wed,Africa/Lagos
+07/10/2015,09:30,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55895,1.0%,0.3%,-0.3%,Wed,Africa/Lagos
+07/10/2015,10:32,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=57427,0.62|1.1,,0.69|1.2,Wed,Africa/Lagos
+07/10/2015,13:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58455,-3.7%,0.5%,0.7%,Wed,Africa/Lagos
+07/10/2015,15:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=october.2015#detail=55862,0.5%,,0.5%,Wed,Africa/Lagos
+07/10/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2015#detail=54385,3.1M,2.2M,4.0M,Wed,Africa/Lagos
+07/10/2015,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=57416,2.07|2.6,,2.24|2.7,Wed,Africa/Lagos
+07/10/2015,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57981,16.0B,18.8B,18.9B,Wed,Africa/Lagos
+08/10/2015,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=55610,44%,54%,53%,Thu,Africa/Lagos
+08/10/2015,00:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56736,-5.7%,3.3%,-3.6%,Thu,Africa/Lagos
+08/10/2015,00:50,JPY,orange,Current Account,https://www.forexfactory.com/calendar?month=october.2015#detail=56748,1.59T,1.28T,1.32T,Thu,Africa/Lagos
+08/10/2015,04:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=56968,1.35|3.3,,1.41|3.1,Thu,Africa/Lagos
+08/10/2015,06:00,JPY,yellow,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=october.2015#detail=56944,,,,Thu,Africa/Lagos
+08/10/2015,06:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=october.2015#detail=56908,47.5,48.6,49.3,Thu,Africa/Lagos
+08/10/2015,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=56419,3.4%,3.4%,3.3%,Thu,Africa/Lagos
+08/10/2015,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=57558,19.6B,20.2B,22.4B,Thu,Africa/Lagos
+08/10/2015,12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=october.2015#detail=59484,,,,Thu,Africa/Lagos
+08/10/2015,12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=october.2015#detail=54636,1-0-8,1-0-8,1-0-8,Thu,Africa/Lagos
+08/10/2015,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=54633,0.50%,0.50%,0.50%,Thu,Africa/Lagos
+08/10/2015,12:00,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=october.2015#detail=54631,375B,375B,375B,Thu,Africa/Lagos
+08/10/2015,12:00,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=october.2015#detail=54638,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+08/10/2015,12:30,EUR,orange,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=october.2015#detail=58692,,,,Thu,Africa/Lagos
+08/10/2015,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=october.2015#detail=58340,231K,202K,214K,Thu,Africa/Lagos
+08/10/2015,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58587,0.3%,0.2%,0.1%,Thu,Africa/Lagos
+08/10/2015,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2015#detail=54333,263K,274K,276K,Thu,Africa/Lagos
+08/10/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2015#detail=54438,95B,101B,98B,Thu,Africa/Lagos
+08/10/2015,18:03,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=57404,2.91|2.5,,2.98|2.5,Thu,Africa/Lagos
+08/10/2015,19:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60369,,,,Thu,Africa/Lagos
+08/10/2015,19:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=october.2015#detail=54529,,,,Thu,Africa/Lagos
+08/10/2015,20:30,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=59969,,,,Thu,Africa/Lagos
+09/10/2015,01:30,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54938,2.9%,4.9%,-0.3%,Fri,Africa/Lagos
+09/10/2015,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=56557,-89.7B,,-79.8B,Fri,Africa/Lagos
+09/10/2015,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56536,1.6%,0.6%,-1.1%,Fri,Africa/Lagos
+09/10/2015,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56631,-0.5%,-0.3%,1.1%,Fri,Africa/Lagos
+09/10/2015,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=55838,-11.1B,-10.0B,-12.2B,Fri,Africa/Lagos
+09/10/2015,09:30,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55674,-4.3%,1.0%,-1.0%,Fri,Africa/Lagos
+09/10/2015,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=october.2015#detail=58557,12.1K,10.5K,12.0K,Fri,Africa/Lagos
+09/10/2015,13:30,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=58556,7.1%,6.9%,7.0%,Fri,Africa/Lagos
+09/10/2015,13:30,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57945,-0.1%,-0.5%,-1.6%,Fri,Africa/Lagos
+09/10/2015,14:10,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=59970,,,,Fri,Africa/Lagos
+09/10/2015,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57717,0.1%,0.1%,-0.3%,Fri,Africa/Lagos
+09/10/2015,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=october.2015#detail=58317,,,,Fri,Africa/Lagos
+09/10/2015,15:30,CAD,orange,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=october.2015#detail=58790,,,,Fri,Africa/Lagos
+09/10/2015,18:10,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=59971,,,,Fri,Africa/Lagos
+09/10/2015,22:15,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60521,,,,Fri,Africa/Lagos
+10/10/2015,Day 2,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=october.2015#detail=58318,,,,Sat,Africa/Lagos
+10/10/2015,19:45,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60367,,,,Sat,Africa/Lagos
+10/10/2015,20:30,GBP,orange,MPC Member Shafik Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60522,,,,Sat,Africa/Lagos
+11/10/2015,Day 3,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=october.2015#detail=58319,,,,Sun,Africa/Lagos
+12/10/2015,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2015#detail=58427,,,,Mon,Africa/Lagos
+12/10/2015,10:26,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=october.2015#detail=55970,9.0%,,9.2%,Mon,Africa/Lagos
+12/10/2015,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2015#detail=58381,,,,Mon,Africa/Lagos
+12/10/2015,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2015#detail=58401,,,,Mon,Africa/Lagos
+12/10/2015,13:10,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60477,,,,Mon,Africa/Lagos
+12/10/2015,14:00,GBP,orange,MPC Member Weale Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60610,,,,Mon,Africa/Lagos
+12/10/2015,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55934,0.2%,,-0.2%,Mon,Africa/Lagos
+12/10/2015,15:30,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60478,,,,Mon,Africa/Lagos
+12/10/2015,18:20,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60479,,,,Mon,Africa/Lagos
+12/10/2015,21:30,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60480,,,,Mon,Africa/Lagos
+12/10/2015,22:40,AUD,orange,RBA Deputy Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60481,,,,Mon,Africa/Lagos
+12/10/2015,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55047,-0.5%,,-0.5%,Mon,Africa/Lagos
+13/10/2015,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=55922,2.6%,,-1.0%,Tue,Africa/Lagos
+13/10/2015,00:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=october.2015#detail=57056,,,,Tue,Africa/Lagos
+13/10/2015,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56720,2.6%,,2.7%,Tue,Africa/Lagos
+13/10/2015,01:30,AUD,red,NAB Business Confidence,https://www.forexfactory.com/calendar?month=october.2015#detail=54704,5,,1,Tue,Africa/Lagos
+13/10/2015,03:00,CNY,red,Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=61812,376B,292B,368B,Tue,Africa/Lagos
+13/10/2015,04:08,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=56045,60.3B,46.9B,60.2B,Tue,Africa/Lagos
+13/10/2015,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2015#detail=56906,40.6,41.6,41.7,Tue,Africa/Lagos
+13/10/2015,06:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56838,-19.1%,,-16.5%,Tue,Africa/Lagos
+13/10/2015,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57615,-0.2%,-0.2%,-0.2%,Tue,Africa/Lagos
+13/10/2015,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57594,-0.6%,-0.3%,-0.8%,Tue,Africa/Lagos
+13/10/2015,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56441,-0.1%,-0.1%,-0.7%,Tue,Africa/Lagos
+13/10/2015,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=55803,-0.1%,0.0%,0.0%,Tue,Africa/Lagos
+13/10/2015,09:30,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=october.2015#detail=55691,,,,Tue,Africa/Lagos
+13/10/2015,09:30,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55805,0.6%,0.2%,-3.0%,Tue,Africa/Lagos
+13/10/2015,09:30,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=55804,0.8%,1.0%,1.1%,Tue,Africa/Lagos
+13/10/2015,09:30,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=55802,1.0%,1.1%,1.0%,Tue,Africa/Lagos
+13/10/2015,09:30,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=55686,5.2%,5.5%,5.2%,Tue,Africa/Lagos
+13/10/2015,09:30,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55806,-0.1%,-0.2%,-0.5%,Tue,Africa/Lagos
+13/10/2015,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=october.2015#detail=58192,1.9,6.8,12.1,Tue,Africa/Lagos
+13/10/2015,10:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=october.2015#detail=58190,30.1,30.1,33.3,Tue,Africa/Lagos
+13/10/2015,10:00,GBP,orange,MPC Member Vlieghe Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60611,,,,Tue,Africa/Lagos
+13/10/2015,11:00,GBP,orange,MPC Member McCafferty Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60612,,,,Tue,Africa/Lagos
+13/10/2015,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=october.2015#detail=58078,96.1,95.6,95.9,Tue,Africa/Lagos
+13/10/2015,18:00,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60673,,,,Tue,Africa/Lagos
+13/10/2015,21:10,NZD,red,RBNZ Gov Wheeler Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60671,,,,Tue,Africa/Lagos
+14/10/2015,00:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=october.2015#detail=54756,4.2%,,-5.6%,Wed,Africa/Lagos
+14/10/2015,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56761,3.8%,4.3%,4.2%,Wed,Africa/Lagos
+14/10/2015,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56971,-3.9%,-3.9%,-3.6%,Wed,Africa/Lagos
+14/10/2015,02:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56033,1.6%,1.8%,2.0%,Wed,Africa/Lagos
+14/10/2015,02:30,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56032,-5.9%,-5.9%,-5.9%,Wed,Africa/Lagos
+14/10/2015,07:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56500,-0.4%,-0.4%,0.3%,Wed,Africa/Lagos
+14/10/2015,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=october.2015#detail=55747,3.0%,3.1%,2.9%,Wed,Africa/Lagos
+14/10/2015,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=october.2015#detail=55748,4.6K,-2.3K,1.2K,Wed,Africa/Lagos
+14/10/2015,09:30,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=55749,5.4%,5.5%,5.5%,Wed,Africa/Lagos
+14/10/2015,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=october.2015#detail=56187,18.3,,9.7,Wed,Africa/Lagos
+14/10/2015,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57327,-0.5%,-0.4%,0.8%,Wed,Africa/Lagos
+14/10/2015,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57739,-0.3%,-0.1%,-0.1%,Wed,Africa/Lagos
+14/10/2015,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57887,-0.5%,-0.2%,0.0%,Wed,Africa/Lagos
+14/10/2015,13:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57737,0.1%,0.2%,0.0%,Wed,Africa/Lagos
+14/10/2015,13:30,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57885,-0.3%,0.1%,0.3%,Wed,Africa/Lagos
+14/10/2015,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57693,0.0%,0.1%,0.0%,Wed,Africa/Lagos
+14/10/2015,19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=october.2015#detail=54568,,,,Wed,Africa/Lagos
+14/10/2015,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2015#detail=55153,55.4,,55.1,Wed,Africa/Lagos
+15/10/2015,01:00,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=october.2015#detail=54768,3.5%,,3.2%,Thu,Africa/Lagos
+15/10/2015,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=october.2015#detail=55217,-5.1K,7.2K,18.1K,Thu,Africa/Lagos
+15/10/2015,01:30,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=55218,6.2%,6.2%,6.2%,Thu,Africa/Lagos
+15/10/2015,01:30,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54898,5.5%,,-1.7%,Thu,Africa/Lagos
+15/10/2015,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56849,-1.2%,-0.5%,-0.5%,Thu,Africa/Lagos
+15/10/2015,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56862,0.1%,0.0%,0.2%,Thu,Africa/Lagos
+15/10/2015,09:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56069,13.1%,13.1%,13.3%,Thu,Africa/Lagos
+15/10/2015,09:00,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=october.2015#detail=56068,1050B,900B,810B,Thu,Africa/Lagos
+15/10/2015,09:48,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=56595,1.77|2.2,,1.84|1.8,Thu,Africa/Lagos
+15/10/2015,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57909,0.2%,0.1%,0.1%,Thu,Africa/Lagos
+15/10/2015,13:30,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57911,-0.2%,-0.2%,-0.1%,Thu,Africa/Lagos
+15/10/2015,13:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=128575,0.0%,-0.1%,0.2%,Thu,Africa/Lagos
+15/10/2015,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2015#detail=54334,255K,269K,262K,Thu,Africa/Lagos
+15/10/2015,13:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2015#detail=57993,-11.4,-7.3,-14.7,Thu,Africa/Lagos
+15/10/2015,15:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2015#detail=58041,-4.5,-1.8,-6.0,Thu,Africa/Lagos
+15/10/2015,15:30,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60482,,,,Thu,Africa/Lagos
+15/10/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2015#detail=54439,100B,92B,95B,Thu,Africa/Lagos
+15/10/2015,16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2015#detail=54386,7.6M,2.2M,3.1M,Thu,Africa/Lagos
+15/10/2015,20:26,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=54579,91.1B,93.8B,-64.4B,Thu,Africa/Lagos
+15/10/2015,22:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=october.2015#detail=55162,0.3%,0.2%,0.4%,Thu,Africa/Lagos
+16/10/2015,01:30,AUD,orange,RBA Financial Stability Review,https://www.forexfactory.com/calendar?month=october.2015#detail=54811,,,,Fri,Africa/Lagos
+16/10/2015,07:35,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60613,,,,Fri,Africa/Lagos
+16/10/2015,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=56663,1.85B,4.23B,8.07B,Fri,Africa/Lagos
+16/10/2015,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=57329,-0.1%,-0.1%,-0.1%,Fri,Africa/Lagos
+16/10/2015,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=57328,0.9%,0.9%,0.9%,Fri,Africa/Lagos
+16/10/2015,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=57330,19.8B,22.2B,22.4B,Fri,Africa/Lagos
+16/10/2015,11:30,GBP,orange,MPC Member Forbes Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60672,,,,Fri,Africa/Lagos
+16/10/2015,13:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58575,-0.2%,-0.8%,1.7%,Fri,Africa/Lagos
+16/10/2015,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=october.2015#detail=58471,3.11B,2.21B,-10.09B,Fri,Africa/Lagos
+16/10/2015,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=57965,77.5%,77.4%,77.8%,Fri,Africa/Lagos
+16/10/2015,14:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57967,-0.2%,-0.2%,-0.1%,Fri,Africa/Lagos
+16/10/2015,15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=october.2015#detail=56122,92.1,88.8,87.2,Fri,Africa/Lagos
+16/10/2015,15:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=october.2015#detail=58114,5.37M,5.77M,5.67M,Fri,Africa/Lagos
+16/10/2015,15:00,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=october.2015#detail=56124,2.7%,,2.8%,Fri,Africa/Lagos
+16/10/2015,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=october.2015#detail=58102,20.4B,24.3B,7.7B,Fri,Africa/Lagos
+18/10/2015,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=october.2015#detail=127162,59.3,,57.6,Sun,Africa/Lagos
+19/10/2015,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55573,0.6%,,0.9%,Mon,Africa/Lagos
+19/10/2015,03:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56003,6.9%,6.8%,7.0%,Mon,Africa/Lagos
+19/10/2015,03:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56007,5.7%,6.0%,6.1%,Mon,Africa/Lagos
+19/10/2015,03:00,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56005,10.3%,10.8%,10.9%,Mon,Africa/Lagos
+19/10/2015,03:00,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=october.2015#detail=56004,,,,Mon,Africa/Lagos
+19/10/2015,03:00,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56006,10.9%,10.8%,10.8%,Mon,Africa/Lagos
+19/10/2015,15:00,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60928,,,,Mon,Africa/Lagos
+19/10/2015,15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=october.2015#detail=58266,64,62,61,Mon,Africa/Lagos
+19/10/2015,All Day,CAD,orange,Federal Election,https://www.forexfactory.com/calendar?month=october.2015#detail=59496,,,,Mon,Africa/Lagos
+19/10/2015,21:30,USD,orange,Treasury Currency Report,https://www.forexfactory.com/calendar?month=october.2015#detail=54536,,,,Mon,Africa/Lagos
+20/10/2015,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=october.2015#detail=54803,,,,Tue,Africa/Lagos
+20/10/2015,07:00,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=56477,3.05B,2.51B,2.86B,Tue,Africa/Lagos
+20/10/2015,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57570,-0.4%,-0.1%,-0.5%,Tue,Africa/Lagos
+20/10/2015,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=october.2015#detail=58202,17.7B,20.1B,25.6B,Tue,Africa/Lagos
+20/10/2015,10:45,GBP,orange,MPC Member McCafferty Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60932,,,,Tue,Africa/Lagos
+20/10/2015,11:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60929,,,,Tue,Africa/Lagos
+20/10/2015,13:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58627,-0.1%,0.2%,-0.1%,Tue,Africa/Lagos
+20/10/2015,13:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=october.2015#detail=57677,1.10M,1.16M,1.16M,Tue,Africa/Lagos
+20/10/2015,13:30,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=october.2015#detail=57679,1.21M,1.14M,1.13M,Tue,Africa/Lagos
+20/10/2015,14:00,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60761,,,,Tue,Africa/Lagos
+20/10/2015,14:15,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60931,,,,Tue,Africa/Lagos
+20/10/2015,15:04,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=october.2015#detail=56357,-3.1%,,9.9%,Tue,Africa/Lagos
+20/10/2015,16:00,USD,orange,Fed Chair Yellen Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60930,,,,Tue,Africa/Lagos
+20/10/2015,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55010,4.2%,,0.5%,Tue,Africa/Lagos
+21/10/2015,00:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54998,-0.4%,,0.3%,Wed,Africa/Lagos
+21/10/2015,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54850,0.1%,,-0.3%,Wed,Africa/Lagos
+21/10/2015,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=56874,-0.36T,-0.07T,-0.37T,Wed,Africa/Lagos
+21/10/2015,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=55103,7.3%,,10.4%,Wed,Africa/Lagos
+21/10/2015,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56709,-0.2%,-0.1%,-0.1%,Wed,Africa/Lagos
+21/10/2015,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=october.2015#detail=55874,8.6B,9.1B,10.8B,Wed,Africa/Lagos
+21/10/2015,15:00,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=october.2015#detail=57392,,,,Wed,Africa/Lagos
+21/10/2015,15:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=october.2015#detail=57381,,,,Wed,Africa/Lagos
+21/10/2015,15:00,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=57382,0.50%,0.50%,0.50%,Wed,Africa/Lagos
+21/10/2015,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2015#detail=54387,8.0M,3.5M,7.6M,Wed,Africa/Lagos
+21/10/2015,16:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=october.2015#detail=57391,,,,Wed,Africa/Lagos
+21/10/2015,18:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60933,,,,Wed,Africa/Lagos
+21/10/2015,18:30,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60934,,,,Wed,Africa/Lagos
+21/10/2015,22:30,AUD,yellow,RBA Annual Report,https://www.forexfactory.com/calendar?month=october.2015#detail=54812,,,,Wed,Africa/Lagos
+21/10/2015,23:45,AUD,orange,RBA Assist Gov Edey Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60762,,,,Wed,Africa/Lagos
+22/10/2015,01:30,AUD,orange,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=october.2015#detail=54710,0,,4,Thu,Africa/Lagos
+22/10/2015,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=56574,21.2%,21.9%,22.4%,Thu,Africa/Lagos
+22/10/2015,09:20,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=60935,,,,Thu,Africa/Lagos
+22/10/2015,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55850,1.9%,0.3%,-0.4%,Thu,Africa/Lagos
+22/10/2015,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=54663,0.05%,0.05%,0.05%,Thu,Africa/Lagos
+22/10/2015,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58613,0.0%,0.2%,0.1%,Thu,Africa/Lagos
+22/10/2015,13:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58612,0.5%,0.1%,0.6%,Thu,Africa/Lagos
+22/10/2015,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=october.2015#detail=54662,,,,Thu,Africa/Lagos
+22/10/2015,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2015#detail=54335,259K,266K,256K,Thu,Africa/Lagos
+22/10/2015,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56371,0.3%,0.4%,0.5%,Thu,Africa/Lagos
+22/10/2015,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2015#detail=58145,-8,-7,-7,Thu,Africa/Lagos
+22/10/2015,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=october.2015#detail=57453,5.55M,5.38M,5.30M,Thu,Africa/Lagos
+22/10/2015,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58294,-0.2%,0.0%,0.0%,Thu,Africa/Lagos
+22/10/2015,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2015#detail=54440,81B,89B,100B,Thu,Africa/Lagos
+23/10/2015,02:35,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55313,52.5,50.6,51.0,Fri,Africa/Lagos
+23/10/2015,03:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56083,1.6%,,1.0%,Fri,Africa/Lagos
+23/10/2015,08:00,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55307,50.7,50.2,50.6,Fri,Africa/Lagos
+23/10/2015,08:00,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55308,52.3,51.9,51.9,Fri,Africa/Lagos
+23/10/2015,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55309,51.6,51.8,52.3,Fri,Africa/Lagos
+23/10/2015,08:30,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55310,55.2,54.0,54.1,Fri,Africa/Lagos
+23/10/2015,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55305,52.0,51.8,52.0,Fri,Africa/Lagos
+23/10/2015,09:00,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55306,54.2,53.6,53.7,Fri,Africa/Lagos
+23/10/2015,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56675,0.3%,0.3%,0.3%,Fri,Africa/Lagos
+23/10/2015,13:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58492,0.2%,0.3%,0.2%,Fri,Africa/Lagos
+23/10/2015,13:30,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58493,-0.2%,-0.1%,0.0%,Fri,Africa/Lagos
+23/10/2015,14:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=october.2015#detail=58283,-4.0,-6.6,-6.8,Fri,Africa/Lagos
+23/10/2015,14:45,USD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55311,54.0,52.8,53.1,Fri,Africa/Lagos
+25/10/2015,02:00,CHF,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2015#detail=54284,,,,Sun,Africa/Lagos
+25/10/2015,02:00,EUR,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2015#detail=54287,,,,Sun,Africa/Lagos
+25/10/2015,02:00,GBP,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=october.2015#detail=54288,,,,Sun,Africa/Lagos
+25/10/2015,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=october.2015#detail=58392,,,,Sun,Africa/Lagos
+26/10/2015,09:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=october.2015#detail=58170,108.2,108.1,108.5,Mon,Africa/Lagos
+26/10/2015,09:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=october.2015#detail=55662,44.5K,46.2K,46.6K,Mon,Africa/Lagos
+26/10/2015,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=october.2015#detail=57630,,,,Mon,Africa/Lagos
+26/10/2015,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=october.2015#detail=55545,-18,-8,-7,Mon,Africa/Lagos
+26/10/2015,14:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=october.2015#detail=57657,468K,546K,529K,Mon,Africa/Lagos
+26/10/2015,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=55032,-1222M,-822M,-1079M,Mon,Africa/Lagos
+26/10/2015,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56983,0.6%,0.6%,0.8%,Mon,Africa/Lagos
+27/10/2015,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=october.2015#detail=56155,1.65,,1.64,Tue,Africa/Lagos
+27/10/2015,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=58228,4.9%,5.0%,4.9%,Tue,Africa/Lagos
+27/10/2015,09:00,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=58226,1.1%,1.1%,1.0%,Tue,Africa/Lagos
+27/10/2015,09:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=october.2015#detail=55948,0.5%,0.6%,0.7%,Tue,Africa/Lagos
+27/10/2015,09:30,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=october.2015#detail=55910,0.9%,1.0%,0.8%,Tue,Africa/Lagos
+27/10/2015,10:36,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=55717,1.82|1.7,,1.95|1.4,Tue,Africa/Lagos
+27/10/2015,12:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57785,-0.4%,0.0%,-0.2%,Tue,Africa/Lagos
+27/10/2015,12:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57787,-1.2%,-1.1%,-2.3%,Tue,Africa/Lagos
+27/10/2015,13:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=58126,5.1%,5.1%,4.9%,Tue,Africa/Lagos
+27/10/2015,13:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=55509,54.4,55.3,55.1,Tue,Africa/Lagos
+27/10/2015,13:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=october.2015#detail=58053,-1,-3,-5,Tue,Africa/Lagos
+27/10/2015,14:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2015#detail=54546,97.6,102.5,102.6,Tue,Africa/Lagos
+27/10/2015,15:20,CAD,orange,Gov Council Member Lane Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=61390,,,,Tue,Africa/Lagos
+27/10/2015,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56823,-0.2%,0.4%,0.8%,Tue,Africa/Lagos
+28/10/2015,00:30,AUD,red,CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54975,0.5%,0.7%,0.7%,Wed,Africa/Lagos
+28/10/2015,00:30,AUD,orange,Trimmed Mean CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54976,0.3%,0.5%,0.6%,Wed,Africa/Lagos
+28/10/2015,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=october.2015#detail=57642,9.4,9.5,9.6,Wed,Africa/Lagos
+28/10/2015,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57582,-0.7%,-0.2%,-1.5%,Wed,Africa/Lagos
+28/10/2015,10:34,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=61393,0.44|1.2,,0.62|1.1,Wed,Africa/Lagos
+28/10/2015,12:30,USD,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=october.2015#detail=59462,-58.6B,-64.9B,-67.2B,Wed,Africa/Lagos
+28/10/2015,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=october.2015#detail=54388,3.4M,3.7M,8.0M,Wed,Africa/Lagos
+28/10/2015,18:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=54510,<0.25%,<0.25%,<0.25%,Wed,Africa/Lagos
+28/10/2015,18:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=october.2015#detail=54511,,,,Wed,Africa/Lagos
+28/10/2015,20:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=55124,2.75%,2.75%,2.75%,Wed,Africa/Lagos
+28/10/2015,20:00,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=october.2015#detail=55125,,,,Wed,Africa/Lagos
+28/10/2015,23:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56821,1.0%,-0.5%,-1.2%,Wed,Africa/Lagos
+29/10/2015,00:00,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54962,-4.0%,,2.3%,Thu,Africa/Lagos
+29/10/2015,00:30,AUD,orange,Import Prices q/q,https://www.forexfactory.com/calendar?month=october.2015#detail=54980,1.4%,1.6%,1.4%,Thu,Africa/Lagos
+29/10/2015,06:58,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55598,0.6%,0.5%,0.5%,Thu,Africa/Lagos
+29/10/2015,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57616,0.0%,-0.1%,-0.2%,Thu,Africa/Lagos
+29/10/2015,08:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56585,-0.7%,-0.6%,-0.9%,Thu,Africa/Lagos
+29/10/2015,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=october.2015#detail=57547,-5K,-4K,2K,Thu,Africa/Lagos
+29/10/2015,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55646,4.9B,4.4B,4.7B,Thu,Africa/Lagos
+29/10/2015,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55644,-1.0%,-0.2%,-0.5%,Thu,Africa/Lagos
+29/10/2015,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=october.2015#detail=55645,69K,73K,71K,Thu,Africa/Lagos
+29/10/2015,10:22,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=october.2015#detail=56619,1.48|1.7,,1.82|1.3,Thu,Africa/Lagos
+29/10/2015,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=october.2015#detail=55533,19,35,49,Thu,Africa/Lagos
+29/10/2015,12:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58534,3.0%,1.2%,-6.8%,Thu,Africa/Lagos
+29/10/2015,12:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58535,-0.3%,-0.1%,-0.3%,Thu,Africa/Lagos
+29/10/2015,12:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=october.2015#detail=57862,1.5%,1.6%,3.9%,Thu,Africa/Lagos
+29/10/2015,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=october.2015#detail=54336,260K,264K,259K,Thu,Africa/Lagos
+29/10/2015,12:30,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=october.2015#detail=57863,1.2%,1.5%,2.1%,Thu,Africa/Lagos
+29/10/2015,13:10,USD,orange,FOMC Member Lockhart Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=61391,,,,Thu,Africa/Lagos
+29/10/2015,14:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57454,-2.3%,1.1%,-1.4%,Thu,Africa/Lagos
+29/10/2015,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=october.2015#detail=54441,63B,70B,81B,Thu,Africa/Lagos
+29/10/2015,21:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=55033,-5.7%,,-5.3%,Thu,Africa/Lagos
+29/10/2015,23:30,JPY,red,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=57010,-0.2%,-0.2%,-0.2%,Thu,Africa/Lagos
+29/10/2015,23:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56786,-0.4%,1.2%,2.9%,Thu,Africa/Lagos
+29/10/2015,23:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=57011,-0.1%,-0.2%,-0.1%,Thu,Africa/Lagos
+29/10/2015,23:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=56789,3.4%,3.4%,3.4%,Thu,Africa/Lagos
+29/10/2015,23:54,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=october.2015#detail=55141,10.5,,-18.9,Thu,Africa/Lagos
+29/10/2015,23:57,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=october.2015#detail=55557,2,4,3,Thu,Africa/Lagos
+30/10/2015,00:30,AUD,orange,PPI q/q,https://www.forexfactory.com/calendar?month=october.2015#detail=54988,0.9%,0.3%,0.3%,Fri,Africa/Lagos
+30/10/2015,00:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=54862,0.8%,0.5%,0.6%,Fri,Africa/Lagos
+30/10/2015,03:22,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=october.2015#detail=59471,,,,Fri,Africa/Lagos
+30/10/2015,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=56886,2.6%,6.5%,8.8%,Fri,Africa/Lagos
+30/10/2015,06:00,JPY,red,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=october.2015#detail=56922,,,,Fri,Africa/Lagos
+30/10/2015,06:32,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=october.2015#detail=59470,,,,Fri,Africa/Lagos
+30/10/2015,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57535,0.0%,0.4%,-0.7%,Fri,Africa/Lagos
+30/10/2015,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56512,0.0%,0.2%,0.1%,Fri,Africa/Lagos
+30/10/2015,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=october.2015#detail=56167,99.8,100.1,100.3,Fri,Africa/Lagos
+30/10/2015,08:00,EUR,orange,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=october.2015#detail=56566,0.8%,0.9%,1.0%,Fri,Africa/Lagos
+30/10/2015,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=56646,11.8%,11.9%,11.9%,Fri,Africa/Lagos
+30/10/2015,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=57331,1.0%,0.9%,0.9%,Fri,Africa/Lagos
+30/10/2015,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=october.2015#detail=57332,0.0%,0.0%,-0.1%,Fri,Africa/Lagos
+30/10/2015,10:00,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=october.2015#detail=57333,10.8%,11.0%,10.9%,Fri,Africa/Lagos
+30/10/2015,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=56688,0.2%,0.1%,-0.4%,Fri,Africa/Lagos
+30/10/2015,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=58506,0.1%,0.1%,0.3%,Fri,Africa/Lagos
+30/10/2015,12:30,USD,red,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=october.2015#detail=57934,0.6%,0.6%,0.2%,Fri,Africa/Lagos
+30/10/2015,12:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57837,0.1%,0.2%,0.1%,Fri,Africa/Lagos
+30/10/2015,12:30,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57834,0.1%,0.2%,0.4%,Fri,Africa/Lagos
+30/10/2015,12:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=october.2015#detail=57832,0.1%,0.2%,0.4%,Fri,Africa/Lagos
+30/10/2015,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=october.2015#detail=56143,56.2,49.5,48.7,Fri,Africa/Lagos
+30/10/2015,14:00,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=october.2015#detail=61392,,,,Fri,Africa/Lagos
+30/10/2015,14:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=october.2015#detail=56123,90.0,92.6,92.1,Fri,Africa/Lagos
+30/10/2015,14:00,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=october.2015#detail=56125,2.7%,,2.7%,Fri,Africa/Lagos

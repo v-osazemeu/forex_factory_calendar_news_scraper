@@ -1,6 +1,6 @@
 date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 01/04/2016,00:50,JPY,orange,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2016#detail=63512,6,8,12,Fri,Africa/Lagos
-01/04/2016,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2016#detail=63513,22,24,25,Fri,Africa/Lagos
+01/04/2016,00:50,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2016#detail=63513,22,24,25,Fri,Africa/Lagos
 01/04/2016,01:52,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=62789,53.8,,52.7,Fri,Africa/Lagos
 01/04/2016,02:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=62788,50.2,49.3,49.0,Fri,Africa/Lagos
 01/04/2016,02:45,CNY,red,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=63100,49.7,48.3,48.0,Fri,Africa/Lagos
@@ -8,24 +8,24 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 01/04/2016,06:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=60752,-15.4%,,-22.2%,Fri,Africa/Lagos
 01/04/2016,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60323,0.8%,0.5%,0.4%,Fri,Africa/Lagos
 01/04/2016,08:15,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62190,-0.2%,0.5%,-0.1%,Fri,Africa/Lagos
-01/04/2016,,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60019,53.4,53.8,54.1,Fri,Africa/Lagos
+01/04/2016,08:15,EUR,orange,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60019,53.4,53.8,54.1,Fri,Africa/Lagos
 01/04/2016,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=62218,53.2,51.3,51.6,Fri,Africa/Lagos
 01/04/2016,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60018,53.5,52.6,52.2,Fri,Africa/Lagos
 01/04/2016,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60016,49.6,49.6,49.6,Fri,Africa/Lagos
 01/04/2016,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60017,50.7,50.4,50.4,Fri,Africa/Lagos
 01/04/2016,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60014,51.6,51.4,51.4,Fri,Africa/Lagos
-01/04/2016,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60890,11.7%,11.5%,11.6%,Fri,Africa/Lagos
+01/04/2016,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60890,11.7%,11.5%,11.6%,Fri,Africa/Lagos
 01/04/2016,09:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60015,51.0,51.4,50.8,Fri,Africa/Lagos
 01/04/2016,13:30,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61738,0.3%,0.2%,-0.1%,Fri,Africa/Lagos
-01/04/2016,,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2016#detail=61740,215K,206K,245K,Fri,Africa/Lagos
-01/04/2016,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=61739,5.0%,4.9%,4.9%,Fri,Africa/Lagos
+01/04/2016,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2016#detail=61740,215K,206K,245K,Fri,Africa/Lagos
+01/04/2016,13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=61739,5.0%,4.9%,4.9%,Fri,Africa/Lagos
 01/04/2016,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60179,51.5,,49.4,Fri,Africa/Lagos
 01/04/2016,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60155,51.5,51.5,51.4,Fri,Africa/Lagos
 01/04/2016,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=61742,51.8,50.8,49.5,Fri,Africa/Lagos
-01/04/2016,,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2016#detail=61676,91.0,90.6,90.0,Fri,Africa/Lagos
-01/04/2016,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61741,-0.5%,0.2%,2.1%,Fri,Africa/Lagos
-01/04/2016,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=april.2016#detail=61743,51.5,44.5,38.5,Fri,Africa/Lagos
-01/04/2016,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2016#detail=61678,2.7%,,2.7%,Fri,Africa/Lagos
+01/04/2016,15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2016#detail=61676,91.0,90.6,90.0,Fri,Africa/Lagos
+01/04/2016,15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61741,-0.5%,0.2%,2.1%,Fri,Africa/Lagos
+01/04/2016,15:00,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=april.2016#detail=61743,51.5,44.5,38.5,Fri,Africa/Lagos
+01/04/2016,15:00,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2016#detail=61678,2.7%,,2.7%,Fri,Africa/Lagos
 01/04/2016,15:30,CAD,orange,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=april.2016#detail=63176,,,,Fri,Africa/Lagos
 01/04/2016,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2016#detail=62082,16.6M,17.6M,17.5M,Fri,Africa/Lagos
 01/04/2016,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2016#detail=110317,16.5M,17.5M,17.5M,Fri,Africa/Lagos
@@ -36,16 +36,16 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 04/04/2016,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2016#detail=63134,,,,Mon,Africa/Lagos
 04/04/2016,02:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60689,0.0%,,-0.2%,Mon,Africa/Lagos
 04/04/2016,02:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60504,3.1%,2.1%,-6.6%,Mon,Africa/Lagos
-04/04/2016,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60475,0.0%,0.4%,0.3%,Mon,Africa/Lagos
-04/04/2016,,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60985,0.2%,,-1.2%,Mon,Africa/Lagos
+04/04/2016,02:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60475,0.0%,0.4%,0.3%,Mon,Africa/Lagos
+04/04/2016,02:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60985,0.2%,,-1.2%,Mon,Africa/Lagos
 04/04/2016,08:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=april.2016#detail=60907,-58.2K,21.3K,2.2K,Mon,Africa/Lagos
 04/04/2016,09:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=april.2016#detail=60766,5.7,6.9,5.5,Mon,Africa/Lagos
-04/04/2016,,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60163,54.2,54.3,54.2,Mon,Africa/Lagos
+04/04/2016,09:30,GBP,red,Construction PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60163,54.2,54.3,54.2,Mon,Africa/Lagos
 04/04/2016,10:00,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60919,10.3%,10.3%,10.3%,Mon,Africa/Lagos
-04/04/2016,,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61039,-0.7%,-0.5%,-1.1%,Mon,Africa/Lagos
+04/04/2016,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61039,-0.7%,-0.5%,-1.1%,Mon,Africa/Lagos
 04/04/2016,15:00,CAD,yellow,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63957,,,,Mon,Africa/Lagos
-04/04/2016,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62650,-1.7%,-1.5%,1.2%,Mon,Africa/Lagos
-04/04/2016,,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62243,-2.1,,-2.5,Mon,Africa/Lagos
+04/04/2016,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62650,-1.7%,-1.5%,1.2%,Mon,Africa/Lagos
+04/04/2016,15:00,USD,yellow,Labor Market Conditions Index m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62243,-2.1,,-2.5,Mon,Africa/Lagos
 04/04/2016,23:00,NZD,orange,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=april.2016#detail=61347,2,,15,Mon,Africa/Lagos
 05/04/2016,00:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=april.2016#detail=60639,49.5,,51.8,Tue,Africa/Lagos
 05/04/2016,01:00,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63714,0.9%,0.2%,0.0%,Tue,Africa/Lagos
@@ -53,7 +53,7 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 05/04/2016,02:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=60484,-3.41B,-2.55B,-3.16B,Tue,Africa/Lagos
 05/04/2016,04:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2016#detail=63659,-0.07|3.9,,-0.02|3.2,Tue,Africa/Lagos
 05/04/2016,05:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60732,2.00%,2.00%,2.00%,Tue,Africa/Lagos
-05/04/2016,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=60733,,,,Tue,Africa/Lagos
+05/04/2016,05:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=60733,,,,Tue,Africa/Lagos
 05/04/2016,07:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62667,-1.2%,0.5%,0.5%,Tue,Africa/Lagos
 05/04/2016,08:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60089,55.3,54.2,54.1,Tue,Africa/Lagos
 05/04/2016,08:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60088,51.2,54.3,53.8,Tue,Africa/Lagos
@@ -61,14 +61,14 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 05/04/2016,08:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60087,55.1,55.5,55.5,Tue,Africa/Lagos
 05/04/2016,09:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60085,53.1,54.1,54.0,Tue,Africa/Lagos
 05/04/2016,09:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60090,53.7,53.9,52.7,Tue,Africa/Lagos
-05/04/2016,,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2016#detail=63004,,,,Tue,Africa/Lagos
+05/04/2016,09:30,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2016#detail=63004,,,,Tue,Africa/Lagos
 05/04/2016,10:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61040,0.2%,0.2%,0.3%,Tue,Africa/Lagos
 05/04/2016,13:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=63390,-1.9B,0.9B,-0.6B,Tue,Africa/Lagos
-05/04/2016,,USD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=61586,-47.1B,-46.3B,-45.9B,Tue,Africa/Lagos
+05/04/2016,13:30,USD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=61586,-47.1B,-46.3B,-45.9B,Tue,Africa/Lagos
 05/04/2016,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60143,51.3,51.0,51.0,Tue,Africa/Lagos
 05/04/2016,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=61745,54.5,54.1,53.4,Tue,Africa/Lagos
-05/04/2016,,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=april.2016#detail=62252,5.45M,5.57M,5.60M,Tue,Africa/Lagos
-05/04/2016,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=april.2016#detail=62286,46.3,47.7,46.8,Tue,Africa/Lagos
+05/04/2016,15:00,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=april.2016#detail=62252,5.45M,5.57M,5.60M,Tue,Africa/Lagos
+05/04/2016,15:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=april.2016#detail=62286,46.3,47.7,46.8,Tue,Africa/Lagos
 05/04/2016,15:27,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=april.2016#detail=61327,2.1%,,-2.9%,Tue,Africa/Lagos
 05/04/2016,21:00,CAD,orange,Gov Council Member Wilkins Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63955,,,,Tue,Africa/Lagos
 05/04/2016,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2016#detail=98976,,,,Tue,Africa/Lagos
@@ -94,7 +94,7 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 07/04/2016,10:33,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2016#detail=63949,1.51|2.0,,1.88|1.6,Thu,Africa/Lagos
 07/04/2016,12:30,EUR,orange,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=april.2016#detail=63014,,,,Thu,Africa/Lagos
 07/04/2016,13:30,CAD,orange,Building Permits m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63318,15.5%,4.7%,-9.5%,Thu,Africa/Lagos
-07/04/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2016#detail=62564,267K,271K,276K,Thu,Africa/Lagos
+07/04/2016,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2016#detail=62564,267K,271K,276K,Thu,Africa/Lagos
 07/04/2016,15:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63953,,,,Thu,Africa/Lagos
 07/04/2016,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2016#detail=61951,12B,7B,-25B,Thu,Africa/Lagos
 07/04/2016,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61868,17.2B,15.0B,14.9B,Thu,Africa/Lagos
@@ -104,23 +104,23 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 08/04/2016,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2016#detail=63523,41.7,40.5,40.1,Fri,Africa/Lagos
 08/04/2016,06:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=62418,3.5%,3.5%,3.4%,Fri,Africa/Lagos
 08/04/2016,07:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=62691,19.8B,19.2B,18.7B,Fri,Africa/Lagos
-08/04/2016,,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=april.2016#detail=63547,45.4,46.5,44.6,Fri,Africa/Lagos
+08/04/2016,07:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=april.2016#detail=63547,45.4,46.5,44.6,Fri,Africa/Lagos
 08/04/2016,07:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=61213,-25.6B,,-9.2B,Fri,Africa/Lagos
-08/04/2016,,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61225,-1.0%,-0.3%,1.0%,Fri,Africa/Lagos
+08/04/2016,07:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61225,-1.0%,-0.3%,1.0%,Fri,Africa/Lagos
 08/04/2016,08:15,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61536,0.3%,0.3%,0.2%,Fri,Africa/Lagos
 08/04/2016,09:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59929,-1.1%,-0.2%,0.5%,Fri,Africa/Lagos
-08/04/2016,,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=59772,-12.0B,-10.3B,-12.2B,Fri,Africa/Lagos
-08/04/2016,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59928,-0.3%,0.1%,0.2%,Fri,Africa/Lagos
+08/04/2016,09:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=59772,-12.0B,-10.3B,-12.2B,Fri,Africa/Lagos
+08/04/2016,09:30,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59928,-0.3%,0.1%,0.2%,Fri,Africa/Lagos
 08/04/2016,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=april.2016#detail=63194,204K,215K,219K,Fri,Africa/Lagos
 08/04/2016,13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2016#detail=63346,40.6K,10.4K,-2.3K,Fri,Africa/Lagos
-08/04/2016,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=63345,7.1%,7.3%,7.3%,Fri,Africa/Lagos
-08/04/2016,,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63960,,,,Fri,Africa/Lagos
+08/04/2016,13:30,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=63345,7.1%,7.3%,7.3%,Fri,Africa/Lagos
+08/04/2016,13:30,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63960,,,,Fri,Africa/Lagos
 08/04/2016,15:00,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=april.2016#detail=62861,0.3%,,0.2%,Fri,Africa/Lagos
-08/04/2016,,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62094,-0.5%,-0.2%,-0.2%,Fri,Africa/Lagos
+08/04/2016,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62094,-0.5%,-0.2%,-0.2%,Fri,Africa/Lagos
 11/04/2016,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63535,-9.2%,-11.8%,15.0%,Mon,Africa/Lagos
 11/04/2016,02:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60566,1.5%,2.1%,-4.4%,Mon,Africa/Lagos
-11/04/2016,,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62888,2.3%,2.4%,2.3%,Mon,Africa/Lagos
-11/04/2016,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62889,-4.3%,-4.6%,-4.9%,Mon,Africa/Lagos
+11/04/2016,02:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62888,2.3%,2.4%,2.3%,Mon,Africa/Lagos
+11/04/2016,02:30,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62889,-4.3%,-4.6%,-4.9%,Mon,Africa/Lagos
 11/04/2016,07:15,JPY,red,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63969,,,,Mon,Africa/Lagos
 11/04/2016,09:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61169,-0.6%,-0.8%,1.7%,Mon,Africa/Lagos
 11/04/2016,13:30,USD,orange,Treasury Sec Lew Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63965,,,,Mon,Africa/Lagos
@@ -129,14 +129,14 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 12/04/2016,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63428,2.0%,,2.2%,Tue,Africa/Lagos
 12/04/2016,02:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=april.2016#detail=60713,6,,3,Tue,Africa/Lagos
 12/04/2016,07:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62728,0.8%,0.8%,0.8%,Tue,Africa/Lagos
-12/04/2016,,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62751,0.3%,0.3%,-0.5%,Tue,Africa/Lagos
-12/04/2016,,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63587,-21.2%,,-22.5%,Tue,Africa/Lagos
+12/04/2016,07:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62751,0.3%,0.3%,-0.5%,Tue,Africa/Lagos
+12/04/2016,07:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63587,-21.2%,,-22.5%,Tue,Africa/Lagos
 12/04/2016,09:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=59799,0.5%,0.3%,0.3%,Tue,Africa/Lagos
-12/04/2016,,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59801,2.0%,2.4%,0.1%,Tue,Africa/Lagos
-12/04/2016,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=59803,1.6%,1.4%,1.3%,Tue,Africa/Lagos
-12/04/2016,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=59800,1.5%,1.3%,1.2%,Tue,Africa/Lagos
-12/04/2016,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=59804,7.6%,8.1%,7.9%,Tue,Africa/Lagos
-12/04/2016,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59802,0.3%,0.3%,0.1%,Tue,Africa/Lagos
+12/04/2016,09:30,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59801,2.0%,2.4%,0.1%,Tue,Africa/Lagos
+12/04/2016,09:30,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=59803,1.6%,1.4%,1.3%,Tue,Africa/Lagos
+12/04/2016,09:30,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=59800,1.5%,1.3%,1.2%,Tue,Africa/Lagos
+12/04/2016,09:30,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=59804,7.6%,8.1%,7.9%,Tue,Africa/Lagos
+12/04/2016,09:30,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59802,0.3%,0.3%,0.1%,Tue,Africa/Lagos
 12/04/2016,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=april.2016#detail=62386,92.6,93.9,92.9,Tue,Africa/Lagos
 12/04/2016,12:20,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62950,4.5%,,2.7%,Tue,Africa/Lagos
 12/04/2016,13:30,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61904,0.2%,1.0%,-0.4%,Tue,Africa/Lagos
@@ -144,7 +144,7 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 12/04/2016,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2016#detail=98978,,,,Tue,Africa/Lagos
 12/04/2016,23:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61462,0.5%,,-0.6%,Tue,Africa/Lagos
 13/04/2016,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63460,3.2%,3.1%,3.2%,Wed,Africa/Lagos
-13/04/2016,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63491,-3.8%,-3.5%,-3.4%,Wed,Africa/Lagos
+13/04/2016,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63491,-3.8%,-3.5%,-3.4%,Wed,Africa/Lagos
 13/04/2016,01:11,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2016#detail=60973,-4.0%,,-2.2%,Wed,Africa/Lagos
 13/04/2016,03:00,CNY,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=62814,195B,203B,210B,Wed,Africa/Lagos
 13/04/2016,03:22,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=62815,29.9B,30.2B,32.6B,Wed,Africa/Lagos
@@ -153,14 +153,14 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 13/04/2016,10:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61041,-0.8%,-0.6%,1.9%,Wed,Africa/Lagos
 13/04/2016,10:35,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2016#detail=60371,2.35|2.1,,2.21|2.1,Wed,Africa/Lagos
 13/04/2016,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62036,0.2%,0.4%,0.0%,Wed,Africa/Lagos
-13/04/2016,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62133,-0.1%,0.3%,-0.2%,Wed,Africa/Lagos
-13/04/2016,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62033,-0.3%,0.1%,0.0%,Wed,Africa/Lagos
-13/04/2016,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62136,-0.1%,0.1%,0.0%,Wed,Africa/Lagos
+13/04/2016,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62133,-0.1%,0.3%,-0.2%,Wed,Africa/Lagos
+13/04/2016,13:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62033,-0.3%,0.1%,0.0%,Wed,Africa/Lagos
+13/04/2016,13:30,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62136,-0.1%,0.1%,0.0%,Wed,Africa/Lagos
 13/04/2016,14:33,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63810,0.2%,,0.2%,Wed,Africa/Lagos
 13/04/2016,15:00,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=april.2016#detail=62761,,,,Wed,Africa/Lagos
-13/04/2016,,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=62759,,,,Wed,Africa/Lagos
-13/04/2016,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=62760,0.50%,0.50%,0.50%,Wed,Africa/Lagos
-13/04/2016,,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61856,-0.1%,0.1%,-0.1%,Wed,Africa/Lagos
+13/04/2016,15:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=62759,,,,Wed,Africa/Lagos
+13/04/2016,15:00,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=62760,0.50%,0.50%,0.50%,Wed,Africa/Lagos
+13/04/2016,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61856,-0.1%,0.1%,-0.1%,Wed,Africa/Lagos
 13/04/2016,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2016#detail=62561,6.6M,0.9M,-4.9M,Wed,Africa/Lagos
 13/04/2016,16:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=april.2016#detail=62762,,,,Wed,Africa/Lagos
 13/04/2016,18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2016#detail=60444,1.77|2.7,,1.90|2.5,Wed,Africa/Lagos
@@ -169,33 +169,33 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 14/04/2016,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=60325,42%,50%,50%,Thu,Africa/Lagos
 14/04/2016,02:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2016#detail=60677,3.6%,,3.4%,Thu,Africa/Lagos
 14/04/2016,02:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2016#detail=60538,26.1K,18.6K,-0.7K,Thu,Africa/Lagos
-14/04/2016,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60550,5.7%,5.9%,5.8%,Thu,Africa/Lagos
+14/04/2016,02:30,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60550,5.7%,5.9%,5.8%,Thu,Africa/Lagos
 14/04/2016,04:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2016#detail=63671,0.39|3.4,,0.77|4.2,Thu,Africa/Lagos
 14/04/2016,08:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61548,0.0%,-0.2%,-0.6%,Thu,Africa/Lagos
 14/04/2016,10:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=61043,0.0%,-0.1%,-0.1%,Thu,Africa/Lagos
-14/04/2016,,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=61042,1.0%,1.0%,1.0%,Thu,Africa/Lagos
+14/04/2016,10:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=61042,1.0%,1.0%,1.0%,Thu,Africa/Lagos
 14/04/2016,12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=april.2016#detail=59669,,,,Thu,Africa/Lagos
-14/04/2016,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=april.2016#detail=59671,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
-14/04/2016,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=59668,0.50%,0.50%,0.50%,Thu,Africa/Lagos
-14/04/2016,,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=april.2016#detail=59667,375B,375B,375B,Thu,Africa/Lagos
-14/04/2016,,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=april.2016#detail=59670,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+14/04/2016,12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=april.2016#detail=59671,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+14/04/2016,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=59668,0.50%,0.50%,0.50%,Thu,Africa/Lagos
+14/04/2016,12:00,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=april.2016#detail=59667,375B,375B,375B,Thu,Africa/Lagos
+14/04/2016,12:00,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=april.2016#detail=59670,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
 14/04/2016,13:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63330,0.2%,0.2%,0.1%,Thu,Africa/Lagos
-14/04/2016,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62112,0.1%,0.2%,0.3%,Thu,Africa/Lagos
-14/04/2016,,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62109,0.1%,0.2%,-0.2%,Thu,Africa/Lagos
-14/04/2016,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=128581,0.9%,1.1%,1.0%,Thu,Africa/Lagos
-14/04/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2016#detail=62565,253K,270K,266K,Thu,Africa/Lagos
+14/04/2016,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62112,0.1%,0.2%,0.3%,Thu,Africa/Lagos
+14/04/2016,13:30,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62109,0.1%,0.2%,-0.2%,Thu,Africa/Lagos
+14/04/2016,13:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=128581,0.9%,1.1%,1.0%,Thu,Africa/Lagos
+14/04/2016,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2016#detail=62565,253K,270K,266K,Thu,Africa/Lagos
 14/04/2016,15:00,USD,orange,FOMC Member Powell Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63962,,,,Thu,Africa/Lagos
 14/04/2016,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2016#detail=61952,-3B,1B,12B,Thu,Africa/Lagos
 14/04/2016,18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2016#detail=60450,2.60|2.4,,2.72|2.3,Thu,Africa/Lagos
 14/04/2016,21:00,GBP,orange,MPC Member Shafik Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63966,,,,Thu,Africa/Lagos
 15/04/2016,02:30,AUD,orange,RBA Financial Stability Review,https://www.forexfactory.com/calendar?month=april.2016#detail=60964,,,,Fri,Africa/Lagos
 15/04/2016,03:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62907,6.7%,6.7%,6.8%,Fri,Africa/Lagos
-15/04/2016,,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62915,6.8%,5.9%,5.4%,Fri,Africa/Lagos
-15/04/2016,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62923,10.7%,10.4%,10.2%,Fri,Africa/Lagos
-15/04/2016,,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=april.2016#detail=62911,,,,Fri,Africa/Lagos
-15/04/2016,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63080,13.4%,13.4%,13.3%,Fri,Africa/Lagos
-15/04/2016,,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=april.2016#detail=63079,1370B,1050B,727B,Fri,Africa/Lagos
-15/04/2016,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62919,10.5%,10.4%,10.2%,Fri,Africa/Lagos
+15/04/2016,03:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62915,6.8%,5.9%,5.4%,Fri,Africa/Lagos
+15/04/2016,03:00,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62923,10.7%,10.4%,10.2%,Fri,Africa/Lagos
+15/04/2016,03:00,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=april.2016#detail=62911,,,,Fri,Africa/Lagos
+15/04/2016,03:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63080,13.4%,13.4%,13.3%,Fri,Africa/Lagos
+15/04/2016,03:00,CNY,yellow,New Loans,https://www.forexfactory.com/calendar?month=april.2016#detail=63079,1370B,1050B,727B,Fri,Africa/Lagos
+15/04/2016,03:00,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62919,10.5%,10.4%,10.2%,Fri,Africa/Lagos
 15/04/2016,05:34,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63635,-5.2%,-6.2%,-6.2%,Fri,Africa/Lagos
 15/04/2016,09:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=61127,3.86B,2.33B,0.03B,Fri,Africa/Lagos
 15/04/2016,09:30,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59913,-0.3%,0.0%,-0.4%,Fri,Africa/Lagos
@@ -203,9 +203,9 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 15/04/2016,13:25,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2016#detail=62362,9.6,2.1,0.6,Fri,Africa/Lagos
 15/04/2016,13:30,CAD,red,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63274,-3.3%,-1.4%,2.3%,Fri,Africa/Lagos
 15/04/2016,14:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=61883,74.8%,75.4%,76.7%,Fri,Africa/Lagos
-15/04/2016,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61887,-0.6%,-0.1%,-0.5%,Fri,Africa/Lagos
+15/04/2016,14:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61887,-0.6%,-0.1%,-0.5%,Fri,Africa/Lagos
 15/04/2016,15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2016#detail=61679,89.7,91.9,91.0,Fri,Africa/Lagos
-15/04/2016,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2016#detail=61681,2.7%,,2.7%,Fri,Africa/Lagos
+15/04/2016,15:00,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2016#detail=61681,2.7%,,2.7%,Fri,Africa/Lagos
 15/04/2016,All Day,All,orange,G20 Meetings,https://www.forexfactory.com/calendar?month=april.2016#detail=63975,,,,Fri,Africa/Lagos
 15/04/2016,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2016#detail=63419,,,,Fri,Africa/Lagos
 15/04/2016,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=april.2016#detail=62070,72.0B,32.2B,-11.9B,Fri,Africa/Lagos
@@ -218,16 +218,16 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 18/04/2016,02:30,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60587,2.2%,,0.0%,Mon,Africa/Lagos
 18/04/2016,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=april.2016#detail=61265,,,,Mon,Africa/Lagos
 18/04/2016,13:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=april.2016#detail=63250,15.94B,7.52B,11.41B,Mon,Africa/Lagos
-18/04/2016,,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63967,,,,Mon,Africa/Lagos
+18/04/2016,13:30,USD,orange,FOMC Member Dudley Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63967,,,,Mon,Africa/Lagos
 18/04/2016,14:21,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=april.2016#detail=62374,58,59,58,Mon,Africa/Lagos
 18/04/2016,15:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60997,-0.3%,,-0.4%,Mon,Africa/Lagos
 18/04/2016,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=april.2016#detail=127168,54.8,,57.2,Mon,Africa/Lagos
 19/04/2016,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2016#detail=60938,,,,Tue,Africa/Lagos
 19/04/2016,09:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2016#detail=61045,19.0B,21.3B,27.5B,Tue,Africa/Lagos
 19/04/2016,10:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2016#detail=60779,11.2,8.2,4.3,Tue,Africa/Lagos
-19/04/2016,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2016#detail=60784,21.5,13.9,10.6,Tue,Africa/Lagos
+19/04/2016,10:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2016#detail=60784,21.5,13.9,10.6,Tue,Africa/Lagos
 19/04/2016,13:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=april.2016#detail=62160,1.09M,1.20M,1.18M,Tue,Africa/Lagos
-19/04/2016,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=april.2016#detail=62157,1.09M,1.17M,1.19M,Tue,Africa/Lagos
+19/04/2016,13:30,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=april.2016#detail=62157,1.09M,1.17M,1.19M,Tue,Africa/Lagos
 19/04/2016,14:30,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63968,,,,Tue,Africa/Lagos
 19/04/2016,15:11,NZD,red,GDT Price Index,https://www.forexfactory.com/calendar?month=april.2016#detail=61328,3.8%,,2.1%,Tue,Africa/Lagos
 19/04/2016,15:35,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63977,,,,Tue,Africa/Lagos
@@ -237,8 +237,8 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 20/04/2016,01:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60701,-0.1%,,-0.2%,Wed,Africa/Lagos
 20/04/2016,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62740,0.0%,0.2%,-0.5%,Wed,Africa/Lagos
 20/04/2016,09:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=april.2016#detail=59862,1.8%,2.1%,2.1%,Wed,Africa/Lagos
-20/04/2016,,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=april.2016#detail=59864,6.7K,-11.9K,-9.3K,Wed,Africa/Lagos
-20/04/2016,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=59863,5.1%,5.1%,5.1%,Wed,Africa/Lagos
+20/04/2016,09:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=april.2016#detail=59864,6.7K,-11.9K,-9.3K,Wed,Africa/Lagos
+20/04/2016,09:30,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=59863,5.1%,5.1%,5.1%,Wed,Africa/Lagos
 20/04/2016,10:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=april.2016#detail=62513,11.5,,2.5,Wed,Africa/Lagos
 20/04/2016,10:33,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2016#detail=60400,0.15|1.4,,0.30|1.4,Wed,Africa/Lagos
 20/04/2016,11:00,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63978,,,,Wed,Africa/Lagos
@@ -252,33 +252,33 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 21/04/2016,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=61353,4.8%,,7.3%,Thu,Africa/Lagos
 21/04/2016,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=61560,2.16B,3.89B,4.02B,Thu,Africa/Lagos
 21/04/2016,09:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59889,-1.3%,-0.1%,-0.5%,Thu,Africa/Lagos
-21/04/2016,,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=april.2016#detail=59949,4.2B,5.6B,6.3B,Thu,Africa/Lagos
+21/04/2016,09:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=april.2016#detail=59949,4.2B,5.6B,6.3B,Thu,Africa/Lagos
 21/04/2016,09:44,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2016#detail=60403,1.61|1.5,,1.50|1.5,Thu,Africa/Lagos
 21/04/2016,12:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=62848,0.00%,0.00%,0.00%,Thu,Africa/Lagos
-21/04/2016,,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=109145,,,,Thu,Africa/Lagos
+21/04/2016,12:45,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=109145,,,,Thu,Africa/Lagos
 21/04/2016,13:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=april.2016#detail=62849,,,,Thu,Africa/Lagos
-21/04/2016,,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2016#detail=61993,-1.6,8.1,12.4,Thu,Africa/Lagos
-21/04/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2016#detail=62566,247K,265K,253K,Thu,Africa/Lagos
+21/04/2016,13:30,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2016#detail=61993,-1.6,8.1,12.4,Thu,Africa/Lagos
+21/04/2016,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2016#detail=62566,247K,265K,253K,Thu,Africa/Lagos
 21/04/2016,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62350,0.4%,0.4%,0.4%,Thu,Africa/Lagos
 21/04/2016,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2016#detail=60814,-9,-9,-10,Thu,Africa/Lagos
-21/04/2016,,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63981,,,,Thu,Africa/Lagos
-21/04/2016,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63402,0.2%,0.4%,-0.1%,Thu,Africa/Lagos
+21/04/2016,15:00,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63981,,,,Thu,Africa/Lagos
+21/04/2016,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63402,0.2%,0.4%,-0.1%,Thu,Africa/Lagos
 21/04/2016,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2016#detail=61953,7B,6B,-3B,Thu,Africa/Lagos
 22/04/2016,03:00,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=63798,48.0,49.6,49.1,Fri,Africa/Lagos
 22/04/2016,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63647,-0.1%,-0.4%,0.7%,Fri,Africa/Lagos
 22/04/2016,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60214,48.3,49.9,49.6,Fri,Africa/Lagos
-22/04/2016,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60215,50.8,50.2,49.9,Fri,Africa/Lagos
+22/04/2016,08:00,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60215,50.8,50.2,49.9,Fri,Africa/Lagos
 22/04/2016,08:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60216,51.9,51.0,50.7,Fri,Africa/Lagos
-22/04/2016,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60217,54.6,55.1,55.1,Fri,Africa/Lagos
+22/04/2016,08:30,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60217,54.6,55.1,55.1,Fri,Africa/Lagos
 22/04/2016,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60212,51.5,51.8,51.6,Fri,Africa/Lagos
-22/04/2016,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60213,53.2,53.3,53.1,Fri,Africa/Lagos
+22/04/2016,09:00,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60213,53.2,53.3,53.1,Fri,Africa/Lagos
 22/04/2016,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61140,0.3%,0.2%,0.0%,Fri,Africa/Lagos
 22/04/2016,Day 1,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=april.2016#detail=63974,,,,Fri,Africa/Lagos
 22/04/2016,All Day,EUR,orange,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=april.2016#detail=63972,,,,Fri,Africa/Lagos
 22/04/2016,13:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63297,0.7%,0.4%,0.5%,Fri,Africa/Lagos
-22/04/2016,,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63210,0.2%,-0.8%,1.3%,Fri,Africa/Lagos
-22/04/2016,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63298,0.6%,0.3%,0.2%,Fri,Africa/Lagos
-22/04/2016,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63209,0.4%,-0.8%,2.0%,Fri,Africa/Lagos
+22/04/2016,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63210,0.2%,-0.8%,1.3%,Fri,Africa/Lagos
+22/04/2016,13:30,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63298,0.6%,0.3%,0.2%,Fri,Africa/Lagos
+22/04/2016,13:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63209,0.4%,-0.8%,2.0%,Fri,Africa/Lagos
 22/04/2016,14:45,USD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60219,50.8,51.9,51.5,Fri,Africa/Lagos
 23/04/2016,Day 2,EUR,orange,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=april.2016#detail=63973,,,,Sat,Africa/Lagos
 24/04/2016,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2016#detail=61292,,,,Sun,Africa/Lagos
@@ -291,89 +291,89 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 25/04/2016,15:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=april.2016#detail=63853,511K,521K,519K,Mon,Africa/Lagos
 26/04/2016,09:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=april.2016#detail=62965,45.1K,46.1K,45.6K,Tue,Africa/Lagos
 26/04/2016,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62012,-0.2%,0.6%,-1.3%,Tue,Africa/Lagos
-26/04/2016,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62009,0.8%,1.9%,-3.0%,Tue,Africa/Lagos
+26/04/2016,13:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62009,0.8%,1.9%,-3.0%,Tue,Africa/Lagos
 26/04/2016,13:55,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63982,,,,Tue,Africa/Lagos
 26/04/2016,14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=62314,5.4%,5.5%,5.7%,Tue,Africa/Lagos
 26/04/2016,14:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=60218,52.1,52.3,51.3,Tue,Africa/Lagos
 26/04/2016,15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2016#detail=62297,94.2,95.8,96.1,Tue,Africa/Lagos
-26/04/2016,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2016#detail=62398,14,11,22,Tue,Africa/Lagos
+26/04/2016,15:00,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2016#detail=62398,14,11,22,Tue,Africa/Lagos
 26/04/2016,18:00,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63988,,,,Tue,Africa/Lagos
 26/04/2016,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=april.2016#detail=98980,,,,Tue,Africa/Lagos
 26/04/2016,23:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=61498,117M,405M,367M,Tue,Africa/Lagos
-27/04/2016,02:30,AUD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=60524,-0.2%,0.3%,0.4%,Wed,Africa/Lagos
-27/04/2016,,AUD,orange,Trimmed Mean CPI q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=60528,0.2%,0.5%,0.6%,Wed,Africa/Lagos
+27/04/2016,02:30,AUD,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60524,-0.2%,0.3%,0.4%,Wed,Africa/Lagos
+27/04/2016,02:30,AUD,orange,Trimmed Mean CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60528,0.2%,0.5%,0.6%,Wed,Africa/Lagos
 27/04/2016,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63599,-1.2%,-1.3%,1.2%,Wed,Africa/Lagos
 27/04/2016,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=april.2016#detail=62525,1.51,,1.45,Wed,Africa/Lagos
-27/04/2016,,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=april.2016#detail=60802,9.7,9.5,9.4,Wed,Africa/Lagos
-27/04/2016,,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61381,0.7%,0.3%,-0.6%,Wed,Africa/Lagos
+27/04/2016,07:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=april.2016#detail=60802,9.7,9.5,9.4,Wed,Africa/Lagos
+27/04/2016,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61381,0.7%,0.3%,-0.6%,Wed,Africa/Lagos
 27/04/2016,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63032,5.0%,5.0%,4.9%,Wed,Africa/Lagos
-27/04/2016,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63033,1.6%,1.7%,1.6%,Wed,Africa/Lagos
+27/04/2016,09:00,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63033,1.6%,1.7%,1.6%,Wed,Africa/Lagos
 27/04/2016,09:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=59975,0.4%,0.4%,0.6%,Wed,Africa/Lagos
-27/04/2016,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2016#detail=59901,0.7%,0.2%,0.9%,Wed,Africa/Lagos
+27/04/2016,09:30,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2016#detail=59901,0.7%,0.2%,0.9%,Wed,Africa/Lagos
 27/04/2016,10:34,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2016#detail=63986,1.03|1.6,,0.94|1.2,Wed,Africa/Lagos
 27/04/2016,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=april.2016#detail=60287,-13,15,7,Wed,Africa/Lagos
 27/04/2016,13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2016#detail=62058,-56.9B,-62.5B,-62.9B,Wed,Africa/Lagos
 27/04/2016,15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62330,1.4%,0.3%,3.4%,Wed,Africa/Lagos
 27/04/2016,15:30,USD,red,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2016#detail=62563,2.0M,1.4M,2.1M,Wed,Africa/Lagos
 27/04/2016,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=59602,0.50%,0.50%,0.50%,Wed,Africa/Lagos
-27/04/2016,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=59603,,,,Wed,Africa/Lagos
+27/04/2016,19:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=59603,,,,Wed,Africa/Lagos
 27/04/2016,22:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=61405,2.25%,2.25%,2.25%,Wed,Africa/Lagos
-27/04/2016,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=61404,,,,Wed,Africa/Lagos
+27/04/2016,22:00,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=61404,,,,Wed,Africa/Lagos
 28/04/2016,00:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63738,-5.3%,-4.0%,1.2%,Thu,Africa/Lagos
-28/04/2016,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63765,-0.3%,-0.3%,-0.3%,Thu,Africa/Lagos
-28/04/2016,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63766,-0.3%,-0.2%,0.0%,Thu,Africa/Lagos
-28/04/2016,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=63750,3.2%,3.3%,3.3%,Thu,Africa/Lagos
+28/04/2016,00:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63765,-0.3%,-0.3%,-0.3%,Thu,Africa/Lagos
+28/04/2016,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63766,-0.3%,-0.2%,0.0%,Thu,Africa/Lagos
+28/04/2016,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=63750,3.2%,3.3%,3.3%,Thu,Africa/Lagos
 28/04/2016,00:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63623,-1.1%,-1.4%,0.4%,Thu,Africa/Lagos
-28/04/2016,,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63611,3.6%,2.9%,-5.2%,Thu,Africa/Lagos
+28/04/2016,00:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63611,3.6%,2.9%,-5.2%,Thu,Africa/Lagos
 28/04/2016,02:30,AUD,yellow,Import Prices q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=60581,-3.0%,-0.9%,-0.3%,Thu,Africa/Lagos
 28/04/2016,04:00,JPY,red,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=65252,-0.10%,,-0.10%,Thu,Africa/Lagos
-28/04/2016,,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=63443,,,,Thu,Africa/Lagos
+28/04/2016,04:00,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=april.2016#detail=63443,,,,Thu,Africa/Lagos
 28/04/2016,06:00,JPY,red,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=april.2016#detail=63438,,,,Thu,Africa/Lagos
-28/04/2016,,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63062,1.1%,1.2%,1.1%,Thu,Africa/Lagos
-28/04/2016,,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63726,8.4%,-0.5%,7.8%,Thu,Africa/Lagos
+28/04/2016,06:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63062,1.1%,1.2%,1.1%,Thu,Africa/Lagos
+28/04/2016,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=63726,8.4%,-0.5%,7.8%,Thu,Africa/Lagos
 28/04/2016,07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60327,0.2%,0.4%,0.7%,Thu,Africa/Lagos
 28/04/2016,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62716,-0.2%,-0.2%,0.8%,Thu,Africa/Lagos
 28/04/2016,07:30,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2016#detail=63451,,,,Thu,Africa/Lagos
 28/04/2016,08:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=61253,-1.1%,-0.7%,-0.8%,Thu,Africa/Lagos
-28/04/2016,,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60901,21.0%,20.9%,20.9%,Thu,Africa/Lagos
+28/04/2016,08:00,EUR,orange,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60901,21.0%,20.9%,20.9%,Thu,Africa/Lagos
 28/04/2016,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=april.2016#detail=60880,-16K,1K,-2K,Thu,Africa/Lagos
 28/04/2016,10:19,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2016#detail=60406,1.51|1.3,,1.24|1.4,Thu,Africa/Lagos
 28/04/2016,13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=61634,0.5%,0.7%,1.4%,Thu,Africa/Lagos
-28/04/2016,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2016#detail=62567,257K,258K,248K,Thu,Africa/Lagos
-28/04/2016,,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=61633,0.7%,0.5%,0.9%,Thu,Africa/Lagos
+28/04/2016,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2016#detail=62567,257K,258K,248K,Thu,Africa/Lagos
+28/04/2016,13:30,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=61633,0.7%,0.5%,0.9%,Thu,Africa/Lagos
 28/04/2016,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2016#detail=61954,73B,71B,7B,Thu,Africa/Lagos
 28/04/2016,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61427,-9.8%,,10.3%,Thu,Africa/Lagos
 28/04/2016,23:49,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2016#detail=62966,-3,-1,0,Thu,Africa/Lagos
 29/04/2016,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2016#detail=63115,,,,Fri,Africa/Lagos
 29/04/2016,02:00,NZD,orange,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=april.2016#detail=61276,6.2,,3.2,Fri,Africa/Lagos
 29/04/2016,02:30,AUD,orange,PPI q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=60597,-0.2%,0.2%,0.3%,Fri,Africa/Lagos
-29/04/2016,,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60950,0.4%,0.5%,0.6%,Fri,Africa/Lagos
+29/04/2016,02:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=60950,0.4%,0.5%,0.6%,Fri,Africa/Lagos
 29/04/2016,04:45,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63983,,,,Fri,Africa/Lagos
 29/04/2016,06:30,EUR,yellow,French Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=61203,0.5%,0.4%,0.3%,Fri,Africa/Lagos
 29/04/2016,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=62704,-1.1%,0.3%,0.0%,Fri,Africa/Lagos
 29/04/2016,07:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61193,0.2%,-0.1%,0.5%,Fri,Africa/Lagos
-29/04/2016,,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61181,0.1%,0.1%,0.7%,Fri,Africa/Lagos
+29/04/2016,07:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61181,0.1%,0.1%,0.7%,Fri,Africa/Lagos
 29/04/2016,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=april.2016#detail=62206,102.7,102.9,102.8,Fri,Africa/Lagos
-29/04/2016,,EUR,orange,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=61247,0.8%,0.7%,0.8%,Fri,Africa/Lagos
+29/04/2016,08:00,EUR,orange,Spanish Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=61247,0.8%,0.7%,0.8%,Fri,Africa/Lagos
 29/04/2016,09:00,CHF,red,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63984,,,,Fri,Africa/Lagos
-29/04/2016,,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60891,11.4%,11.6%,11.6%,Fri,Africa/Lagos
+29/04/2016,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60891,11.4%,11.6%,11.6%,Fri,Africa/Lagos
 29/04/2016,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59745,9.3B,5.0B,5.0B,Fri,Africa/Lagos
-29/04/2016,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59747,-0.4%,0.3%,0.9%,Fri,Africa/Lagos
-29/04/2016,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=april.2016#detail=59746,71K,74K,73K,Fri,Africa/Lagos
+29/04/2016,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=59747,-0.4%,0.3%,0.9%,Fri,Africa/Lagos
+29/04/2016,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=april.2016#detail=59746,71K,74K,73K,Fri,Africa/Lagos
 29/04/2016,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=61046,0.8%,0.9%,1.0%,Fri,Africa/Lagos
-29/04/2016,,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=61047,-0.2%,-0.1%,0.0%,Fri,Africa/Lagos
-29/04/2016,,EUR,orange,Prelim Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=64004,0.6%,0.4%,0.3%,Fri,Africa/Lagos
-29/04/2016,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61157,0.0%,0.2%,0.2%,Fri,Africa/Lagos
-29/04/2016,,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60920,10.2%,10.3%,10.4%,Fri,Africa/Lagos
+29/04/2016,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2016#detail=61047,-0.2%,-0.1%,0.0%,Fri,Africa/Lagos
+29/04/2016,10:00,EUR,orange,Prelim Flash GDP q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=64004,0.6%,0.4%,0.3%,Fri,Africa/Lagos
+29/04/2016,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61157,0.0%,0.2%,0.2%,Fri,Africa/Lagos
+29/04/2016,10:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2016#detail=60920,10.2%,10.3%,10.4%,Fri,Africa/Lagos
 29/04/2016,13:00,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=april.2016#detail=63985,,,,Fri,Africa/Lagos
 29/04/2016,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63238,-0.1%,-0.1%,0.6%,Fri,Africa/Lagos
-29/04/2016,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63371,4.5%,3.9%,0.7%,Fri,Africa/Lagos
-29/04/2016,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63372,-0.6%,0.0%,-1.0%,Fri,Africa/Lagos
-29/04/2016,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61606,0.1%,0.1%,0.2%,Fri,Africa/Lagos
-29/04/2016,,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=61915,0.6%,0.6%,0.6%,Fri,Africa/Lagos
-29/04/2016,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61605,0.1%,0.2%,0.2%,Fri,Africa/Lagos
-29/04/2016,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61604,0.4%,0.3%,0.1%,Fri,Africa/Lagos
+29/04/2016,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63371,4.5%,3.9%,0.7%,Fri,Africa/Lagos
+29/04/2016,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=63372,-0.6%,0.0%,-1.0%,Fri,Africa/Lagos
+29/04/2016,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61606,0.1%,0.1%,0.2%,Fri,Africa/Lagos
+29/04/2016,13:30,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=april.2016#detail=61915,0.6%,0.6%,0.6%,Fri,Africa/Lagos
+29/04/2016,13:30,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61605,0.1%,0.2%,0.2%,Fri,Africa/Lagos
+29/04/2016,13:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=april.2016#detail=61604,0.4%,0.3%,0.1%,Fri,Africa/Lagos
 29/04/2016,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=april.2016#detail=61658,50.4,53.1,53.6,Fri,Africa/Lagos
 29/04/2016,15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2016#detail=61680,89.0,90.3,89.7,Fri,Africa/Lagos
-29/04/2016,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2016#detail=61682,2.8%,,2.7%,Fri,Africa/Lagos
+29/04/2016,15:00,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2016#detail=61682,2.8%,,2.7%,Fri,Africa/Lagos
 29/04/2016,21:00,USD,orange,Treasury Currency Report,https://www.forexfactory.com/calendar?month=april.2016#detail=59640,,,,Fri,Africa/Lagos

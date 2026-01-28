@@ -2,8 +2,8 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 01/09/2008,00:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10271,0.1%,,0.4%,Mon,Africa/Lagos
 01/09/2008,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=18360,48.4,,48.4,Mon,Africa/Lagos
 01/09/2008,01:30,AUD,orange,Current Account,https://www.forexfactory.com/calendar?month=september.2008#detail=9785,-12.8B,-11.8B,-19.8B,Mon,Africa/Lagos
-01/09/2008,,AUD,yellow,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=10348,14.3%,2.5%,3.1%,Mon,Africa/Lagos
-01/09/2008,,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9503,0.3%,0.3%,0.4%,Mon,Africa/Lagos
+01/09/2008,01:30,AUD,yellow,Company Operating Profits q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=10348,14.3%,2.5%,3.1%,Mon,Africa/Lagos
+01/09/2008,01:30,JPY,orange,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9503,0.3%,0.3%,0.4%,Mon,Africa/Lagos
 01/09/2008,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=18355,49.2,,53.3,Mon,Africa/Lagos
 01/09/2008,06:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9065,-1.5%,-0.1%,-1.4%,Mon,Africa/Lagos
 01/09/2008,06:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=10275,45.2%,,41.9%,Mon,Africa/Lagos
@@ -14,8 +14,8 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 01/09/2008,07:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=58960,49.7,49.9,49.9,Mon,Africa/Lagos
 01/09/2008,08:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10229,47.6,47.5,47.5,Mon,Africa/Lagos
 01/09/2008,08:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10079,45.9,44.0,44.1,Mon,Africa/Lagos
-01/09/2008,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=september.2008#detail=10281,33K,35K,35K,Mon,Africa/Lagos
-01/09/2008,,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10350,4.3B,3.8B,4.0B,Mon,Africa/Lagos
+01/09/2008,08:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=september.2008#detail=10281,33K,35K,35K,Mon,Africa/Lagos
+01/09/2008,08:30,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10350,4.3B,3.8B,4.0B,Mon,Africa/Lagos
 01/09/2008,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2008#detail=10356,,,,Mon,Africa/Lagos
 01/09/2008,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2008#detail=10357,,,,Mon,Africa/Lagos
 01/09/2008,13:30,USD,orange,FOMC Member Kroszner Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10425,,,,Mon,Africa/Lagos
@@ -24,17 +24,17 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 02/09/2008,01:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9690,-2.3%,0.3%,2.2%,Tue,Africa/Lagos
 02/09/2008,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2008#detail=48994,1.49|2.7,,1.53|2.6,Tue,Africa/Lagos
 02/09/2008,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8077,7.00%,7.00%,7.25%,Tue,Africa/Lagos
-02/09/2008,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=september.2008#detail=8076,,,,Tue,Africa/Lagos
+02/09/2008,04:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=september.2008#detail=8076,,,,Tue,Africa/Lagos
 02/09/2008,05:45,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8752,-0.3%,-0.1%,-0.4%,Tue,Africa/Lagos
-02/09/2008,,CHF,orange,GDP q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8334,0.4%,0.2%,0.3%,Tue,Africa/Lagos
+02/09/2008,05:45,CHF,orange,GDP q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8334,0.4%,0.2%,0.3%,Tue,Africa/Lagos
 02/09/2008,06:30,JPY,yellow,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10423,,,,Tue,Africa/Lagos
 02/09/2008,07:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=september.2008#detail=43988,103.1K,,36.5K,Tue,Africa/Lagos
 02/09/2008,08:00,GBP,orange,Stimulus Package Announcement,https://www.forexfactory.com/calendar?month=september.2008#detail=10433,,,,Tue,Africa/Lagos
 02/09/2008,08:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10080,40.5,36.0,36.7,Tue,Africa/Lagos
 02/09/2008,09:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8724,1.1%,1.3%,1.0%,Tue,Africa/Lagos
 02/09/2008,14:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10095,49.9,49.9,50.0,Tue,Africa/Lagos
-02/09/2008,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9850,-0.6%,-0.3%,0.3%,Tue,Africa/Lagos
-02/09/2008,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=september.2008#detail=10094,77.0,82.0,88.5,Tue,Africa/Lagos
+02/09/2008,14:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9850,-0.6%,-0.3%,0.3%,Tue,Africa/Lagos
+02/09/2008,14:00,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=september.2008#detail=10094,77.0,82.0,88.5,Tue,Africa/Lagos
 02/09/2008,14:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=september.2008#detail=56209,-14.2%,,-12.9%,Tue,Africa/Lagos
 02/09/2008,16:30,CHF,orange,Gov Board Member Jordan Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10419,,,,Tue,Africa/Lagos
 02/09/2008,23:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2008#detail=9801,52,49,52,Tue,Africa/Lagos
@@ -49,11 +49,11 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 03/09/2008,08:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10228,48.5,48.2,48.2,Wed,Africa/Lagos
 03/09/2008,08:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10081,49.2,47.0,47.4,Wed,Africa/Lagos
 03/09/2008,09:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8935,-0.4%,0.0%,-0.9%,Wed,Africa/Lagos
-03/09/2008,,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8394,-0.2%,-0.2%,-0.2%,Wed,Africa/Lagos
+03/09/2008,09:00,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8394,-0.2%,-0.2%,-0.2%,Wed,Africa/Lagos
 03/09/2008,09:30,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9141,3.8%,,3.2%,Wed,Africa/Lagos
 03/09/2008,11:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=8613,11.7%,,140.8%,Wed,Africa/Lagos
 03/09/2008,13:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=september.2008#detail=8095,,,,Wed,Africa/Lagos
-03/09/2008,,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8094,3.00%,3.00%,3.00%,Wed,Africa/Lagos
+03/09/2008,13:00,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8094,3.00%,3.00%,3.00%,Wed,Africa/Lagos
 03/09/2008,14:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10352,1.3%,1.0%,2.1%,Wed,Africa/Lagos
 03/09/2008,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=september.2008#detail=9746,13.7M,13.0M,12.6M,Wed,Africa/Lagos
 03/09/2008,18:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=september.2008#detail=10091,,,,Wed,Africa/Lagos
@@ -66,9 +66,9 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 04/09/2008,11:45,EUR,orange,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=7958,4.25%,4.25%,4.25%,Thu,Africa/Lagos
 04/09/2008,12:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2008#detail=8588,-33K,-30K,1K,Thu,Africa/Lagos
 04/09/2008,12:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=september.2008#detail=7959,,,,Thu,Africa/Lagos
-04/09/2008,,USD,orange,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=9227,4.3%,3.3%,2.2%,Thu,Africa/Lagos
-04/09/2008,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2008#detail=7933,444K,422K,429K,Thu,Africa/Lagos
-04/09/2008,,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=9442,-0.5%,0.1%,1.3%,Thu,Africa/Lagos
+04/09/2008,12:30,USD,orange,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=9227,4.3%,3.3%,2.2%,Thu,Africa/Lagos
+04/09/2008,12:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2008#detail=7933,444K,422K,429K,Thu,Africa/Lagos
+04/09/2008,12:30,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=9442,-0.5%,0.1%,1.3%,Thu,Africa/Lagos
 04/09/2008,14:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10096,50.6,49.4,49.5,Thu,Africa/Lagos
 04/09/2008,14:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2008#detail=8258,90B,88B,102B,Thu,Africa/Lagos
 04/09/2008,15:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2008#detail=7895,-1.9M,0.0M,-0.1M,Thu,Africa/Lagos
@@ -80,54 +80,54 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 05/09/2008,08:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9050,-1.03B,-1.00B,-0.08B,Fri,Africa/Lagos
 05/09/2008,10:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9829,-1.8%,-0.5%,0.1%,Fri,Africa/Lagos
 05/09/2008,11:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=september.2008#detail=8495,15.2K,9.0K,-55.2K,Fri,Africa/Lagos
-05/09/2008,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8448,6.1%,6.2%,6.1%,Fri,Africa/Lagos
+05/09/2008,11:00,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8448,6.1%,6.2%,6.1%,Fri,Africa/Lagos
 05/09/2008,12:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=september.2008#detail=8488,-84K,-73K,-60K,Fri,Africa/Lagos
-05/09/2008,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8441,6.1%,5.7%,5.7%,Fri,Africa/Lagos
-05/09/2008,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9469,0.4%,0.3%,0.4%,Fri,Africa/Lagos
+05/09/2008,12:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8441,6.1%,5.7%,5.7%,Fri,Africa/Lagos
+05/09/2008,12:30,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9469,0.4%,0.3%,0.4%,Fri,Africa/Lagos
 05/09/2008,14:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10106,51.5,61.7,65.5,Fri,Africa/Lagos
-05/09/2008,,USD,orange,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=september.2008#detail=30059,6.41%,,6.35%,Fri,Africa/Lagos
+05/09/2008,14:00,USD,orange,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=september.2008#detail=30059,6.41%,,6.35%,Fri,Africa/Lagos
 06/09/2008,06:30,EUR,yellow,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10424,,,,Sat,Africa/Lagos
 07/09/2008,23:00,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10434,,,,Sun,Africa/Lagos
 07/09/2008,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=11964,1.8%,,1.8%,Sun,Africa/Lagos
-07/09/2008,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=10451,2.4%,2.1%,2.1%,Sun,Africa/Lagos
+07/09/2008,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=10451,2.4%,2.1%,2.1%,Sun,Africa/Lagos
 08/09/2008,01:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=19258,-4.9%,,-0.3%,Mon,Africa/Lagos
 08/09/2008,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=september.2008#detail=10436,28.3,29.7,29.3,Mon,Africa/Lagos
 08/09/2008,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8554,2.5%,2.5%,2.5%,Mon,Africa/Lagos
 08/09/2008,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=september.2008#detail=10437,-20.2,-18.4,-15.3,Mon,Africa/Lagos
-08/09/2008,,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8798,-2.0%,-1.2%,-1.4%,Mon,Africa/Lagos
-08/09/2008,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8799,-0.6%,0.1%,0.5%,Mon,Africa/Lagos
+08/09/2008,08:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8798,-2.0%,-1.2%,-1.4%,Mon,Africa/Lagos
+08/09/2008,08:30,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8799,-0.6%,0.1%,0.5%,Mon,Africa/Lagos
 08/09/2008,12:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9685,1.8%,-1.0%,-5.3%,Mon,Africa/Lagos
 08/09/2008,17:00,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10443,,,,Mon,Africa/Lagos
 08/09/2008,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10438,4.6B,8.6B,11.0B,Mon,Africa/Lagos
 08/09/2008,23:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9135,-1.0%,,-0.9%,Mon,Africa/Lagos
-08/09/2008,,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=10116,-81%,-85%,-83%,Mon,Africa/Lagos
+08/09/2008,23:01,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=10116,-81%,-85%,-83%,Mon,Africa/Lagos
 09/09/2008,01:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10261,-0.2%,0.0%,-1.7%,Tue,Africa/Lagos
-09/09/2008,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8929,1.4%,0.5%,-1.0%,Tue,Africa/Lagos
-09/09/2008,,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=september.2008#detail=10439,-7,,-9,Tue,Africa/Lagos
+09/09/2008,01:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8929,1.4%,0.5%,-1.0%,Tue,Africa/Lagos
+09/09/2008,01:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=september.2008#detail=10439,-7,,-9,Tue,Africa/Lagos
 09/09/2008,06:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9086,11.8B,17.5B,18.2B,Tue,Africa/Lagos
 09/09/2008,06:03,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=10435,-14.2%,,-8.9%,Tue,Africa/Lagos
 09/09/2008,Day 1,All,yellow,OPEC Meetings,https://www.forexfactory.com/calendar?month=september.2008#detail=10452,,,,Tue,Africa/Lagos
 09/09/2008,08:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9664,-0.2%,-0.1%,-0.4%,Tue,Africa/Lagos
-09/09/2008,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9669,-0.4%,-0.1%,-0.1%,Tue,Africa/Lagos
+09/09/2008,08:30,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9669,-0.4%,-0.1%,-0.1%,Tue,Africa/Lagos
 09/09/2008,11:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=september.2008#detail=48358,91.1,,88.2,Tue,Africa/Lagos
 09/09/2008,12:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=september.2008#detail=9696,211K,194K,187K,Tue,Africa/Lagos
 09/09/2008,13:00,USD,orange,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10455,,,,Tue,Africa/Lagos
 09/09/2008,14:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9860,-3.2%,-1.2%,5.8%,Tue,Africa/Lagos
-09/09/2008,,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9231,1.4%,0.7%,0.9%,Tue,Africa/Lagos
-09/09/2008,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=september.2008#detail=49289,3.42M,,3.50M,Tue,Africa/Lagos
-09/09/2008,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=september.2008#detail=9926,45.8,43.9,42.8,Tue,Africa/Lagos
+09/09/2008,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9231,1.4%,0.7%,0.9%,Tue,Africa/Lagos
+09/09/2008,14:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=september.2008#detail=49289,3.42M,,3.50M,Tue,Africa/Lagos
+09/09/2008,14:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=september.2008#detail=9926,45.8,43.9,42.8,Tue,Africa/Lagos
 09/09/2008,22:45,NZD,yellow,Overseas Trade Index q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=9223,-0.5%,-1.7%,4.1%,Tue,Africa/Lagos
 09/09/2008,23:01,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=september.2008#detail=9914,-0.2%,,-0.1%,Tue,Africa/Lagos
 09/09/2008,23:50,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=september.2008#detail=9790,1.56T,1.34T,1.29T,Tue,Africa/Lagos
-09/09/2008,,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9214,7.2%,7.2%,7.3%,Tue,Africa/Lagos
+09/09/2008,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9214,7.2%,7.2%,7.3%,Tue,Africa/Lagos
 10/09/2008,00:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2008#detail=10440,7.0%,,9.1%,Wed,Africa/Lagos
 10/09/2008,02:00,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=18529,4.9%,5.4%,6.3%,Wed,Africa/Lagos
-10/09/2008,,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=september.2008#detail=19745,27.4%,27.2%,27.3%,Wed,Africa/Lagos
-10/09/2008,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=18577,10.1%,9.8%,10.0%,Wed,Africa/Lagos
+10/09/2008,02:00,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=september.2008#detail=19745,27.4%,27.2%,27.3%,Wed,Africa/Lagos
+10/09/2008,02:00,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=18577,10.1%,9.8%,10.0%,Wed,Africa/Lagos
 10/09/2008,03:30,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=18389,28.7B,23.4B,25.3B,Wed,Africa/Lagos
 10/09/2008,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=september.2008#detail=9129,91.6%,91.8%,91.0%,Wed,Africa/Lagos
 10/09/2008,06:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9838,1.2%,0.1%,-0.6%,Wed,Africa/Lagos
-10/09/2008,,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9154,-4.8B,-5.1B,-5.4B,Wed,Africa/Lagos
+10/09/2008,06:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9154,-4.8B,-5.1B,-5.4B,Wed,Africa/Lagos
 10/09/2008,07:00,EUR,red,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10444,,,,Wed,Africa/Lagos
 10/09/2008,Day 2,All,yellow,OPEC Meetings,https://www.forexfactory.com/calendar?month=september.2008#detail=10449,,,,Wed,Africa/Lagos
 10/09/2008,08:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9017,-7.7B,-7.5B,-8.0B,Wed,Africa/Lagos
@@ -138,51 +138,51 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 10/09/2008,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10333,-0.7%,,-1.0%,Wed,Africa/Lagos
 10/09/2008,14:35,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2008#detail=7896,-5.9M,-4.6M,-1.9M,Wed,Africa/Lagos
 10/09/2008,21:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8102,7.50%,7.75%,8.00%,Wed,Africa/Lagos
-10/09/2008,,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=september.2008#detail=12616,,,,Wed,Africa/Lagos
-10/09/2008,,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=september.2008#detail=8103,,,,Wed,Africa/Lagos
-10/09/2008,,NZD,orange,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=september.2008#detail=13187,,,,Wed,Africa/Lagos
+10/09/2008,21:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=september.2008#detail=12616,,,,Wed,Africa/Lagos
+10/09/2008,21:00,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=september.2008#detail=8103,,,,Wed,Africa/Lagos
+10/09/2008,21:00,NZD,orange,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=september.2008#detail=13187,,,,Wed,Africa/Lagos
 10/09/2008,22:46,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=9209,45.7,,48.7,Wed,Africa/Lagos
 10/09/2008,22:49,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8778,2.7%,,0.6%,Wed,Africa/Lagos
 10/09/2008,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10441,-3.9%,-4.1%,-2.6%,Wed,Africa/Lagos
 11/09/2008,01:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2008#detail=10409,4.4%,,4.9%,Thu,Africa/Lagos
 11/09/2008,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=september.2008#detail=8577,14.6K,5.5K,18.7K,Thu,Africa/Lagos
-11/09/2008,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8570,4.1%,4.4%,4.3%,Thu,Africa/Lagos
+11/09/2008,01:30,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8570,4.1%,4.4%,4.3%,Thu,Africa/Lagos
 11/09/2008,06:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10289,-1.8%,-0.3%,1.4%,Thu,Africa/Lagos
 11/09/2008,06:45,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8607,-0.2%,-0.1%,-0.1%,Thu,Africa/Lagos
 11/09/2008,08:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=september.2008#detail=8455,,,,Thu,Africa/Lagos
 11/09/2008,08:30,GBP,orange,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2008#detail=10442,4.4%,,4.3%,Thu,Africa/Lagos
 11/09/2008,08:45,GBP,red,Monetary Policy Report Hearings,https://www.forexfactory.com/calendar?month=september.2008#detail=10450,,,,Thu,Africa/Lagos
 11/09/2008,12:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9091,4.9B,5.6B,5.6B,Thu,Africa/Lagos
-11/09/2008,,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10112,0.1%,0.1%,0.1%,Thu,Africa/Lagos
-11/09/2008,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9004,-62.2B,-58.0B,-58.8B,Thu,Africa/Lagos
-11/09/2008,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10128,-3.7%,-1.6%,0.2%,Thu,Africa/Lagos
-11/09/2008,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2008#detail=7934,445K,440K,451K,Thu,Africa/Lagos
+11/09/2008,12:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10112,0.1%,0.1%,0.1%,Thu,Africa/Lagos
+11/09/2008,12:30,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9004,-62.2B,-58.0B,-58.8B,Thu,Africa/Lagos
+11/09/2008,12:30,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10128,-3.7%,-1.6%,0.2%,Thu,Africa/Lagos
+11/09/2008,12:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2008#detail=7934,445K,440K,451K,Thu,Africa/Lagos
 11/09/2008,14:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2008#detail=8259,58B,56B,90B,Thu,Africa/Lagos
 11/09/2008,17:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2008#detail=43074,3.63|2.5,,4.08|2.6,Thu,Africa/Lagos
 11/09/2008,18:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10447,,,,Thu,Africa/Lagos
-11/09/2008,,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=10924,-111.9B,-106.2B,-102.8B,Thu,Africa/Lagos
+11/09/2008,18:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=10924,-111.9B,-106.2B,-102.8B,Thu,Africa/Lagos
 11/09/2008,18:45,USD,orange,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10454,,,,Thu,Africa/Lagos
 11/09/2008,22:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8964,-0.2%,0.2%,0.2%,Thu,Africa/Lagos
-11/09/2008,,NZD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8965,-0.8%,-0.3%,1.0%,Thu,Africa/Lagos
+11/09/2008,22:45,NZD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8965,-0.8%,-0.3%,1.0%,Thu,Africa/Lagos
 11/09/2008,23:50,JPY,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8358,-0.7%,-0.9%,-0.6%,Thu,Africa/Lagos
 11/09/2008,23:52,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=8364,-1.5%,-1.6%,-1.6%,Thu,Africa/Lagos
 12/09/2008,02:00,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=18457,12.8%,14.4%,14.7%,Fri,Africa/Lagos
-12/09/2008,,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=september.2008#detail=24351,272B,,382B,Fri,Africa/Lagos
-12/09/2008,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=24256,16.0%,16.7%,16.4%,Fri,Africa/Lagos
-12/09/2008,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=23255,23.2%,23.0%,23.3%,Fri,Africa/Lagos
+12/09/2008,02:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=september.2008#detail=24351,272B,,382B,Fri,Africa/Lagos
+12/09/2008,02:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=24256,16.0%,16.7%,16.4%,Fri,Africa/Lagos
+12/09/2008,02:00,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=23255,23.2%,23.0%,23.3%,Fri,Africa/Lagos
 12/09/2008,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9810,1.3%,0.9%,0.9%,Fri,Africa/Lagos
 12/09/2008,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9457,0.0%,0.1%,-0.2%,Fri,Africa/Lagos
 12/09/2008,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9819,-1.1%,-0.5%,-0.2%,Fri,Africa/Lagos
 12/09/2008,09:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9824,-0.3%,-0.2%,-0.2%,Fri,Africa/Lagos
-12/09/2008,,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8600,0.2%,,0.3%,Fri,Africa/Lagos
+12/09/2008,09:00,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8600,0.2%,,0.3%,Fri,Africa/Lagos
 12/09/2008,10:30,GBP,orange,MPC Member Tucker Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10456,,,,Fri,Africa/Lagos
 12/09/2008,12:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=9659,78.9%,79.3%,79.6%,Fri,Africa/Lagos
-12/09/2008,,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8981,-0.7%,-0.2%,0.3%,Fri,Africa/Lagos
-12/09/2008,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8694,-0.9%,-0.5%,1.2%,Fri,Africa/Lagos
-12/09/2008,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8980,-0.3%,0.2%,-0.5%,Fri,Africa/Lagos
-12/09/2008,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8695,0.2%,0.2%,0.7%,Fri,Africa/Lagos
+12/09/2008,12:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8981,-0.7%,-0.2%,0.3%,Fri,Africa/Lagos
+12/09/2008,12:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8694,-0.9%,-0.5%,1.2%,Fri,Africa/Lagos
+12/09/2008,12:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8980,-0.3%,0.2%,-0.5%,Fri,Africa/Lagos
+12/09/2008,12:30,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8695,0.2%,0.2%,0.7%,Fri,Africa/Lagos
 12/09/2008,13:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2008#detail=8430,73.1,64.0,63.0,Fri,Africa/Lagos
-12/09/2008,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2008#detail=9993,3.6%,,4.8%,Fri,Africa/Lagos
+12/09/2008,13:55,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2008#detail=9993,3.6%,,4.8%,Fri,Africa/Lagos
 12/09/2008,14:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9237,1.1%,0.5%,0.8%,Fri,Africa/Lagos
 14/09/2008,13:30,USD,red,Fed Announcement,https://www.forexfactory.com/calendar?month=september.2008#detail=30149,,,,Sun,Africa/Lagos
 14/09/2008,22:50,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=9311,-0.6%,,3.0%,Sun,Africa/Lagos
@@ -191,52 +191,52 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 15/09/2008,01:30,AUD,yellow,Housing Starts q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=9675,-3.7%,-2.7%,-1.0%,Mon,Africa/Lagos
 15/09/2008,02:30,AUD,orange,Mid-Year Economic and Fiscal Outlook,https://www.forexfactory.com/calendar?month=september.2008#detail=53759,,,,Mon,Africa/Lagos
 15/09/2008,07:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8759,-0.5%,-0.2%,0.5%,Mon,Africa/Lagos
-15/09/2008,,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9058,6.2%,2.3%,0.7%,Mon,Africa/Lagos
+15/09/2008,07:15,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9058,6.2%,2.3%,0.7%,Mon,Africa/Lagos
 15/09/2008,09:00,EUR,yellow,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10467,,,,Mon,Africa/Lagos
 15/09/2008,12:30,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10473,-0.8%,0.0%,-1.3%,Mon,Africa/Lagos
-15/09/2008,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=9738,-7.4,1.5,2.8,Mon,Africa/Lagos
+15/09/2008,12:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=9738,-7.4,1.5,2.8,Mon,Africa/Lagos
 15/09/2008,13:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=9653,78.7%,79.6%,79.7%,Mon,Africa/Lagos
-15/09/2008,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9648,-1.1%,-0.3%,0.1%,Mon,Africa/Lagos
+15/09/2008,13:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9648,-1.1%,-0.3%,0.1%,Mon,Africa/Lagos
 16/09/2008,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=september.2008#detail=10362,,,,Tue,Africa/Lagos
 16/09/2008,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2008#detail=9946,30.1,31.5,31.4,Tue,Africa/Lagos
 16/09/2008,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9498,-0.3%,-0.3%,-0.3%,Tue,Africa/Lagos
 16/09/2008,07:15,CHF,orange,Industrial Production q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=9833,8.9%,5.0%,-9.4%,Tue,Africa/Lagos
 16/09/2008,08:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=8713,4.7%,4.6%,4.4%,Tue,Africa/Lagos
-16/09/2008,,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=8712,2.0%,1.9%,1.9%,Tue,Africa/Lagos
-16/09/2008,,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=8711,4.8%,4.9%,5.0%,Tue,Africa/Lagos
+16/09/2008,08:30,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=8712,2.0%,1.9%,1.9%,Tue,Africa/Lagos
+16/09/2008,08:30,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=8711,4.8%,4.9%,5.0%,Tue,Africa/Lagos
 16/09/2008,08:37,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9322,-0.3%,-2.0%,0.6%,Tue,Africa/Lagos
 16/09/2008,09:00,EUR,red,Final CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9482,3.8%,3.8%,3.8%,Tue,Africa/Lagos
-16/09/2008,,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=september.2008#detail=10474,-41.1,-53.0,-55.5,Tue,Africa/Lagos
-16/09/2008,,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9509,1.9%,1.7%,1.7%,Tue,Africa/Lagos
-16/09/2008,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=september.2008#detail=10475,-40.9,-55.0,-55.7,Tue,Africa/Lagos
+16/09/2008,09:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=september.2008#detail=10474,-41.1,-53.0,-55.5,Tue,Africa/Lagos
+16/09/2008,09:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9509,1.9%,1.7%,1.7%,Tue,Africa/Lagos
+16/09/2008,09:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=september.2008#detail=10475,-40.9,-55.0,-55.7,Tue,Africa/Lagos
 16/09/2008,09:30,GBP,red,BOE Inflation Letter,https://www.forexfactory.com/calendar?month=september.2008#detail=9743,,,,Tue,Africa/Lagos
 16/09/2008,11:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=19993,,,,Tue,Africa/Lagos
 16/09/2008,12:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10476,2.7%,1.0%,1.9%,Tue,Africa/Lagos
-16/09/2008,,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8680,0.2%,0.2%,0.3%,Tue,Africa/Lagos
-16/09/2008,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=128367,5.4%,5.6%,5.6%,Tue,Africa/Lagos
-16/09/2008,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8681,-0.1%,0.0%,0.8%,Tue,Africa/Lagos
+16/09/2008,12:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8680,0.2%,0.2%,0.3%,Tue,Africa/Lagos
+16/09/2008,12:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=128367,5.4%,5.6%,5.6%,Tue,Africa/Lagos
+16/09/2008,12:30,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8681,-0.1%,0.0%,0.8%,Tue,Africa/Lagos
 16/09/2008,13:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=september.2008#detail=10477,6.1B,55.0B,53.4B,Tue,Africa/Lagos
 16/09/2008,15:00,CHF,orange,Gov Board Member Hildebrand Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10457,,,,Tue,Africa/Lagos
 16/09/2008,17:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=september.2008#detail=9315,18,17,16,Tue,Africa/Lagos
 16/09/2008,18:14,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=7784,2.00%,2.00%,2.00%,Tue,Africa/Lagos
-16/09/2008,,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=september.2008#detail=7816,,,,Tue,Africa/Lagos
+16/09/2008,18:14,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=september.2008#detail=7816,,,,Tue,Africa/Lagos
 16/09/2008,23:30,AUD,yellow,RBA Annual Report,https://www.forexfactory.com/calendar?month=september.2008#detail=14189,,,,Tue,Africa/Lagos
 17/09/2008,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10367,0.2%,,0.1%,Wed,Africa/Lagos
 17/09/2008,03:20,AUD,orange,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10458,,,,Wed,Africa/Lagos
 17/09/2008,03:47,JPY,orange,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=september.2008#detail=11659,,,,Wed,Africa/Lagos
-17/09/2008,,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8127,0.50%,0.50%,0.50%,Wed,Africa/Lagos
+17/09/2008,03:47,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8127,0.50%,0.50%,0.50%,Wed,Africa/Lagos
 17/09/2008,07:19,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=september.2008#detail=8128,,,,Wed,Africa/Lagos
 17/09/2008,08:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=september.2008#detail=8785,32.5K,22.2K,27.8K,Wed,Africa/Lagos
-17/09/2008,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=september.2008#detail=10329,0-1-8,1-1-7,1-1-7,Wed,Africa/Lagos
-17/09/2008,,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9533,3.5%,3.4%,3.4%,Wed,Africa/Lagos
-17/09/2008,,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8784,5.5%,5.4%,5.4%,Wed,Africa/Lagos
+17/09/2008,08:30,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=september.2008#detail=10329,0-1-8,1-1-7,1-1-7,Wed,Africa/Lagos
+17/09/2008,08:30,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9533,3.5%,3.4%,3.4%,Wed,Africa/Lagos
+17/09/2008,08:30,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8784,5.5%,5.4%,5.4%,Wed,Africa/Lagos
 17/09/2008,09:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=september.2008#detail=10478,-44.4,,-79.6,Wed,Africa/Lagos
-17/09/2008,,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9024,-6.4B,-3.5B,-3.5B,Wed,Africa/Lagos
+17/09/2008,09:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9024,-6.4B,-3.5B,-3.5B,Wed,Africa/Lagos
 17/09/2008,10:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=september.2008#detail=10952,-26,-14,-13,Wed,Africa/Lagos
 17/09/2008,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=september.2008#detail=10479,-5.59B,5.43B,7.28B,Wed,Africa/Lagos
-17/09/2008,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=september.2008#detail=9643,0.85M,0.93M,0.94M,Wed,Africa/Lagos
-17/09/2008,,USD,orange,Current Account,https://www.forexfactory.com/calendar?month=september.2008#detail=9635,-183B,-180B,-176B,Wed,Africa/Lagos
-17/09/2008,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=september.2008#detail=9638,0.90M,0.95M,0.95M,Wed,Africa/Lagos
+17/09/2008,12:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=september.2008#detail=9643,0.85M,0.93M,0.94M,Wed,Africa/Lagos
+17/09/2008,12:30,USD,orange,Current Account,https://www.forexfactory.com/calendar?month=september.2008#detail=9635,-183B,-180B,-176B,Wed,Africa/Lagos
+17/09/2008,12:30,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=september.2008#detail=9638,0.90M,0.95M,0.95M,Wed,Africa/Lagos
 17/09/2008,14:00,USD,orange,FOMC Member Duke Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11127,,,,Wed,Africa/Lagos
 17/09/2008,14:35,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2008#detail=7897,-6.3M,-4.3M,-5.9M,Wed,Africa/Lagos
 17/09/2008,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10480,1.2%,0.4%,-1.0%,Wed,Africa/Lagos
@@ -244,21 +244,21 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 18/09/2008,05:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=september.2008#detail=10481,,,,Thu,Africa/Lagos
 18/09/2008,06:15,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9076,1.43B,1.00B,2.29B,Thu,Africa/Lagos
 18/09/2008,08:00,GBP,orange,MPC Member Dale Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10999,,,,Thu,Africa/Lagos
-18/09/2008,,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11186,,,,Thu,Africa/Lagos
+18/09/2008,08:00,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11186,,,,Thu,Africa/Lagos
 18/09/2008,08:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8991,1.2%,-0.4%,0.9%,Thu,Africa/Lagos
-18/09/2008,,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=september.2008#detail=10482,10.4B,8.8B,-4.8B,Thu,Africa/Lagos
+18/09/2008,08:30,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=september.2008#detail=10482,10.4B,8.8B,-4.8B,Thu,Africa/Lagos
 18/09/2008,08:33,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10483,1.4%,0.7%,0.9%,Thu,Africa/Lagos
 18/09/2008,09:43,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2008#detail=43318,4.58|1.3,,4.74|1.4,Thu,Africa/Lagos
 18/09/2008,12:00,CHF,red,Libor Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8086,2.75%,2.75%,2.75%,Thu,Africa/Lagos
-18/09/2008,,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=september.2008#detail=8087,,,,Thu,Africa/Lagos
+18/09/2008,12:00,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=september.2008#detail=8087,,,,Thu,Africa/Lagos
 18/09/2008,12:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10484,2.3%,0.6%,0.1%,Thu,Africa/Lagos
-18/09/2008,,CAD,yellow,Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10358,0.2%,0.0%,0.0%,Thu,Africa/Lagos
-18/09/2008,,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2008#detail=7935,455K,440K,445K,Thu,Africa/Lagos
+18/09/2008,12:30,CAD,yellow,Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10358,0.2%,0.0%,0.0%,Thu,Africa/Lagos
+18/09/2008,12:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2008#detail=7935,455K,440K,445K,Thu,Africa/Lagos
 18/09/2008,14:00,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=10485,3.8,-10.0,-12.7,Thu,Africa/Lagos
-18/09/2008,,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10325,-0.5%,-0.2%,-0.7%,Thu,Africa/Lagos
+18/09/2008,14:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10325,-0.5%,-0.2%,-0.7%,Thu,Africa/Lagos
 18/09/2008,14:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2008#detail=8261,67B,61B,58B,Thu,Africa/Lagos
 18/09/2008,22:45,NZD,red,Current Account,https://www.forexfactory.com/calendar?month=september.2008#detail=9787,-3.91B,-3.42B,-2.11B,Thu,Africa/Lagos
-18/09/2008,,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10486,-0.5%,,2.2%,Thu,Africa/Lagos
+18/09/2008,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10486,-0.5%,,2.2%,Thu,Africa/Lagos
 19/09/2008,00:15,CAD,orange,Gov Council Member Murray Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10968,,,,Fri,Africa/Lagos
 19/09/2008,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9542,2.5%,,4.2%,Fri,Africa/Lagos
 19/09/2008,06:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8717,-0.6%,-0.4%,2.0%,Fri,Africa/Lagos
@@ -267,111 +267,111 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 21/09/2008,14:00,EUR,yellow,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10459,,,,Sun,Africa/Lagos
 21/09/2008,23:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10024,-1.0%,,-2.3%,Sun,Africa/Lagos
 21/09/2008,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=september.2008#detail=10391,,,,Sun,Africa/Lagos
-21/09/2008,,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11177,0.8%,0.8%,-1.0%,Sun,Africa/Lagos
+21/09/2008,23:50,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11177,0.8%,0.8%,-1.0%,Sun,Africa/Lagos
 22/09/2008,01:30,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11082,-3.5%,,-4.0%,Mon,Africa/Lagos
 22/09/2008,07:15,EUR,yellow,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11212,,,,Mon,Africa/Lagos
 22/09/2008,10:00,EUR,orange,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=september.2008#detail=50143,,,,Mon,Africa/Lagos
 22/09/2008,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8945,0.4%,0.3%,1.5%,Mon,Africa/Lagos
-22/09/2008,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8946,0.1%,0.2%,0.6%,Mon,Africa/Lagos
+22/09/2008,12:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8946,0.1%,0.2%,0.6%,Mon,Africa/Lagos
 22/09/2008,13:50,GBP,yellow,MPC Member Gieve Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11208,,,,Mon,Africa/Lagos
 23/09/2008,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=september.2008#detail=11181,,,,Tue,Africa/Lagos
 23/09/2008,Jul Data,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11178,0.4%,0.0%,-0.5%,Tue,Africa/Lagos
 23/09/2008,06:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11214,-0.3%,0.3%,0.4%,Tue,Africa/Lagos
 23/09/2008,07:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10230,43.6,46.1,45.8,Tue,Africa/Lagos
-23/09/2008,,EUR,yellow,French Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10231,50.4,47.7,48.0,Tue,Africa/Lagos
+23/09/2008,07:00,EUR,yellow,French Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10231,50.4,47.7,48.0,Tue,Africa/Lagos
 23/09/2008,07:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10232,48.1,49.2,49.7,Tue,Africa/Lagos
-23/09/2008,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10233,49.3,50.6,51.4,Tue,Africa/Lagos
+23/09/2008,07:30,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10233,49.3,50.6,51.4,Tue,Africa/Lagos
 23/09/2008,08:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10234,45.3,47.2,47.6,Tue,Africa/Lagos
-23/09/2008,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10235,48.2,48.0,48.5,Tue,Africa/Lagos
+23/09/2008,08:00,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10235,48.2,48.0,48.5,Tue,Africa/Lagos
 23/09/2008,08:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=september.2008#detail=10413,21.1K,20.5K,22.2K,Tue,Africa/Lagos
 23/09/2008,09:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11182,1.0%,-0.7%,-0.5%,Tue,Africa/Lagos
 23/09/2008,11:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8666,0.3%,0.1%,0.1%,Tue,Africa/Lagos
-23/09/2008,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8667,-0.2%,-0.1%,0.3%,Tue,Africa/Lagos
+23/09/2008,11:00,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8667,-0.2%,-0.1%,0.3%,Tue,Africa/Lagos
 23/09/2008,13:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=september.2008#detail=10507,-14.4,-7.0,-5.9,Tue,Africa/Lagos
 23/09/2008,13:30,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=september.2008#detail=11187,,,,Tue,Africa/Lagos
-23/09/2008,,USD,red,Treasury Sec Paulson Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11280,,,,Tue,Africa/Lagos
+23/09/2008,13:30,USD,red,Treasury Sec Paulson Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11280,,,,Tue,Africa/Lagos
 23/09/2008,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10016,-0.6%,-0.2%,-0.3%,Tue,Africa/Lagos
-23/09/2008,,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=9553,-18,-12,-16,Tue,Africa/Lagos
+23/09/2008,14:00,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=9553,-18,-12,-16,Tue,Africa/Lagos
 23/09/2008,23:50,JPY,orange,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=11028,-10.0,-17.0,-15.1,Tue,Africa/Lagos
 24/09/2008,02:02,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2008#detail=11074,104.8,,81.7,Wed,Africa/Lagos
 24/09/2008,08:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=september.2008#detail=10488,92.9,94.2,94.8,Wed,Africa/Lagos
-24/09/2008,,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=september.2008#detail=9795,-1.7B,-6.2B,-6.1B,Wed,Africa/Lagos
-24/09/2008,,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8955,0.6%,0.1%,-0.4%,Wed,Africa/Lagos
+24/09/2008,08:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=september.2008#detail=9795,-1.7B,-6.2B,-6.1B,Wed,Africa/Lagos
+24/09/2008,08:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8955,0.6%,0.1%,-0.4%,Wed,Africa/Lagos
 24/09/2008,10:00,GBP,red,CBI Realized Sales,https://www.forexfactory.com/calendar?month=september.2008#detail=11033,-27,-40,-46,Wed,Africa/Lagos
 24/09/2008,14:00,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=september.2008#detail=9865,4.91M,4.93M,5.02M,Wed,Africa/Lagos
-24/09/2008,,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=september.2008#detail=10967,,,,Wed,Africa/Lagos
+24/09/2008,14:00,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=september.2008#detail=10967,,,,Wed,Africa/Lagos
 24/09/2008,14:35,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=september.2008#detail=7898,-1.5M,-2.0M,-6.3M,Wed,Africa/Lagos
 24/09/2008,18:30,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=september.2008#detail=11211,,,,Wed,Africa/Lagos
 24/09/2008,20:45,GBP,orange,MPC Member Sentance Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11209,,,,Wed,Africa/Lagos
 24/09/2008,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9447,1.4%,1.2%,1.3%,Wed,Africa/Lagos
-24/09/2008,,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9077,-0.11T,0.12T,0.11T,Wed,Africa/Lagos
+24/09/2008,23:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9077,-0.11T,0.12T,0.11T,Wed,Africa/Lagos
 25/09/2008,00:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10342,0.0%,,0.5%,Thu,Africa/Lagos
 25/09/2008,01:00,USD,yellow,President Bush Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11311,,,,Thu,Africa/Lagos
 25/09/2008,01:30,AUD,orange,RBA Financial Stability Review,https://www.forexfactory.com/calendar?month=september.2008#detail=11213,,,,Thu,Africa/Lagos
 25/09/2008,02:00,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=14472,-1.3%,,-7.2%,Thu,Africa/Lagos
 25/09/2008,06:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=september.2008#detail=11047,1.8,1.3,1.6,Thu,Africa/Lagos
 25/09/2008,08:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=11183,8.8%,9.0%,9.1%,Thu,Africa/Lagos
-25/09/2008,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=11252,8.8%,8.9%,9.4%,Thu,Africa/Lagos
-25/09/2008,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9051,2.07B,0.50B,-1.03B,Thu,Africa/Lagos
+25/09/2008,08:00,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=11252,8.8%,8.9%,9.4%,Thu,Africa/Lagos
+25/09/2008,08:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9051,2.07B,0.50B,-1.03B,Thu,Africa/Lagos
 25/09/2008,09:40,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2008#detail=43117,4.73|2.2,,5.00|2.5,Thu,Africa/Lagos
 25/09/2008,12:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11180,-3.0%,-0.5%,0.1%,Thu,Africa/Lagos
-25/09/2008,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2008#detail=7936,493K,450K,461K,Thu,Africa/Lagos
-25/09/2008,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11179,-4.5%,-1.6%,0.8%,Thu,Africa/Lagos
+25/09/2008,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=september.2008#detail=7936,493K,450K,461K,Thu,Africa/Lagos
+25/09/2008,12:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11179,-4.5%,-1.6%,0.8%,Thu,Africa/Lagos
 25/09/2008,12:40,GBP,orange,MPC Member Barker Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11210,,,,Thu,Africa/Lagos
 25/09/2008,14:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=september.2008#detail=9855,460K,510K,520K,Thu,Africa/Lagos
 25/09/2008,14:35,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=september.2008#detail=8260,51B,62B,67B,Thu,Africa/Lagos
 25/09/2008,17:00,CAD,orange,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10472,,,,Thu,Africa/Lagos
-25/09/2008,,USD,orange,FOMC Member Warsh Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10463,,,,Thu,Africa/Lagos
+25/09/2008,17:00,USD,orange,FOMC Member Warsh Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10463,,,,Thu,Africa/Lagos
 25/09/2008,22:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8339,-0.2%,-0.4%,-0.3%,Thu,Africa/Lagos
 25/09/2008,23:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9388,1.7%,1.5%,1.5%,Thu,Africa/Lagos
-25/09/2008,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9395,2.4%,2.4%,2.4%,Thu,Africa/Lagos
-25/09/2008,,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10462,,,,Thu,Africa/Lagos
+25/09/2008,23:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9395,2.4%,2.4%,2.4%,Thu,Africa/Lagos
+25/09/2008,23:30,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10462,,,,Thu,Africa/Lagos
 25/09/2008,23:45,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11112,,,,Thu,Africa/Lagos
 26/09/2008,06:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=10122,-0.8%,-1.0%,0.6%,Fri,Africa/Lagos
 26/09/2008,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9381,-0.1%,-0.2%,-0.3%,Fri,Africa/Lagos
 26/09/2008,08:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=19992,,,,Fri,Africa/Lagos
 26/09/2008,09:30,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=september.2008#detail=10382,0.62,0.56,0.73,Fri,Africa/Lagos
 26/09/2008,12:30,USD,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8331,2.8%,3.3%,3.3%,Fri,Africa/Lagos
-26/09/2008,,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8368,1.1%,1.2%,1.2%,Fri,Africa/Lagos
+26/09/2008,12:30,USD,yellow,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8368,1.1%,1.2%,1.2%,Fri,Africa/Lagos
 26/09/2008,13:35,USD,yellow,President Bush Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11350,,,,Fri,Africa/Lagos
 26/09/2008,13:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=september.2008#detail=8423,70.3,70.7,73.1,Fri,Africa/Lagos
-26/09/2008,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2008#detail=9988,4.3%,,3.6%,Fri,Africa/Lagos
+26/09/2008,13:55,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=september.2008#detail=9988,4.3%,,3.6%,Fri,Africa/Lagos
 27/09/2008,14:00,NZD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=september.2008#detail=11349,,,,Sat,Africa/Lagos
 28/09/2008,21:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=september.2008#detail=9045,-750M,-912M,-808M,Sun,Africa/Lagos
 28/09/2008,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=8998,0.7%,0.2%,2.0%,Sun,Africa/Lagos
 29/09/2008,08:00,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=43596,46.2,,47.7,Mon,Africa/Lagos
 29/09/2008,08:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11088,1.4B,4.0B,4.0B,Mon,Africa/Lagos
-29/09/2008,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=september.2008#detail=10282,32K,30K,33K,Mon,Africa/Lagos
+29/09/2008,08:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=september.2008#detail=10282,32K,30K,33K,Mon,Africa/Lagos
 29/09/2008,09:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2008#detail=11043,-19,-19,-19,Mon,Africa/Lagos
-29/09/2008,,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8582,6.8%,6.7%,6.6%,Mon,Africa/Lagos
+29/09/2008,09:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8582,6.8%,6.7%,6.6%,Mon,Africa/Lagos
 29/09/2008,09:29,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=september.2008#detail=43373,4.95|1.2,,4.76|1.5,Mon,Africa/Lagos
 29/09/2008,11:35,USD,yellow,President Bush Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11353,,,,Mon,Africa/Lagos
 29/09/2008,12:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8656,0.2%,0.2%,0.3%,Mon,Africa/Lagos
-29/09/2008,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11215,0.0%,0.2%,0.1%,Mon,Africa/Lagos
-29/09/2008,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11216,0.5%,0.2%,-0.6%,Mon,Africa/Lagos
+29/09/2008,12:30,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11215,0.0%,0.2%,0.1%,Mon,Africa/Lagos
+29/09/2008,12:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11216,0.5%,0.2%,-0.6%,Mon,Africa/Lagos
 29/09/2008,14:00,USD,red,Fed Announcement,https://www.forexfactory.com/calendar?month=september.2008#detail=30151,,,,Mon,Africa/Lagos
 29/09/2008,17:42,USD,red,Economic Stabilization Bill Vote,https://www.forexfactory.com/calendar?month=september.2008#detail=11363,Reject,Pass,,Mon,Africa/Lagos
 29/09/2008,21:45,NZD,red,Building Consents m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9871,-7.9%,,-1.7%,Mon,Africa/Lagos
 29/09/2008,23:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=september.2008#detail=9782,-32,-39,-36,Mon,Africa/Lagos
 29/09/2008,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=10224,44.3,,46.9,Mon,Africa/Lagos
 29/09/2008,23:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=11244,-4.0%,-1.3%,-0.5%,Mon,Africa/Lagos
-29/09/2008,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8546,4.2%,4.1%,4.0%,Mon,Africa/Lagos
+29/09/2008,23:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=september.2008#detail=8546,4.2%,4.1%,4.0%,Mon,Africa/Lagos
 29/09/2008,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9811,-3.5%,-2.6%,1.3%,Mon,Africa/Lagos
 30/09/2008,01:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9691,-3.7%,-1.0%,-2.4%,Tue,Africa/Lagos
-30/09/2008,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8930,0.6%,0.2%,1.6%,Tue,Africa/Lagos
-30/09/2008,,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11094,0.5%,0.5%,0.6%,Tue,Africa/Lagos
+30/09/2008,01:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8930,0.6%,0.2%,1.6%,Tue,Africa/Lagos
+30/09/2008,01:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=11094,0.5%,0.5%,0.6%,Tue,Africa/Lagos
 30/09/2008,02:02,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=september.2008#detail=10494,1.6,,-20.5,Tue,Africa/Lagos
 30/09/2008,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9909,53.6%,49.5%,19.0%,Tue,Africa/Lagos
 30/09/2008,07:53,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=september.2008#detail=8649,-29K,-15K,-39K,Tue,Africa/Lagos
 30/09/2008,08:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=september.2008#detail=11236,1.62,,1.86,Tue,Africa/Lagos
 30/09/2008,08:30,GBP,red,Current Account,https://www.forexfactory.com/calendar?month=september.2008#detail=9661,-11.0B,-9.7B,-5.5B,Tue,Africa/Lagos
-30/09/2008,,GBP,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8375,0.0%,0.0%,0.0%,Tue,Africa/Lagos
-30/09/2008,,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=9701,-1.0%,-1.9%,-1.9%,Tue,Africa/Lagos
+30/09/2008,08:30,GBP,orange,Final GDP q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=8375,0.0%,0.0%,0.0%,Tue,Africa/Lagos
+30/09/2008,08:30,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=september.2008#detail=9701,-1.0%,-1.9%,-1.9%,Tue,Africa/Lagos
 30/09/2008,09:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=9476,3.6%,3.6%,3.8%,Tue,Africa/Lagos
-30/09/2008,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9487,-0.3%,0.0%,0.1%,Tue,Africa/Lagos
+30/09/2008,09:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=9487,-0.3%,0.0%,0.1%,Tue,Africa/Lagos
 30/09/2008,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8343,0.7%,0.2%,0.1%,Tue,Africa/Lagos
-30/09/2008,,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8770,-7.7%,-3.3%,1.6%,Tue,Africa/Lagos
-30/09/2008,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8769,-0.2%,-0.3%,0.6%,Tue,Africa/Lagos
+30/09/2008,12:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8770,-7.7%,-3.3%,1.6%,Tue,Africa/Lagos
+30/09/2008,12:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=september.2008#detail=8769,-0.2%,-0.3%,0.6%,Tue,Africa/Lagos
 30/09/2008,12:45,USD,yellow,President Bush Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=11356,,,,Tue,Africa/Lagos
 30/09/2008,13:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=september.2008#detail=10010,-16.3%,-16.1%,-15.9%,Tue,Africa/Lagos
 30/09/2008,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=september.2008#detail=9777,56.7,53.5,57.9,Tue,Africa/Lagos
@@ -379,4 +379,4 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 30/09/2008,16:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=september.2008#detail=10468,,,,Tue,Africa/Lagos
 30/09/2008,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=10210,47.2,,47.0,Tue,Africa/Lagos
 30/09/2008,23:50,JPY,red,Tankan Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=10938,-3,-2,5,Tue,Africa/Lagos
-30/09/2008,,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=10939,1,5,10,Tue,Africa/Lagos
+30/09/2008,23:50,JPY,orange,Tankan Non-Manufacturing Index,https://www.forexfactory.com/calendar?month=september.2008#detail=10939,1,5,10,Tue,Africa/Lagos

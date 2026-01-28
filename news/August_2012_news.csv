@@ -15,17 +15,17 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 01/08/2012,13:00,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=43685,51.4,51.9,51.8,Wed,Africa/Lagos
 01/08/2012,13:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=59522,53.1,,54.8,Wed,Africa/Lagos
 01/08/2012,14:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38482,49.8,50.3,49.7,Wed,Africa/Lagos
-01/08/2012,,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40360,0.4%,0.5%,1.6%,Wed,Africa/Lagos
-01/08/2012,,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=august.2012#detail=38483,39.5,39.3,37.0,Wed,Africa/Lagos
+01/08/2012,14:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40360,0.4%,0.5%,1.6%,Wed,Africa/Lagos
+01/08/2012,14:00,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=august.2012#detail=38483,39.5,39.3,37.0,Wed,Africa/Lagos
 01/08/2012,14:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=august.2012#detail=56280,2.9%,,-1.2%,Wed,Africa/Lagos
-01/08/2012,,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2012#detail=41626,-6.5M,-1.5M,2.7M,Wed,Africa/Lagos
+01/08/2012,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2012#detail=41626,-6.5M,-1.5M,2.7M,Wed,Africa/Lagos
 01/08/2012,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=august.2012#detail=39954,14.1M,14.0M,14.1M,Wed,Africa/Lagos
 01/08/2012,18:13,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=august.2012#detail=38413,,,,Wed,Africa/Lagos
-01/08/2012,,USD,orange,Federal Funds Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=38412,<0.25%,<0.25%,<0.25%,Wed,Africa/Lagos
+01/08/2012,18:13,USD,orange,Federal Funds Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=38412,<0.25%,<0.25%,<0.25%,Wed,Africa/Lagos
 01/08/2012,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39162,8.6%,6.2%,5.9%,Wed,Africa/Lagos
 02/08/2012,01:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40074,-0.5%,,-2.4%,Thu,Africa/Lagos
 02/08/2012,01:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=39496,0.01B,-0.36B,-0.31B,Thu,Africa/Lagos
-02/08/2012,,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39495,1.0%,0.6%,0.8%,Thu,Africa/Lagos
+02/08/2012,01:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39495,1.0%,0.6%,0.8%,Thu,Africa/Lagos
 02/08/2012,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2012#detail=49041,0.77|2.6,,0.84|3.1,Thu,Africa/Lagos
 02/08/2012,07:00,EUR,orange,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=august.2012#detail=44035,-27.8K,,-98.9K,Thu,Africa/Lagos
 02/08/2012,07:15,CHF,red,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39287,3.7%,2.8%,6.4%,Thu,Africa/Lagos
@@ -34,11 +34,11 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 02/08/2012,08:46,EUR,red,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2012#detail=44116,6.65|2.4,,6.43|3.2,Thu,Africa/Lagos
 02/08/2012,09:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41277,-0.5%,-0.3%,-0.5%,Thu,Africa/Lagos
 02/08/2012,11:00,GBP,red,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=august.2012#detail=38789,375B,375B,375B,Thu,Africa/Lagos
-02/08/2012,,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=38784,0.50%,0.50%,0.50%,Thu,Africa/Lagos
+02/08/2012,11:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=38784,0.50%,0.50%,0.50%,Thu,Africa/Lagos
 02/08/2012,11:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38338,-44.5%,,-9.4%,Thu,Africa/Lagos
 02/08/2012,11:45,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=38779,0.75%,0.75%,0.75%,Thu,Africa/Lagos
 02/08/2012,12:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=august.2012#detail=38781,,,,Thu,Africa/Lagos
-02/08/2012,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2012#detail=39830,365K,375K,357K,Thu,Africa/Lagos
+02/08/2012,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2012#detail=39830,365K,375K,357K,Thu,Africa/Lagos
 02/08/2012,14:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41065,-0.5%,0.4%,0.5%,Thu,Africa/Lagos
 02/08/2012,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2012#detail=39778,28B,22B,26B,Thu,Africa/Lagos
 02/08/2012,23:29,AUD,orange,AIG Services Index,https://www.forexfactory.com/calendar?month=august.2012#detail=38442,46.5,,48.8,Thu,Africa/Lagos
@@ -52,8 +52,8 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 03/08/2012,08:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38549,51.0,51.6,51.3,Fri,Africa/Lagos
 03/08/2012,09:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41289,0.1%,0.1%,0.8%,Fri,Africa/Lagos
 03/08/2012,12:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=august.2012#detail=38303,163K,101K,64K,Fri,Africa/Lagos
-03/08/2012,,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=38302,8.3%,8.2%,8.2%,Fri,Africa/Lagos
-03/08/2012,,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=38304,0.1%,0.2%,0.3%,Fri,Africa/Lagos
+03/08/2012,12:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=38302,8.3%,8.2%,8.2%,Fri,Africa/Lagos
+03/08/2012,12:30,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=38304,0.1%,0.2%,0.3%,Fri,Africa/Lagos
 03/08/2012,14:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38463,52.6,52.1,52.1,Fri,Africa/Lagos
 05/08/2012,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2012#detail=42001,,,,Sun,Africa/Lagos
 06/08/2012,00:30,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39235,0.2%,,-0.2%,Mon,Africa/Lagos
@@ -68,65 +68,65 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 06/08/2012,23:00,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=40204,0.1%,,1.4%,Mon,Africa/Lagos
 06/08/2012,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=august.2012#detail=38443,32.6,,34.8,Mon,Africa/Lagos
 07/08/2012,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=38369,3.50%,3.50%,3.50%,Tue,Africa/Lagos
-07/08/2012,,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=august.2012#detail=38370,,,,Tue,Africa/Lagos
+07/08/2012,04:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=august.2012#detail=38370,,,,Tue,Africa/Lagos
 07/08/2012,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=39335,2.9%,2.9%,2.9%,Tue,Africa/Lagos
 07/08/2012,07:00,CHF,red,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=august.2012#detail=42074,407B,,365B,Tue,Africa/Lagos
 07/08/2012,07:15,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39270,-0.5%,-0.5%,-0.3%,Tue,Africa/Lagos
 07/08/2012,08:00,EUR,orange,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40848,-1.4%,-1.0%,1.0%,Tue,Africa/Lagos
 07/08/2012,08:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40468,-2.9%,-4.0%,1.2%,Tue,Africa/Lagos
-07/08/2012,,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40469,-2.5%,-3.3%,1.0%,Tue,Africa/Lagos
+07/08/2012,08:30,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40469,-2.5%,-3.3%,1.0%,Tue,Africa/Lagos
 07/08/2012,08:59,EUR,orange,Italian Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40863,-0.7%,-0.7%,-0.8%,Tue,Africa/Lagos
 07/08/2012,10:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40763,-1.7%,-0.9%,0.7%,Tue,Africa/Lagos
 07/08/2012,12:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41850,-2.5%,-3.5%,7.1%,Tue,Africa/Lagos
 07/08/2012,14:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=40173,62.8,52.0,49.0,Tue,Africa/Lagos
-07/08/2012,,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=august.2012#detail=40548,-0.2%,,-0.7%,Tue,Africa/Lagos
-07/08/2012,,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=august.2012#detail=49337,3.76M,3.72M,3.66M,Tue,Africa/Lagos
+07/08/2012,14:00,GBP,orange,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=august.2012#detail=40548,-0.2%,,-0.7%,Tue,Africa/Lagos
+07/08/2012,14:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=august.2012#detail=49337,3.76M,3.72M,3.66M,Tue,Africa/Lagos
 07/08/2012,18:30,USD,orange,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=august.2012#detail=44119,,,,Tue,Africa/Lagos
 07/08/2012,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41153,6.5B,11.5B,16.7B,Tue,Africa/Lagos
 07/08/2012,23:50,JPY,red,Current Account,https://www.forexfactory.com/calendar?month=august.2012#detail=38931,0.77T,0.75T,0.28T,Tue,Africa/Lagos
-07/08/2012,,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38933,0.7%,,0.6%,Tue,Africa/Lagos
+07/08/2012,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38933,0.7%,,0.6%,Tue,Africa/Lagos
 08/08/2012,01:30,AUD,orange,Home Loans m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39548,1.3%,2.1%,-0.9%,Wed,Africa/Lagos
 08/08/2012,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=august.2012#detail=39119,44.2,44.5,43.8,Wed,Africa/Lagos
 08/08/2012,05:44,CHF,orange,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=august.2012#detail=39342,-17,-4,-8,Wed,Africa/Lagos
 08/08/2012,06:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=39375,16.2B,14.9B,15.3B,Wed,Africa/Lagos
 08/08/2012,06:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=39406,-6.0B,-5.1B,-5.5B,Wed,Africa/Lagos
 08/08/2012,09:30,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=august.2012#detail=44124,,,,Wed,Africa/Lagos
-08/08/2012,,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=august.2012#detail=41514,,,,Wed,Africa/Lagos
+08/08/2012,09:30,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=august.2012#detail=41514,,,,Wed,Africa/Lagos
 08/08/2012,09:34,EUR,orange,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2012#detail=42375,1.42|1.8,,1.31|1.5,Wed,Africa/Lagos
 08/08/2012,10:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40764,-0.9%,-0.8%,1.7%,Wed,Africa/Lagos
 08/08/2012,10:20,CAD,orange,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=august.2012#detail=44123,,,,Wed,Africa/Lagos
 08/08/2012,12:30,USD,orange,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41034,1.6%,1.5%,-0.9%,Wed,Africa/Lagos
-08/08/2012,,USD,orange,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41035,1.7%,0.5%,1.3%,Wed,Africa/Lagos
+08/08/2012,12:30,USD,orange,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41035,1.7%,0.5%,1.3%,Wed,Africa/Lagos
 08/08/2012,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2012#detail=41627,-3.7M,-0.6M,-6.5M,Wed,Africa/Lagos
 08/08/2012,17:00,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2012#detail=42340,1.68|2.5,,1.46|3.6,Wed,Africa/Lagos
 08/08/2012,22:45,NZD,red,Employment Change q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40116,-0.1%,0.3%,0.4%,Wed,Africa/Lagos
-08/08/2012,,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=40115,6.8%,6.5%,6.7%,Wed,Africa/Lagos
+08/08/2012,22:45,NZD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=40115,6.8%,6.5%,6.7%,Wed,Africa/Lagos
 08/08/2012,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=38956,5.6%,11.1%,-14.8%,Wed,Africa/Lagos
-08/08/2012,,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38932,2.2%,2.3%,2.2%,Wed,Africa/Lagos
+08/08/2012,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38932,2.2%,2.3%,2.2%,Wed,Africa/Lagos
 09/08/2012,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=august.2012#detail=39531,14.0K,10.2K,-28.3K,Thu,Africa/Lagos
-09/08/2012,,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=39532,5.2%,5.3%,5.3%,Thu,Africa/Lagos
-09/08/2012,,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39635,1.8%,1.7%,2.2%,Thu,Africa/Lagos
-09/08/2012,,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39636,-2.9%,-2.5%,-2.1%,Thu,Africa/Lagos
+09/08/2012,01:30,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=39532,5.2%,5.3%,5.3%,Thu,Africa/Lagos
+09/08/2012,01:30,CNY,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39635,1.8%,1.7%,2.2%,Thu,Africa/Lagos
+09/08/2012,01:30,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39636,-2.9%,-2.5%,-2.1%,Thu,Africa/Lagos
 09/08/2012,03:19,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=august.2012#detail=41495,,,,Thu,Africa/Lagos
-09/08/2012,,JPY,red,Overnight Call Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=41494,<0.10%,<0.10%,<0.10%,Thu,Africa/Lagos
+09/08/2012,03:19,JPY,red,Overnight Call Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=41494,<0.10%,<0.10%,<0.10%,Thu,Africa/Lagos
 09/08/2012,04:00,NZD,orange,REINZ HPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40144,-0.7%,,0.3%,Thu,Africa/Lagos
 09/08/2012,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2012#detail=39120,39.7,40.8,40.4,Thu,Africa/Lagos
 09/08/2012,05:30,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39637,20.4%,20.5%,20.4%,Thu,Africa/Lagos
-09/08/2012,,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39634,9.2%,9.8%,9.5%,Thu,Africa/Lagos
-09/08/2012,,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39638,13.1%,13.6%,13.7%,Thu,Africa/Lagos
+09/08/2012,05:30,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39634,9.2%,9.8%,9.5%,Thu,Africa/Lagos
+09/08/2012,05:30,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39638,13.1%,13.6%,13.7%,Thu,Africa/Lagos
 09/08/2012,06:02,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39073,-6.8%,,-15.5%,Thu,Africa/Lagos
 09/08/2012,07:39,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=august.2012#detail=41496,,,,Thu,Africa/Lagos
 09/08/2012,08:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=august.2012#detail=41434,,,,Thu,Africa/Lagos
-09/08/2012,,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=40815,2.52B,0.97B,1.01B,Thu,Africa/Lagos
+09/08/2012,08:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=40815,2.52B,0.97B,1.01B,Thu,Africa/Lagos
 09/08/2012,08:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=40262,-10.1B,-8.5B,-8.4B,Thu,Africa/Lagos
 09/08/2012,09:00,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41736,-0.3%,,-0.8%,Thu,Africa/Lagos
 09/08/2012,12:15,CAD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=august.2012#detail=41698,209K,212K,222K,Thu,Africa/Lagos
 09/08/2012,12:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=40885,-1.8B,-0.9B,-1.0B,Thu,Africa/Lagos
-09/08/2012,,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41886,0.2%,0.3%,0.3%,Thu,Africa/Lagos
-09/08/2012,,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=40883,-42.9B,-47.4B,-48.0B,Thu,Africa/Lagos
-09/08/2012,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2012#detail=39831,361K,371K,367K,Thu,Africa/Lagos
+09/08/2012,12:30,CAD,orange,NHPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41886,0.2%,0.3%,0.3%,Thu,Africa/Lagos
+09/08/2012,12:30,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=40883,-42.9B,-47.4B,-48.0B,Thu,Africa/Lagos
+09/08/2012,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2012#detail=39831,361K,371K,367K,Thu,Africa/Lagos
 09/08/2012,14:00,USD,orange,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=august.2012#detail=41131,7.58%,,7.40%,Thu,Africa/Lagos
-09/08/2012,,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41165,-0.2%,0.3%,0.0%,Thu,Africa/Lagos
+09/08/2012,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41165,-0.2%,0.3%,0.0%,Thu,Africa/Lagos
 09/08/2012,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2012#detail=39779,24B,30B,28B,Thu,Africa/Lagos
 09/08/2012,17:00,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2012#detail=42950,2.83|2.4,,2.58|2.7,Thu,Africa/Lagos
 09/08/2012,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38988,-2.1%,-1.5%,-1.4%,Thu,Africa/Lagos
@@ -134,92 +134,92 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 10/08/2012,03:00,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=39705,25.1B,35.1B,31.7B,Fri,Africa/Lagos
 10/08/2012,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39054,0.4%,-0.1%,-0.1%,Fri,Africa/Lagos
 10/08/2012,05:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=august.2012#detail=39682,540B,701B,920B,Fri,Africa/Lagos
-10/08/2012,,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39680,13.9%,13.8%,13.6%,Fri,Africa/Lagos
-10/08/2012,,JPY,yellow,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=august.2012#detail=39155,,,,Fri,Africa/Lagos
+10/08/2012,05:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39680,13.9%,13.8%,13.6%,Fri,Africa/Lagos
+10/08/2012,05:00,JPY,yellow,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=august.2012#detail=39155,,,,Fri,Africa/Lagos
 10/08/2012,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40728,0.4%,0.4%,0.4%,Fri,Africa/Lagos
 10/08/2012,06:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39423,0.0%,0.4%,-2.1%,Fri,Africa/Lagos
-10/08/2012,,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=39407,-56.7B,,-69.6B,Fri,Africa/Lagos
+10/08/2012,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=39407,-56.7B,,-69.6B,Fri,Africa/Lagos
 10/08/2012,08:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40263,1.3%,1.4%,-2.9%,Fri,Africa/Lagos
-10/08/2012,,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40264,0.0%,0.1%,-0.6%,Fri,Africa/Lagos
+10/08/2012,08:30,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40264,0.0%,0.1%,-0.6%,Fri,Africa/Lagos
 10/08/2012,12:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=august.2012#detail=41930,-30.4K,9.6K,7.3K,Fri,Africa/Lagos
-10/08/2012,,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=41929,7.3%,7.2%,7.2%,Fri,Africa/Lagos
-10/08/2012,,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41053,-0.6%,0.1%,-2.4%,Fri,Africa/Lagos
+10/08/2012,12:30,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=41929,7.3%,7.2%,7.2%,Fri,Africa/Lagos
+10/08/2012,12:30,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41053,-0.6%,0.1%,-2.4%,Fri,Africa/Lagos
 10/08/2012,17:59,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=39993,-69.6B,-103.0B,-59.7B,Fri,Africa/Lagos
 12/08/2012,22:52,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40089,0.2%,,1.4%,Sun,Africa/Lagos
 12/08/2012,23:50,JPY,orange,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=38890,0.3%,0.6%,1.2%,Sun,Africa/Lagos
-12/08/2012,,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38891,-1.1%,-0.8%,-1.3%,Sun,Africa/Lagos
+12/08/2012,23:50,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38891,-1.1%,-0.8%,-1.3%,Sun,Africa/Lagos
 13/08/2012,06:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39902,0.3%,0.0%,-1.1%,Mon,Africa/Lagos
 13/08/2012,22:45,NZD,red,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40016,0.9%,1.0%,-1.4%,Mon,Africa/Lagos
-13/08/2012,,NZD,orange,Retail Sales q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40015,1.3%,0.7%,-0.6%,Mon,Africa/Lagos
+13/08/2012,22:45,NZD,orange,Retail Sales q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40015,1.3%,0.7%,-0.6%,Mon,Africa/Lagos
 13/08/2012,23:01,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=40625,-24%,-23%,-22%,Mon,Africa/Lagos
 13/08/2012,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2012#detail=41560,,,,Mon,Africa/Lagos
-13/08/2012,,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39012,0.1%,-0.3%,0.9%,Mon,Africa/Lagos
+13/08/2012,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39012,0.1%,-0.3%,0.9%,Mon,Africa/Lagos
 14/08/2012,01:30,AUD,orange,NAB Business Confidence,https://www.forexfactory.com/calendar?month=august.2012#detail=39247,4,,-3,Tue,Africa/Lagos
-14/08/2012,,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39472,-0.8%,,-1.0%,Tue,Africa/Lagos
+14/08/2012,01:30,AUD,orange,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39472,-0.8%,,-1.0%,Tue,Africa/Lagos
 14/08/2012,05:30,EUR,orange,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40787,0.0%,-0.1%,0.0%,Tue,Africa/Lagos
-14/08/2012,,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40779,-0.4%,-0.2%,0.0%,Tue,Africa/Lagos
+14/08/2012,05:30,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40779,-0.4%,-0.2%,0.0%,Tue,Africa/Lagos
 14/08/2012,06:00,EUR,orange,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40709,0.3%,0.2%,0.5%,Tue,Africa/Lagos
 14/08/2012,06:45,EUR,orange,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40301,-0.1%,-0.1%,0.1%,Tue,Africa/Lagos
 14/08/2012,07:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39271,-0.3%,-0.2%,-0.3%,Tue,Africa/Lagos
 14/08/2012,08:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=40266,2.6%,2.3%,2.4%,Tue,Africa/Lagos
-14/08/2012,,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=40268,3.2%,2.8%,2.8%,Tue,Africa/Lagos
-14/08/2012,,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=40267,2.3%,2.1%,2.1%,Tue,Africa/Lagos
-14/08/2012,,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39927,2.3%,2.7%,2.3%,Tue,Africa/Lagos
+14/08/2012,08:30,GBP,orange,RPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=40268,3.2%,2.8%,2.8%,Tue,Africa/Lagos
+14/08/2012,08:30,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=40267,2.3%,2.1%,2.1%,Tue,Africa/Lagos
+14/08/2012,08:30,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39927,2.3%,2.7%,2.3%,Tue,Africa/Lagos
 14/08/2012,09:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=august.2012#detail=39874,-25.5,-19.4,-19.6,Tue,Africa/Lagos
-14/08/2012,,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41265,-0.2%,-0.2%,0.0%,Tue,Africa/Lagos
-14/08/2012,,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41253,-0.6%,-0.5%,0.9%,Tue,Africa/Lagos
-14/08/2012,,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=august.2012#detail=39875,-21.2,-19.1,-22.3,Tue,Africa/Lagos
+14/08/2012,09:00,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41265,-0.2%,-0.2%,0.0%,Tue,Africa/Lagos
+14/08/2012,09:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41253,-0.6%,-0.5%,0.9%,Tue,Africa/Lagos
+14/08/2012,09:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=august.2012#detail=39875,-21.2,-19.1,-22.3,Tue,Africa/Lagos
 14/08/2012,11:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=august.2012#detail=48405,91.2,91.7,91.4,Tue,Africa/Lagos
 14/08/2012,12:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40992,0.8%,0.4%,-0.8%,Tue,Africa/Lagos
-14/08/2012,,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40942,0.3%,0.3%,0.1%,Tue,Africa/Lagos
-14/08/2012,,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40990,0.8%,0.3%,-0.7%,Tue,Africa/Lagos
-14/08/2012,,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40944,0.4%,0.2%,0.2%,Tue,Africa/Lagos
+14/08/2012,12:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40942,0.3%,0.3%,0.1%,Tue,Africa/Lagos
+14/08/2012,12:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40990,0.8%,0.3%,-0.7%,Tue,Africa/Lagos
+14/08/2012,12:30,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40944,0.4%,0.2%,0.2%,Tue,Africa/Lagos
 14/08/2012,14:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41177,0.1%,0.2%,0.3%,Tue,Africa/Lagos
-14/08/2012,,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=august.2012#detail=41241,45.6,47.4,47.0,Tue,Africa/Lagos
+14/08/2012,14:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=august.2012#detail=41241,45.6,47.4,47.0,Tue,Africa/Lagos
 15/08/2012,00:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2012#detail=39214,-2.5%,,3.7%,Wed,Africa/Lagos
 15/08/2012,01:30,AUD,orange,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=39576,1.0%,0.8%,0.9%,Wed,Africa/Lagos
 15/08/2012,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=august.2012#detail=42085,,,,Wed,Africa/Lagos
 15/08/2012,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=august.2012#detail=42094,,,,Wed,Africa/Lagos
 15/08/2012,08:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=august.2012#detail=40439,-5.9K,6.2K,1.0K,Wed,Africa/Lagos
-15/08/2012,,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=august.2012#detail=49167,0-0-9,0-0-9,7-0-2,Wed,Africa/Lagos
-15/08/2012,,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=august.2012#detail=40504,0-0-9,0-0-9,0-0-9,Wed,Africa/Lagos
-15/08/2012,,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=40440,8.0%,8.1%,8.1%,Wed,Africa/Lagos
-15/08/2012,,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=august.2012#detail=40441,1.6%,1.8%,1.5%,Wed,Africa/Lagos
+15/08/2012,08:30,GBP,red,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=august.2012#detail=49167,0-0-9,0-0-9,7-0-2,Wed,Africa/Lagos
+15/08/2012,08:30,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=august.2012#detail=40504,0-0-9,0-0-9,0-0-9,Wed,Africa/Lagos
+15/08/2012,08:30,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=40440,8.0%,8.1%,8.1%,Wed,Africa/Lagos
+15/08/2012,08:30,GBP,yellow,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=august.2012#detail=40441,1.6%,1.8%,1.5%,Wed,Africa/Lagos
 15/08/2012,12:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40968,0.1%,0.2%,0.2%,Wed,Africa/Lagos
-15/08/2012,,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=128537,1.4%,1.7%,1.7%,Wed,Africa/Lagos
-15/08/2012,,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40966,0.0%,0.2%,0.0%,Wed,Africa/Lagos
-15/08/2012,,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2012#detail=41585,-5.9,6.6,7.4,Wed,Africa/Lagos
+15/08/2012,12:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=128537,1.4%,1.7%,1.7%,Wed,Africa/Lagos
+15/08/2012,12:30,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40966,0.0%,0.2%,0.0%,Wed,Africa/Lagos
+15/08/2012,12:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2012#detail=41585,-5.9,6.6,7.4,Wed,Africa/Lagos
 15/08/2012,13:00,USD,orange,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=august.2012#detail=39967,9.3B,41.5B,55.9B,Wed,Africa/Lagos
 15/08/2012,13:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=40345,79.3%,79.3%,78.9%,Wed,Africa/Lagos
-15/08/2012,,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40344,0.6%,0.5%,0.1%,Wed,Africa/Lagos
+15/08/2012,13:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40344,0.6%,0.5%,0.1%,Wed,Africa/Lagos
 15/08/2012,14:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=august.2012#detail=40397,37,34,35,Wed,Africa/Lagos
 15/08/2012,14:30,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=august.2012#detail=56281,8.0%,,2.9%,Wed,Africa/Lagos
-15/08/2012,,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2012#detail=41628,-3.7M,-2.0M,-3.7M,Wed,Africa/Lagos
+15/08/2012,14:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2012#detail=41628,-3.7M,-2.0M,-3.7M,Wed,Africa/Lagos
 15/08/2012,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2012#detail=38681,49.4,,50.0,Wed,Africa/Lagos
 16/08/2012,00:59,AUD,orange,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2012#detail=39213,2.4%,,3.3%,Thu,Africa/Lagos
 16/08/2012,01:57,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39706,-3.6%,,-3.0%,Thu,Africa/Lagos
 16/08/2012,05:45,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=august.2012#detail=44126,,,,Thu,Africa/Lagos
 16/08/2012,08:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40265,0.3%,0.0%,0.8%,Thu,Africa/Lagos
 16/08/2012,09:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=august.2012#detail=39351,-33.3,,-42.5,Thu,Africa/Lagos
-16/08/2012,,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=41393,1.7%,1.7%,1.6%,Thu,Africa/Lagos
-16/08/2012,,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=41392,2.4%,2.4%,2.4%,Thu,Africa/Lagos
+16/08/2012,09:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=41393,1.7%,1.7%,1.6%,Thu,Africa/Lagos
+16/08/2012,09:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=41392,2.4%,2.4%,2.4%,Thu,Africa/Lagos
 16/08/2012,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=august.2012#detail=41790,-7.89B,10.67B,26.11B,Thu,Africa/Lagos
-16/08/2012,,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41898,-0.4%,0.3%,0.0%,Thu,Africa/Lagos
-16/08/2012,,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=august.2012#detail=41121,0.81M,0.77M,0.76M,Thu,Africa/Lagos
-16/08/2012,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2012#detail=44125,366K,365K,364K,Thu,Africa/Lagos
-16/08/2012,,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=august.2012#detail=41119,0.75M,0.76M,0.75M,Thu,Africa/Lagos
+16/08/2012,12:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41898,-0.4%,0.3%,0.0%,Thu,Africa/Lagos
+16/08/2012,12:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=august.2012#detail=41121,0.81M,0.77M,0.76M,Thu,Africa/Lagos
+16/08/2012,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2012#detail=44125,366K,365K,364K,Thu,Africa/Lagos
+16/08/2012,12:30,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=august.2012#detail=41119,0.75M,0.76M,0.75M,Thu,Africa/Lagos
 16/08/2012,14:00,USD,red,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2012#detail=41574,-7.1,-4.7,-12.9,Thu,Africa/Lagos
 16/08/2012,14:30,CAD,yellow,BOC Review,https://www.forexfactory.com/calendar?month=august.2012#detail=41422,,,,Thu,Africa/Lagos
-16/08/2012,,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2012#detail=39780,20B,25B,24B,Thu,Africa/Lagos
+16/08/2012,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2012#detail=39780,20B,25B,24B,Thu,Africa/Lagos
 16/08/2012,22:45,NZD,red,PPI Input q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40107,0.6%,-0.2%,0.3%,Thu,Africa/Lagos
-16/08/2012,,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40108,0.3%,-0.2%,-0.1%,Thu,Africa/Lagos
+16/08/2012,22:45,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40108,0.3%,-0.2%,-0.1%,Thu,Africa/Lagos
 17/08/2012,06:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40744,0.0%,0.4%,-0.4%,Fri,Africa/Lagos
 17/08/2012,08:00,EUR,orange,Current Account,https://www.forexfactory.com/calendar?month=august.2012#detail=41459,12.7B,7.8B,10.3B,Fri,Africa/Lagos
 17/08/2012,09:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=41316,10.5B,5.4B,6.8B,Fri,Africa/Lagos
 17/08/2012,12:30,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41834,-0.1%,0.2%,-0.4%,Fri,Africa/Lagos
-17/08/2012,,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41833,-0.1%,0.2%,-0.4%,Fri,Africa/Lagos
+17/08/2012,12:30,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41833,-0.1%,0.2%,-0.4%,Fri,Africa/Lagos
 17/08/2012,13:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2012#detail=38848,73.6,72.5,72.3,Fri,Africa/Lagos
-17/08/2012,,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2012#detail=38850,3.6%,,3.0%,Fri,Africa/Lagos
+17/08/2012,13:55,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2012#detail=38850,3.6%,,3.0%,Fri,Africa/Lagos
 17/08/2012,14:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41726,0.4%,0.2%,-0.4%,Fri,Africa/Lagos
 19/08/2012,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=august.2012#detail=127124,53.1,,54.0,Sun,Africa/Lagos
 19/08/2012,23:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40601,-2.4%,,-1.7%,Sun,Africa/Lagos
@@ -227,7 +227,7 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 20/08/2012,23:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40057,-3.4%,,2.3%,Mon,Africa/Lagos
 21/08/2012,02:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=august.2012#detail=38372,,,,Tue,Africa/Lagos
 21/08/2012,04:00,NZD,red,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40160,2.32%,,2.41%,Tue,Africa/Lagos
-21/08/2012,,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=40026,0.1%,,3.9%,Tue,Africa/Lagos
+21/08/2012,04:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=40026,0.1%,,3.9%,Tue,Africa/Lagos
 21/08/2012,05:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=38905,0.2%,0.3%,-0.2%,Tue,Africa/Lagos
 21/08/2012,09:30,GBP,red,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=august.2012#detail=40409,-1.8B,-2.7B,12.2B,Tue,Africa/Lagos
 21/08/2012,11:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=august.2012#detail=40669,-21,-8,-6,Tue,Africa/Lagos
@@ -237,7 +237,7 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 22/08/2012,00:50,JPY,orange,Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=39074,-0.33T,-0.46T,-0.32T,Wed,Africa/Lagos
 22/08/2012,01:30,AUD,orange,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39215,0.5%,,0.9%,Wed,Africa/Lagos
 22/08/2012,13:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41809,-0.4%,0.3%,0.4%,Wed,Africa/Lagos
-22/08/2012,,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41810,-0.4%,0.2%,0.2%,Wed,Africa/Lagos
+22/08/2012,13:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41810,-0.4%,0.2%,0.2%,Wed,Africa/Lagos
 22/08/2012,14:20,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=august.2012#detail=41200,4.47M,4.52M,4.37M,Wed,Africa/Lagos
 22/08/2012,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2012#detail=41630,-5.4M,0.1M,-3.7M,Wed,Africa/Lagos
 22/08/2012,16:00,CAD,red,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=august.2012#detail=44130,,,,Wed,Africa/Lagos
@@ -245,20 +245,20 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 23/08/2012,03:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41771,0.7%,,0.0%,Thu,Africa/Lagos
 23/08/2012,03:30,CNY,red,Caixin Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38669,47.8,,49.3,Thu,Africa/Lagos
 23/08/2012,07:00,CHF,orange,Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=39319,2.92B,2.10B,2.19B,Thu,Africa/Lagos
-23/08/2012,,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40710,0.3%,0.3%,0.3%,Thu,Africa/Lagos
+23/08/2012,07:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40710,0.3%,0.3%,0.3%,Thu,Africa/Lagos
 23/08/2012,08:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38608,46.2,43.7,43.4,Thu,Africa/Lagos
-23/08/2012,,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38609,50.2,50.0,50.0,Thu,Africa/Lagos
+23/08/2012,08:00,EUR,orange,French Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38609,50.2,50.0,50.0,Thu,Africa/Lagos
 23/08/2012,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38610,45.1,43.5,43.0,Thu,Africa/Lagos
-23/08/2012,,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38611,48.3,50.1,50.3,Thu,Africa/Lagos
+23/08/2012,08:30,EUR,orange,German Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38611,48.3,50.1,50.3,Thu,Africa/Lagos
 23/08/2012,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38612,45.3,44.2,44.0,Thu,Africa/Lagos
-23/08/2012,,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38613,47.5,47.7,47.9,Thu,Africa/Lagos
+23/08/2012,09:00,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38613,47.5,47.7,47.9,Thu,Africa/Lagos
 23/08/2012,09:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=august.2012#detail=40570,28.4K,28.2K,25.9K,Thu,Africa/Lagos
 23/08/2012,11:00,GBP,orange,CBI Realized Sales,https://www.forexfactory.com/calendar?month=august.2012#detail=40670,-3,16,11,Thu,Africa/Lagos
 23/08/2012,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2012#detail=39833,372K,365K,368K,Thu,Africa/Lagos
 23/08/2012,14:00,USD,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=43678,51.9,51.3,51.4,Thu,Africa/Lagos
 23/08/2012,15:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2012#detail=41659,-25,-22,-22,Thu,Africa/Lagos
-23/08/2012,,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=august.2012#detail=41141,372K,363K,359K,Thu,Africa/Lagos
-23/08/2012,,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41217,0.7%,0.6%,0.6%,Thu,Africa/Lagos
+23/08/2012,15:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=august.2012#detail=41141,372K,363K,359K,Thu,Africa/Lagos
+23/08/2012,15:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41217,0.7%,0.6%,0.6%,Thu,Africa/Lagos
 23/08/2012,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2012#detail=39781,47B,40B,20B,Thu,Africa/Lagos
 23/08/2012,23:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=august.2012#detail=40058,15M,-15M,287M,Thu,Africa/Lagos
 24/08/2012,00:30,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=august.2012#detail=44121,,,,Fri,Africa/Lagos
@@ -266,10 +266,10 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 24/08/2012,01:00,AUD,orange,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41671,0.2%,,0.3%,Fri,Africa/Lagos
 24/08/2012,08:15,JPY,orange,BOJ Gov Shirakawa Speaks,https://www.forexfactory.com/calendar?month=august.2012#detail=44128,,,,Fri,Africa/Lagos
 24/08/2012,09:30,GBP,red,Second Estimate GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=40313,-0.5%,-0.5%,-0.7%,Fri,Africa/Lagos
-24/08/2012,,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41594,-1.5%,2.8%,1.9%,Fri,Africa/Lagos
-24/08/2012,,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=august.2012#detail=40549,-0.1%,0.0%,0.4%,Fri,Africa/Lagos
+24/08/2012,09:30,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41594,-1.5%,2.8%,1.9%,Fri,Africa/Lagos
+24/08/2012,09:30,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=august.2012#detail=40549,-0.1%,0.0%,0.4%,Fri,Africa/Lagos
 24/08/2012,13:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41085,-0.4%,0.5%,-2.2%,Fri,Africa/Lagos
-24/08/2012,,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41083,4.2%,2.6%,1.6%,Fri,Africa/Lagos
+24/08/2012,13:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41083,4.2%,2.6%,1.6%,Fri,Africa/Lagos
 24/08/2012,14:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=august.2012#detail=39738,-11.8,-11.6,-11.3,Fri,Africa/Lagos
 27/08/2012,07:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39903,0.7%,0.8%,-1.5%,Mon,Africa/Lagos
 27/08/2012,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=august.2012#detail=42050,,,,Mon,Africa/Lagos
@@ -277,10 +277,10 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 27/08/2012,17:15,USD,orange,FOMC Member Pianalto Speaks,https://www.forexfactory.com/calendar?month=august.2012#detail=44133,,,,Mon,Africa/Lagos
 28/08/2012,01:55,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41415,-5.6%,,2.8%,Tue,Africa/Lagos
 28/08/2012,07:00,CHF,yellow,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=august.2012#detail=38305,1.55,,1.59,Tue,Africa/Lagos
-28/08/2012,,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=august.2012#detail=40695,5.9,5.8,5.9,Tue,Africa/Lagos
+28/08/2012,07:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=august.2012#detail=40695,5.9,5.8,5.9,Tue,Africa/Lagos
 28/08/2012,08:15,CHF,orange,Employment Level,https://www.forexfactory.com/calendar?month=august.2012#detail=39326,4.07M,4.04M,4.05M,Tue,Africa/Lagos
 28/08/2012,09:00,EUR,orange,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=41756,3.8%,3.3%,3.2%,Tue,Africa/Lagos
-28/08/2012,,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=41754,0.1%,-0.1%,-0.2%,Tue,Africa/Lagos
+28/08/2012,09:00,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=41754,0.1%,-0.1%,-0.2%,Tue,Africa/Lagos
 28/08/2012,13:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41425,-4.9%,,0.1%,Tue,Africa/Lagos
 28/08/2012,14:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=41229,0.5%,-0.3%,-0.7%,Tue,Africa/Lagos
 28/08/2012,14:59,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=august.2012#detail=41524,-9,-11,-17,Tue,Africa/Lagos
@@ -290,9 +290,9 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 29/08/2012,08:00,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=august.2012#detail=39307,1.57,1.51,1.41,Wed,Africa/Lagos
 29/08/2012,09:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40816,0.4%,-0.1%,0.1%,Wed,Africa/Lagos
 29/08/2012,13:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41979,0.9%,2.1%,-4.1%,Wed,Africa/Lagos
-29/08/2012,,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41978,-0.5%,0.3%,-0.3%,Wed,Africa/Lagos
-29/08/2012,,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41016,1.7%,1.7%,1.5%,Wed,Africa/Lagos
-29/08/2012,,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41017,1.6%,1.6%,1.6%,Wed,Africa/Lagos
+29/08/2012,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41978,-0.5%,0.3%,-0.3%,Wed,Africa/Lagos
+29/08/2012,13:30,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41016,1.7%,1.7%,1.5%,Wed,Africa/Lagos
+29/08/2012,13:30,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=41017,1.6%,1.6%,1.6%,Wed,Africa/Lagos
 29/08/2012,15:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41201,2.4%,1.1%,-1.4%,Wed,Africa/Lagos
 29/08/2012,15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=august.2012#detail=41629,3.8M,-1.1M,-5.4M,Wed,Africa/Lagos
 29/08/2012,19:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=august.2012#detail=40383,,,,Wed,Africa/Lagos
@@ -300,42 +300,42 @@ date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
 30/08/2012,00:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39037,-0.8%,-0.1%,0.2%,Thu,Africa/Lagos
 30/08/2012,02:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=august.2012#detail=41712,19.5,,15.1,Thu,Africa/Lagos
 30/08/2012,02:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39561,-17.3%,-4.8%,-1.0%,Thu,Africa/Lagos
-30/08/2012,,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=39479,3.4%,2.7%,7.7%,Thu,Africa/Lagos
+30/08/2012,02:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=august.2012#detail=39479,3.4%,2.7%,7.7%,Thu,Africa/Lagos
 30/08/2012,08:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=54159,2.7%,2.4%,2.2%,Thu,Africa/Lagos
 30/08/2012,08:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=august.2012#detail=40696,9K,7K,9K,Thu,Africa/Lagos
 30/08/2012,09:10,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=43643,44.4,,46.4,Thu,Africa/Lagos
 30/08/2012,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40550,0.9B,0.9B,-0.1B,Thu,Africa/Lagos
-30/08/2012,,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40517,0.5%,0.4%,-1.6%,Thu,Africa/Lagos
-30/08/2012,,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=august.2012#detail=40599,47K,47K,44K,Thu,Africa/Lagos
+30/08/2012,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40517,0.5%,0.4%,-1.6%,Thu,Africa/Lagos
+30/08/2012,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=august.2012#detail=40599,47K,47K,44K,Thu,Africa/Lagos
 30/08/2012,10:19,EUR,red,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=august.2012#detail=42443,5.82|1.4,,5.96|1.3,Thu,Africa/Lagos
 30/08/2012,13:30,CAD,orange,Current Account,https://www.forexfactory.com/calendar?month=august.2012#detail=41960,-16.0B,-15.2B,-10.2B,Thu,Africa/Lagos
-30/08/2012,,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2012#detail=39834,374K,370K,374K,Thu,Africa/Lagos
-30/08/2012,,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40916,0.0%,0.1%,0.2%,Thu,Africa/Lagos
-30/08/2012,,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40914,0.4%,0.4%,0.0%,Thu,Africa/Lagos
-30/08/2012,,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40915,0.3%,0.4%,0.3%,Thu,Africa/Lagos
+30/08/2012,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=august.2012#detail=39834,374K,370K,374K,Thu,Africa/Lagos
+30/08/2012,13:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40916,0.0%,0.1%,0.2%,Thu,Africa/Lagos
+30/08/2012,13:30,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40914,0.4%,0.4%,0.0%,Thu,Africa/Lagos
+30/08/2012,13:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40915,0.3%,0.4%,0.3%,Thu,Africa/Lagos
 30/08/2012,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=august.2012#detail=39782,66B,65B,47B,Thu,Africa/Lagos
 30/08/2012,Day 1,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2012#detail=41537,,,,Thu,Africa/Lagos
 31/08/2012,00:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=august.2012#detail=40637,-29,-27,-29,Fri,Africa/Lagos
 31/08/2012,00:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=38693,47.7,,47.9,Fri,Africa/Lagos
 31/08/2012,00:30,JPY,orange,Household Spending y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38713,1.7%,1.2%,1.6%,Fri,Africa/Lagos
-31/08/2012,,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38736,-0.5%,-0.6%,-0.6%,Fri,Africa/Lagos
-31/08/2012,,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38735,-0.3%,-0.3%,-0.2%,Fri,Africa/Lagos
-31/08/2012,,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=38712,4.3%,4.3%,4.3%,Fri,Africa/Lagos
+31/08/2012,00:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38736,-0.5%,-0.6%,-0.6%,Fri,Africa/Lagos
+31/08/2012,00:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=38735,-0.3%,-0.3%,-0.2%,Fri,Africa/Lagos
+31/08/2012,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=38712,4.3%,4.3%,4.3%,Fri,Africa/Lagos
 31/08/2012,00:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39035,-1.2%,1.7%,0.4%,Fri,Africa/Lagos
 31/08/2012,02:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39175,0.2%,0.4%,0.3%,Fri,Africa/Lagos
 31/08/2012,06:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=39099,-9.6%,-9.9%,-0.2%,Fri,Africa/Lagos
 31/08/2012,07:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=39363,-0.9%,0.2%,0.5%,Fri,Africa/Lagos
-31/08/2012,,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40600,1.3%,0.1%,-0.8%,Fri,Africa/Lagos
+31/08/2012,07:00,GBP,orange,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40600,1.3%,0.1%,-0.8%,Fri,Africa/Lagos
 31/08/2012,09:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=40847,10.7%,10.9%,10.7%,Fri,Africa/Lagos
-31/08/2012,,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=40867,10.6%,10.6%,10.1%,Fri,Africa/Lagos
+31/08/2012,09:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=40867,10.6%,10.6%,10.1%,Fri,Africa/Lagos
 31/08/2012,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=august.2012#detail=41394,2.6%,2.5%,2.4%,Fri,Africa/Lagos
-31/08/2012,,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=41449,11.3%,11.3%,11.3%,Fri,Africa/Lagos
-31/08/2012,,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40846,0.4%,0.3%,0.1%,Fri,Africa/Lagos
+31/08/2012,10:00,EUR,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=august.2012#detail=41449,11.3%,11.3%,11.3%,Fri,Africa/Lagos
+31/08/2012,10:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=40846,0.4%,0.3%,0.1%,Fri,Africa/Lagos
 31/08/2012,13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41946,0.2%,0.1%,0.1%,Fri,Africa/Lagos
 31/08/2012,14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=august.2012#detail=40372,53.0,53.6,53.7,Fri,Africa/Lagos
 31/08/2012,14:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=august.2012#detail=38851,74.3,73.7,73.6,Fri,Africa/Lagos
-31/08/2012,,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2012#detail=38852,3.6%,,3.6%,Fri,Africa/Lagos
+31/08/2012,14:55,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=august.2012#detail=38852,3.6%,,3.6%,Fri,Africa/Lagos
 31/08/2012,15:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=august.2012#detail=44134,,,,Fri,Africa/Lagos
-31/08/2012,,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41066,2.8%,1.7%,-0.5%,Fri,Africa/Lagos
+31/08/2012,15:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=august.2012#detail=41066,2.8%,1.7%,-0.5%,Fri,Africa/Lagos
 31/08/2012,18:10,GBP,yellow,MPC Member Posen Speaks,https://www.forexfactory.com/calendar?month=august.2012#detail=44135,,,,Fri,Africa/Lagos
 31/08/2012,Day 2,All,orange,Jackson Hole Symposium,https://www.forexfactory.com/calendar?month=august.2012#detail=41538,,,,Fri,Africa/Lagos

@@ -1,363 +1,363 @@
-date,time,currency,impact,actual,forecast,previous,day,event,detail,timezone
-01/04/2008,01:00,CNY,red,58.4,,53.4,Tue,,,Africa/Lagos
-01/04/2008,02:30,CNY,orange,54.4,,52.8,Tue,,,Africa/Lagos
-01/04/2008,03:30,AUD,red,7.25%,7.25%,7.25%,Tue,,,Africa/Lagos
-01/04/2008,,AUD,red,,,,Tue,,,Africa/Lagos
-01/04/2008,03:45,JPY,yellow,1.32|2.3,,1.37|2.8,Tue,,,Africa/Lagos
-01/04/2008,06:00,EUR,orange,-1.6%,0.5%,0.9%,Tue,,,Africa/Lagos
-01/04/2008,06:30,AUD,orange,9.5%,,9.7%,Tue,,,Africa/Lagos
-01/04/2008,07:15,EUR,yellow,46.4,,46.7,Tue,,,Africa/Lagos
-01/04/2008,07:30,CHF,orange,55.3,60.0,60.5,Tue,,,Africa/Lagos
-01/04/2008,07:45,EUR,yellow,49.4,50.2,50.6,Tue,,,Africa/Lagos
-01/04/2008,07:50,EUR,yellow,51.9,52.0,52.0,Tue,,,Africa/Lagos
-01/04/2008,07:55,EUR,orange,-48K,-52K,-68K,Tue,,,Africa/Lagos
-01/04/2008,,EUR,yellow,55.1,54.9,54.9,Tue,,,Africa/Lagos
-01/04/2008,08:00,EUR,yellow,52.0,52.0,52.0,Tue,,,Africa/Lagos
-01/04/2008,08:30,GBP,red,51.3,51.1,51.3,Tue,,,Africa/Lagos
-01/04/2008,09:00,EUR,yellow,7.1%,7.1%,7.1%,Tue,,,Africa/Lagos
-01/04/2008,11:30,USD,yellow,-14.2%,,19.1%,Tue,,,Africa/Lagos
-01/04/2008,12:30,CAD,orange,0.5%,2.6%,3.6%,Tue,,,Africa/Lagos
-01/04/2008,,CAD,yellow,0.1%,0.7%,1.0%,Tue,,,Africa/Lagos
-01/04/2008,14:00,USD,red,48.6,47.5,48.3,Tue,,,Africa/Lagos
-01/04/2008,,USD,yellow,-0.3%,-1.0%,-1.0%,Tue,,,Africa/Lagos
-01/04/2008,,USD,yellow,83.5,75.1,75.5,Tue,,,Africa/Lagos
-01/04/2008,All Day,USD,yellow,15.1M,15.2M,15.4M,Tue,,,Africa/Lagos
-01/04/2008,23:50,JPY,yellow,0.0%,0.1%,0.1%,Tue,,,Africa/Lagos
-02/04/2008,06:30,CHF,orange,,,,Wed,,,Africa/Lagos
-02/04/2008,07:00,EUR,yellow,-14.4K,,53.4K,Wed,,,Africa/Lagos
-02/04/2008,08:30,GBP,orange,47.2,52.0,52.4,Wed,,,Africa/Lagos
-02/04/2008,,GBP,yellow,7.3B,9.6B,10.8B,Wed,,,Africa/Lagos
-02/04/2008,,GBP,yellow,73K,72K,74K,Wed,,,Africa/Lagos
-02/04/2008,,GBP,yellow,9.8B,8.1B,8.4B,Wed,,,Africa/Lagos
-02/04/2008,09:00,EUR,yellow,0.6%,0.5%,0.9%,Wed,,,Africa/Lagos
-02/04/2008,12:15,USD,red,8K,-40K,-18K,Wed,,,Africa/Lagos
-02/04/2008,12:30,CAD,orange,,,,Wed,,,Africa/Lagos
-02/04/2008,13:30,USD,red,,,,Wed,,,Africa/Lagos
-02/04/2008,14:00,USD,orange,-1.3%,-0.8%,-2.3%,Wed,,,Africa/Lagos
-02/04/2008,14:30,USD,yellow,7.3M,2.3M,0.1M,Wed,,,Africa/Lagos
-02/04/2008,20:30,GBP,orange,,,,Wed,,,Africa/Lagos
-02/04/2008,22:30,AUD,yellow,53.8,,53.2,Wed,,,Africa/Lagos
-03/04/2008,01:00,CNY,yellow,60.3,,46.9,Thu,,,Africa/Lagos
-03/04/2008,02:00,NZD,yellow,2.0%,,1.1%,Thu,,,Africa/Lagos
-03/04/2008,07:15,EUR,yellow,40.9,,46.1,Thu,,,Africa/Lagos
-03/04/2008,07:45,EUR,yellow,48.8,47.3,47.2,Thu,,,Africa/Lagos
-03/04/2008,07:50,EUR,yellow,57.3,57.3,57.3,Thu,,,Africa/Lagos
-03/04/2008,07:55,EUR,yellow,51.8,52.5,52.5,Thu,,,Africa/Lagos
-03/04/2008,08:00,EUR,yellow,51.6,51.7,51.7,Thu,,,Africa/Lagos
-03/04/2008,08:30,GBP,red,52.1,53.3,54.0,Thu,,,Africa/Lagos
-03/04/2008,,GBP,orange,,,,Thu,,,Africa/Lagos
-03/04/2008,08:55,EUR,yellow,4.24|2.0,,4.07|2.5,Thu,,,Africa/Lagos
-03/04/2008,09:00,EUR,orange,-0.5%,0.2%,0.5%,Thu,,,Africa/Lagos
-03/04/2008,10:30,EUR,orange,,,,Thu,,,Africa/Lagos
-03/04/2008,12:30,USD,orange,407K,366K,371K,Thu,,,Africa/Lagos
-03/04/2008,14:00,USD,red,,,,Thu,,,Africa/Lagos
-03/04/2008,,USD,red,,,,Thu,,,Africa/Lagos
-03/04/2008,,USD,red,49.6,48.5,49.3,Thu,,,Africa/Lagos
-03/04/2008,14:30,USD,yellow,-29B,-34B,-36B,Thu,,,Africa/Lagos
-03/04/2008,22:00,AUD,red,,,,Thu,,,Africa/Lagos
-03/04/2008,23:30,USD,yellow,,,,Thu,,,Africa/Lagos
-04/04/2008,All Day,CNY,gray,,,,Fri,,,Africa/Lagos
-04/04/2008,00:30,AUD,red,-0.1%,0.3%,-0.1%,Fri,,,Africa/Lagos
-04/04/2008,05:45,CHF,red,0.3%,0.2%,0.1%,Fri,,,Africa/Lagos
-04/04/2008,06:45,EUR,yellow,-22.7B,,-6.6B,Fri,,,Africa/Lagos
-04/04/2008,07:00,CHF,yellow,46B,,49B,Fri,,,Africa/Lagos
-04/04/2008,10:00,EUR,orange,-0.5%,0.8%,-0.7%,Fri,,,Africa/Lagos
-04/04/2008,11:00,CAD,red,14.6K,15.0K,43.3K,Fri,,,Africa/Lagos
-04/04/2008,,CAD,red,6.0%,5.8%,5.8%,Fri,,,Africa/Lagos
-04/04/2008,11:30,USD,yellow,9.4%,,-14.2%,Fri,,,Africa/Lagos
-04/04/2008,12:30,USD,red,-80K,-50K,-76K,Fri,,,Africa/Lagos
-04/04/2008,,USD,red,5.1%,5.0%,4.8%,Fri,,,Africa/Lagos
-04/04/2008,,USD,orange,0.3%,0.3%,0.3%,Fri,,,Africa/Lagos
-04/04/2008,12:45,USD,yellow,,,,Fri,,,Africa/Lagos
-04/04/2008,14:00,CAD,red,59.0,62.5,62.0,Fri,,,Africa/Lagos
-04/04/2008,18:45,USD,orange,,,,Fri,,,Africa/Lagos
-05/04/2008,14:00,NZD,gray,,,,Sat,,,Africa/Lagos
-05/04/2008,16:00,AUD,gray,,,,Sat,,,Africa/Lagos
-07/04/2008,01:30,AUD,red,0.1%,0.0%,1.4%,Mon,,,Africa/Lagos
-07/04/2008,,AUD,red,-3.29B,-2.52B,-2.54B,Mon,,,Africa/Lagos
-07/04/2008,,AUD,orange,-0.7%,,-2.1%,Mon,,,Africa/Lagos
-07/04/2008,05:00,JPY,yellow,50.0%,50.0%,36.4%,Mon,,,Africa/Lagos
-07/04/2008,05:45,CHF,yellow,2.5%,2.5%,2.5%,Mon,,,Africa/Lagos
-07/04/2008,06:45,EUR,yellow,-2.8B,-3.4B,-3.2B,Mon,,,Africa/Lagos
-07/04/2008,08:30,EUR,yellow,4.1,0.2,0.4,Mon,,,Africa/Lagos
-07/04/2008,10:00,EUR,orange,0.4%,-0.4%,1.4%,Mon,,,Africa/Lagos
-07/04/2008,12:30,CAD,red,-1.0%,0.9%,-3.5%,Mon,,,Africa/Lagos
-07/04/2008,19:00,USD,yellow,5.2B,5.5B,10.3B,Mon,,,Africa/Lagos
-07/04/2008,21:30,USD,yellow,,,,Mon,,,Africa/Lagos
-07/04/2008,22:00,NZD,red,-64,,-26,Mon,,,Africa/Lagos
-08/04/2008,01:30,AUD,yellow,-4,,-2,Tue,,,Africa/Lagos
-08/04/2008,05:00,JPY,yellow,36.9,36.0,33.6,Tue,,,Africa/Lagos
-08/04/2008,07:00,GBP,red,-2.5%,-0.3%,-0.4%,Tue,,,Africa/Lagos
-08/04/2008,11:30,USD,yellow,89.6,,92.9,Tue,,,Africa/Lagos
-08/04/2008,12:15,CAD,red,255K,225K,256K,Tue,,,Africa/Lagos
-08/04/2008,14:00,USD,red,-1.9%,-0.8%,0.3%,Tue,,,Africa/Lagos
-08/04/2008,,USD,yellow,3.82M,,3.89M,Tue,,,Africa/Lagos
-08/04/2008,,USD,yellow,39.2,41.5,42.5,Tue,,,Africa/Lagos
-08/04/2008,18:00,USD,red,,,,Tue,,,Africa/Lagos
-08/04/2008,23:01,GBP,orange,77,76,78,Tue,,,Africa/Lagos
-09/04/2008,00:30,AUD,orange,-1.3%,,-9.1%,Wed,,,Africa/Lagos
-09/04/2008,03:25,JPY,orange,0.50%,0.50%,0.50%,Wed,,,Africa/Lagos
-09/04/2008,06:00,EUR,yellow,16.4B,15.8B,16.1B,Wed,,,Africa/Lagos
-09/04/2008,,JPY,orange,,,,Wed,,,Africa/Lagos
-09/04/2008,,JPY,yellow,2.9%,,-0.5%,Wed,,,Africa/Lagos
-09/04/2008,07:22,JPY,red,,,,Wed,,,Africa/Lagos
-09/04/2008,08:30,GBP,red,0.4%,0.0%,0.5%,Wed,,,Africa/Lagos
-09/04/2008,,GBP,yellow,0.3%,0.1%,-0.1%,Wed,,,Africa/Lagos
-09/04/2008,09:00,EUR,yellow,0.4%,0.4%,0.4%,Wed,,,Africa/Lagos
-09/04/2008,09:26,GBP,yellow,1.1%,,1.3%,Wed,,,Africa/Lagos
-09/04/2008,13:30,USD,red,,,,Wed,,,Africa/Lagos
-09/04/2008,14:00,USD,yellow,1.1%,0.5%,1.3%,Wed,,,Africa/Lagos
-09/04/2008,14:30,GBP,yellow,-0.3%,,-0.3%,Wed,,,Africa/Lagos
-09/04/2008,,USD,yellow,-3.1M,2.3M,7.3M,Wed,,,Africa/Lagos
-09/04/2008,17:30,USD,orange,,,,Wed,,,Africa/Lagos
-09/04/2008,22:42,NZD,yellow,48.3,,51.8,Wed,,,Africa/Lagos
-09/04/2008,23:01,GBP,yellow,0.5%,,0.6%,Wed,,,Africa/Lagos
-09/04/2008,23:30,AUD,yellow,48.4,,53.9,Wed,,,Africa/Lagos
-09/04/2008,23:50,JPY,orange,-12.7%,-14.0%,19.6%,Wed,,,Africa/Lagos
-09/04/2008,,JPY,yellow,1.1%,,0.8%,Wed,,,Africa/Lagos
-09/04/2008,,JPY,yellow,1.46T,1.61T,2.07T,Wed,,,Africa/Lagos
-09/04/2008,,JPY,yellow,2.2%,2.4%,2.3%,Wed,,,Africa/Lagos
-10/04/2008,01:00,AUD,yellow,4.3%,,4.6%,Thu,,,Africa/Lagos
-10/04/2008,01:30,AUD,red,14.8K,10.0K,7.2K,Thu,,,Africa/Lagos
-10/04/2008,,AUD,orange,4.1%,4.1%,4.0%,Thu,,,Africa/Lagos
-10/04/2008,03:15,CNY,yellow,61.3%,,75.2%,Thu,,,Africa/Lagos
-10/04/2008,06:45,EUR,orange,0.3%,0.0%,0.6%,Thu,,,Africa/Lagos
-10/04/2008,08:00,EUR,yellow,-0.2%,-0.3%,1.2%,Thu,,,Africa/Lagos
-10/04/2008,08:30,GBP,orange,-7.5B,-7.6B,-7.9B,Thu,,,Africa/Lagos
-10/04/2008,11:00,GBP,red,,,,Thu,,,Africa/Lagos
-10/04/2008,,GBP,red,5.00%,5.00%,5.25%,Thu,,,Africa/Lagos
-10/04/2008,11:45,EUR,orange,4.00%,4.00%,4.00%,Thu,,,Africa/Lagos
-10/04/2008,12:30,CAD,red,4.9B,3.4B,2.8B,Thu,,,Africa/Lagos
-10/04/2008,,EUR,red,,,,Thu,,,Africa/Lagos
-10/04/2008,,USD,red,-62.3B,-57.4B,-59.0B,Thu,,,Africa/Lagos
-10/04/2008,,USD,red,357K,385K,406K,Thu,,,Africa/Lagos
-10/04/2008,14:30,USD,yellow,-14B,-15B,-29B,Thu,,,Africa/Lagos
-10/04/2008,17:00,USD,red,,,,Thu,,,Africa/Lagos
-10/04/2008,18:00,USD,orange,-48.1B,-71.0B,-175.6B,Thu,,,Africa/Lagos
-10/04/2008,20:30,CAD,orange,,,,Thu,,,Africa/Lagos
-10/04/2008,23:50,JPY,yellow,3.9%,3.4%,3.6%,Thu,,,Africa/Lagos
-11/04/2008,02:00,CNY,orange,283B,,243B,Fri,,,Africa/Lagos
-11/04/2008,,CNY,yellow,16.3%,17.2%,17.5%,Fri,,,Africa/Lagos
-11/04/2008,04:00,CNY,red,13.4B,11.9B,8.6B,Fri,,,Africa/Lagos
-11/04/2008,06:00,EUR,yellow,1.6%,0.5%,-0.2%,Fri,,,Africa/Lagos
-11/04/2008,12:30,CAD,yellow,0.3%,0.4%,0.6%,Fri,,,Africa/Lagos
-11/04/2008,,USD,orange,2.8%,1.9%,0.2%,Fri,,,Africa/Lagos
-11/04/2008,13:00,USD,yellow,,,,Fri,,,Africa/Lagos
-11/04/2008,13:55,USD,red,63.2,69.0,69.5,Fri,,,Africa/Lagos
-11/04/2008,,USD,yellow,4.8%,,4.3%,Fri,,,Africa/Lagos
-11/04/2008,All Day,All,red,,,,Fri,,,Africa/Lagos
-11/04/2008,22:45,USD,orange,,,,Fri,,,Africa/Lagos
-12/04/2008,Day 1,All,yellow,,,,Sat,,,Africa/Lagos
-13/04/2008,Day 1,EUR,yellow,,,,Sun,,,Africa/Lagos
-13/04/2008,Day 2,All,orange,,,,Sun,,,Africa/Lagos
-13/04/2008,22:45,NZD,red,0.2%,0.3%,0.4%,Sun,,,Africa/Lagos
-13/04/2008,,NZD,red,-0.7%,0.0%,0.3%,Sun,,,Africa/Lagos
-13/04/2008,23:50,JPY,orange,,,,Sun,,,Africa/Lagos
-14/04/2008,01:30,AUD,red,-5.9%,0.5%,3.1%,Mon,,,Africa/Lagos
-14/04/2008,08:30,GBP,red,1.8%,1.8%,1.9%,Mon,,,Africa/Lagos
-14/04/2008,,GBP,yellow,0.9%,0.5%,0.5%,Mon,,,Africa/Lagos
-14/04/2008,09:00,EUR,orange,0.3%,0.2%,0.6%,Mon,,,Africa/Lagos
-14/04/2008,Day 2,EUR,yellow,,,,Mon,,,Africa/Lagos
-14/04/2008,12:30,CAD,yellow,-3.2%,-1.5%,9.1%,Mon,,,Africa/Lagos
-14/04/2008,,USD,red,0.1%,0.1%,-0.1%,Mon,,,Africa/Lagos
-14/04/2008,,USD,red,0.2%,0.0%,-0.4%,Mon,,,Africa/Lagos
-14/04/2008,14:00,USD,orange,0.6%,0.6%,0.9%,Mon,,,Africa/Lagos
-14/04/2008,14:30,CAD,red,,,,Mon,,,Africa/Lagos
-14/04/2008,19:15,USD,orange,,,,Mon,,,Africa/Lagos
-14/04/2008,21:30,EUR,orange,,,,Mon,,,Africa/Lagos
-14/04/2008,22:45,NZD,red,0.7%,0.9%,1.2%,Mon,,,Africa/Lagos
-14/04/2008,,NZD,yellow,0.7%,,1.2%,Mon,,,Africa/Lagos
-14/04/2008,23:01,GBP,orange,-1.6%,,1.5%,Mon,,,Africa/Lagos
-14/04/2008,,GBP,orange,-79%,-67%,-66%,Mon,,,Africa/Lagos
-15/04/2008,01:30,AUD,red,,,,Tue,,,Africa/Lagos
-15/04/2008,02:40,AUD,orange,,,,Tue,,,Africa/Lagos
-15/04/2008,03:45,JPY,yellow,2.45|3.9,,2.30|3.8,Tue,,,Africa/Lagos
-15/04/2008,06:45,EUR,yellow,0.8%,0.5%,0.2%,Tue,,,Africa/Lagos
-15/04/2008,08:30,GBP,red,2.5%,2.6%,2.5%,Tue,,,Africa/Lagos
-15/04/2008,,GBP,orange,1.2%,1.3%,1.2%,Tue,,,Africa/Lagos
-15/04/2008,,GBP,yellow,6.7%,7.5%,8.0%,Tue,,,Africa/Lagos
-15/04/2008,,GBP,yellow,3.8%,3.9%,4.1%,Tue,,,Africa/Lagos
-15/04/2008,09:00,EUR,red,-40.7,-30.0,-32.0,Tue,,,Africa/Lagos
-15/04/2008,,EUR,orange,-44.8,-33.0,-35.0,Tue,,,Africa/Lagos
-15/04/2008,12:30,USD,red,1.1%,0.6%,0.3%,Tue,,,Africa/Lagos
-15/04/2008,,USD,orange,0.2%,0.2%,0.5%,Tue,,,Africa/Lagos
-15/04/2008,,USD,orange,0.6,-17.0,-22.2,Tue,,,Africa/Lagos
-15/04/2008,13:00,USD,red,72.5B,58.0B,57.1B,Tue,,,Africa/Lagos
-15/04/2008,17:00,USD,yellow,20,20,20,Tue,,,Africa/Lagos
-16/04/2008,00:30,AUD,yellow,0.0%,,0.0%,Wed,,,Africa/Lagos
-16/04/2008,06:00,EUR,yellow,0.5%,0.5%,0.5%,Wed,,,Africa/Lagos
-16/04/2008,06:30,CNY,red,17.8%,16.5%,15.4%,Wed,,,Africa/Lagos
-16/04/2008,,CNY,orange,25.9%,24.0%,24.3%,Wed,,,Africa/Lagos
-16/04/2008,08:00,EUR,yellow,-0.41B,-1.55B,-4.11B,Wed,,,Africa/Lagos
-16/04/2008,08:30,GBP,red,-1.2K,-1.8K,0.6K,Wed,,,Africa/Lagos
-16/04/2008,,GBP,orange,3.7%,3.6%,3.9%,Wed,,,Africa/Lagos
-16/04/2008,,GBP,yellow,5.2%,5.2%,5.2%,Wed,,,Africa/Lagos
-16/04/2008,09:00,EUR,orange,2.0%,1.9%,1.8%,Wed,,,Africa/Lagos
-16/04/2008,,EUR,orange,3.6%,3.5%,3.5%,Wed,,,Africa/Lagos
-16/04/2008,12:30,CAD,orange,1.6%,0.8%,1.3%,Wed,,,Africa/Lagos
-16/04/2008,,USD,red,0.93M,0.97M,0.98M,Wed,,,Africa/Lagos
-16/04/2008,,USD,red,0.2%,0.2%,0.0%,Wed,,,Africa/Lagos
-16/04/2008,,USD,red,4.0%,4.0%,4.0%,Wed,,,Africa/Lagos
-16/04/2008,,USD,orange,0.3%,0.3%,0.0%,Wed,,,Africa/Lagos
-16/04/2008,,USD,orange,0.95M,1.01M,1.08M,Wed,,,Africa/Lagos
-16/04/2008,13:15,USD,orange,80.5%,80.3%,80.3%,Wed,,,Africa/Lagos
-16/04/2008,,USD,orange,0.3%,-0.1%,-0.7%,Wed,,,Africa/Lagos
-16/04/2008,14:35,USD,yellow,-2.4M,1.8M,-3.1M,Wed,,,Africa/Lagos
-16/04/2008,16:30,USD,orange,,,,Wed,,,Africa/Lagos
-16/04/2008,18:00,USD,orange,,,,Wed,,,Africa/Lagos
-16/04/2008,18:30,USD,red,,,,Wed,,,Africa/Lagos
-17/04/2008,02:00,CNY,red,10.6%,10.4%,11.2%,Thu,,,Africa/Lagos
-17/04/2008,,CNY,orange,8.3%,8.2%,8.7%,Thu,,,Africa/Lagos
-17/04/2008,,CNY,orange,,,,Thu,,,Africa/Lagos
-17/04/2008,,CNY,orange,8.0%,6.9%,6.6%,Thu,,,Africa/Lagos
-17/04/2008,,CNY,yellow,21.5%,20.0%,20.2%,Thu,,,Africa/Lagos
-17/04/2008,04:30,JPY,yellow,1.6%,-1.2%,-1.2%,Thu,,,Africa/Lagos
-17/04/2008,07:17,CHF,orange,7.6%,3.2%,1.3%,Thu,,,Africa/Lagos
-17/04/2008,08:00,EUR,orange,,,,Thu,,,Africa/Lagos
-17/04/2008,09:00,CHF,orange,-71.4,,-71.7,Thu,,,Africa/Lagos
-17/04/2008,,EUR,yellow,2.1B,-2.0B,-1.0B,Thu,,,Africa/Lagos
-17/04/2008,10:00,EUR,orange,,,,Thu,,,Africa/Lagos
-17/04/2008,11:00,CAD,red,0.2%,0.3%,0.5%,Thu,,,Africa/Lagos
-17/04/2008,,CAD,orange,0.4%,0.5%,0.4%,Thu,,,Africa/Lagos
-17/04/2008,12:30,USD,red,372K,375K,355K,Thu,,,Africa/Lagos
-17/04/2008,13:45,USD,orange,,,,Thu,,,Africa/Lagos
-17/04/2008,14:00,USD,orange,-24.9,-15.0,-17.4,Thu,,,Africa/Lagos
-17/04/2008,,USD,yellow,0.1%,0.1%,-0.3%,Thu,,,Africa/Lagos
-17/04/2008,14:30,CHF,orange,,,,Thu,,,Africa/Lagos
-17/04/2008,,USD,yellow,27B,16B,-14B,Thu,,,Africa/Lagos
-17/04/2008,18:00,USD,orange,,,,Thu,,,Africa/Lagos
-17/04/2008,19:20,GBP,orange,,,,Thu,,,Africa/Lagos
-18/04/2008,01:30,AUD,yellow,2.7%,0.5%,0.2%,Fri,,,Africa/Lagos
-18/04/2008,,AUD,yellow,,,,Fri,,,Africa/Lagos
-18/04/2008,05:00,JPY,yellow,36.7,36.5,36.1,Fri,,,Africa/Lagos
-18/04/2008,06:00,EUR,orange,0.7%,0.5%,0.7%,Fri,,,Africa/Lagos
-18/04/2008,08:30,GBP,yellow,0.8%,0.5%,0.2%,Fri,,,Africa/Lagos
-18/04/2008,,GBP,yellow,10.2B,7.8B,0.2B,Fri,,,Africa/Lagos
-18/04/2008,12:30,CAD,orange,-1.8%,0.5%,1.8%,Fri,,,Africa/Lagos
-18/04/2008,,CAD,yellow,0.0%,0.0%,-0.2%,Fri,,,Africa/Lagos
-18/04/2008,16:00,USD,orange,,,,Fri,,,Africa/Lagos
-20/04/2008,22:45,NZD,yellow,-0.3%,,5.4%,Sun,,,Africa/Lagos
-20/04/2008,23:01,GBP,orange,-0.1%,,0.8%,Sun,,,Africa/Lagos
-20/04/2008,23:50,JPY,orange,-1.7%,-0.5%,0.4%,Sun,,,Africa/Lagos
-21/04/2008,01:30,AUD,red,1.9%,1.0%,0.6%,Mon,,,Africa/Lagos
-21/04/2008,,AUD,yellow,1.0%,,-2.4%,Mon,,,Africa/Lagos
-21/04/2008,03:00,NZD,yellow,3.5%,,8.0%,Mon,,,Africa/Lagos
-21/04/2008,07:15,CHF,orange,0.6%,0.3%,0.2%,Mon,,,Africa/Lagos
-21/04/2008,09:00,EUR,orange,,,,Mon,,,Africa/Lagos
-21/04/2008,10:00,EUR,orange,,,,Mon,,,Africa/Lagos
-21/04/2008,12:30,CAD,orange,3.80B,1.53B,0.94B,Mon,,,Africa/Lagos
-21/04/2008,17:30,USD,orange,,,,Mon,,,Africa/Lagos
-22/04/2008,06:15,CHF,yellow,1.25B,0.75B,1.50B,Tue,,,Africa/Lagos
-22/04/2008,11:00,GBP,orange,,,,Tue,,,Africa/Lagos
-22/04/2008,13:00,CAD,red,,,,Tue,,,Africa/Lagos
-22/04/2008,,CAD,red,3.00%,3.00%,3.50%,Tue,,,Africa/Lagos
-22/04/2008,14:00,USD,red,4.93M,4.90M,5.03M,Tue,,,Africa/Lagos
-22/04/2008,,USD,yellow,0.6%,-1.5%,-1.0%,Tue,,,Africa/Lagos
-22/04/2008,,USD,yellow,0,3,6,Tue,,,Africa/Lagos
-22/04/2008,23:50,JPY,yellow,0.77T,0.89T,0.61T,Tue,,,Africa/Lagos
-23/04/2008,01:30,AUD,red,1.3%,1.1%,0.9%,Wed,,,Africa/Lagos
-23/04/2008,,AUD,orange,1.2%,1.0%,1.0%,Wed,,,Africa/Lagos
-23/04/2008,06:45,EUR,orange,-1.7%,-0.2%,1.3%,Wed,,,Africa/Lagos
-23/04/2008,07:00,EUR,orange,51.5,51.7,51.9,Wed,,,Africa/Lagos
-23/04/2008,,EUR,yellow,54.0,53.0,57.3,Wed,,,Africa/Lagos
-23/04/2008,07:30,EUR,orange,53.6,54.7,55.1,Wed,,,Africa/Lagos
-23/04/2008,,EUR,yellow,54.6,51.5,51.8,Wed,,,Africa/Lagos
-23/04/2008,08:00,EUR,orange,50.8,51.6,52.0,Wed,,,Africa/Lagos
-23/04/2008,,EUR,yellow,51.8,51.4,51.6,Wed,,,Africa/Lagos
-23/04/2008,,EUR,yellow,0.3%,-0.1%,0.3%,Wed,,,Africa/Lagos
-23/04/2008,08:30,GBP,red,0-7-2,0-9-0,0-2-7,Wed,,,Africa/Lagos
-23/04/2008,,GBP,orange,35.4K,,43.1K,Wed,,,Africa/Lagos
-23/04/2008,09:00,EUR,orange,0.6%,-0.3%,2.2%,Wed,,,Africa/Lagos
-23/04/2008,12:30,CAD,red,-0.3%,0.4%,1.1%,Wed,,,Africa/Lagos
-23/04/2008,,CAD,orange,-0.7%,0.1%,1.4%,Wed,,,Africa/Lagos
-23/04/2008,13:00,EUR,orange,-7.9,0.5,1.2,Wed,,,Africa/Lagos
-23/04/2008,14:30,USD,yellow,2.4M,1.5M,-2.4M,Wed,,,Africa/Lagos
-23/04/2008,17:00,GBP,orange,,,,Wed,,,Africa/Lagos
-23/04/2008,21:00,NZD,red,8.25%,8.25%,8.25%,Wed,,,Africa/Lagos
-23/04/2008,,NZD,red,,,,Wed,,,Africa/Lagos
-23/04/2008,23:50,JPY,yellow,-1.4%,-0.4%,0.0%,Wed,,,Africa/Lagos
-23/04/2008,,JPY,yellow,0.4%,0.7%,0.7%,Wed,,,Africa/Lagos
-24/04/2008,08:00,EUR,red,102.4,104.3,104.8,Thu,,,Africa/Lagos
-24/04/2008,,EUR,yellow,4.3B,1.0B,-7.9B,Thu,,,Africa/Lagos
-24/04/2008,08:30,GBP,red,-0.4%,-0.3%,1.1%,Thu,,,Africa/Lagos
-24/04/2008,10:00,GBP,orange,-13,4,7,Thu,,,Africa/Lagos
-24/04/2008,12:30,EUR,red,,,,Thu,,,Africa/Lagos
-24/04/2008,,USD,red,1.5%,0.5%,-2.1%,Thu,,,Africa/Lagos
-24/04/2008,,USD,orange,-0.3%,0.1%,-0.9%,Thu,,,Africa/Lagos
-24/04/2008,,USD,orange,342K,375K,375K,Thu,,,Africa/Lagos
-24/04/2008,14:00,USD,red,526K,580K,575K,Thu,,,Africa/Lagos
-24/04/2008,14:30,CAD,red,,,,Thu,,,Africa/Lagos
-24/04/2008,,USD,yellow,24B,22B,27B,Thu,,,Africa/Lagos
-24/04/2008,15:15,CAD,red,,,,Thu,,,Africa/Lagos
-24/04/2008,All Day,NZD,gray,,,,Thu,,,Africa/Lagos
-24/04/2008,All Day,AUD,gray,,,,Thu,,,Africa/Lagos
-24/04/2008,23:30,JPY,orange,0.7%,0.5%,0.6%,Thu,,,Africa/Lagos
-24/04/2008,,JPY,yellow,1.2%,1.2%,1.0%,Thu,,,Africa/Lagos
-25/04/2008,06:00,EUR,yellow,0.4%,0.7%,1.1%,Fri,,,Africa/Lagos
-25/04/2008,All Day,EUR,gray,,,,Fri,,,Africa/Lagos
-25/04/2008,07:00,EUR,yellow,9.6%,9.2%,8.6%,Fri,,,Africa/Lagos
-25/04/2008,08:00,CHF,orange,,,,Fri,,,Africa/Lagos
-25/04/2008,,EUR,yellow,10.3%,10.6%,11.3%,Fri,,,Africa/Lagos
-25/04/2008,,EUR,yellow,10.8%,10.8%,11.0%,Fri,,,Africa/Lagos
-25/04/2008,08:30,GBP,red,0.4%,0.4%,0.6%,Fri,,,Africa/Lagos
-25/04/2008,,GBP,yellow,0.3%,0.4%,0.5%,Fri,,,Africa/Lagos
-25/04/2008,13:20,USD,yellow,,,,Fri,,,Africa/Lagos
-25/04/2008,13:55,USD,orange,62.6,63.3,63.2,Fri,,,Africa/Lagos
-25/04/2008,,USD,yellow,4.8%,,4.8%,Fri,,,Africa/Lagos
-27/04/2008,23:50,JPY,orange,1.1%,1.0%,3.2%,Sun,,,Africa/Lagos
-28/04/2008,06:00,CHF,orange,,,,Mon,,,Africa/Lagos
-28/04/2008,,EUR,orange,5.9,4.6,4.8,Mon,,,Africa/Lagos
-28/04/2008,07:00,EUR,orange,,,,Mon,,,Africa/Lagos
-28/04/2008,All Day,EUR,orange,-0.2%,0.2%,0.5%,Mon,,,Africa/Lagos
-28/04/2008,09:00,EUR,yellow,,,,Mon,,,Africa/Lagos
-28/04/2008,22:45,NZD,red,-50M,400M,259M,Mon,,,Africa/Lagos
-28/04/2008,All Day,JPY,gray,,,,Mon,,,Africa/Lagos
-29/04/2008,00:00,AUD,yellow,-0.2%,,-0.5%,Tue,,,Africa/Lagos
-29/04/2008,01:30,AUD,orange,-4,,6,Tue,,,Africa/Lagos
-29/04/2008,08:00,CHF,orange,2.29,,2.32,Tue,,,Africa/Lagos
-29/04/2008,,EUR,yellow,41.8,,48.2,Tue,,,Africa/Lagos
-29/04/2008,08:30,GBP,yellow,64K,65K,72K,Tue,,,Africa/Lagos
-29/04/2008,,GBP,yellow,8.2B,8.4B,9.6B,Tue,,,Africa/Lagos
-29/04/2008,08:45,GBP,red,,,,Tue,,,Africa/Lagos
-29/04/2008,09:22,EUR,yellow,4.65|1.3,,4.42|1.4,Tue,,,Africa/Lagos
-29/04/2008,10:00,GBP,red,-26,-3,1,Tue,,,Africa/Lagos
-29/04/2008,10:30,GBP,orange,,,,Tue,,,Africa/Lagos
-29/04/2008,13:00,USD,yellow,-12.7%,-12.1%,-10.7%,Tue,,,Africa/Lagos
-29/04/2008,14:00,USD,red,62.3,62.0,65.9,Tue,,,Africa/Lagos
-29/04/2008,17:00,GBP,orange,,,,Tue,,,Africa/Lagos
-29/04/2008,22:45,NZD,red,-9.1%,,-6.6%,Tue,,,Africa/Lagos
-29/04/2008,23:01,GBP,orange,-24,-20,-19,Tue,,,Africa/Lagos
-29/04/2008,23:15,JPY,yellow,48.6,,49.5,Tue,,,Africa/Lagos
-29/04/2008,23:30,JPY,yellow,-1.6%,0.4%,0.0%,Tue,,,Africa/Lagos
-29/04/2008,,JPY,yellow,3.8%,3.9%,3.9%,Tue,,,Africa/Lagos
-29/04/2008,23:50,JPY,orange,-3.1%,-0.7%,1.6%,Tue,,,Africa/Lagos
-30/04/2008,01:30,AUD,orange,0.8%,0.8%,0.6%,Wed,,,Africa/Lagos
-30/04/2008,02:10,AUD,orange,-6.0%,,-5.3%,Wed,,,Africa/Lagos
-30/04/2008,03:00,NZD,orange,-54.8,,-57.9,Wed,,,Africa/Lagos
-30/04/2008,04:28,JPY,orange,0.50%,0.50%,0.50%,Wed,,,Africa/Lagos
-30/04/2008,05:00,JPY,yellow,-15.6%,-6.5%,-5.0%,Wed,,,Africa/Lagos
-30/04/2008,06:00,GBP,red,-1.1%,-0.5%,-0.7%,Wed,,,Africa/Lagos
-30/04/2008,,JPY,orange,,,,Wed,,,Africa/Lagos
-30/04/2008,07:28,JPY,red,,,,Wed,,,Africa/Lagos
-30/04/2008,07:55,EUR,orange,-7K,-12K,-48K,Wed,,,Africa/Lagos
-30/04/2008,09:00,EUR,orange,3.3%,3.4%,3.6%,Wed,,,Africa/Lagos
-30/04/2008,,EUR,yellow,-12,-13,-12,Wed,,,Africa/Lagos
-30/04/2008,,EUR,yellow,0.1%,0.3%,0.5%,Wed,,,Africa/Lagos
-30/04/2008,,EUR,yellow,7.1%,7.1%,7.1%,Wed,,,Africa/Lagos
-30/04/2008,09:04,EUR,yellow,4.35|2.3,,4.24|2.0,Wed,,,Africa/Lagos
-30/04/2008,09:24,CHF,orange,1.20,1.46,1.40,Wed,,,Africa/Lagos
-30/04/2008,11:55,EUR,orange,,,,Wed,,,Africa/Lagos
-30/04/2008,12:15,USD,red,10K,-60K,3K,Wed,,,Africa/Lagos
-30/04/2008,12:30,CAD,red,-0.2%,0.2%,0.6%,Wed,,,Africa/Lagos
-30/04/2008,,CAD,orange,6.6%,1.9%,0.6%,Wed,,,Africa/Lagos
-30/04/2008,,CAD,yellow,1.7%,0.9%,0.2%,Wed,,,Africa/Lagos
-30/04/2008,,USD,red,0.6%,0.2%,0.6%,Wed,,,Africa/Lagos
-30/04/2008,,USD,orange,2.6%,3.0%,2.4%,Wed,,,Africa/Lagos
-30/04/2008,,USD,orange,0.7%,0.8%,0.8%,Wed,,,Africa/Lagos
-30/04/2008,13:45,USD,orange,48.3,47.5,48.2,Wed,,,Africa/Lagos
-30/04/2008,14:30,USD,yellow,3.8M,0.9M,2.4M,Wed,,,Africa/Lagos
-30/04/2008,15:45,CAD,orange,,,,Wed,,,Africa/Lagos
-30/04/2008,18:15,USD,red,2.00%,2.00%,2.25%,Wed,,,Africa/Lagos
-30/04/2008,,USD,red,,,,Wed,,,Africa/Lagos
-30/04/2008,23:01,GBP,orange,,,,Wed,,,Africa/Lagos
-30/04/2008,23:30,AUD,yellow,52.7,,51.2,Wed,,,Africa/Lagos
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/04/2008,01:00,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=18350,58.4,,53.4,Tue,Africa/Lagos
+01/04/2008,02:30,CNY,orange,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=18345,54.4,,52.8,Tue,Africa/Lagos
+01/04/2008,03:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7460,7.25%,7.25%,7.25%,Tue,Africa/Lagos
+01/04/2008,03:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=april.2008#detail=7984,,,,Tue,Africa/Lagos
+01/04/2008,03:45,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2008#detail=48989,1.32|2.3,,1.37|2.8,Tue,Africa/Lagos
+01/04/2008,06:00,EUR,orange,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7508,-1.6%,0.5%,0.9%,Tue,Africa/Lagos
+01/04/2008,06:30,AUD,orange,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=10295,9.5%,,9.7%,Tue,Africa/Lagos
+01/04/2008,07:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=43804,46.4,,46.7,Tue,Africa/Lagos
+01/04/2008,07:30,CHF,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7461,55.3,60.0,60.5,Tue,Africa/Lagos
+01/04/2008,07:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=43458,49.4,50.2,50.6,Tue,Africa/Lagos
+01/04/2008,07:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=58911,51.9,52.0,52.0,Tue,Africa/Lagos
+01/04/2008,07:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=april.2008#detail=7462,-48K,-52K,-68K,Tue,Africa/Lagos
+01/04/2008,07:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=58965,55.1,54.9,54.9,Tue,Africa/Lagos
+01/04/2008,08:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7464,52.0,52.0,52.0,Tue,Africa/Lagos
+01/04/2008,08:30,GBP,red,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7465,51.3,51.1,51.3,Tue,Africa/Lagos
+01/04/2008,09:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7466,7.1%,7.1%,7.1%,Tue,Africa/Lagos
+01/04/2008,11:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=8620,-14.2%,,19.1%,Tue,Africa/Lagos
+01/04/2008,12:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7468,0.5%,2.6%,3.6%,Tue,Africa/Lagos
+01/04/2008,12:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7467,0.1%,0.7%,1.0%,Tue,Africa/Lagos
+01/04/2008,14:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7470,48.6,47.5,48.3,Tue,Africa/Lagos
+01/04/2008,14:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7471,-0.3%,-1.0%,-1.0%,Tue,Africa/Lagos
+01/04/2008,14:00,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=april.2008#detail=7469,83.5,75.1,75.5,Tue,Africa/Lagos
+01/04/2008,All Day,USD,yellow,Total Vehicle Sales,https://www.forexfactory.com/calendar?month=april.2008#detail=7472,15.1M,15.2M,15.4M,Tue,Africa/Lagos
+01/04/2008,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7473,0.0%,0.1%,0.1%,Tue,Africa/Lagos
+02/04/2008,06:30,CHF,orange,Gov Board Member Jordan Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=9162,,,,Wed,Africa/Lagos
+02/04/2008,07:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=april.2008#detail=43983,-14.4K,,53.4K,Wed,Africa/Lagos
+02/04/2008,08:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7478,47.2,52.0,52.4,Wed,Africa/Lagos
+02/04/2008,08:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=april.2008#detail=7479,7.3B,9.6B,10.8B,Wed,Africa/Lagos
+02/04/2008,08:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=april.2008#detail=7476,73K,72K,74K,Wed,Africa/Lagos
+02/04/2008,08:30,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7475,9.8B,8.1B,8.4B,Wed,Africa/Lagos
+02/04/2008,09:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7480,0.6%,0.5%,0.9%,Wed,Africa/Lagos
+02/04/2008,12:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2008#detail=7481,8K,-40K,-18K,Wed,Africa/Lagos
+02/04/2008,12:30,CAD,orange,Gov Council Member Jenkins Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7567,,,,Wed,Africa/Lagos
+02/04/2008,13:30,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=april.2008#detail=7482,,,,Wed,Africa/Lagos
+02/04/2008,14:00,USD,orange,Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7483,-1.3%,-0.8%,-2.3%,Wed,Africa/Lagos
+02/04/2008,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2008#detail=7445,7.3M,2.3M,0.1M,Wed,Africa/Lagos
+02/04/2008,20:30,GBP,orange,MPC Member Tucker Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7569,,,,Wed,Africa/Lagos
+02/04/2008,22:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=april.2008#detail=7484,53.8,,53.2,Wed,Africa/Lagos
+03/04/2008,01:00,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=42286,60.3,,46.9,Thu,Africa/Lagos
+03/04/2008,02:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7485,2.0%,,1.1%,Thu,Africa/Lagos
+03/04/2008,07:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=43900,40.9,,46.1,Thu,Africa/Lagos
+03/04/2008,07:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=43518,48.8,47.3,47.2,Thu,Africa/Lagos
+03/04/2008,07:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=59086,57.3,57.3,57.3,Thu,Africa/Lagos
+03/04/2008,07:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=59095,51.8,52.5,52.5,Thu,Africa/Lagos
+03/04/2008,08:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7487,51.6,51.7,51.7,Thu,Africa/Lagos
+03/04/2008,08:30,GBP,red,Final Services PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7488,52.1,53.3,54.0,Thu,Africa/Lagos
+03/04/2008,08:30,GBP,orange,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=april.2008#detail=7514,,,,Thu,Africa/Lagos
+03/04/2008,08:55,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2008#detail=43338,4.24|2.0,,4.07|2.5,Thu,Africa/Lagos
+03/04/2008,09:00,EUR,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7489,-0.5%,0.2%,0.5%,Thu,Africa/Lagos
+03/04/2008,10:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7513,,,,Thu,Africa/Lagos
+03/04/2008,12:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2008#detail=7490,407K,366K,371K,Thu,Africa/Lagos
+03/04/2008,14:00,USD,red,Fed Chairman Bernanke Testifies,https://www.forexfactory.com/calendar?month=april.2008#detail=7568,,,,Thu,Africa/Lagos
+03/04/2008,14:00,USD,red,FOMC Member Geithner Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=9184,,,,Thu,Africa/Lagos
+03/04/2008,14:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7491,49.6,48.5,49.3,Thu,Africa/Lagos
+03/04/2008,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2008#detail=8229,-29B,-34B,-36B,Thu,Africa/Lagos
+03/04/2008,22:00,AUD,red,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7516,,,,Thu,Africa/Lagos
+03/04/2008,23:30,USD,yellow,FOMC Member Mishkin Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7509,,,,Thu,Africa/Lagos
+04/04/2008,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2008#detail=23289,,,,Fri,Africa/Lagos
+04/04/2008,00:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7492,-0.1%,0.3%,-0.1%,Fri,Africa/Lagos
+04/04/2008,05:45,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7493,0.3%,0.2%,0.1%,Fri,Africa/Lagos
+04/04/2008,06:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7494,-22.7B,,-6.6B,Fri,Africa/Lagos
+04/04/2008,07:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=april.2008#detail=42178,46B,,49B,Fri,Africa/Lagos
+04/04/2008,10:00,EUR,orange,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7495,-0.5%,0.8%,-0.7%,Fri,Africa/Lagos
+04/04/2008,11:00,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2008#detail=7496,14.6K,15.0K,43.3K,Fri,Africa/Lagos
+04/04/2008,11:00,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7497,6.0%,5.8%,5.8%,Fri,Africa/Lagos
+04/04/2008,11:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=8624,9.4%,,-14.2%,Fri,Africa/Lagos
+04/04/2008,12:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2008#detail=7498,-80K,-50K,-76K,Fri,Africa/Lagos
+04/04/2008,12:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7499,5.1%,5.0%,4.8%,Fri,Africa/Lagos
+04/04/2008,12:30,USD,orange,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7500,0.3%,0.3%,0.3%,Fri,Africa/Lagos
+04/04/2008,12:45,USD,yellow,FOMC Member Pianalto Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7517,,,,Fri,Africa/Lagos
+04/04/2008,14:00,CAD,red,Ivey PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7501,59.0,62.5,62.0,Fri,Africa/Lagos
+04/04/2008,18:45,USD,orange,FOMC Member Kroszner Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7510,,,,Fri,Africa/Lagos
+05/04/2008,14:00,NZD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=april.2008#detail=12114,,,,Sat,Africa/Lagos
+05/04/2008,16:00,AUD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=april.2008#detail=12122,,,,Sat,Africa/Lagos
+07/04/2008,01:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7520,0.1%,0.0%,1.4%,Mon,Africa/Lagos
+07/04/2008,01:30,AUD,red,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7519,-3.29B,-2.52B,-2.54B,Mon,Africa/Lagos
+07/04/2008,01:30,AUD,orange,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=19253,-0.7%,,-2.1%,Mon,Africa/Lagos
+07/04/2008,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=april.2008#detail=7521,50.0%,50.0%,36.4%,Mon,Africa/Lagos
+07/04/2008,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7522,2.5%,2.5%,2.5%,Mon,Africa/Lagos
+07/04/2008,06:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7523,-2.8B,-3.4B,-3.2B,Mon,Africa/Lagos
+07/04/2008,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=april.2008#detail=7524,4.1,0.2,0.4,Mon,Africa/Lagos
+07/04/2008,10:00,EUR,orange,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7525,0.4%,-0.4%,1.4%,Mon,Africa/Lagos
+07/04/2008,12:30,CAD,red,Building Permits m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7526,-1.0%,0.9%,-3.5%,Mon,Africa/Lagos
+07/04/2008,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7527,5.2B,5.5B,10.3B,Mon,Africa/Lagos
+07/04/2008,21:30,USD,yellow,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7630,,,,Mon,Africa/Lagos
+07/04/2008,22:00,NZD,red,NZIER Business Confidence,https://www.forexfactory.com/calendar?month=april.2008#detail=7545,-64,,-26,Mon,Africa/Lagos
+08/04/2008,01:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=april.2008#detail=7528,-4,,-2,Tue,Africa/Lagos
+08/04/2008,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=april.2008#detail=7529,36.9,36.0,33.6,Tue,Africa/Lagos
+08/04/2008,07:00,GBP,red,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7638,-2.5%,-0.3%,-0.4%,Tue,Africa/Lagos
+08/04/2008,11:30,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=april.2008#detail=48353,89.6,,92.9,Tue,Africa/Lagos
+08/04/2008,12:15,CAD,red,Housing Starts,https://www.forexfactory.com/calendar?month=april.2008#detail=7531,255K,225K,256K,Tue,Africa/Lagos
+08/04/2008,14:00,USD,red,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7532,-1.9%,-0.8%,0.3%,Tue,Africa/Lagos
+08/04/2008,14:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=april.2008#detail=49284,3.82M,,3.89M,Tue,Africa/Lagos
+08/04/2008,14:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=april.2008#detail=7637,39.2,41.5,42.5,Tue,Africa/Lagos
+08/04/2008,18:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2008#detail=7533,,,,Tue,Africa/Lagos
+08/04/2008,23:01,GBP,orange,Nationwide Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2008#detail=7534,77,76,78,Tue,Africa/Lagos
+09/04/2008,00:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2008#detail=7535,-1.3%,,-9.1%,Wed,Africa/Lagos
+09/04/2008,03:25,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7536,0.50%,0.50%,0.50%,Wed,Africa/Lagos
+09/04/2008,06:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7539,16.4B,15.8B,16.1B,Wed,Africa/Lagos
+09/04/2008,06:00,JPY,orange,BOJ Monthly Report,https://www.forexfactory.com/calendar?month=april.2008#detail=7537,,,,Wed,Africa/Lagos
+09/04/2008,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7538,2.9%,,-0.5%,Wed,Africa/Lagos
+09/04/2008,07:22,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2008#detail=7641,,,,Wed,Africa/Lagos
+09/04/2008,08:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7541,0.4%,0.0%,0.5%,Wed,Africa/Lagos
+09/04/2008,08:30,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7540,0.3%,0.1%,-0.1%,Wed,Africa/Lagos
+09/04/2008,09:00,EUR,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=april.2008#detail=21668,0.4%,0.4%,0.4%,Wed,Africa/Lagos
+09/04/2008,09:26,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7543,1.1%,,1.3%,Wed,Africa/Lagos
+09/04/2008,13:30,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7631,,,,Wed,Africa/Lagos
+09/04/2008,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7544,1.1%,0.5%,1.3%,Wed,Africa/Lagos
+09/04/2008,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=10337,-0.3%,,-0.3%,Wed,Africa/Lagos
+09/04/2008,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2008#detail=7530,-3.1M,2.3M,7.3M,Wed,Africa/Lagos
+09/04/2008,17:30,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7633,,,,Wed,Africa/Lagos
+09/04/2008,22:42,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2008#detail=7550,48.3,,51.8,Wed,Africa/Lagos
+09/04/2008,23:01,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=april.2008#detail=7546,0.5%,,0.6%,Wed,Africa/Lagos
+09/04/2008,23:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=april.2008#detail=7518,48.4,,53.9,Wed,Africa/Lagos
+09/04/2008,23:50,JPY,orange,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7547,-12.7%,-14.0%,19.6%,Wed,Africa/Lagos
+09/04/2008,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=11969,1.1%,,0.8%,Wed,Africa/Lagos
+09/04/2008,23:50,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2008#detail=7549,1.46T,1.61T,2.07T,Wed,Africa/Lagos
+09/04/2008,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7548,2.2%,2.4%,2.3%,Wed,Africa/Lagos
+10/04/2008,01:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2008#detail=10316,4.3%,,4.6%,Thu,Africa/Lagos
+10/04/2008,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=april.2008#detail=7551,14.8K,10.0K,7.2K,Thu,Africa/Lagos
+10/04/2008,01:30,AUD,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7552,4.1%,4.1%,4.0%,Thu,Africa/Lagos
+10/04/2008,03:15,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2008#detail=19297,61.3%,,75.2%,Thu,Africa/Lagos
+10/04/2008,06:45,EUR,orange,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7553,0.3%,0.0%,0.6%,Thu,Africa/Lagos
+10/04/2008,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7554,-0.2%,-0.3%,1.2%,Thu,Africa/Lagos
+10/04/2008,08:30,GBP,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7555,-7.5B,-7.6B,-7.9B,Thu,Africa/Lagos
+10/04/2008,11:00,GBP,red,MPC Rate Statement,https://www.forexfactory.com/calendar?month=april.2008#detail=8147,,,,Thu,Africa/Lagos
+10/04/2008,11:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7556,5.00%,5.00%,5.25%,Thu,Africa/Lagos
+10/04/2008,11:45,EUR,orange,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7557,4.00%,4.00%,4.00%,Thu,Africa/Lagos
+10/04/2008,12:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7561,4.9B,3.4B,2.8B,Thu,Africa/Lagos
+10/04/2008,12:30,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=april.2008#detail=7558,,,,Thu,Africa/Lagos
+10/04/2008,12:30,USD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7559,-62.3B,-57.4B,-59.0B,Thu,Africa/Lagos
+10/04/2008,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2008#detail=7560,357K,385K,406K,Thu,Africa/Lagos
+10/04/2008,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2008#detail=8228,-14B,-15B,-29B,Thu,Africa/Lagos
+10/04/2008,17:00,USD,red,Fed Chairman Bernanke Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7632,,,,Thu,Africa/Lagos
+10/04/2008,18:00,USD,orange,Federal Budget Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=10909,-48.1B,-71.0B,-175.6B,Thu,Africa/Lagos
+10/04/2008,20:30,CAD,orange,Gov Council Member Longworth Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=10379,,,,Thu,Africa/Lagos
+10/04/2008,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7562,3.9%,3.4%,3.6%,Thu,Africa/Lagos
+11/04/2008,02:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=april.2008#detail=24346,283B,,243B,Fri,Africa/Lagos
+11/04/2008,02:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=24251,16.3%,17.2%,17.5%,Fri,Africa/Lagos
+11/04/2008,04:00,CNY,red,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=18384,13.4B,11.9B,8.6B,Fri,Africa/Lagos
+11/04/2008,06:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7640,1.6%,0.5%,-0.2%,Fri,Africa/Lagos
+11/04/2008,12:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7564,0.3%,0.4%,0.6%,Fri,Africa/Lagos
+11/04/2008,12:30,USD,orange,Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7565,2.8%,1.9%,0.2%,Fri,Africa/Lagos
+11/04/2008,13:00,USD,yellow,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7634,,,,Fri,Africa/Lagos
+11/04/2008,13:55,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2008#detail=7566,63.2,69.0,69.5,Fri,Africa/Lagos
+11/04/2008,13:55,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2008#detail=9965,4.8%,,4.3%,Fri,Africa/Lagos
+11/04/2008,All Day,All,red,G7 Meetings,https://www.forexfactory.com/calendar?month=april.2008#detail=7570,,,,Fri,Africa/Lagos
+11/04/2008,22:45,USD,orange,Treasury Sec Paulson Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7644,,,,Fri,Africa/Lagos
+12/04/2008,Day 1,All,yellow,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2008#detail=19788,,,,Sat,Africa/Lagos
+13/04/2008,Day 1,EUR,yellow,Italian Parliamentary Election,https://www.forexfactory.com/calendar?month=april.2008#detail=48226,,,,Sun,Africa/Lagos
+13/04/2008,Day 2,All,orange,IMF Meetings,https://www.forexfactory.com/calendar?month=april.2008#detail=19789,,,,Sun,Africa/Lagos
+13/04/2008,22:45,NZD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7572,0.2%,0.3%,0.4%,Sun,Africa/Lagos
+13/04/2008,22:45,NZD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7571,-0.7%,0.0%,0.3%,Sun,Africa/Lagos
+13/04/2008,23:50,JPY,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2008#detail=7573,,,,Sun,Africa/Lagos
+14/04/2008,01:30,AUD,red,Home Loans m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7574,-5.9%,0.5%,3.1%,Mon,Africa/Lagos
+14/04/2008,08:30,GBP,red,PPI Input m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7575,1.8%,1.8%,1.9%,Mon,Africa/Lagos
+14/04/2008,08:30,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7576,0.9%,0.5%,0.5%,Mon,Africa/Lagos
+14/04/2008,09:00,EUR,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7577,0.3%,0.2%,0.6%,Mon,Africa/Lagos
+14/04/2008,Day 2,EUR,yellow,Italian Parliamentary Election,https://www.forexfactory.com/calendar?month=april.2008#detail=48227,,,,Mon,Africa/Lagos
+14/04/2008,12:30,CAD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7578,-3.2%,-1.5%,9.1%,Mon,Africa/Lagos
+14/04/2008,12:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7580,0.1%,0.1%,-0.1%,Mon,Africa/Lagos
+14/04/2008,12:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7579,0.2%,0.0%,-0.4%,Mon,Africa/Lagos
+14/04/2008,14:00,USD,orange,Business Inventories m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7581,0.6%,0.6%,0.9%,Mon,Africa/Lagos
+14/04/2008,14:30,CAD,red,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=april.2008#detail=7582,,,,Mon,Africa/Lagos
+14/04/2008,19:15,USD,orange,FOMC Member Warsh Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7648,,,,Mon,Africa/Lagos
+14/04/2008,21:30,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7652,,,,Mon,Africa/Lagos
+14/04/2008,22:45,NZD,red,CPI q/q,https://www.forexfactory.com/calendar?month=april.2008#detail=7584,0.7%,0.9%,1.2%,Mon,Africa/Lagos
+14/04/2008,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7583,0.7%,,1.2%,Mon,Africa/Lagos
+14/04/2008,23:01,GBP,orange,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7585,-1.6%,,1.5%,Mon,Africa/Lagos
+14/04/2008,23:01,GBP,orange,RICS House Price Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7586,-79%,-67%,-66%,Mon,Africa/Lagos
+15/04/2008,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=april.2008#detail=7645,,,,Tue,Africa/Lagos
+15/04/2008,02:40,AUD,orange,RBA Gov Stevens Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7654,,,,Tue,Africa/Lagos
+15/04/2008,03:45,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2008#detail=49063,2.45|3.9,,2.30|3.8,Tue,Africa/Lagos
+15/04/2008,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7587,0.8%,0.5%,0.2%,Tue,Africa/Lagos
+15/04/2008,08:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7588,2.5%,2.6%,2.5%,Tue,Africa/Lagos
+15/04/2008,08:30,GBP,orange,Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7589,1.2%,1.3%,1.2%,Tue,Africa/Lagos
+15/04/2008,08:30,GBP,yellow,ONS HPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7646,6.7%,7.5%,8.0%,Tue,Africa/Lagos
+15/04/2008,08:30,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7590,3.8%,3.9%,4.1%,Tue,Africa/Lagos
+15/04/2008,09:00,EUR,red,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2008#detail=7592,-40.7,-30.0,-32.0,Tue,Africa/Lagos
+15/04/2008,09:00,EUR,orange,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=april.2008#detail=7593,-44.8,-33.0,-35.0,Tue,Africa/Lagos
+15/04/2008,12:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7594,1.1%,0.6%,0.3%,Tue,Africa/Lagos
+15/04/2008,12:30,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7595,0.2%,0.2%,0.5%,Tue,Africa/Lagos
+15/04/2008,12:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2008#detail=7596,0.6,-17.0,-22.2,Tue,Africa/Lagos
+15/04/2008,13:00,USD,red,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=april.2008#detail=7597,72.5B,58.0B,57.1B,Tue,Africa/Lagos
+15/04/2008,17:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=april.2008#detail=7598,20,20,20,Tue,Africa/Lagos
+16/04/2008,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7599,0.0%,,0.0%,Wed,Africa/Lagos
+16/04/2008,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7600,0.5%,0.5%,0.5%,Wed,Africa/Lagos
+16/04/2008,06:30,CNY,red,Industrial Production y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=18452,17.8%,16.5%,15.4%,Wed,Africa/Lagos
+16/04/2008,06:30,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=april.2008#detail=19740,25.9%,24.0%,24.3%,Wed,Africa/Lagos
+16/04/2008,08:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7601,-0.41B,-1.55B,-4.11B,Wed,Africa/Lagos
+16/04/2008,08:30,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=april.2008#detail=7602,-1.2K,-1.8K,0.6K,Wed,Africa/Lagos
+16/04/2008,08:30,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7604,3.7%,3.6%,3.9%,Wed,Africa/Lagos
+16/04/2008,08:30,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7603,5.2%,5.2%,5.2%,Wed,Africa/Lagos
+16/04/2008,09:00,EUR,orange,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=9513,2.0%,1.9%,1.8%,Wed,Africa/Lagos
+16/04/2008,09:00,EUR,orange,Final CPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7605,3.6%,3.5%,3.5%,Wed,Africa/Lagos
+16/04/2008,12:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7608,1.6%,0.8%,1.3%,Wed,Africa/Lagos
+16/04/2008,12:30,USD,red,Building Permits,https://www.forexfactory.com/calendar?month=april.2008#detail=7610,0.93M,0.97M,0.98M,Wed,Africa/Lagos
+16/04/2008,12:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7607,0.2%,0.2%,0.0%,Wed,Africa/Lagos
+16/04/2008,12:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=128362,4.0%,4.0%,4.0%,Wed,Africa/Lagos
+16/04/2008,12:30,USD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7606,0.3%,0.3%,0.0%,Wed,Africa/Lagos
+16/04/2008,12:30,USD,orange,Housing Starts,https://www.forexfactory.com/calendar?month=april.2008#detail=7609,0.95M,1.01M,1.08M,Wed,Africa/Lagos
+16/04/2008,13:15,USD,orange,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7612,80.5%,80.3%,80.3%,Wed,Africa/Lagos
+16/04/2008,13:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7611,0.3%,-0.1%,-0.7%,Wed,Africa/Lagos
+16/04/2008,14:35,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2008#detail=7591,-2.4M,1.8M,-3.1M,Wed,Africa/Lagos
+16/04/2008,16:30,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7650,,,,Wed,Africa/Lagos
+16/04/2008,18:00,USD,orange,Beige Book,https://www.forexfactory.com/calendar?month=april.2008#detail=7613,,,,Wed,Africa/Lagos
+16/04/2008,18:30,USD,red,FOMC Member Mishkin Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7704,,,,Wed,Africa/Lagos
+17/04/2008,02:00,CNY,red,GDP q/y,https://www.forexfactory.com/calendar?month=april.2008#detail=18422,10.6%,10.4%,11.2%,Thu,Africa/Lagos
+17/04/2008,02:00,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=18524,8.3%,8.2%,8.7%,Thu,Africa/Lagos
+17/04/2008,02:00,CNY,orange,NBS Press Conference,https://www.forexfactory.com/calendar?month=april.2008#detail=23230,,,,Thu,Africa/Lagos
+17/04/2008,02:00,CNY,orange,PPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=18572,8.0%,6.9%,6.6%,Thu,Africa/Lagos
+17/04/2008,02:00,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=23250,21.5%,20.0%,20.2%,Thu,Africa/Lagos
+17/04/2008,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7614,1.6%,-1.2%,-1.2%,Thu,Africa/Lagos
+17/04/2008,07:17,CHF,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7615,7.6%,3.2%,1.3%,Thu,Africa/Lagos
+17/04/2008,08:00,EUR,orange,ECB Monthly Bulletin,https://www.forexfactory.com/calendar?month=april.2008#detail=7647,,,,Thu,Africa/Lagos
+17/04/2008,09:00,CHF,orange,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=april.2008#detail=7616,-71.4,,-71.7,Thu,Africa/Lagos
+17/04/2008,09:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7617,2.1B,-2.0B,-1.0B,Thu,Africa/Lagos
+17/04/2008,10:00,EUR,orange,German Buba President Weber Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=20000,,,,Thu,Africa/Lagos
+17/04/2008,11:00,CAD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7619,0.2%,0.3%,0.5%,Thu,Africa/Lagos
+17/04/2008,11:00,CAD,orange,CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7618,0.4%,0.5%,0.4%,Thu,Africa/Lagos
+17/04/2008,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2008#detail=7620,372K,375K,355K,Thu,Africa/Lagos
+17/04/2008,13:45,USD,orange,FOMC Member Kohn Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7649,,,,Thu,Africa/Lagos
+17/04/2008,14:00,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2008#detail=7621,-24.9,-15.0,-17.4,Thu,Africa/Lagos
+17/04/2008,14:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7622,0.1%,0.1%,-0.3%,Thu,Africa/Lagos
+17/04/2008,14:30,CHF,orange,SNB Chairman Roth Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7653,,,,Thu,Africa/Lagos
+17/04/2008,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2008#detail=8227,27B,16B,-14B,Thu,Africa/Lagos
+17/04/2008,18:00,USD,orange,FOMC Member Fisher Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7651,,,,Thu,Africa/Lagos
+17/04/2008,19:20,GBP,orange,MPC Member Bean Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7703,,,,Thu,Africa/Lagos
+18/04/2008,01:30,AUD,yellow,Import Prices q/q,https://www.forexfactory.com/calendar?month=april.2008#detail=7623,2.7%,0.5%,0.2%,Fri,Africa/Lagos
+18/04/2008,01:30,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=april.2008#detail=7655,,,,Fri,Africa/Lagos
+18/04/2008,05:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2008#detail=7624,36.7,36.5,36.1,Fri,Africa/Lagos
+18/04/2008,06:00,EUR,orange,German PPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7625,0.7%,0.5%,0.7%,Fri,Africa/Lagos
+18/04/2008,08:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7627,0.8%,0.5%,0.2%,Fri,Africa/Lagos
+18/04/2008,08:30,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=april.2008#detail=7626,10.2B,7.8B,0.2B,Fri,Africa/Lagos
+18/04/2008,12:30,CAD,orange,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7629,-1.8%,0.5%,1.8%,Fri,Africa/Lagos
+18/04/2008,12:30,CAD,yellow,Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7628,0.0%,0.0%,-0.2%,Fri,Africa/Lagos
+18/04/2008,16:00,USD,orange,FOMC Member Plosser Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=9300,,,,Fri,Africa/Lagos
+20/04/2008,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7656,-0.3%,,5.4%,Sun,Africa/Lagos
+20/04/2008,23:01,GBP,orange,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7657,-0.1%,,0.8%,Sun,Africa/Lagos
+20/04/2008,23:50,JPY,orange,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7658,-1.7%,-0.5%,0.4%,Sun,Africa/Lagos
+21/04/2008,01:30,AUD,red,PPI q/q,https://www.forexfactory.com/calendar?month=april.2008#detail=7660,1.9%,1.0%,0.6%,Mon,Africa/Lagos
+21/04/2008,01:30,AUD,yellow,New Motor Vehicle Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7659,1.0%,,-2.4%,Mon,Africa/Lagos
+21/04/2008,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7672,3.5%,,8.0%,Mon,Africa/Lagos
+21/04/2008,07:15,CHF,orange,PPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7706,0.6%,0.3%,0.2%,Mon,Africa/Lagos
+21/04/2008,09:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7776,,,,Mon,Africa/Lagos
+21/04/2008,10:00,EUR,orange,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=april.2008#detail=50138,,,,Mon,Africa/Lagos
+21/04/2008,12:30,CAD,orange,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=april.2008#detail=7661,3.80B,1.53B,0.94B,Mon,Africa/Lagos
+21/04/2008,17:30,USD,orange,FOMC Member Kroszner Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7708,,,,Mon,Africa/Lagos
+22/04/2008,06:15,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7662,1.25B,0.75B,1.50B,Tue,Africa/Lagos
+22/04/2008,11:00,GBP,orange,MPC Member Besley Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7711,,,,Tue,Africa/Lagos
+22/04/2008,13:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=april.2008#detail=7973,,,,Tue,Africa/Lagos
+22/04/2008,13:00,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7665,3.00%,3.00%,3.50%,Tue,Africa/Lagos
+22/04/2008,14:00,USD,red,Existing Home Sales,https://www.forexfactory.com/calendar?month=april.2008#detail=7667,4.93M,4.90M,5.03M,Tue,Africa/Lagos
+22/04/2008,14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7668,0.6%,-1.5%,-1.0%,Tue,Africa/Lagos
+22/04/2008,14:00,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2008#detail=7666,0,3,6,Tue,Africa/Lagos
+22/04/2008,23:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7669,0.77T,0.89T,0.61T,Tue,Africa/Lagos
+23/04/2008,01:30,AUD,red,CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7670,1.3%,1.1%,0.9%,Wed,Africa/Lagos
+23/04/2008,01:30,AUD,orange,Trimmed Mean CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7671,1.2%,1.0%,1.0%,Wed,Africa/Lagos
+23/04/2008,06:45,EUR,orange,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7673,-1.7%,-0.2%,1.3%,Wed,Africa/Lagos
+23/04/2008,07:00,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=10187,51.5,51.7,51.9,Wed,Africa/Lagos
+23/04/2008,07:00,EUR,yellow,French Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=10188,54.0,53.0,57.3,Wed,Africa/Lagos
+23/04/2008,07:30,EUR,orange,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7675,53.6,54.7,55.1,Wed,Africa/Lagos
+23/04/2008,07:30,EUR,yellow,German Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7674,54.6,51.5,51.8,Wed,Africa/Lagos
+23/04/2008,08:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7677,50.8,51.6,52.0,Wed,Africa/Lagos
+23/04/2008,08:00,EUR,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7678,51.8,51.4,51.6,Wed,Africa/Lagos
+23/04/2008,08:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7676,0.3%,-0.1%,0.3%,Wed,Africa/Lagos
+23/04/2008,08:30,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=april.2008#detail=7679,0-7-2,0-9-0,0-2-7,Wed,Africa/Lagos
+23/04/2008,08:30,GBP,orange,High Street Lending,https://www.forexfactory.com/calendar?month=april.2008#detail=7680,35.4K,,43.1K,Wed,Africa/Lagos
+23/04/2008,09:00,EUR,orange,Industrial New Orders m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7681,0.6%,-0.3%,2.2%,Wed,Africa/Lagos
+23/04/2008,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7683,-0.3%,0.4%,1.1%,Wed,Africa/Lagos
+23/04/2008,12:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7682,-0.7%,0.1%,1.4%,Wed,Africa/Lagos
+23/04/2008,13:00,EUR,orange,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=april.2008#detail=10525,-7.9,0.5,1.2,Wed,Africa/Lagos
+23/04/2008,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2008#detail=7664,2.4M,1.5M,-2.4M,Wed,Africa/Lagos
+23/04/2008,17:00,GBP,orange,MPC Member Sentance Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7712,,,,Wed,Africa/Lagos
+23/04/2008,21:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7684,8.25%,8.25%,8.25%,Wed,Africa/Lagos
+23/04/2008,21:00,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=april.2008#detail=7989,,,,Wed,Africa/Lagos
+23/04/2008,23:50,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7686,-1.4%,-0.4%,0.0%,Wed,Africa/Lagos
+23/04/2008,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7685,0.4%,0.7%,0.7%,Wed,Africa/Lagos
+24/04/2008,08:00,EUR,red,German ifo Business Climate,https://www.forexfactory.com/calendar?month=april.2008#detail=7687,102.4,104.3,104.8,Thu,Africa/Lagos
+24/04/2008,08:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=april.2008#detail=7716,4.3B,1.0B,-7.9B,Thu,Africa/Lagos
+24/04/2008,08:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7689,-0.4%,-0.3%,1.1%,Thu,Africa/Lagos
+24/04/2008,10:00,GBP,orange,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=april.2008#detail=7690,-13,4,7,Thu,Africa/Lagos
+24/04/2008,12:30,EUR,red,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7710,,,,Thu,Africa/Lagos
+24/04/2008,12:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7693,1.5%,0.5%,-2.1%,Thu,Africa/Lagos
+24/04/2008,12:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7692,-0.3%,0.1%,-0.9%,Thu,Africa/Lagos
+24/04/2008,12:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=april.2008#detail=7691,342K,375K,375K,Thu,Africa/Lagos
+24/04/2008,14:00,USD,red,New Home Sales,https://www.forexfactory.com/calendar?month=april.2008#detail=7694,526K,580K,575K,Thu,Africa/Lagos
+24/04/2008,14:30,CAD,red,BOC Monetary Policy Report,https://www.forexfactory.com/calendar?month=april.2008#detail=7695,,,,Thu,Africa/Lagos
+24/04/2008,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=april.2008#detail=8226,24B,22B,27B,Thu,Africa/Lagos
+24/04/2008,15:15,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=april.2008#detail=7714,,,,Thu,Africa/Lagos
+24/04/2008,All Day,NZD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2008#detail=11993,,,,Thu,Africa/Lagos
+24/04/2008,All Day,AUD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2008#detail=7663,,,,Thu,Africa/Lagos
+24/04/2008,23:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7701,0.7%,0.5%,0.6%,Thu,Africa/Lagos
+24/04/2008,23:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7700,1.2%,1.2%,1.0%,Thu,Africa/Lagos
+25/04/2008,06:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7707,0.4%,0.7%,1.1%,Fri,Africa/Lagos
+25/04/2008,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=april.2008#detail=23780,,,,Fri,Africa/Lagos
+25/04/2008,07:00,EUR,yellow,Spanish Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=43866,9.6%,9.2%,8.6%,Fri,Africa/Lagos
+25/04/2008,08:00,CHF,orange,SNB Chairman Roth Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7713,,,,Fri,Africa/Lagos
+25/04/2008,08:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7696,10.3%,10.6%,11.3%,Fri,Africa/Lagos
+25/04/2008,08:00,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=11257,10.8%,10.8%,11.0%,Fri,Africa/Lagos
+25/04/2008,08:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=april.2008#detail=7697,0.4%,0.4%,0.6%,Fri,Africa/Lagos
+25/04/2008,08:30,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=april.2008#detail=7698,0.3%,0.4%,0.5%,Fri,Africa/Lagos
+25/04/2008,13:20,USD,yellow,President Bush Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7787,,,,Fri,Africa/Lagos
+25/04/2008,13:55,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=april.2008#detail=7699,62.6,63.3,63.2,Fri,Africa/Lagos
+25/04/2008,13:55,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=april.2008#detail=9984,4.8%,,4.8%,Fri,Africa/Lagos
+27/04/2008,23:50,JPY,orange,Retail Sales y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7718,1.1%,1.0%,3.2%,Sun,Africa/Lagos
+28/04/2008,06:00,CHF,orange,Gov Board Member Jordan Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7796,,,,Mon,Africa/Lagos
+28/04/2008,06:00,EUR,orange,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=april.2008#detail=7719,5.9,4.6,4.8,Mon,Africa/Lagos
+28/04/2008,07:00,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7792,,,,Mon,Africa/Lagos
+28/04/2008,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7797,-0.2%,0.2%,0.5%,Mon,Africa/Lagos
+28/04/2008,09:00,EUR,yellow,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=april.2008#detail=48852,,,,Mon,Africa/Lagos
+28/04/2008,22:45,NZD,red,Trade Balance,https://www.forexfactory.com/calendar?month=april.2008#detail=7721,-50M,400M,259M,Mon,Africa/Lagos
+28/04/2008,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=april.2008#detail=7875,,,,Mon,Africa/Lagos
+29/04/2008,00:00,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=10347,-0.2%,,-0.5%,Tue,Africa/Lagos
+29/04/2008,01:30,AUD,orange,NAB Quarterly Business Confidence,https://www.forexfactory.com/calendar?month=april.2008#detail=7798,-4,,6,Tue,Africa/Lagos
+29/04/2008,08:00,CHF,orange,UBS Consumption Indicator,https://www.forexfactory.com/calendar?month=april.2008#detail=7722,2.29,,2.32,Tue,Africa/Lagos
+29/04/2008,08:00,EUR,yellow,Retail PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=43591,41.8,,48.2,Tue,Africa/Lagos
+29/04/2008,08:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=april.2008#detail=7725,64K,65K,72K,Tue,Africa/Lagos
+29/04/2008,08:30,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7724,8.2B,8.4B,9.6B,Tue,Africa/Lagos
+29/04/2008,08:45,GBP,red,BOE Gov King Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7794,,,,Tue,Africa/Lagos
+29/04/2008,09:22,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2008#detail=43368,4.65|1.3,,4.42|1.4,Tue,Africa/Lagos
+29/04/2008,10:00,GBP,red,CBI Realized Sales,https://www.forexfactory.com/calendar?month=april.2008#detail=7726,-26,-3,1,Tue,Africa/Lagos
+29/04/2008,10:30,GBP,orange,MPC Member Tucker Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=11039,,,,Tue,Africa/Lagos
+29/04/2008,13:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7728,-12.7%,-12.1%,-10.7%,Tue,Africa/Lagos
+29/04/2008,14:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2008#detail=7729,62.3,62.0,65.9,Tue,Africa/Lagos
+29/04/2008,17:00,GBP,orange,MPC Member Blanchflower Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7795,,,,Tue,Africa/Lagos
+29/04/2008,22:45,NZD,red,Building Consents m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7730,-9.1%,,-6.6%,Tue,Africa/Lagos
+29/04/2008,23:01,GBP,orange,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2008#detail=7799,-24,-20,-19,Tue,Africa/Lagos
+29/04/2008,23:15,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7800,48.6,,49.5,Tue,Africa/Lagos
+29/04/2008,23:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7732,-1.6%,0.4%,0.0%,Tue,Africa/Lagos
+29/04/2008,23:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7731,3.8%,3.9%,3.9%,Tue,Africa/Lagos
+29/04/2008,23:50,JPY,orange,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7733,-3.1%,-0.7%,1.6%,Tue,Africa/Lagos
+30/04/2008,01:30,AUD,orange,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=11292,0.8%,0.8%,0.6%,Wed,Africa/Lagos
+30/04/2008,02:10,AUD,orange,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=14467,-6.0%,,-5.3%,Wed,Africa/Lagos
+30/04/2008,03:00,NZD,orange,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=april.2008#detail=7736,-54.8,,-57.9,Wed,Africa/Lagos
+30/04/2008,04:28,JPY,orange,Overnight Call Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7734,0.50%,0.50%,0.50%,Wed,Africa/Lagos
+30/04/2008,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7737,-15.6%,-6.5%,-5.0%,Wed,Africa/Lagos
+30/04/2008,06:00,GBP,red,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7782,-1.1%,-0.5%,-0.7%,Wed,Africa/Lagos
+30/04/2008,06:00,JPY,orange,BOJ Outlook Report,https://www.forexfactory.com/calendar?month=april.2008#detail=7915,,,,Wed,Africa/Lagos
+30/04/2008,07:28,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=april.2008#detail=7735,,,,Wed,Africa/Lagos
+30/04/2008,07:55,EUR,orange,German Unemployment Change,https://www.forexfactory.com/calendar?month=april.2008#detail=7739,-7K,-12K,-48K,Wed,Africa/Lagos
+30/04/2008,09:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=april.2008#detail=7741,3.3%,3.4%,3.6%,Wed,Africa/Lagos
+30/04/2008,09:00,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=april.2008#detail=7743,-12,-13,-12,Wed,Africa/Lagos
+30/04/2008,09:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7740,0.1%,0.3%,0.5%,Wed,Africa/Lagos
+30/04/2008,09:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7742,7.1%,7.1%,7.1%,Wed,Africa/Lagos
+30/04/2008,09:04,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=april.2008#detail=43339,4.35|2.3,,4.24|2.0,Wed,Africa/Lagos
+30/04/2008,09:24,CHF,orange,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=april.2008#detail=7745,1.20,1.46,1.40,Wed,Africa/Lagos
+30/04/2008,11:55,EUR,orange,ECB President Trichet Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=7793,,,,Wed,Africa/Lagos
+30/04/2008,12:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=april.2008#detail=7746,10K,-60K,3K,Wed,Africa/Lagos
+30/04/2008,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7801,-0.2%,0.2%,0.6%,Wed,Africa/Lagos
+30/04/2008,12:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7749,6.6%,1.9%,0.6%,Wed,Africa/Lagos
+30/04/2008,12:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=april.2008#detail=7748,1.7%,0.9%,0.2%,Wed,Africa/Lagos
+30/04/2008,12:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=april.2008#detail=7750,0.6%,0.2%,0.6%,Wed,Africa/Lagos
+30/04/2008,12:30,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=april.2008#detail=7751,2.6%,3.0%,2.4%,Wed,Africa/Lagos
+30/04/2008,12:30,USD,orange,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=april.2008#detail=7752,0.7%,0.8%,0.8%,Wed,Africa/Lagos
+30/04/2008,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=april.2008#detail=7753,48.3,47.5,48.2,Wed,Africa/Lagos
+30/04/2008,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=april.2008#detail=7720,3.8M,0.9M,2.4M,Wed,Africa/Lagos
+30/04/2008,15:45,CAD,orange,BOC Gov Carney Speaks,https://www.forexfactory.com/calendar?month=april.2008#detail=8382,,,,Wed,Africa/Lagos
+30/04/2008,18:15,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=april.2008#detail=7754,2.00%,2.00%,2.25%,Wed,Africa/Lagos
+30/04/2008,18:15,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=april.2008#detail=7803,,,,Wed,Africa/Lagos
+30/04/2008,23:01,GBP,orange,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=april.2008#detail=7923,,,,Wed,Africa/Lagos
+30/04/2008,23:30,AUD,yellow,AIG Manufacturing Index,https://www.forexfactory.com/calendar?month=april.2008#detail=7755,52.7,,51.2,Wed,Africa/Lagos
