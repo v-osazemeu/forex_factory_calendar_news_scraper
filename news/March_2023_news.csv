@@ -1,0 +1,428 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/03/2023,01:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=133369,8.4%,,8.0%,Wed,Africa/Lagos
+01/03/2023,01:30,AUD,red,CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132781,7.4%,8.1%,8.4%,Wed,Africa/Lagos
+01/03/2023,01:30,AUD,orange,GDP q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=131006,0.5%,0.8%,0.7%,Wed,Africa/Lagos
+01/03/2023,01:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=128807,47.7,47.4,47.4,Wed,Africa/Lagos
+01/03/2023,02:30,CNY,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=131445,52.6,50.7,50.1,Wed,Africa/Lagos
+01/03/2023,02:30,CNY,yellow,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=131446,56.3,55.0,54.4,Wed,Africa/Lagos
+01/03/2023,02:45,CNY,yellow,RatingDog Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=131473,51.6,50.7,49.2,Wed,Africa/Lagos
+01/03/2023,06:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=130616,3.6%,,11.0%,Wed,Africa/Lagos
+01/03/2023,08:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133309,-0.5%,-0.5%,-0.6%,Wed,Africa/Lagos
+01/03/2023,All Day,EUR,yellow,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131772,0.8%,0.5%,1.0%,Wed,Africa/Lagos
+01/03/2023,08:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=131368,-2.2%,-2.2%,-3.0%,Wed,Africa/Lagos
+01/03/2023,09:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129089,50.7,49.1,48.4,Wed,Africa/Lagos
+01/03/2023,09:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129110,48.9,50.4,49.3,Wed,Africa/Lagos
+01/03/2023,09:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129077,52.0,50.9,50.4,Wed,Africa/Lagos
+01/03/2023,09:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129113,47.4,47.9,47.9,Wed,Africa/Lagos
+01/03/2023,09:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129137,46.3,46.5,46.5,Wed,Africa/Lagos
+01/03/2023,09:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=march.2023#detail=131732,2K,-9K,-11K,Wed,Africa/Lagos
+01/03/2023,10:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129125,48.5,48.5,48.5,Wed,Africa/Lagos
+01/03/2023,10:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129149,49.3,49.2,49.2,Wed,Africa/Lagos
+01/03/2023,10:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133200,1.3%,-0.9%,-0.9%,Wed,Africa/Lagos
+01/03/2023,10:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=march.2023#detail=133201,40K,37K,41K,Wed,Africa/Lagos
+01/03/2023,10:30,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133202,4.1B,4.6B,3.9B,Wed,Africa/Lagos
+01/03/2023,11:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133906,,,,Wed,Africa/Lagos
+01/03/2023,11:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133907,,,,Wed,Africa/Lagos
+01/03/2023,15:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133915,,,,Wed,Africa/Lagos
+01/03/2023,15:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=130453,52.4,,51.0,Wed,Africa/Lagos
+01/03/2023,15:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=130466,47.3,47.8,47.8,Wed,Africa/Lagos
+01/03/2023,16:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=130009,47.7,47.9,47.4,Wed,Africa/Lagos
+01/03/2023,16:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129961,-0.1%,0.2%,-0.7%,Wed,Africa/Lagos
+01/03/2023,16:00,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=march.2023#detail=130008,51.3,45.5,44.5,Wed,Africa/Lagos
+01/03/2023,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=march.2023#detail=130534,14.9M,14.7M,15.7M,Wed,Africa/Lagos
+01/03/2023,16:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2023#detail=129404,1.2M,1.7M,7.6M,Wed,Africa/Lagos
+01/03/2023,22:45,NZD,yellow,Overseas Trade Index q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=130993,1.8%,-1.7%,-3.9%,Wed,Africa/Lagos
+02/03/2023,00:50,JPY,yellow,Capital Spending q/y,https://www.forexfactory.com/calendar?month=march.2023#detail=129038,7.7%,7.2%,9.8%,Thu,Africa/Lagos
+02/03/2023,00:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128180,-1.6%,-3.2%,-3.8%,Thu,Africa/Lagos
+02/03/2023,01:30,AUD,yellow,Building Approvals m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131115,-27.6%,-7.1%,15.3%,Thu,Africa/Lagos
+02/03/2023,04:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=128772,0.50|7.6,,0.49|4.6,Thu,Africa/Lagos
+02/03/2023,06:00,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2023#detail=128211,31.1,32.1,31.0,Thu,Africa/Lagos
+02/03/2023,08:45,EUR,yellow,French Gov Budget Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=133900,-21.1B,,-151.5B,Thu,Africa/Lagos
+02/03/2023,09:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=march.2023#detail=129388,2.6K,11.5K,70.7K,Thu,Africa/Lagos
+02/03/2023,10:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=129250,7.9%,7.8%,7.8%,Thu,Africa/Lagos
+02/03/2023,10:49,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=129347,3.77|1.9,,3.40|1.8,Thu,Africa/Lagos
+02/03/2023,11:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132649,5.6%,5.3%,5.3%,Thu,Africa/Lagos
+02/03/2023,11:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132650,8.5%,8.3%,8.6%,Thu,Africa/Lagos
+02/03/2023,11:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129312,0.3%,0.1%,0.1%,Thu,Africa/Lagos
+02/03/2023,11:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=132740,6.7%,6.6%,6.6%,Thu,Africa/Lagos
+02/03/2023,11:03,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=129366,3.20|2.3,,2.68|2.1,Thu,Africa/Lagos
+02/03/2023,13:30,EUR,yellow,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=march.2023#detail=132473,,,,Thu,Africa/Lagos
+02/03/2023,14:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2023#detail=130208,190K,196K,192K,Thu,Africa/Lagos
+02/03/2023,14:30,USD,yellow,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=129761,1.7%,2.5%,3.0%,Thu,Africa/Lagos
+02/03/2023,14:30,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=129760,3.2%,1.6%,1.1%,Thu,Africa/Lagos
+02/03/2023,16:00,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133908,,,,Thu,Africa/Lagos
+02/03/2023,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2023#detail=128439,-81B,-72B,-71B,Thu,Africa/Lagos
+02/03/2023,20:06,NZD,red,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133911,,,,Thu,Africa/Lagos
+02/03/2023,22:00,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133913,,,,Thu,Africa/Lagos
+03/03/2023,00:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133916,,,,Fri,Africa/Lagos
+03/03/2023,00:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128833,3.3%,3.3%,4.3%,Fri,Africa/Lagos
+03/03/2023,00:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=128810,2.4%,2.5%,2.5%,Fri,Africa/Lagos
+03/03/2023,02:45,CNY,yellow,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=131474,55.0,54.3,52.9,Fri,Africa/Lagos
+03/03/2023,08:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=132114,16.7B,11.1B,10.0B,Fri,Africa/Lagos
+03/03/2023,08:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129275,-1.9%,-0.2%,1.5%,Fri,Africa/Lagos
+03/03/2023,09:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129173,56.7,53.8,52.7,Fri,Africa/Lagos
+03/03/2023,09:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129161,51.6,52.4,51.2,Fri,Africa/Lagos
+03/03/2023,09:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129185,53.1,52.8,52.8,Fri,Africa/Lagos
+03/03/2023,09:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129199,50.9,51.3,51.3,Fri,Africa/Lagos
+03/03/2023,10:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129222,52.7,53.0,53.0,Fri,Africa/Lagos
+03/03/2023,10:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129211,53.5,53.3,53.3,Fri,Africa/Lagos
+03/03/2023,11:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132695,-2.8%,-0.3%,1.1%,Fri,Africa/Lagos
+03/03/2023,14:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132365,-4.0%,1.7%,-7.7%,Fri,Africa/Lagos
+03/03/2023,14:30,CAD,yellow,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=132621,-0.5%,0.2%,-0.3%,Fri,Africa/Lagos
+03/03/2023,15:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=130478,50.6,50.5,50.5,Fri,Africa/Lagos
+03/03/2023,16:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=130054,55.1,54.5,55.2,Fri,Africa/Lagos
+03/03/2023,17:00,USD,yellow,Fed Monetary Policy Report,https://www.forexfactory.com/calendar?month=march.2023#detail=132277,,,,Fri,Africa/Lagos
+03/03/2023,17:00,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133910,,,,Fri,Africa/Lagos
+06/03/2023,01:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=130633,0.4%,,0.9%,Mon,Africa/Lagos
+06/03/2023,01:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131208,1.3%,,-0.9%,Mon,Africa/Lagos
+06/03/2023,08:30,CHF,red,CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131393,0.7%,0.5%,0.6%,Mon,Africa/Lagos
+06/03/2023,10:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=march.2023#detail=132183,-11.1,-5.6,-8.0,Mon,Africa/Lagos
+06/03/2023,10:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=129234,54.6,48.7,48.4,Mon,Africa/Lagos
+06/03/2023,11:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132696,0.3%,0.7%,-1.7%,Mon,Africa/Lagos
+06/03/2023,16:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=130646,51.6,55.9,60.1,Mon,Africa/Lagos
+06/03/2023,16:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129901,-1.6%,-1.8%,1.7%,Mon,Africa/Lagos
+07/03/2023,00:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128872,0.8%,1.9%,4.1%,Tue,Africa/Lagos
+07/03/2023,01:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=133358,4.9%,4.8%,3.9%,Tue,Africa/Lagos
+07/03/2023,01:30,AUD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=131104,11.69B,12.25B,12.99B,Tue,Africa/Lagos
+07/03/2023,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=130283,3.60%,3.60%,3.35%,Tue,Africa/Lagos
+07/03/2023,04:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=march.2023#detail=130294,,,,Tue,Africa/Lagos
+07/03/2023,04:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=128783,1.42|3.0,,1.54|3.3,Tue,Africa/Lagos
+07/03/2023,05:21,CNY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=131496,810B,572B,550B,Tue,Africa/Lagos
+07/03/2023,05:22,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=131497,116.9B,82.5B,78.0B,Tue,Africa/Lagos
+07/03/2023,07:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=131345,1.9%,1.9%,1.9%,Tue,Africa/Lagos
+07/03/2023,08:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132115,1.0%,-0.6%,3.4%,Tue,Africa/Lagos
+07/03/2023,08:00,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133322,1.1%,-0.3%,0.2%,Tue,Africa/Lagos
+07/03/2023,09:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=march.2023#detail=129628,771B,,785B,Tue,Africa/Lagos
+07/03/2023,15:21,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=march.2023#detail=128736,-0.7%,,-1.5%,Tue,Africa/Lagos
+07/03/2023,16:00,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=march.2023#detail=133929,,,,Tue,Africa/Lagos
+07/03/2023,16:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129913,-0.4%,-0.4%,-0.4%,Tue,Africa/Lagos
+07/03/2023,16:00,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=march.2023#detail=133627,46.9,47.2,45.1,Tue,Africa/Lagos
+07/03/2023,19:00,CHF,orange,SNB Chairman Jordan Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133930,,,,Tue,Africa/Lagos
+07/03/2023,21:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129612,14.8B,25.2B,10.7B,Tue,Africa/Lagos
+07/03/2023,22:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=march.2023#detail=130157,,,,Tue,Africa/Lagos
+07/03/2023,22:55,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133932,,,,Tue,Africa/Lagos
+08/03/2023,00:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128907,3.3%,3.2%,3.1%,Wed,Africa/Lagos
+08/03/2023,00:50,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=march.2023#detail=128919,0.22T,0.80T,1.18T,Wed,Africa/Lagos
+08/03/2023,06:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=march.2023#detail=128944,96.5%,96.9%,97.2%,Wed,Africa/Lagos
+08/03/2023,07:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=march.2023#detail=128222,52.0,49.1,48.5,Wed,Africa/Lagos
+08/03/2023,08:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132116,3.5%,1.4%,-2.4%,Wed,Africa/Lagos
+08/03/2023,08:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131786,-0.3%,2.3%,-1.7%,Wed,Africa/Lagos
+08/03/2023,10:00,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129289,1.7%,0.2%,-0.2%,Wed,Africa/Lagos
+08/03/2023,10:30,GBP,yellow,MPC Member Dhingra Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133931,,,,Wed,Africa/Lagos
+08/03/2023,11:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133933,,,,Wed,Africa/Lagos
+08/03/2023,11:00,EUR,yellow,Final Employment Change q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=132754,0.3%,0.4%,0.4%,Wed,Africa/Lagos
+08/03/2023,11:00,EUR,yellow,Revised GDP q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=132753,0.0%,0.0%,0.1%,Wed,Africa/Lagos
+08/03/2023,14:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=march.2023#detail=133615,242K,197K,119K,Wed,Africa/Lagos
+08/03/2023,14:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=132587,1.9B,-0.1B,1.2B,Wed,Africa/Lagos
+08/03/2023,14:30,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=129780,-68.3B,-68.7B,-67.2B,Wed,Africa/Lagos
+08/03/2023,16:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=march.2023#detail=128244,,,,Wed,Africa/Lagos
+08/03/2023,16:00,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=128236,4.50%,4.50%,4.50%,Wed,Africa/Lagos
+08/03/2023,16:00,USD,red,Fed Chair Powell Testifies,https://www.forexfactory.com/calendar?month=march.2023#detail=133939,,,,Wed,Africa/Lagos
+08/03/2023,16:00,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=march.2023#detail=132219,10.82M,10.58M,11.23M,Wed,Africa/Lagos
+08/03/2023,16:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2023#detail=129403,-1.7M,1.3M,1.2M,Wed,Africa/Lagos
+08/03/2023,19:01,USD,orange,10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=131862,3.99|2.4,,3.61|2.7,Wed,Africa/Lagos
+08/03/2023,20:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=march.2023#detail=130501,,,,Wed,Africa/Lagos
+09/03/2023,00:50,JPY,yellow,Final GDP Price Index y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=129044,1.2%,1.1%,1.1%,Thu,Africa/Lagos
+09/03/2023,00:50,JPY,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=129045,0.0%,0.2%,0.2%,Thu,Africa/Lagos
+09/03/2023,00:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128174,2.6%,2.8%,2.7%,Thu,Africa/Lagos
+09/03/2023,01:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=133298,-48%,-48%,-46%,Thu,Africa/Lagos
+09/03/2023,02:30,CNY,yellow,CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=131545,1.0%,1.9%,2.1%,Thu,Africa/Lagos
+09/03/2023,02:30,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=131546,-1.4%,-1.3%,-0.8%,Thu,Africa/Lagos
+09/03/2023,06:58,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=129030,-10.7%,,-9.7%,Thu,Africa/Lagos
+09/03/2023,07:30,EUR,yellow,French Final Private Payrolls q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=131911,0.2%,0.0%,0.0%,Thu,Africa/Lagos
+09/03/2023,13:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=130078,410.1%,,440.0%,Thu,Africa/Lagos
+09/03/2023,14:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2023#detail=130209,211K,195K,190K,Thu,Africa/Lagos
+09/03/2023,16:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133917,,,,Thu,Africa/Lagos
+09/03/2023,16:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2023#detail=128438,-84B,-76B,-81B,Thu,Africa/Lagos
+09/03/2023,19:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=131865,3.88|2.4,,3.69|2.2,Thu,Africa/Lagos
+09/03/2023,19:30,CAD,yellow,Gov Council Member Rogers Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133938,,,,Thu,Africa/Lagos
+09/03/2023,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2023#detail=131220,52.0,,51.2,Thu,Africa/Lagos
+09/03/2023,22:45,NZD,yellow,Manufacturing Sales q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=130927,-0.4%,,5.0%,Thu,Africa/Lagos
+10/03/2023,00:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128956,-0.3%,-0.2%,-1.3%,Fri,Africa/Lagos
+10/03/2023,00:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128883,8.2%,8.4%,9.5%,Fri,Africa/Lagos
+10/03/2023,03:31,JPY,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=march.2023#detail=128145,,,,Fri,Africa/Lagos
+10/03/2023,03:31,JPY,yellow,BOJ Policy Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=128144,-0.10%,-0.10%,-0.10%,Fri,Africa/Lagos
+10/03/2023,07:30,JPY,red,BOJ Press Conference,https://www.forexfactory.com/calendar?month=march.2023#detail=128143,,,,Fri,Africa/Lagos
+10/03/2023,08:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132118,0.8%,0.8%,0.8%,Fri,Africa/Lagos
+10/03/2023,08:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133502,0.3%,0.1%,-0.5%,Fri,Africa/Lagos
+10/03/2023,08:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133507,-1.7%,0.0%,0.0%,Fri,Africa/Lagos
+10/03/2023,08:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=133506,-17.9B,-17.5B,-19.3B,Fri,Africa/Lagos
+10/03/2023,08:00,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=march.2023#detail=133503,0.0%,-0.1%,0.0%,Fri,Africa/Lagos
+10/03/2023,08:00,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133504,-0.3%,0.0%,0.3%,Fri,Africa/Lagos
+10/03/2023,08:00,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133505,-0.4%,0.1%,0.0%,Fri,Africa/Lagos
+10/03/2023,08:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=131941,-12.9B,-14.0B,-14.7B,Fri,Africa/Lagos
+10/03/2023,09:30,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=march.2023#detail=131522,1810B,1500B,4900B,Fri,Africa/Lagos
+10/03/2023,09:30,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=131521,12.9%,12.5%,12.6%,Fri,Africa/Lagos
+10/03/2023,12:40,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=march.2023#detail=133334,-0.1%,,0.0%,Fri,Africa/Lagos
+10/03/2023,14:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=march.2023#detail=132522,21.8K,8.5K,150.0K,Fri,Africa/Lagos
+10/03/2023,14:30,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=132521,5.0%,5.1%,5.0%,Fri,Africa/Lagos
+10/03/2023,14:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=132625,81.7%,82.2%,82.2%,Fri,Africa/Lagos
+10/03/2023,14:30,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129730,0.2%,0.3%,0.3%,Fri,Africa/Lagos
+10/03/2023,14:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=march.2023#detail=129728,311K,224K,504K,Fri,Africa/Lagos
+10/03/2023,14:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=129729,3.6%,3.4%,3.4%,Fri,Africa/Lagos
+10/03/2023,20:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=130510,-262.4B,-261.0B,-38.8B,Fri,Africa/Lagos
+12/03/2023,08:00,CAD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2023#detail=130253,,,,Sun,Africa/Lagos
+12/03/2023,08:00,USD,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2023#detail=129991,,,,Sun,Africa/Lagos
+12/03/2023,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=march.2023#detail=131232,55.8,,54.7,Sun,Africa/Lagos
+12/03/2023,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=130973,1.5%,,1.7%,Sun,Africa/Lagos
+12/03/2023,23:20,USD,red,Fed Announcement,https://www.forexfactory.com/calendar?month=march.2023#detail=133949,,,,Sun,Africa/Lagos
+13/03/2023,00:50,JPY,yellow,BSI Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2023#detail=128794,-10.5,-4.2,-3.6,Mon,Africa/Lagos
+13/03/2023,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=march.2023#detail=132195,,,,Mon,Africa/Lagos
+13/03/2023,19:05,GBP,yellow,MPC Member Dhingra Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133943,,,,Mon,Africa/Lagos
+13/03/2023,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=130933,-26.3%,,55.6%,Mon,Africa/Lagos
+14/03/2023,00:22,AUD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2023#detail=130384,0.0%,,-6.9%,Tue,Africa/Lagos
+14/03/2023,01:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=march.2023#detail=131141,-4,,6,Tue,Africa/Lagos
+14/03/2023,02:30,AUD,yellow,Household Spending m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=146421,-14.8%,,3.1%,Tue,Africa/Lagos
+14/03/2023,08:00,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=march.2023#detail=133461,-11.2K,12.5K,-30.3K,Tue,Africa/Lagos
+14/03/2023,08:00,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=march.2023#detail=133460,5.7%,5.7%,6.0%,Tue,Africa/Lagos
+14/03/2023,08:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=133462,3.7%,3.8%,3.7%,Tue,Africa/Lagos
+14/03/2023,08:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131405,-0.2%,0.5%,0.7%,Tue,Africa/Lagos
+14/03/2023,10:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129263,-0.7%,-0.3%,1.2%,Tue,Africa/Lagos
+14/03/2023,10:59,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=march.2023#detail=130490,90.9,90.3,90.3,Tue,Africa/Lagos
+14/03/2023,11:02,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=132880,3.50|2.4,,3.53|2.4,Tue,Africa/Lagos
+14/03/2023,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=march.2023#detail=132207,,,,Tue,Africa/Lagos
+14/03/2023,13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132575,4.1%,-0.4%,-2.1%,Tue,Africa/Lagos
+14/03/2023,13:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129676,0.5%,0.4%,0.4%,Tue,Africa/Lagos
+14/03/2023,13:30,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129664,0.4%,0.4%,0.5%,Tue,Africa/Lagos
+14/03/2023,13:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=129688,6.0%,6.0%,6.4%,Tue,Africa/Lagos
+14/03/2023,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133346,-0.6%,,-0.8%,Tue,Africa/Lagos
+14/03/2023,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=march.2023#detail=130158,,,,Tue,Africa/Lagos
+14/03/2023,22:20,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133946,,,,Tue,Africa/Lagos
+14/03/2023,22:45,NZD,yellow,Current Account,https://www.forexfactory.com/calendar?month=march.2023#detail=130923,-9.46B,-7.64B,-11.40B,Tue,Africa/Lagos
+15/03/2023,00:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=march.2023#detail=128124,,,,Wed,Africa/Lagos
+15/03/2023,03:00,CNY,yellow,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=march.2023#detail=131602,5.5%,4.5%,5.1%,Wed,Africa/Lagos
+15/03/2023,03:00,CNY,yellow,Industrial Production y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=131603,2.4%,2.6%,1.3%,Wed,Africa/Lagos
+15/03/2023,03:00,CNY,yellow,NBS Press Conference,https://www.forexfactory.com/calendar?month=march.2023#detail=131604,,,,Wed,Africa/Lagos
+15/03/2023,03:00,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=131605,3.5%,3.5%,-1.8%,Wed,Africa/Lagos
+15/03/2023,03:00,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=131606,5.6%,5.3%,5.5%,Wed,Africa/Lagos
+15/03/2023,07:59,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131746,0.1%,0.3%,0.2%,Wed,Africa/Lagos
+15/03/2023,08:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131929,1.0%,0.9%,0.9%,Wed,Africa/Lagos
+15/03/2023,10:00,EUR,yellow,Italian Quarterly Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=129244,7.8%,7.8%,8.0%,Wed,Africa/Lagos
+15/03/2023,11:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132697,0.7%,0.3%,-1.3%,Wed,Africa/Lagos
+15/03/2023,11:39,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=131685,2.32|1.1,,2.26|1.1,Wed,Africa/Lagos
+15/03/2023,13:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=march.2023#detail=132856,244K,222K,217K,Wed,Africa/Lagos
+15/03/2023,13:30,GBP,red,Annual Budget Release,https://www.forexfactory.com/calendar?month=march.2023#detail=132919,,,,Wed,Africa/Lagos
+15/03/2023,13:30,USD,red,Core PPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129703,0.0%,0.4%,0.1%,Wed,Africa/Lagos
+15/03/2023,13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129856,-0.1%,-0.1%,2.4%,Wed,Africa/Lagos
+15/03/2023,13:30,USD,red,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2023#detail=130042,-24.6,-7.9,-5.8,Wed,Africa/Lagos
+15/03/2023,13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129702,-0.1%,0.3%,0.3%,Wed,Africa/Lagos
+15/03/2023,13:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129855,-0.4%,-0.3%,3.2%,Wed,Africa/Lagos
+15/03/2023,15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131272,-0.1%,0.0%,0.3%,Wed,Africa/Lagos
+15/03/2023,15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=march.2023#detail=132256,44,40,42,Wed,Africa/Lagos
+15/03/2023,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2023#detail=129405,1.6M,1.3M,-1.7M,Wed,Africa/Lagos
+15/03/2023,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=march.2023#detail=131299,31.9B,130.7B,152.8B,Wed,Africa/Lagos
+15/03/2023,22:45,NZD,red,GDP q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=130907,-0.6%,-0.2%,1.7%,Wed,Africa/Lagos
+16/03/2023,00:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=128934,9.5%,1.5%,1.6%,Thu,Africa/Lagos
+16/03/2023,00:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=129013,-1.19T,-1.46T,-1.82T,Thu,Africa/Lagos
+16/03/2023,01:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2023#detail=130372,5.0%,,5.1%,Thu,Africa/Lagos
+16/03/2023,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=march.2023#detail=131051,64.6K,49.7K,-10.9K,Thu,Africa/Lagos
+16/03/2023,01:30,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=131050,3.5%,3.6%,3.7%,Thu,Africa/Lagos
+16/03/2023,01:30,AUD,yellow,RBA Bulletin,https://www.forexfactory.com/calendar?month=march.2023#detail=130272,,,,Thu,Africa/Lagos
+16/03/2023,02:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=136808,0.30%,,0.00%,Thu,Africa/Lagos
+16/03/2023,05:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=128992,-5.3%,-4.6%,-4.6%,Thu,Africa/Lagos
+16/03/2023,09:00,CHF,yellow,SECO Economic Forecasts,https://www.forexfactory.com/calendar?month=march.2023#detail=129622,,,,Thu,Africa/Lagos
+16/03/2023,10:40,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=133947,3.36|1.6,,3.77|1.9,Thu,Africa/Lagos
+16/03/2023,13:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132377,2.4%,3.0%,-0.8%,Thu,Africa/Lagos
+16/03/2023,13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2023#detail=130210,192K,205K,212K,Thu,Africa/Lagos
+16/03/2023,13:30,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2023#detail=130106,-23.2,-14.7,-24.3,Thu,Africa/Lagos
+16/03/2023,13:30,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=march.2023#detail=129939,1.52M,1.34M,1.34M,Thu,Africa/Lagos
+16/03/2023,13:30,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=march.2023#detail=129940,1.45M,1.32M,1.32M,Thu,Africa/Lagos
+16/03/2023,13:30,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129648,-0.1%,-0.2%,-0.4%,Thu,Africa/Lagos
+16/03/2023,14:15,EUR,red,Main Refinancing Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=132439,3.50%,3.50%,3.00%,Thu,Africa/Lagos
+16/03/2023,14:15,EUR,red,Monetary Policy Statement,https://www.forexfactory.com/calendar?month=march.2023#detail=132440,,,,Thu,Africa/Lagos
+16/03/2023,14:45,EUR,red,ECB Press Conference,https://www.forexfactory.com/calendar?month=march.2023#detail=132438,,,,Thu,Africa/Lagos
+16/03/2023,15:00,USD,orange,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133967,,,,Thu,Africa/Lagos
+16/03/2023,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2023#detail=128437,-58B,-62B,-84B,Thu,Africa/Lagos
+17/03/2023,05:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129025,0.9%,0.5%,-0.4%,Fri,Africa/Lagos
+17/03/2023,08:25,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=march.2023#detail=131567,6.1%,,14.5%,Fri,Africa/Lagos
+17/03/2023,10:00,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=129302,-4.19B,1.50B,1.36B,Fri,Africa/Lagos
+17/03/2023,10:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2023#detail=133267,3.9%,,4.8%,Fri,Africa/Lagos
+17/03/2023,11:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132651,5.6%,5.6%,5.6%,Fri,Africa/Lagos
+17/03/2023,11:00,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132652,8.5%,8.5%,8.6%,Fri,Africa/Lagos
+17/03/2023,13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=march.2023#detail=132543,4.21B,14.25B,21.22B,Fri,Africa/Lagos
+17/03/2023,13:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132602,-0.8%,-0.3%,0.3%,Fri,Africa/Lagos
+17/03/2023,13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132601,-0.4%,-0.2%,-0.2%,Fri,Africa/Lagos
+17/03/2023,14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=129607,78.0%,78.5%,78.0%,Fri,Africa/Lagos
+17/03/2023,14:15,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129588,0.0%,0.2%,0.3%,Fri,Africa/Lagos
+17/03/2023,15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2023#detail=130412,63.4,66.9,67.0,Fri,Africa/Lagos
+17/03/2023,15:00,USD,orange,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2023#detail=130411,3.8%,,4.1%,Fri,Africa/Lagos
+17/03/2023,15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131428,-0.3%,-0.3%,-0.3%,Fri,Africa/Lagos
+19/03/2023,21:00,USD,red,Fed Announcement,https://www.forexfactory.com/calendar?month=march.2023#detail=133969,,,,Sun,Africa/Lagos
+19/03/2023,22:05,AUD,yellow,RBA Assist Gov Kent Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133960,,,,Sun,Africa/Lagos
+19/03/2023,23:50,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=march.2023#detail=128132,,,,Sun,Africa/Lagos
+20/03/2023,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133286,0.8%,,0.0%,Mon,Africa/Lagos
+20/03/2023,01:15,CNY,orange,1-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=134400,3.65%,3.65%,3.65%,Mon,Africa/Lagos
+20/03/2023,01:15,CNY,orange,5-y Loan Prime Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=134348,4.30%,4.30%,4.30%,Mon,Africa/Lagos
+20/03/2023,07:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132117,-0.3%,-1.3%,-1.0%,Mon,Africa/Lagos
+20/03/2023,10:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=132728,-11.3B,-17.3B,-13.4B,Mon,Africa/Lagos
+20/03/2023,11:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=march.2023#detail=131707,,,,Mon,Africa/Lagos
+20/03/2023,14:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133970,,,,Mon,Africa/Lagos
+20/03/2023,21:45,NZD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=130913,-714M,-1450M,-2113M,Mon,Africa/Lagos
+21/03/2023,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=march.2023#detail=133652,,,,Tue,Africa/Lagos
+21/03/2023,00:30,AUD,orange,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=march.2023#detail=130305,,,,Tue,Africa/Lagos
+21/03/2023,02:24,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=131196,25.6%,,18.1%,Tue,Africa/Lagos
+21/03/2023,07:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=131357,3.31B,3.45B,4.85B,Tue,Africa/Lagos
+21/03/2023,07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=march.2023#detail=133577,15.9B,10.1B,-9.1B,Tue,Africa/Lagos
+21/03/2023,10:00,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=march.2023#detail=132083,13.0,14.9,28.1,Tue,Africa/Lagos
+21/03/2023,10:00,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=march.2023#detail=132082,10.0,16.0,29.7,Tue,Africa/Lagos
+21/03/2023,10:02,GBP,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=133968,3.86|2.7,,3.41|2.1,Tue,Africa/Lagos
+21/03/2023,12:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132317,0.4%,0.5%,0.5%,Tue,Africa/Lagos
+21/03/2023,12:30,CAD,red,Median CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132313,4.9%,4.8%,5.0%,Tue,Africa/Lagos
+21/03/2023,12:30,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132314,4.8%,4.9%,5.1%,Tue,Africa/Lagos
+21/03/2023,12:30,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132315,6.4%,6.5%,6.6%,Tue,Africa/Lagos
+21/03/2023,12:30,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133961,,,,Tue,Africa/Lagos
+21/03/2023,12:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132316,0.5%,,0.3%,Tue,Africa/Lagos
+21/03/2023,14:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=march.2023#detail=131260,4.58M,4.19M,4.00M,Tue,Africa/Lagos
+21/03/2023,14:00,USD,orange,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133971,,,,Tue,Africa/Lagos
+21/03/2023,14:18,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=march.2023#detail=128737,-2.6%,,-0.7%,Tue,Africa/Lagos
+21/03/2023,20:00,NZD,yellow,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2023#detail=131242,77.7,,75.6,Tue,Africa/Lagos
+21/03/2023,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=march.2023#detail=130159,,,,Tue,Africa/Lagos
+21/03/2023,23:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131157,-0.1%,,-0.1%,Tue,Africa/Lagos
+22/03/2023,07:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=133394,10.4%,9.9%,10.1%,Wed,Africa/Lagos
+22/03/2023,07:00,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=133395,6.2%,5.7%,5.8%,Wed,Africa/Lagos
+22/03/2023,07:00,GBP,yellow,PPI Input m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133398,-0.1%,-0.2%,0.4%,Wed,Africa/Lagos
+22/03/2023,07:00,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133397,-0.3%,0.1%,0.5%,Wed,Africa/Lagos
+22/03/2023,07:00,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=133396,13.8%,13.3%,13.4%,Wed,Africa/Lagos
+22/03/2023,08:45,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133962,,,,Wed,Africa/Lagos
+22/03/2023,09:02,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=march.2023#detail=132631,17.1B,16.5B,13.3B,Wed,Africa/Lagos
+22/03/2023,09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=133399,6.3%,7.1%,9.3%,Wed,Africa/Lagos
+22/03/2023,10:32,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=131673,2.32|1.4,,2.56|2.0,Wed,Africa/Lagos
+22/03/2023,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=march.2023#detail=132909,-20,-15,-16,Wed,Africa/Lagos
+22/03/2023,12:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132868,-0.2%,-0.1%,-0.2%,Wed,Africa/Lagos
+22/03/2023,14:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131092,0.0%,,-0.1%,Wed,Africa/Lagos
+22/03/2023,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2023#detail=129406,1.1M,-1.7M,1.6M,Wed,Africa/Lagos
+22/03/2023,17:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133963,,,,Wed,Africa/Lagos
+22/03/2023,17:30,CAD,yellow,BOC Summary of Deliberations,https://www.forexfactory.com/calendar?month=march.2023#detail=133862,,,,Wed,Africa/Lagos
+22/03/2023,18:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=128394,5.00%,5.00%,4.75%,Wed,Africa/Lagos
+22/03/2023,18:00,USD,red,FOMC Economic Projections,https://www.forexfactory.com/calendar?month=march.2023#detail=128409,,,,Wed,Africa/Lagos
+22/03/2023,18:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=march.2023#detail=128402,,,,Wed,Africa/Lagos
+22/03/2023,18:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=march.2023#detail=128414,,,,Wed,Africa/Lagos
+22/03/2023,18:30,USD,orange,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133979,,,,Wed,Africa/Lagos
+23/03/2023,08:30,CHF,red,SNB Monetary Policy Assessment,https://www.forexfactory.com/calendar?month=march.2023#detail=131311,,,,Thu,Africa/Lagos
+23/03/2023,08:30,CHF,red,SNB Policy Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=131312,1.50%,1.50%,1.00%,Thu,Africa/Lagos
+23/03/2023,09:00,CHF,red,SNB Press Conference,https://www.forexfactory.com/calendar?month=march.2023#detail=131313,,,,Thu,Africa/Lagos
+23/03/2023,12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=march.2023#detail=133231,,,,Thu,Africa/Lagos
+23/03/2023,12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=march.2023#detail=133232,7-0-2,7-0-2,7-0-2,Thu,Africa/Lagos
+23/03/2023,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=133230,4.25%,4.25%,4.00%,Thu,Africa/Lagos
+23/03/2023,12:00,GBP,yellow,BOE Inflation Letter,https://www.forexfactory.com/calendar?month=march.2023#detail=133669,,,,Thu,Africa/Lagos
+23/03/2023,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2023#detail=130211,191K,198K,192K,Thu,Africa/Lagos
+23/03/2023,12:30,USD,yellow,Current Account,https://www.forexfactory.com/calendar?month=march.2023#detail=129774,-207B,-213B,-219B,Thu,Africa/Lagos
+23/03/2023,14:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133981,,,,Thu,Africa/Lagos
+23/03/2023,14:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=march.2023#detail=129925,640K,650K,633K,Thu,Africa/Lagos
+23/03/2023,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2023#detail=128436,-72B,-75B,-58B,Thu,Africa/Lagos
+23/03/2023,14:57,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2023#detail=132171,-19,-18,-19,Thu,Africa/Lagos
+23/03/2023,15:00,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133964,,,,Thu,Africa/Lagos
+23/03/2023,19:00,USD,orange,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133987,,,,Thu,Africa/Lagos
+23/03/2023,22:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=131825,48.7,,50.5,Thu,Africa/Lagos
+23/03/2023,22:00,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=131837,48.2,,50.7,Thu,Africa/Lagos
+23/03/2023,23:30,JPY,orange,National Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128846,3.1%,3.1%,4.2%,Thu,Africa/Lagos
+24/03/2023,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2023#detail=133274,-36,-35,-38,Fri,Africa/Lagos
+24/03/2023,00:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=128822,48.6,48.2,47.7,Fri,Africa/Lagos
+24/03/2023,07:00,GBP,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133565,1.2%,0.2%,0.9%,Fri,Africa/Lagos
+24/03/2023,08:15,EUR,red,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=131982,47.7,48.1,47.4,Fri,Africa/Lagos
+24/03/2023,08:15,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=131994,55.5,52.4,53.1,Fri,Africa/Lagos
+24/03/2023,08:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=132006,44.4,47.1,46.3,Fri,Africa/Lagos
+24/03/2023,08:30,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=132018,53.9,51.0,50.9,Fri,Africa/Lagos
+24/03/2023,09:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=132030,47.1,48.9,48.5,Fri,Africa/Lagos
+24/03/2023,09:00,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=132059,55.6,52.6,52.7,Fri,Africa/Lagos
+24/03/2023,09:15,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133965,,,,Fri,Africa/Lagos
+24/03/2023,09:30,GBP,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=132058,48.0,49.8,49.3,Fri,Africa/Lagos
+24/03/2023,09:30,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=132067,52.8,53.1,53.5,Fri,Africa/Lagos
+24/03/2023,All Day,EUR,red,Euro Summit,https://www.forexfactory.com/calendar?month=march.2023#detail=133994,,,,Fri,Africa/Lagos
+24/03/2023,12:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132833,0.9%,0.6%,-0.7%,Fri,Africa/Lagos
+24/03/2023,12:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132834,1.4%,0.7%,0.0%,Fri,Africa/Lagos
+24/03/2023,12:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129880,0.0%,0.2%,0.8%,Fri,Africa/Lagos
+24/03/2023,12:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129879,-1.0%,0.4%,-5.0%,Fri,Africa/Lagos
+24/03/2023,13:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=132231,49.3,47.0,47.3,Fri,Africa/Lagos
+24/03/2023,13:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=132243,53.8,50.3,50.6,Fri,Africa/Lagos
+24/03/2023,14:00,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=march.2023#detail=133950,-7.6,-12.5,-12.8,Fri,Africa/Lagos
+24/03/2023,14:30,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133966,,,,Fri,Africa/Lagos
+26/03/2023,01:00,CHF,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2023#detail=133610,,,,Sun,Africa/Lagos
+26/03/2023,01:00,EUR,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2023#detail=133609,,,,Sun,Africa/Lagos
+26/03/2023,01:00,GBP,gray,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=march.2023#detail=133607,,,,Sun,Africa/Lagos
+26/03/2023,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128889,1.8%,1.8%,1.6%,Sun,Africa/Lagos
+27/03/2023,08:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=march.2023#detail=131698,93.3,91.0,91.1,Mon,Africa/Lagos
+27/03/2023,08:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132494,2.9%,3.2%,3.5%,Mon,Africa/Lagos
+27/03/2023,08:00,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132495,3.2%,3.6%,3.6%,Mon,Africa/Lagos
+27/03/2023,09:30,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133988,,,,Mon,Africa/Lagos
+27/03/2023,10:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=march.2023#detail=132897,1,-2,2,Mon,Africa/Lagos
+27/03/2023,17:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133972,,,,Mon,Africa/Lagos
+27/03/2023,21:00,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133998,,,,Mon,Africa/Lagos
+27/03/2023,23:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=133370,8.9%,,8.4%,Mon,Africa/Lagos
+28/03/2023,00:30,AUD,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133780,0.2%,0.2%,1.8%,Tue,Africa/Lagos
+28/03/2023,04:00,JPY,orange,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133996,,,,Tue,Africa/Lagos
+28/03/2023,05:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128858,2.7%,3.0%,3.1%,Tue,Africa/Lagos
+28/03/2023,08:45,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133973,,,,Tue,Africa/Lagos
+28/03/2023,12:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=march.2023#detail=130128,-91.6B,-90.2B,-91.1B,Tue,Africa/Lagos
+28/03/2023,12:30,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=130129,0.2%,-0.1%,-0.4%,Tue,Africa/Lagos
+28/03/2023,13:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133997,,,,Tue,Africa/Lagos
+28/03/2023,13:00,EUR,yellow,German Buba President Nagel Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133989,,,,Tue,Africa/Lagos
+28/03/2023,13:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129576,0.2%,-0.2%,-0.1%,Tue,Africa/Lagos
+28/03/2023,13:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=130030,2.5%,2.6%,4.6%,Tue,Africa/Lagos
+28/03/2023,13:59,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=march.2023#detail=130093,-5,-10,-16,Tue,Africa/Lagos
+28/03/2023,14:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=march.2023#detail=130522,104.2,101.0,103.4,Tue,Africa/Lagos
+28/03/2023,14:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133999,,,,Tue,Africa/Lagos
+28/03/2023,20:00,CAD,yellow,Annual Budget Release,https://www.forexfactory.com/calendar?month=march.2023#detail=130777,,,,Tue,Africa/Lagos
+28/03/2023,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=march.2023#detail=130160,,,,Tue,Africa/Lagos
+29/03/2023,00:30,AUD,red,CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132782,6.8%,7.2%,7.4%,Wed,Africa/Lagos
+29/03/2023,06:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=march.2023#detail=131721,-29.5,-29.5,-30.6,Wed,Africa/Lagos
+29/03/2023,08:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=march.2023#detail=131333,-41.3,,-12.3,Wed,Africa/Lagos
+29/03/2023,08:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133203,-0.4%,0.9%,1.2%,Wed,Africa/Lagos
+29/03/2023,08:32,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=march.2023#detail=133205,44K,41K,40K,Wed,Africa/Lagos
+29/03/2023,08:32,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133204,2.2B,3.7B,3.7B,Wed,Africa/Lagos
+29/03/2023,09:30,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=march.2023#detail=133260,,,,Wed,Africa/Lagos
+29/03/2023,09:30,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=march.2023#detail=133259,,,,Wed,Africa/Lagos
+29/03/2023,13:00,CHF,yellow,SNB Quarterly Bulletin,https://www.forexfactory.com/calendar?month=march.2023#detail=131323,,,,Wed,Africa/Lagos
+29/03/2023,13:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131586,-0.6%,,0.0%,Wed,Africa/Lagos
+29/03/2023,14:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131248,0.8%,-2.9%,8.1%,Wed,Africa/Lagos
+29/03/2023,14:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133978,,,,Wed,Africa/Lagos
+29/03/2023,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=march.2023#detail=129407,-7.5M,1.8M,1.1M,Wed,Africa/Lagos
+29/03/2023,16:30,CAD,yellow,Gov Council Member Gravelle Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133984,,,,Wed,Africa/Lagos
+29/03/2023,18:55,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133974,,,,Wed,Africa/Lagos
+29/03/2023,21:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=130962,-9.0%,,-5.2%,Wed,Africa/Lagos
+30/03/2023,00:00,NZD,yellow,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=march.2023#detail=131184,-43.4,,-43.3,Thu,Africa/Lagos
+30/03/2023,All Day,EUR,red,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131773,0.8%,0.7%,0.8%,Thu,Africa/Lagos
+30/03/2023,07:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=march.2023#detail=131381,98.2,100.4,98.9,Thu,Africa/Lagos
+30/03/2023,07:00,EUR,orange,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=129367,3.3%,3.9%,6.0%,Thu,Africa/Lagos
+30/03/2023,08:00,EUR,yellow,ECB Economic Bulletin,https://www.forexfactory.com/calendar?month=march.2023#detail=132459,,,,Thu,Africa/Lagos
+30/03/2023,08:00,EUR,yellow,Italian Monthly Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=129251,8.0%,7.9%,8.0%,Thu,Africa/Lagos
+30/03/2023,09:10,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=march.2023#detail=129064,4.12|1.4,,4.34|1.3,Thu,Africa/Lagos
+30/03/2023,12:30,USD,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=129795,2.6%,2.7%,2.7%,Thu,Africa/Lagos
+30/03/2023,12:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=march.2023#detail=130212,198K,196K,191K,Thu,Africa/Lagos
+30/03/2023,12:30,USD,orange,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=129796,3.9%,3.9%,3.9%,Thu,Africa/Lagos
+30/03/2023,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=march.2023#detail=128435,-47B,-55B,-72B,Thu,Africa/Lagos
+30/03/2023,16:00,CHF,orange,Gov Board Member Maechler Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133975,,,,Thu,Africa/Lagos
+30/03/2023,17:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=134005,,,,Thu,Africa/Lagos
+30/03/2023,19:45,USD,orange,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133986,,,,Thu,Africa/Lagos
+30/03/2023,23:30,JPY,orange,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128834,3.2%,3.1%,3.3%,Thu,Africa/Lagos
+30/03/2023,23:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=128811,2.6%,2.4%,2.4%,Thu,Africa/Lagos
+30/03/2023,23:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=128968,4.5%,2.8%,-5.3%,Thu,Africa/Lagos
+30/03/2023,23:50,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128980,6.6%,5.9%,5.0%,Thu,Africa/Lagos
+31/03/2023,00:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131080,0.3%,0.4%,0.4%,Fri,Africa/Lagos
+31/03/2023,01:30,CNY,orange,Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=131447,51.9,51.6,52.6,Fri,Africa/Lagos
+31/03/2023,01:30,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=131448,58.2,55.0,56.3,Fri,Africa/Lagos
+31/03/2023,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=128198,-0.3%,-0.5%,6.6%,Fri,Africa/Lagos
+31/03/2023,06:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131757,-2.4%,-1.0%,-1.2%,Fri,Africa/Lagos
+31/03/2023,06:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131785,-1.3%,0.5%,0.1%,Fri,Africa/Lagos
+31/03/2023,06:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=march.2023#detail=133588,-2.5B,-17.5B,-12.7B,Fri,Africa/Lagos
+31/03/2023,06:00,GBP,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=133587,0.1%,0.0%,0.0%,Fri,Africa/Lagos
+31/03/2023,06:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=133310,-0.8%,-0.3%,-0.5%,Fri,Africa/Lagos
+31/03/2023,06:00,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=march.2023#detail=133589,-0.2%,4.8%,4.8%,Fri,Africa/Lagos
+31/03/2023,06:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=131369,0.3%,-1.0%,-2.2%,Fri,Africa/Lagos
+31/03/2023,06:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131953,-0.8%,0.0%,1.7%,Fri,Africa/Lagos
+31/03/2023,06:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=131917,0.8%,0.6%,1.0%,Fri,Africa/Lagos
+31/03/2023,07:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=march.2023#detail=131733,16K,1K,6K,Fri,Africa/Lagos
+31/03/2023,09:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132653,5.7%,5.7%,5.6%,Fri,Africa/Lagos
+31/03/2023,09:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=march.2023#detail=132654,6.9%,7.1%,8.5%,Fri,Africa/Lagos
+31/03/2023,09:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129313,-0.3%,0.0%,0.2%,Fri,Africa/Lagos
+31/03/2023,09:00,EUR,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=march.2023#detail=132741,6.6%,6.6%,6.6%,Fri,Africa/Lagos
+31/03/2023,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=132555,0.5%,0.4%,-0.1%,Fri,Africa/Lagos
+31/03/2023,12:30,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129817,0.3%,0.4%,0.5%,Fri,Africa/Lagos
+31/03/2023,12:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129831,0.3%,0.2%,0.6%,Fri,Africa/Lagos
+31/03/2023,12:30,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=march.2023#detail=129832,0.2%,0.3%,2.0%,Fri,Africa/Lagos
+31/03/2023,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=march.2023#detail=130066,43.8,43.1,43.6,Fri,Africa/Lagos
+31/03/2023,14:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=march.2023#detail=130413,62.0,63.1,63.4,Fri,Africa/Lagos
+31/03/2023,14:00,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=march.2023#detail=130414,3.6%,,3.8%,Fri,Africa/Lagos
+31/03/2023,15:00,EUR,orange,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133977,,,,Fri,Africa/Lagos
+31/03/2023,19:05,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=133976,,,,Fri,Africa/Lagos
+31/03/2023,21:45,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=march.2023#detail=134006,,,,Fri,Africa/Lagos

@@ -1,0 +1,423 @@
+date,time,currency,impact,event,detail,actual,forecast,previous,day,timezone
+01/05/2019,00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=105663,0.4%,,0.9%,Wed,Africa/Lagos
+01/05/2019,All Day,CNY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107478,,,,Wed,Africa/Lagos
+01/05/2019,06:55,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=105580,0.4%,0.1%,0.2%,Wed,Africa/Lagos
+01/05/2019,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107261,,,,Wed,Africa/Lagos
+01/05/2019,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107274,,,,Wed,Africa/Lagos
+01/05/2019,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107305,,,,Wed,Africa/Lagos
+01/05/2019,All Day,EUR,gray,Italian Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107292,,,,Wed,Africa/Lagos
+01/05/2019,07:30,AUD,yellow,Commodity Prices y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=104236,14.4%,,10.2%,Wed,Africa/Lagos
+01/05/2019,09:30,GBP,orange,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100315,53.1,53.2,55.1,Wed,Africa/Lagos
+01/05/2019,09:30,GBP,orange,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=101848,4.7B,4.5B,4.5B,Wed,Africa/Lagos
+01/05/2019,09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=101844,-0.5%,0.3%,0.3%,Wed,Africa/Lagos
+01/05/2019,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=may.2019#detail=101846,62K,64K,65K,Wed,Africa/Lagos
+01/05/2019,13:15,USD,orange,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=may.2019#detail=102506,275K,181K,151K,Wed,Africa/Lagos
+01/05/2019,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=105380,49.7,,50.5,Wed,Africa/Lagos
+01/05/2019,14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100318,52.6,52.4,52.4,Wed,Africa/Lagos
+01/05/2019,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=102146,52.8,55.0,55.3,Wed,Africa/Lagos
+01/05/2019,15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102705,-0.9%,0.3%,0.7%,Wed,Africa/Lagos
+01/05/2019,15:00,USD,yellow,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=may.2019#detail=102180,50.0,54.5,54.3,Wed,Africa/Lagos
+01/05/2019,All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=may.2019#detail=110354,16.4M,17.0M,17.5M,Wed,Africa/Lagos
+01/05/2019,15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2019#detail=99939,9.9M,1.3M,5.5M,Wed,Africa/Lagos
+01/05/2019,19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=101916,2.50%,2.50%,2.50%,Wed,Africa/Lagos
+01/05/2019,19:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=may.2019#detail=101915,,,,Wed,Africa/Lagos
+01/05/2019,19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=may.2019#detail=108985,,,,Wed,Africa/Lagos
+01/05/2019,21:15,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110251,,,,Wed,Africa/Lagos
+01/05/2019,23:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104639,-6.9%,,1.7%,Wed,Africa/Lagos
+02/05/2019,02:50,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104338,-0.1%,,1.0%,Thu,Africa/Lagos
+02/05/2019,07:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106342,-0.2%,-0.5%,0.5%,Thu,Africa/Lagos
+02/05/2019,07:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=105123,-0.7%,-0.4%,0.0%,Thu,Africa/Lagos
+02/05/2019,08:15,EUR,yellow,Spanish Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100317,51.8,51.2,50.9,Thu,Africa/Lagos
+02/05/2019,08:30,CHF,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=104890,48.5,51.0,50.3,Thu,Africa/Lagos
+02/05/2019,08:45,EUR,yellow,Italian Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100311,49.1,47.8,47.4,Thu,Africa/Lagos
+02/05/2019,08:50,EUR,yellow,French Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100312,50.0,49.6,49.6,Thu,Africa/Lagos
+02/05/2019,08:55,EUR,yellow,German Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100313,44.4,44.5,44.5,Thu,Africa/Lagos
+02/05/2019,09:00,EUR,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100310,47.9,47.8,47.8,Thu,Africa/Lagos
+02/05/2019,09:30,GBP,yellow,Construction PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=103580,50.5,50.4,49.7,Thu,Africa/Lagos
+02/05/2019,10:07,EUR,yellow,French 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2019#detail=101005,0.37|3.1,,0.39|2.1,Thu,Africa/Lagos
+02/05/2019,12:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=may.2019#detail=103642,,,,Thu,Africa/Lagos
+02/05/2019,12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=may.2019#detail=103643,,,,Thu,Africa/Lagos
+02/05/2019,12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=may.2019#detail=103651,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+02/05/2019,12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=103649,0.75%,0.75%,0.75%,Thu,Africa/Lagos
+02/05/2019,12:00,GBP,orange,Asset Purchase Facility,https://www.forexfactory.com/calendar?month=may.2019#detail=103644,435B,435B,435B,Thu,Africa/Lagos
+02/05/2019,12:00,GBP,orange,MPC Asset Purchase Facility Votes,https://www.forexfactory.com/calendar?month=may.2019#detail=103647,0-0-9,0-0-9,0-0-9,Thu,Africa/Lagos
+02/05/2019,12:30,GBP,red,BOE Gov Carney Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=109014,,,,Thu,Africa/Lagos
+02/05/2019,12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=102482,10.9%,,0.4%,Thu,Africa/Lagos
+02/05/2019,13:30,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=102420,3.6%,0.9%,1.9%,Thu,Africa/Lagos
+02/05/2019,13:30,USD,yellow,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=102423,-0.9%,2.4%,2.0%,Thu,Africa/Lagos
+02/05/2019,13:30,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2019#detail=99711,230K,220K,230K,Thu,Africa/Lagos
+02/05/2019,15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102799,1.9%,1.0%,-0.3%,Thu,Africa/Lagos
+02/05/2019,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2019#detail=99718,123B,107B,92B,Thu,Africa/Lagos
+02/05/2019,23:30,AUD,yellow,AIG Services Index,https://www.forexfactory.com/calendar?month=may.2019#detail=103851,46.5,,44.8,Thu,Africa/Lagos
+03/05/2019,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107241,,,,Fri,Africa/Lagos
+03/05/2019,02:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104290,-15.5%,-12.5%,19.1%,Fri,Africa/Lagos
+03/05/2019,06:45,CHF,yellow,SECO Consumer Climate,https://www.forexfactory.com/calendar?month=may.2019#detail=105006,-6,-3,-4,Fri,Africa/Lagos
+03/05/2019,07:30,CHF,yellow,CPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=105046,0.2%,0.2%,0.5%,Fri,Africa/Lagos
+03/05/2019,09:30,GBP,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100461,50.4,50.4,48.9,Fri,Africa/Lagos
+03/05/2019,10:00,EUR,orange,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=103203,1.2%,1.0%,0.8%,Fri,Africa/Lagos
+03/05/2019,10:00,EUR,orange,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=103206,1.7%,1.6%,1.4%,Fri,Africa/Lagos
+03/05/2019,10:00,EUR,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=103208,-0.1%,0.0%,0.1%,Fri,Africa/Lagos
+03/05/2019,13:30,USD,red,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102279,0.2%,0.3%,0.2%,Fri,Africa/Lagos
+03/05/2019,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=may.2019#detail=102276,263K,181K,189K,Fri,Africa/Lagos
+03/05/2019,13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=102277,3.6%,3.8%,3.8%,Fri,Africa/Lagos
+03/05/2019,13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=110245,-71.4B,-73.0B,-72.0B,Fri,Africa/Lagos
+03/05/2019,13:30,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=110246,0.0%,0.2%,0.2%,Fri,Africa/Lagos
+03/05/2019,14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100464,53.0,52.9,52.9,Fri,Africa/Lagos
+03/05/2019,15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=105770,55.5,57.2,56.1,Fri,Africa/Lagos
+03/05/2019,15:15,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110254,,,,Fri,Africa/Lagos
+03/05/2019,16:30,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110253,,,,Fri,Africa/Lagos
+03/05/2019,18:45,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110249,,,,Fri,Africa/Lagos
+03/05/2019,20:00,USD,orange,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110255,,,,Fri,Africa/Lagos
+04/05/2019,00:45,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110250,,,,Sat,Africa/Lagos
+06/05/2019,All Day,JPY,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107242,,,,Mon,Africa/Lagos
+06/05/2019,01:00,AUD,yellow,MI Inflation Gauge m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104261,0.2%,,0.4%,Mon,Africa/Lagos
+06/05/2019,01:00,NZD,yellow,ANZ Commodity Prices m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104752,2.5%,,4.1%,Mon,Africa/Lagos
+06/05/2019,01:30,AUD,yellow,ANZ Job Advertisements m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104051,-0.1%,,-1.7%,Mon,Africa/Lagos
+06/05/2019,01:45,CNY,red,RatingDog Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=107957,54.5,54.3,54.4,Mon,Africa/Lagos
+06/05/2019,07:00,EUR,yellow,Spanish Unemployment Change,https://www.forexfactory.com/calendar?month=may.2019#detail=100751,-91.5K,-85.0K,-34.0K,Mon,Africa/Lagos
+06/05/2019,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107224,,,,Mon,Africa/Lagos
+06/05/2019,07:15,EUR,yellow,Spanish Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100460,53.1,54.9,56.8,Mon,Africa/Lagos
+06/05/2019,07:45,EUR,yellow,Italian Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100459,50.4,54.4,53.1,Mon,Africa/Lagos
+06/05/2019,07:50,EUR,yellow,French Final Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100455,50.5,50.5,50.5,Mon,Africa/Lagos
+06/05/2019,07:55,EUR,yellow,German Final Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100457,55.7,55.6,55.6,Mon,Africa/Lagos
+06/05/2019,08:00,EUR,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=100453,52.8,52.5,52.5,Mon,Africa/Lagos
+06/05/2019,08:30,EUR,yellow,Sentix Investor Confidence,https://www.forexfactory.com/calendar?month=may.2019#detail=103084,5.3,1.1,-0.3,Mon,Africa/Lagos
+06/05/2019,09:00,EUR,yellow,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=103210,0.0%,-0.1%,0.5%,Mon,Africa/Lagos
+06/05/2019,17:45,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110261,,,,Mon,Africa/Lagos
+06/05/2019,18:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=may.2019#detail=101767,,,,Mon,Africa/Lagos
+06/05/2019,22:30,AUD,yellow,AIG Construction Index,https://www.forexfactory.com/calendar?month=may.2019#detail=103852,42.6,,45.6,Mon,Africa/Lagos
+07/05/2019,00:30,JPY,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=106978,50.2,49.5,49.5,Tue,Africa/Lagos
+07/05/2019,01:30,AUD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104162,0.3%,0.2%,0.9%,Tue,Africa/Lagos
+07/05/2019,01:30,AUD,orange,Goods Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=104190,4.95B,4.49B,5.14B,Tue,Africa/Lagos
+07/05/2019,03:00,NZD,red,Inflation Expectations q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=104489,2.01%,,2.02%,Tue,Africa/Lagos
+07/05/2019,04:30,AUD,red,Cash Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=103918,1.50%,1.25%,1.50%,Tue,Africa/Lagos
+07/05/2019,04:30,AUD,red,RBA Rate Statement,https://www.forexfactory.com/calendar?month=may.2019#detail=103916,,,,Tue,Africa/Lagos
+07/05/2019,06:00,EUR,yellow,German Factory Orders m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106343,0.6%,1.6%,-4.0%,Tue,Africa/Lagos
+07/05/2019,06:45,EUR,yellow,French Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=101046,-5.3B,-4.5B,-4.1B,Tue,Africa/Lagos
+07/05/2019,07:00,CHF,yellow,Foreign Currency Reserves,https://www.forexfactory.com/calendar?month=may.2019#detail=104924,772B,,756B,Tue,Africa/Lagos
+07/05/2019,08:00,GBP,orange,MPC Member Cunliffe Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110262,,,,Tue,Africa/Lagos
+07/05/2019,11:50,EUR,orange,EU Economic Forecasts,https://www.forexfactory.com/calendar?month=may.2019#detail=103104,,,,Tue,Africa/Lagos
+07/05/2019,14:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=105355,55.9,51.5,54.3,Tue,Africa/Lagos
+07/05/2019,14:00,USD,yellow,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=may.2019#detail=102456,7.49M,7.35M,7.14M,Tue,Africa/Lagos
+07/05/2019,14:03,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=may.2019#detail=101995,58.6,54.5,54.2,Tue,Africa/Lagos
+07/05/2019,14:26,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=may.2019#detail=104777,0.4%,,0.5%,Tue,Africa/Lagos
+07/05/2019,15:35,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110257,,,,Tue,Africa/Lagos
+07/05/2019,16:30,GBP,orange,MPC Member Haldane Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110264,,,,Tue,Africa/Lagos
+07/05/2019,19:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102685,10.3B,17.0B,15.5B,Tue,Africa/Lagos
+07/05/2019,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=may.2019#detail=100187,,,,Tue,Africa/Lagos
+07/05/2019,23:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=105665,3.7%,2.4%,-1.1%,Tue,Africa/Lagos
+07/05/2019,23:50,JPY,yellow,Monetary Base y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=106667,3.1%,3.6%,3.8%,Tue,Africa/Lagos
+07/05/2019,23:50,JPY,yellow,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=may.2019#detail=106650,,,,Tue,Africa/Lagos
+08/05/2019,02:00,NZD,red,Official Cash Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=104559,1.50%,1.75%,1.75%,Wed,Africa/Lagos
+08/05/2019,02:00,NZD,red,RBNZ Monetary Policy Statement,https://www.forexfactory.com/calendar?month=may.2019#detail=104563,,,,Wed,Africa/Lagos
+08/05/2019,02:00,NZD,red,RBNZ Rate Statement,https://www.forexfactory.com/calendar?month=may.2019#detail=104566,,,,Wed,Africa/Lagos
+08/05/2019,03:00,NZD,red,RBNZ Press Conference,https://www.forexfactory.com/calendar?month=may.2019#detail=104561,,,,Wed,Africa/Lagos
+08/05/2019,03:03,CNY,red,Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=108137,94B,235B,221B,Wed,Africa/Lagos
+08/05/2019,03:04,CNY,yellow,USD-Denominated Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=108139,13.8B,33.7B,32.6B,Wed,Africa/Lagos
+08/05/2019,03:35,JPY,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2019#detail=110256,-0.06|4.4,,-0.06|5.1,Wed,Africa/Lagos
+08/05/2019,05:45,CHF,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=105016,2.4%,2.4%,2.4%,Wed,Africa/Lagos
+08/05/2019,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107275,,,,Wed,Africa/Lagos
+08/05/2019,06:00,EUR,yellow,German Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106346,0.5%,-0.5%,0.4%,Wed,Africa/Lagos
+08/05/2019,07:30,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=105517,1.1%,0.3%,-1.2%,Wed,Africa/Lagos
+08/05/2019,08:15,GBP,orange,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110263,,,,Wed,Africa/Lagos
+08/05/2019,11:34,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110266,,,,Wed,Africa/Lagos
+08/05/2019,12:13,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=may.2019#detail=105448,235K,194K,192K,Wed,Africa/Lagos
+08/05/2019,12:30,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110258,,,,Wed,Africa/Lagos
+08/05/2019,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2019#detail=99970,-4.0M,1.1M,9.9M,Wed,Africa/Lagos
+08/05/2019,17:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2019#detail=102102,2.48|2.2,,2.47|2.6,Wed,Africa/Lagos
+08/05/2019,23:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=105632,-23%,-22%,-23%,Wed,Africa/Lagos
+09/05/2019,01:30,CNY,orange,CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107959,2.5%,2.5%,2.3%,Thu,Africa/Lagos
+09/05/2019,01:30,CNY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107960,0.9%,0.6%,0.4%,Thu,Africa/Lagos
+09/05/2019,02:00,CNY,orange,New Loans,https://www.forexfactory.com/calendar?month=may.2019#detail=107962,1020B,1175B,1690B,Thu,Africa/Lagos
+09/05/2019,02:00,CNY,yellow,M2 Money Supply y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107964,8.5%,8.5%,8.6%,Thu,Africa/Lagos
+09/05/2019,05:04,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2019#detail=107052,40.4,40.3,40.5,Thu,Africa/Lagos
+09/05/2019,08:57,EUR,yellow,Spanish 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2019#detail=100715,0.94|1.4,,1.12|1.3,Thu,Africa/Lagos
+09/05/2019,12:30,CAD,red,Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=108636,-3.2B,-2.4B,-3.4B,Thu,Africa/Lagos
+09/05/2019,12:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108641,0.0%,0.1%,0.0%,Thu,Africa/Lagos
+09/05/2019,12:30,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110259,,,,Thu,Africa/Lagos
+09/05/2019,12:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102289,0.2%,0.2%,0.6%,Thu,Africa/Lagos
+09/05/2019,12:30,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102286,0.1%,0.2%,0.3%,Thu,Africa/Lagos
+09/05/2019,12:30,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=102564,-50.0B,-51.4B,-49.3B,Thu,Africa/Lagos
+09/05/2019,12:30,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2019#detail=99726,228K,215K,230K,Thu,Africa/Lagos
+09/05/2019,14:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=103042,-0.1%,0.0%,0.0%,Thu,Africa/Lagos
+09/05/2019,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2019#detail=99719,85B,88B,123B,Thu,Africa/Lagos
+09/05/2019,17:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2019#detail=102122,2.89|2.2,,2.93|2.3,Thu,Africa/Lagos
+09/05/2019,20:00,USD,yellow,FOMC Financial Stability Report,https://www.forexfactory.com/calendar?month=may.2019#detail=121783,,,,Thu,Africa/Lagos
+09/05/2019,23:30,JPY,yellow,Average Cash Earnings y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107161,-1.9%,-0.5%,-0.7%,Thu,Africa/Lagos
+09/05/2019,23:30,JPY,yellow,Household Spending y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107768,2.1%,1.6%,1.7%,Thu,Africa/Lagos
+09/05/2019,23:50,JPY,yellow,BOJ Summary of Opinions,https://www.forexfactory.com/calendar?month=may.2019#detail=106638,,,,Thu,Africa/Lagos
+10/05/2019,01:30,AUD,red,RBA Monetary Policy Statement,https://www.forexfactory.com/calendar?month=may.2019#detail=103985,,,,Fri,Africa/Lagos
+10/05/2019,06:00,EUR,yellow,German Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=106348,20.0B,19.4B,18.7B,Fri,Africa/Lagos
+10/05/2019,06:45,EUR,yellow,French Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=101107,-0.9%,-0.4%,0.1%,Fri,Africa/Lagos
+10/05/2019,06:45,EUR,yellow,French Prelim Private Payrolls q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=101075,0.3%,0.2%,0.3%,Fri,Africa/Lagos
+10/05/2019,08:00,EUR,yellow,Italian Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=100887,-0.9%,-0.6%,0.8%,Fri,Africa/Lagos
+10/05/2019,08:30,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106088,-0.1%,0.0%,0.2%,Fri,Africa/Lagos
+10/05/2019,08:30,GBP,red,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106082,0.9%,0.1%,1.0%,Fri,Africa/Lagos
+10/05/2019,08:30,GBP,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=106198,0.5%,0.5%,0.2%,Fri,Africa/Lagos
+10/05/2019,08:30,GBP,orange,Prelim Business Investment q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=106205,0.5%,-0.9%,-0.9%,Fri,Africa/Lagos
+10/05/2019,08:30,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106081,-1.9%,-0.8%,0.5%,Fri,Africa/Lagos
+10/05/2019,08:30,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=106090,-13.7B,-13.7B,-14.4B,Fri,Africa/Lagos
+10/05/2019,08:30,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=may.2019#detail=106087,0.3%,0.4%,0.4%,Fri,Africa/Lagos
+10/05/2019,08:30,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106084,0.7%,0.2%,0.6%,Fri,Africa/Lagos
+10/05/2019,09:03,EUR,yellow,Italian Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=100942,-0.3%,0.3%,0.1%,Fri,Africa/Lagos
+10/05/2019,12:23,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=may.2019#detail=105698,0.4%,,0.5%,Fri,Africa/Lagos
+10/05/2019,12:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=may.2019#detail=108637,106.5K,11.7K,-7.2K,Fri,Africa/Lagos
+10/05/2019,12:30,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=108639,5.7%,5.8%,5.8%,Fri,Africa/Lagos
+10/05/2019,12:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108643,2.1%,2.4%,-5.1%,Fri,Africa/Lagos
+10/05/2019,12:30,USD,red,Core CPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102281,0.1%,0.2%,0.1%,Fri,Africa/Lagos
+10/05/2019,12:30,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102284,0.3%,0.4%,0.4%,Fri,Africa/Lagos
+10/05/2019,12:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=128618,2.0%,2.1%,1.9%,Fri,Africa/Lagos
+10/05/2019,12:30,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110260,,,,Fri,Africa/Lagos
+10/05/2019,14:00,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110265,,,,Fri,Africa/Lagos
+10/05/2019,18:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=101744,160.3B,-165.2B,-146.9B,Fri,Africa/Lagos
+12/05/2019,22:45,NZD,yellow,FPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104640,-0.1%,,0.5%,Sun,Africa/Lagos
+13/05/2019,01:30,AUD,yellow,Home Loans m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104315,-2.5%,2.2%,1.4%,Mon,Africa/Lagos
+13/05/2019,05:00,JPY,yellow,Leading Indicators,https://www.forexfactory.com/calendar?month=may.2019#detail=107781,96.3%,96.4%,97.1%,Mon,Africa/Lagos
+13/05/2019,07:00,AUD,orange,RBA Deputy Gov Debelle Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110275,,,,Mon,Africa/Lagos
+13/05/2019,13:10,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110267,,,,Mon,Africa/Lagos
+13/05/2019,21:30,CAD,orange,Gov Council Member Lane Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110273,,,,Mon,Africa/Lagos
+13/05/2019,22:45,NZD,yellow,Visitor Arrivals m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104642,2.5%,,-1.6%,Mon,Africa/Lagos
+13/05/2019,23:50,JPY,yellow,Bank Lending y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=106718,2.4%,2.3%,2.3%,Mon,Africa/Lagos
+13/05/2019,23:54,JPY,yellow,Current Account,https://www.forexfactory.com/calendar?month=may.2019#detail=107757,1.27T,1.71T,1.90T,Mon,Africa/Lagos
+14/05/2019,01:30,AUD,yellow,NAB Business Confidence,https://www.forexfactory.com/calendar?month=may.2019#detail=103808,0,,-1,Tue,Africa/Lagos
+14/05/2019,03:35,JPY,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2019#detail=107092,0.53|4.6,,0.54|4.6,Tue,Africa/Lagos
+14/05/2019,05:00,JPY,yellow,Economy Watchers Sentiment,https://www.forexfactory.com/calendar?month=may.2019#detail=107035,45.3,45.9,44.8,Tue,Africa/Lagos
+14/05/2019,06:00,EUR,yellow,German Final CPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106350,1.0%,1.0%,1.0%,Tue,Africa/Lagos
+14/05/2019,06:00,EUR,yellow,German WPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106355,0.6%,0.4%,0.3%,Tue,Africa/Lagos
+14/05/2019,06:30,CHF,yellow,PPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=105053,0.0%,0.2%,0.3%,Tue,Africa/Lagos
+14/05/2019,07:15,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110268,,,,Tue,Africa/Lagos
+14/05/2019,08:30,GBP,red,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=may.2019#detail=105977,3.2%,3.4%,3.5%,Tue,Africa/Lagos
+14/05/2019,08:30,GBP,orange,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=105982,3.8%,3.9%,3.9%,Tue,Africa/Lagos
+14/05/2019,08:30,GBP,yellow,Claimant Count Change,https://www.forexfactory.com/calendar?month=may.2019#detail=105979,24.7K,24.2K,22.6K,Tue,Africa/Lagos
+14/05/2019,09:00,EUR,orange,German ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=may.2019#detail=101560,-2.1,5.1,3.1,Tue,Africa/Lagos
+14/05/2019,09:00,EUR,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=103211,-0.3%,-0.3%,-0.1%,Tue,Africa/Lagos
+14/05/2019,09:00,EUR,yellow,ZEW Economic Sentiment,https://www.forexfactory.com/calendar?month=may.2019#detail=101557,-1.6,5.0,4.5,Tue,Africa/Lagos
+14/05/2019,09:31,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=may.2019#detail=102206,103.5,102.3,101.8,Tue,Africa/Lagos
+14/05/2019,12:30,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102291,0.2%,0.7%,0.6%,Tue,Africa/Lagos
+14/05/2019,14:00,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=may.2019#detail=102016,4.42%,,4.06%,Tue,Africa/Lagos
+14/05/2019,16:45,USD,orange,FOMC Member George Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110269,,,,Tue,Africa/Lagos
+14/05/2019,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=may.2019#detail=100188,,,,Tue,Africa/Lagos
+14/05/2019,23:50,JPY,yellow,M2 Money Stock y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=106675,2.6%,2.3%,2.4%,Tue,Africa/Lagos
+15/05/2019,00:30,AUD,orange,Westpac Consumer Sentiment,https://www.forexfactory.com/calendar?month=may.2019#detail=104027,0.6%,,1.9%,Wed,Africa/Lagos
+15/05/2019,01:30,AUD,red,Wage Price Index q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=104359,0.5%,0.6%,0.5%,Wed,Africa/Lagos
+15/05/2019,02:00,CNY,orange,Fixed Asset Investment ytd/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107967,6.1%,6.4%,6.3%,Wed,Africa/Lagos
+15/05/2019,02:00,CNY,orange,Industrial Production y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107969,5.4%,6.5%,8.5%,Wed,Africa/Lagos
+15/05/2019,02:00,CNY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107970,7.2%,8.6%,8.7%,Wed,Africa/Lagos
+15/05/2019,02:00,CNY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=107972,5.0%,,5.2%,Wed,Africa/Lagos
+15/05/2019,06:00,EUR,red,German Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=106353,0.4%,0.4%,0.0%,Wed,Africa/Lagos
+15/05/2019,06:00,JPY,yellow,Prelim Machine Tool Orders y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107816,-33.4%,,-28.5%,Wed,Africa/Lagos
+15/05/2019,06:45,EUR,yellow,French Final CPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=101165,0.3%,0.2%,0.2%,Wed,Africa/Lagos
+15/05/2019,09:00,EUR,orange,Flash GDP q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=103214,0.4%,0.4%,0.4%,Wed,Africa/Lagos
+15/05/2019,09:00,EUR,yellow,Flash Employment Change q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=105402,0.3%,0.2%,0.3%,Wed,Africa/Lagos
+15/05/2019,09:35,EUR,yellow,German 30-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2019#detail=101441,0.53|1.8,,0.68|2.1,Wed,Africa/Lagos
+15/05/2019,12:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108648,0.4%,0.4%,0.7%,Wed,Africa/Lagos
+15/05/2019,12:30,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=108645,1.8%,1.8%,1.8%,Wed,Africa/Lagos
+15/05/2019,12:30,CAD,orange,Median CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=108650,1.9%,2.0%,2.1%,Wed,Africa/Lagos
+15/05/2019,12:30,CAD,orange,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=108649,2.0%,2.1%,2.1%,Wed,Africa/Lagos
+15/05/2019,12:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102647,0.1%,0.7%,1.3%,Wed,Africa/Lagos
+15/05/2019,12:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102645,-0.2%,0.2%,1.7%,Wed,Africa/Lagos
+15/05/2019,12:30,USD,yellow,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2019#detail=103767,17.8,8.2,10.1,Wed,Africa/Lagos
+15/05/2019,12:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108647,0.0%,,0.3%,Wed,Africa/Lagos
+15/05/2019,13:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=102062,77.9%,78.7%,78.5%,Wed,Africa/Lagos
+15/05/2019,13:15,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102063,-0.5%,0.0%,0.2%,Wed,Africa/Lagos
+15/05/2019,13:37,USD,orange,FOMC Member Quarles Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110270,,,,Wed,Africa/Lagos
+15/05/2019,14:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102727,0.0%,0.0%,0.3%,Wed,Africa/Lagos
+15/05/2019,14:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=may.2019#detail=106558,66,64,63,Wed,Africa/Lagos
+15/05/2019,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2019#detail=99969,5.4M,0.0M,-4.0M,Wed,Africa/Lagos
+15/05/2019,20:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=may.2019#detail=102974,-28.4B,36.3B,51.9B,Wed,Africa/Lagos
+15/05/2019,23:50,JPY,yellow,PPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107156,1.2%,1.1%,1.3%,Wed,Africa/Lagos
+16/05/2019,01:00,AUD,yellow,MI Inflation Expectations,https://www.forexfactory.com/calendar?month=may.2019#detail=103999,3.3%,,3.9%,Thu,Africa/Lagos
+16/05/2019,01:30,AUD,red,Employment Change,https://www.forexfactory.com/calendar?month=may.2019#detail=104084,28.4K,15.2K,27.7K,Thu,Africa/Lagos
+16/05/2019,01:30,AUD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=104085,5.2%,5.0%,5.1%,Thu,Africa/Lagos
+16/05/2019,01:30,CNY,yellow,New Home Prices m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=136762,0.62%,,0.61%,Thu,Africa/Lagos
+16/05/2019,02:45,AUD,orange,RBA Gov Bullock Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110276,,,,Thu,Africa/Lagos
+16/05/2019,07:01,CNY,yellow,Foreign Direct Investment ytd/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107966,6.4%,,6.5%,Thu,Africa/Lagos
+16/05/2019,08:15,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110277,,,,Thu,Africa/Lagos
+16/05/2019,09:00,EUR,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=103215,17.9B,19.0B,20.6B,Thu,Africa/Lagos
+16/05/2019,09:04,EUR,yellow,Italian Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=100914,4.63B,4.24B,3.24B,Thu,Africa/Lagos
+16/05/2019,All Day,EUR,yellow,Eurogroup Meetings,https://www.forexfactory.com/calendar?month=may.2019#detail=109050,,,,Thu,Africa/Lagos
+16/05/2019,12:30,CAD,orange,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108653,2.1%,1.5%,-0.2%,Thu,Africa/Lagos
+16/05/2019,12:30,CAD,yellow,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=may.2019#detail=105424,61.7K,,76.7K,Thu,Africa/Lagos
+16/05/2019,12:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=may.2019#detail=108651,-1.49B,11.55B,12.39B,Thu,Africa/Lagos
+16/05/2019,12:30,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=may.2019#detail=102887,1.30M,1.29M,1.29M,Thu,Africa/Lagos
+16/05/2019,12:30,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2019#detail=106573,16.6,10.0,8.5,Thu,Africa/Lagos
+16/05/2019,12:30,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=may.2019#detail=102886,1.24M,1.21M,1.17M,Thu,Africa/Lagos
+16/05/2019,12:30,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2019#detail=99728,212K,220K,228K,Thu,Africa/Lagos
+16/05/2019,14:30,CAD,yellow,BOC Financial System Review,https://www.forexfactory.com/calendar?month=may.2019#detail=105411,,,,Thu,Africa/Lagos
+16/05/2019,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2019#detail=99722,106B,105B,85B,Thu,Africa/Lagos
+16/05/2019,15:15,CAD,red,BOC Gov Poloz Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110274,,,,Thu,Africa/Lagos
+16/05/2019,16:15,USD,orange,FOMC Member Brainard Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110271,,,,Thu,Africa/Lagos
+16/05/2019,17:30,GBP,orange,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110278,,,,Thu,Africa/Lagos
+16/05/2019,22:30,NZD,yellow,BusinessNZ Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2019#detail=104468,53.0,,52.0,Thu,Africa/Lagos
+16/05/2019,22:45,NZD,yellow,PPI Input q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=104645,-0.9%,-0.8%,1.6%,Thu,Africa/Lagos
+16/05/2019,22:45,NZD,yellow,PPI Output q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=104643,-0.5%,-0.4%,0.7%,Thu,Africa/Lagos
+17/05/2019,04:30,JPY,yellow,Tertiary Industry Activity m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=107861,-0.4%,0.1%,-0.6%,Fri,Africa/Lagos
+17/05/2019,09:00,EUR,yellow,Final Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=103216,1.3%,1.2%,1.2%,Fri,Africa/Lagos
+17/05/2019,09:00,EUR,yellow,Final CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=103218,1.7%,1.7%,1.7%,Fri,Africa/Lagos
+17/05/2019,All Day,EUR,yellow,ECOFIN Meetings,https://www.forexfactory.com/calendar?month=may.2019#detail=109068,,,,Fri,Africa/Lagos
+17/05/2019,14:00,USD,orange,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=may.2019#detail=101640,102.4,97.8,97.2,Fri,Africa/Lagos
+17/05/2019,14:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106932,0.2%,0.2%,0.3%,Fri,Africa/Lagos
+17/05/2019,14:00,USD,yellow,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=may.2019#detail=101641,2.8%,,2.5%,Fri,Africa/Lagos
+17/05/2019,17:40,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110272,,,,Fri,Africa/Lagos
+18/05/2019,All Day,AUD,red,Parliamentary Elections,https://www.forexfactory.com/calendar?month=may.2019#detail=104356,,,,Sat,Africa/Lagos
+18/05/2019,All Day,All,orange,OPEC-JMMC Meetings,https://www.forexfactory.com/calendar?month=may.2019#detail=107695,,,,Sat,Africa/Lagos
+19/05/2019,22:30,NZD,yellow,BusinessNZ Services Index,https://www.forexfactory.com/calendar?month=may.2019#detail=127205,51.8,,52.3,Sun,Africa/Lagos
+19/05/2019,23:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=105604,0.9%,,1.1%,Sun,Africa/Lagos
+19/05/2019,23:50,JPY,yellow,Prelim GDP Price Index y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107179,0.2%,0.2%,-0.3%,Sun,Africa/Lagos
+19/05/2019,23:50,JPY,yellow,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=107177,0.5%,-0.1%,0.5%,Sun,Africa/Lagos
+20/05/2019,04:30,JPY,yellow,Revised Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=107848,-0.6%,-0.9%,-0.9%,Mon,Africa/Lagos
+20/05/2019,06:00,EUR,yellow,German PPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106357,0.5%,0.4%,-0.1%,Mon,Africa/Lagos
+20/05/2019,08:00,EUR,yellow,Current Account,https://www.forexfactory.com/calendar?month=may.2019#detail=103491,24.7B,24.2B,27.9B,Mon,Africa/Lagos
+20/05/2019,10:00,EUR,yellow,German Buba Monthly Report,https://www.forexfactory.com/calendar?month=may.2019#detail=101493,,,,Mon,Africa/Lagos
+20/05/2019,All Day,CAD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=106909,,,,Mon,Africa/Lagos
+20/05/2019,13:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=109505,-0.5%,,-0.4%,Mon,Africa/Lagos
+20/05/2019,16:30,GBP,orange,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110288,,,,Mon,Africa/Lagos
+20/05/2019,17:05,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110286,,,,Mon,Africa/Lagos
+20/05/2019,23:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110281,,,,Mon,Africa/Lagos
+21/05/2019,01:30,AUD,red,Monetary Policy Meeting Minutes,https://www.forexfactory.com/calendar?month=may.2019#detail=103953,,,,Tue,Africa/Lagos
+21/05/2019,03:00,NZD,yellow,Credit Card Spending y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=104724,4.5%,,4.5%,Tue,Africa/Lagos
+21/05/2019,03:10,AUD,red,RBA Gov Lowe Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110295,,,,Tue,Africa/Lagos
+21/05/2019,10:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=may.2019#detail=103541,-10,-6,-5,Tue,Africa/Lagos
+21/05/2019,13:45,EUR,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2019#detail=103221,-7,-8,-8,Tue,Africa/Lagos
+21/05/2019,14:00,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=may.2019#detail=106882,5.19M,5.35M,5.21M,Tue,Africa/Lagos
+21/05/2019,14:30,AUD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=109298,0.3%,,0.4%,Tue,Africa/Lagos
+21/05/2019,14:45,USD,orange,FOMC Member Evans Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110282,,,,Tue,Africa/Lagos
+21/05/2019,15:00,GBP,red,Prime Minister May Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110296,,,,Tue,Africa/Lagos
+21/05/2019,15:06,NZD,yellow,GDT Price Index,https://www.forexfactory.com/calendar?month=may.2019#detail=104779,-1.2%,,0.4%,Tue,Africa/Lagos
+21/05/2019,16:00,USD,orange,FOMC Member Rosengren Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110283,,,,Tue,Africa/Lagos
+21/05/2019,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=may.2019#detail=100190,,,,Tue,Africa/Lagos
+21/05/2019,22:45,NZD,red,Retail Sales q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=104647,0.7%,0.6%,1.7%,Tue,Africa/Lagos
+21/05/2019,22:45,NZD,orange,Core Retail Sales q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=104666,0.7%,0.9%,2.0%,Tue,Africa/Lagos
+21/05/2019,23:50,JPY,yellow,Core Machinery Orders m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=107741,3.8%,0.0%,1.8%,Tue,Africa/Lagos
+21/05/2019,23:50,JPY,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=107872,-0.11T,-0.12T,-0.15T,Tue,Africa/Lagos
+22/05/2019,00:30,AUD,yellow,MI Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104135,-0.1%,,0.3%,Wed,Africa/Lagos
+22/05/2019,01:30,AUD,orange,Construction Work Done q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=104405,-1.9%,0.1%,-2.1%,Wed,Africa/Lagos
+22/05/2019,05:00,USD,orange,FOMC Member Bullard Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110284,,,,Wed,Africa/Lagos
+22/05/2019,07:38,EUR,red,ECB President Draghi Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110297,,,,Wed,Africa/Lagos
+22/05/2019,08:30,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=105864,2.1%,2.2%,1.9%,Wed,Africa/Lagos
+22/05/2019,08:30,GBP,orange,PPI Input m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=105870,1.1%,1.1%,-0.8%,Wed,Africa/Lagos
+22/05/2019,08:30,GBP,orange,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=may.2019#detail=106216,5.0B,5.2B,-1.0B,Wed,Africa/Lagos
+22/05/2019,08:30,GBP,yellow,Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=105863,1.8%,1.9%,1.8%,Wed,Africa/Lagos
+22/05/2019,08:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=105873,1.4%,0.9%,1.0%,Wed,Africa/Lagos
+22/05/2019,08:30,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=105871,0.3%,0.3%,0.1%,Wed,Africa/Lagos
+22/05/2019,08:30,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=105867,3.0%,2.8%,2.4%,Wed,Africa/Lagos
+22/05/2019,09:34,EUR,yellow,German 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2019#detail=101414,-0.07|1.8,,0.02|2.0,Wed,Africa/Lagos
+22/05/2019,12:30,CAD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108656,1.7%,0.8%,0.7%,Wed,Africa/Lagos
+22/05/2019,12:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108654,1.1%,0.8%,1.0%,Wed,Africa/Lagos
+22/05/2019,14:00,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110285,,,,Wed,Africa/Lagos
+22/05/2019,14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2019#detail=99972,4.7M,-1.2M,5.4M,Wed,Africa/Lagos
+22/05/2019,18:00,USD,red,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=may.2019#detail=101958,,,,Wed,Africa/Lagos
+22/05/2019,23:00,AUD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=108912,51.1,,50.9,Wed,Africa/Lagos
+22/05/2019,23:00,AUD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=108913,52.3,,50.1,Wed,Africa/Lagos
+23/05/2019,00:30,JPY,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=106979,49.6,50.5,50.2,Thu,Africa/Lagos
+23/05/2019,06:00,EUR,yellow,German Final GDP q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=106359,0.4%,0.4%,0.4%,Thu,Africa/Lagos
+23/05/2019,07:15,EUR,red,French Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=101252,51.7,50.7,50.5,Thu,Africa/Lagos
+23/05/2019,07:15,EUR,orange,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=101249,50.6,50.1,50.0,Thu,Africa/Lagos
+23/05/2019,07:30,EUR,red,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=101254,44.3,44.9,44.4,Thu,Africa/Lagos
+23/05/2019,07:30,EUR,red,German Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=101255,55.0,55.2,55.7,Thu,Africa/Lagos
+23/05/2019,08:00,EUR,orange,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=101245,47.7,48.2,47.9,Thu,Africa/Lagos
+23/05/2019,08:00,EUR,orange,Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=101248,52.5,53.0,52.8,Thu,Africa/Lagos
+23/05/2019,08:00,EUR,orange,German ifo Business Climate,https://www.forexfactory.com/calendar?month=may.2019#detail=101468,97.9,99.2,99.2,Thu,Africa/Lagos
+23/05/2019,Day 1,EUR,yellow,European Parliamentary Elections,https://www.forexfactory.com/calendar?month=may.2019#detail=106921,,,,Thu,Africa/Lagos
+23/05/2019,11:30,EUR,orange,ECB Monetary Policy Meeting Accounts,https://www.forexfactory.com/calendar?month=may.2019#detail=103412,,,,Thu,Africa/Lagos
+23/05/2019,12:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108658,1.4%,0.4%,0.2%,Thu,Africa/Lagos
+23/05/2019,12:30,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2019#detail=99729,211K,215K,212K,Thu,Africa/Lagos
+23/05/2019,13:00,CNY,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108165,0.8%,,1.1%,Thu,Africa/Lagos
+23/05/2019,13:45,USD,yellow,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=101372,50.6,53.0,52.6,Thu,Africa/Lagos
+23/05/2019,13:45,USD,yellow,Flash Services PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=101375,50.9,53.6,53.0,Thu,Africa/Lagos
+23/05/2019,14:00,USD,yellow,New Home Sales,https://www.forexfactory.com/calendar?month=may.2019#detail=102924,673K,678K,723K,Thu,Africa/Lagos
+23/05/2019,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2019#detail=99723,100B,104B,106B,Thu,Africa/Lagos
+23/05/2019,22:45,NZD,orange,Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=104649,433M,450M,824M,Thu,Africa/Lagos
+23/05/2019,23:30,JPY,yellow,National Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107187,0.9%,0.9%,0.8%,Thu,Africa/Lagos
+24/05/2019,04:30,JPY,yellow,All Industries Activity m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=107722,-0.4%,-0.1%,-0.2%,Fri,Africa/Lagos
+24/05/2019,08:30,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106236,0.0%,-0.3%,1.2%,Fri,Africa/Lagos
+24/05/2019,10:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=may.2019#detail=103562,-27,6,13,Fri,Africa/Lagos
+24/05/2019,Day 2,EUR,yellow,European Parliamentary Elections,https://www.forexfactory.com/calendar?month=may.2019#detail=106922,,,,Fri,Africa/Lagos
+24/05/2019,12:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=108659,-0.3%,,-3.9%,Fri,Africa/Lagos
+24/05/2019,12:30,USD,red,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102762,0.0%,0.1%,0.3%,Fri,Africa/Lagos
+24/05/2019,12:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102759,-2.1%,-2.0%,2.6%,Fri,Africa/Lagos
+24/05/2019,12:59,EUR,yellow,Belgian NBB Business Climate,https://www.forexfactory.com/calendar?month=may.2019#detail=104869,-3.6,-2.3,-3.2,Fri,Africa/Lagos
+25/05/2019,Day 3,EUR,yellow,European Parliamentary Elections,https://www.forexfactory.com/calendar?month=may.2019#detail=106924,,,,Sat,Africa/Lagos
+27/05/2019,03:00,JPY,orange,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110299,,,,Mon,Africa/Lagos
+27/05/2019,All Day,GBP,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107225,,,,Mon,Africa/Lagos
+27/05/2019,All Day,USD,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=106511,,,,Mon,Africa/Lagos
+27/05/2019,23:50,JPY,yellow,SPPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107428,0.9%,1.2%,1.1%,Mon,Africa/Lagos
+28/05/2019,05:00,JPY,yellow,BOJ Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=106787,0.7%,0.7%,0.5%,Tue,Africa/Lagos
+28/05/2019,05:45,CHF,yellow,GDP q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=105159,0.6%,0.3%,0.3%,Tue,Africa/Lagos
+28/05/2019,06:00,CHF,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=105096,2.29B,2.98B,3.25B,Tue,Africa/Lagos
+28/05/2019,06:00,EUR,yellow,German GfK Consumer Climate,https://www.forexfactory.com/calendar?month=may.2019#detail=101520,10.1,10.4,10.2,Tue,Africa/Lagos
+28/05/2019,06:00,EUR,yellow,German Import Prices m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106360,0.3%,0.5%,0.0%,Tue,Africa/Lagos
+28/05/2019,08:00,EUR,yellow,M3 Money Supply y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=103455,4.7%,4.4%,4.6%,Tue,Africa/Lagos
+28/05/2019,08:00,EUR,yellow,Private Loans y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=103456,3.4%,3.3%,3.3%,Tue,Africa/Lagos
+28/05/2019,08:30,GBP,yellow,High Street Lending,https://www.forexfactory.com/calendar?month=may.2019#detail=105546,43.0K,39.3K,40.6K,Tue,Africa/Lagos
+28/05/2019,13:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102951,0.1%,0.2%,0.4%,Tue,Africa/Lagos
+28/05/2019,13:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=102031,2.7%,3.1%,3.0%,Tue,Africa/Lagos
+28/05/2019,14:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2019#detail=101976,134.1,130.1,129.2,Tue,Africa/Lagos
+28/05/2019,21:00,NZD,red,RBNZ Financial Stability Report,https://www.forexfactory.com/calendar?month=may.2019#detail=104504,,,,Tue,Africa/Lagos
+28/05/2019,22:00,USD,orange,Treasury Currency Report,https://www.forexfactory.com/calendar?month=may.2019#detail=101759,,,,Tue,Africa/Lagos
+28/05/2019,23:00,NZD,red,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110311,,,,Tue,Africa/Lagos
+28/05/2019,23:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=105666,0.8%,,0.4%,Tue,Africa/Lagos
+29/05/2019,00:00,JPY,orange,BOJ Gov Kuroda Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110298,,,,Wed,Africa/Lagos
+29/05/2019,01:00,NZD,red,ANZ Business Confidence,https://www.forexfactory.com/calendar?month=may.2019#detail=104442,-32.0,,-37.5,Wed,Africa/Lagos
+29/05/2019,01:10,NZD,red,RBNZ Gov Orr Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110294,,,,Wed,Africa/Lagos
+29/05/2019,06:45,EUR,yellow,French Consumer Spending m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=101086,0.8%,0.5%,-0.3%,Wed,Africa/Lagos
+29/05/2019,06:45,EUR,yellow,French Prelim CPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=101162,0.2%,0.3%,0.3%,Wed,Africa/Lagos
+29/05/2019,06:45,EUR,yellow,French Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=101135,0.3%,0.3%,0.3%,Wed,Africa/Lagos
+29/05/2019,07:00,CHF,yellow,KOF Economic Barometer,https://www.forexfactory.com/calendar?month=may.2019#detail=105142,94.4,96.4,96.2,Wed,Africa/Lagos
+29/05/2019,07:00,EUR,orange,German Buba President Weidmann Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110303,,,,Wed,Africa/Lagos
+29/05/2019,07:55,EUR,yellow,German Unemployment Change,https://www.forexfactory.com/calendar?month=may.2019#detail=106362,60K,-8K,-12K,Wed,Africa/Lagos
+29/05/2019,08:00,CHF,yellow,UBS Economic Expectations,https://www.forexfactory.com/calendar?month=may.2019#detail=104985,-14.3,,-7.7,Wed,Africa/Lagos
+29/05/2019,08:00,EUR,yellow,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=may.2019#detail=110312,,,,Wed,Africa/Lagos
+29/05/2019,14:00,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=may.2019#detail=105481,,,,Wed,Africa/Lagos
+29/05/2019,14:00,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=105482,1.75%,1.75%,1.75%,Wed,Africa/Lagos
+29/05/2019,14:00,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=may.2019#detail=106827,5,6,3,Wed,Africa/Lagos
+29/05/2019,20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=may.2019#detail=100192,,,,Wed,Africa/Lagos
+29/05/2019,22:45,NZD,yellow,Building Consents m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104651,-7.9%,,-7.4%,Wed,Africa/Lagos
+30/05/2019,01:30,AUD,red,Building Approvals m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104292,-4.7%,0.1%,-13.4%,Thu,Africa/Lagos
+30/05/2019,01:30,AUD,red,Private Capital Expenditure q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=104429,-1.7%,0.5%,1.3%,Thu,Africa/Lagos
+30/05/2019,02:00,NZD,red,Annual Budget Release,https://www.forexfactory.com/calendar?month=may.2019#detail=104503,,,,Thu,Africa/Lagos
+30/05/2019,03:59,AUD,yellow,HIA New Home Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104341,-11.8%,,-0.1%,Thu,Africa/Lagos
+30/05/2019,All Day,CHF,gray,Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107262,,,,Thu,Africa/Lagos
+30/05/2019,All Day,EUR,gray,French Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107276,,,,Thu,Africa/Lagos
+30/05/2019,All Day,EUR,gray,German Bank Holiday,https://www.forexfactory.com/calendar?month=may.2019#detail=107307,,,,Thu,Africa/Lagos
+30/05/2019,07:00,EUR,yellow,Spanish Flash CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=100800,0.8%,1.2%,1.5%,Thu,Africa/Lagos
+30/05/2019,09:25,EUR,yellow,Italian 10-y Bond Auction,https://www.forexfactory.com/calendar?month=may.2019#detail=100821,2.60|1.3,,2.59|1.4,Thu,Africa/Lagos
+30/05/2019,12:30,CAD,orange,Current Account,https://www.forexfactory.com/calendar?month=may.2019#detail=108660,-17.3B,-18.1B,-16.6B,Thu,Africa/Lagos
+30/05/2019,12:30,USD,red,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=102834,3.1%,3.1%,3.2%,Thu,Africa/Lagos
+30/05/2019,12:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=may.2019#detail=106849,-72.1B,-72.0B,-71.9B,Thu,Africa/Lagos
+30/05/2019,12:30,USD,yellow,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=may.2019#detail=102835,0.8%,0.9%,0.9%,Thu,Africa/Lagos
+30/05/2019,12:30,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106850,0.7%,0.2%,-0.1%,Thu,Africa/Lagos
+30/05/2019,12:30,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=may.2019#detail=99732,215K,216K,212K,Thu,Africa/Lagos
+30/05/2019,14:00,USD,yellow,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106884,-1.5%,0.9%,3.9%,Thu,Africa/Lagos
+30/05/2019,14:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=may.2019#detail=99724,114B,98B,100B,Thu,Africa/Lagos
+30/05/2019,15:00,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=may.2019#detail=99974,-0.3M,-0.9M,4.7M,Thu,Africa/Lagos
+30/05/2019,16:00,USD,orange,FOMC Member Clarida Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110300,,,,Thu,Africa/Lagos
+30/05/2019,18:15,CAD,red,Gov Council Member Wilkins Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110302,,,,Thu,Africa/Lagos
+30/05/2019,23:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2019#detail=103743,-10,-12,-13,Thu,Africa/Lagos
+30/05/2019,23:30,JPY,yellow,Tokyo Core CPI y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107408,1.1%,1.2%,1.3%,Thu,Africa/Lagos
+30/05/2019,23:30,JPY,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=may.2019#detail=107064,2.4%,2.4%,2.5%,Thu,Africa/Lagos
+30/05/2019,23:50,JPY,yellow,Prelim Industrial Production m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=107796,0.6%,0.2%,-0.6%,Thu,Africa/Lagos
+30/05/2019,23:50,JPY,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107830,0.5%,1.0%,1.0%,Thu,Africa/Lagos
+31/05/2019,00:49,CNY,orange,Non-Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=107974,54.3,54.3,54.3,Fri,Africa/Lagos
+31/05/2019,00:57,CNY,red,Manufacturing PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=107975,49.4,49.9,50.1,Fri,Africa/Lagos
+31/05/2019,01:30,AUD,yellow,Private Sector Credit m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=104212,0.2%,0.3%,0.3%,Fri,Africa/Lagos
+31/05/2019,04:59,JPY,yellow,Consumer Confidence,https://www.forexfactory.com/calendar?month=may.2019#detail=110293,39.4,40.6,40.4,Fri,Africa/Lagos
+31/05/2019,05:00,JPY,yellow,Housing Starts y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=107081,-5.7%,-0.8%,10.0%,Fri,Africa/Lagos
+31/05/2019,06:00,EUR,yellow,German Retail Sales m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106366,-2.0%,0.4%,0.0%,Fri,Africa/Lagos
+31/05/2019,06:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=105582,-0.2%,0.0%,0.3%,Fri,Africa/Lagos
+31/05/2019,06:30,CHF,yellow,Retail Sales y/y,https://www.forexfactory.com/calendar?month=may.2019#detail=105124,-0.7%,-0.8%,-0.7%,Fri,Africa/Lagos
+31/05/2019,All Day,EUR,orange,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=106365,0.2%,0.3%,1.0%,Fri,Africa/Lagos
+31/05/2019,08:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=101849,0.9%,0.4%,-0.5%,Fri,Africa/Lagos
+31/05/2019,08:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=may.2019#detail=101852,66K,64K,63K,Fri,Africa/Lagos
+31/05/2019,08:30,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=101855,5.2B,4.6B,5.0B,Fri,Africa/Lagos
+31/05/2019,09:00,EUR,yellow,Italian Prelim CPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=100967,0.1%,0.2%,0.2%,Fri,Africa/Lagos
+31/05/2019,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108661,0.5%,0.4%,-0.2%,Fri,Africa/Lagos
+31/05/2019,12:30,CAD,orange,RMPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108662,5.6%,2.3%,2.8%,Fri,Africa/Lagos
+31/05/2019,12:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=108663,0.8%,0.7%,1.3%,Fri,Africa/Lagos
+31/05/2019,12:30,USD,orange,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102571,0.2%,0.2%,0.1%,Fri,Africa/Lagos
+31/05/2019,12:30,USD,orange,Personal Spending m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102568,0.3%,0.2%,1.1%,Fri,Africa/Lagos
+31/05/2019,12:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=may.2019#detail=102565,0.5%,0.3%,0.1%,Fri,Africa/Lagos
+31/05/2019,13:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=may.2019#detail=106809,54.2,55.1,52.6,Fri,Africa/Lagos
+31/05/2019,14:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=may.2019#detail=101654,100.0,102.0,102.4,Fri,Africa/Lagos
+31/05/2019,14:00,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=may.2019#detail=101657,2.9%,,2.8%,Fri,Africa/Lagos
+31/05/2019,16:00,USD,orange,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=may.2019#detail=110301,,,,Fri,Africa/Lagos
